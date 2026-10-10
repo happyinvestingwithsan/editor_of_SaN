@@ -99,5 +99,115 @@ class TestRoughCutModules(unittest.TestCase):
         self.assertTrue(os.path.exists(os.path.join(template_dir, "draft_content.json")))
 
 
+    def test_phrase_preservation_regression(self):
+        """Regression test: Ensure 'but it can tell you something' is never cut as dead air."""
+        words = [
+            {"word": "cheap", "start": 10.27, "end": 10.61},
+            {"word": "but", "start": 11.19, "end": 11.45},
+            {"word": "it", "start": 11.45, "end": 11.91},
+            {"word": "can", "start": 11.91, "end": 12.07},
+            {"word": "tell", "start": 12.07, "end": 12.23},
+            {"word": "you", "start": 12.23, "end": 12.37},
+            {"word": "something", "start": 12.37, "end": 12.79},
+            {"word": "very", "start": 12.79, "end": 13.27},
+            {"word": "interesting", "start": 13.27, "end": 13.77}
+        ]
+        segments = [
+            {
+                "id": 0,
+                "start": 6.58,
+                "end": 12.79,
+                "text": "A 52 week low for a stock does not mean the stock is cheap, but it can tell you something",
+                "words": words[:7]
+            },
+            {
+                "id": 1,
+                "start": 12.79,
+                "end": 19.10,
+                "text": "very interesting. Like now in HDFC Bank, Reliance and few more stocks which I will discuss.",
+                "words": words[7:]
+            }
+        ]
+        transcript_data = {
+            "duration_seconds": 25.0,
+            "segments": segments,
+            "words": words,
+            "acoustic_silences": []
+        }
+        analysis = analyze_transcript(transcript_data)
+        plan = create_editorial_plan(transcript_data, analysis)
+
+        # Assert no cut overlaps ANY part of 'but it can tell you something' (10.61 to 13.77)
+        for cut in plan["cuts"]:
+            self.assertFalse(
+                11.0 <= cut["source_start"] <= 13.0 or 11.0 <= cut["source_end"] <= 13.0,
+                f"Cut {cut} unlawfully cuts through the preserved phrase!"
+            )
+
+        # Assert phrase is completely inside a kept segment
+        kept = plan["kept_segments"]
+        phrase_kept = any(
+            k["source_start"] <= 11.19 and k["source_end"] >= 12.79
+            for k in kept
+        )
+        self.assertTrue(phrase_kept, "Preserved phrase 'but it can tell you something' must be inside a kept segment!")
+
+    def test_pause_cut_rejected_if_overlapping_words(self):
+        """Ensure candidate pause cut is rejected if it collides with spoken words."""
+        transcript_data = {
+            "duration_seconds": 20.0,
+            "segments": [
+                {"id": 0, "start": 2.0, "end": 5.0, "text": "First sentence.", "words": [{"word": "First", "start": 2.0, "end": 3.0}, {"word": "sentence", "start": 3.0, "end": 5.0}]},
+                {"id": 1, "start": 8.0, "end": 12.0, "text": "Second sentence.", "words": [{"word": "Second", "start": 8.0, "end": 9.0}, {"word": "sentence", "start": 9.0, "end": 12.0}]}
+            ],
+            "words": [
+                {"word": "First", "start": 2.0, "end": 3.0},
+                {"word": "sentence", "start": 3.0, "end": 5.0},
+                # Soft spoken word in the middle of what an imperfect transcript might think is silence
+                {"word": "quietly", "start": 6.0, "end": 6.8},
+                {"word": "Second", "start": 8.0, "end": 9.0},
+                {"word": "sentence", "start": 9.0, "end": 12.0}
+            ],
+            "acoustic_silences": []
+        }
+        # Fake an analysis claiming a long pause from 5.0 to 8.0
+        analysis = {
+            "leading_silence": None,
+            "trailing_silence": None,
+            "long_pauses": [
+                {"start": 5.0, "end": 8.0, "duration": 3.0, "before_word": "sentence", "after_word": "Second", "acoustic_verified": False}
+            ],
+            "false_starts_and_retakes": []
+        }
+        plan = create_editorial_plan(transcript_data, analysis)
+
+        # Because 'quietly' is at 6.0 - 6.8, cutting 5.25 - 7.75 would clip it.
+        # Validation must reject cutting through 'quietly'!
+        for cut in plan["cuts"]:
+            if cut["action"] == "SHORTEN_PAUSE":
+                self.assertFalse(
+                    cut["source_start"] <= 6.0 and cut["source_end"] >= 6.8,
+                    "Validation must reject any pause cut that clips spoken word 'quietly'!"
+                )
+
+    def test_repetition_safety_flags_uncertain_retakes(self):
+        """Ensure distant retakes with unique content are flagged as uncertain for review."""
+        segments = [
+            {"id": 0, "start": 10.0, "end": 20.0, "text": "I am currently watching five stocks with great dividend yield and high margins."},
+            {"id": 1, "start": 22.0, "end": 30.0, "text": "Some completely different topic explaining inflation."},
+            {"id": 2, "start": 32.0, "end": 40.0, "text": "Another topic explaining interest rates."},
+            {"id": 3, "start": 42.0, "end": 50.0, "text": "A fourth topic explaining valuation metrics."},
+            {"id": 4, "start": 52.0, "end": 60.0, "text": "A fifth topic explaining cash flows."},
+            {"id": 5, "start": 62.0, "end": 70.0, "text": "A sixth topic explaining debt levels."},
+            {"id": 6, "start": 72.0, "end": 85.0, "text": "I am currently watching five stocks including HDFC and Reliance for long term growth."}
+        ]
+        detections = find_repetitions_and_false_starts(segments)
+        self.assertGreater(len(detections), 0)
+        distant_detection = next((d for d in detections if d.get("bad_segment_id") == 0), None)
+        self.assertIsNotNone(distant_detection)
+        # Distant retake without stumble markers must be flagged as uncertain
+        self.assertTrue(distant_detection.get("uncertain"), "Distant retake without stumble marker must be flagged uncertain")
+
+
 if __name__ == "__main__":
     unittest.main()

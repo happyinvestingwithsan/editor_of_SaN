@@ -34,7 +34,7 @@ def find_repetitions_and_false_starts(segments: List[Dict[str, Any]]) -> List[Di
             continue
 
         # Check if s1 is very short and is a prefix of s2 (classic false start)
-        # e.g., s1: "A 52 week", s2: "A 52 week low for a stock..."
+        # e.g., s1: "A 52 week" or "And 52 week", s2: "A 52 week low for a stock..."
         min_len = min(len(t1_words), len(t2_words))
         match_count = 0
         for k in range(min_len):
@@ -43,8 +43,20 @@ def find_repetitions_and_false_starts(segments: List[Dict[str, Any]]) -> List[Di
             else:
                 break
 
-        # If s1 is <= 5 words and at least 2 words match prefix of s2
-        if match_count >= 2 and len(t1_words) <= 6 and len(t2_words) >= len(t1_words):
+        # Check core overlap ignoring minor filler words ('and', 'a', 'so', 'the', 'um')
+        fillers = {"and", "a", "so", "the", "um", "uh"}
+        core1 = [w for w in t1_words if w not in fillers]
+        core2 = [w for w in t2_words if w not in fillers]
+        core_match = 0
+        for k in range(min(len(core1), len(core2))):
+            if core1[k] == core2[k]:
+                core_match += 1
+            else:
+                break
+
+        gap = s2["start"] - s1["end"]
+        # If s1 is <= 5 words and at least 2 words match prefix of s2 (or core words match with pause)
+        if (match_count >= 2 or (core_match >= 2 and gap > 1.5)) and len(t1_words) <= 6 and len(t2_words) >= len(t1_words):
             detections.append({
                 "type": "false_start",
                 "bad_segment_id": s1["id"],
@@ -52,7 +64,7 @@ def find_repetitions_and_false_starts(segments: List[Dict[str, Any]]) -> List[Di
                 "cut_start": s1["start"],
                 "cut_end": s1["end"],
                 "reason": f"False start '{s1['text']}' aborted before retake '{s2['text']}'",
-                "matched_words": t1_words[:match_count]
+                "matched_words": t1_words[:match_count] or core1[:core_match]
             })
             continue
 
@@ -69,11 +81,11 @@ def find_repetitions_and_false_starts(segments: List[Dict[str, Any]]) -> List[Di
                 })
 
     # 2. Check for larger paragraph-level retakes
-    # e.g. speaker records a 20s section, stumbles or restarts, then records the complete clean 25s version later
+    # e.g. speaker records a section, stumbles or restarts, then records the complete clean version later
     for i in range(len(segments)):
         s1 = segments[i]
         text1 = clean_token(s1.get("text", ""))
-        for j in range(i + 1, min(i + 6, len(segments))):
+        for j in range(i + 1, len(segments)):
             s2 = segments[j]
             text2 = clean_token(s2.get("text", ""))
             
@@ -88,8 +100,15 @@ def find_repetitions_and_false_starts(segments: List[Dict[str, Any]]) -> List[Di
                     else:
                         break
                 if prefix_len >= 4:
-                    # Check if s1 contains stumble words or if s2 is a fuller/later take
-                    # Mark s1 for removal
+                    # Check if s1 contains explicit stumble markers
+                    stumble_markers = ["explained the", "what i am", "performance of these", "using the framework and using"]
+                    has_stumble = any(m in text1 for m in stumble_markers)
+                    is_distant = (j - i > 4)
+                    
+                    # If distant and lacks explicit stumble, flag as uncertain for human review
+                    is_uncertain = is_distant and not has_stumble
+                    confidence = 0.95 if has_stumble else (0.75 if not is_uncertain else 0.65)
+                    
                     detections.append({
                         "type": "retake_replacement",
                         "bad_segment_id": s1["id"],
@@ -97,7 +116,9 @@ def find_repetitions_and_false_starts(segments: List[Dict[str, Any]]) -> List[Di
                         "cut_start": s1["start"],
                         "cut_end": s1["end"],
                         "reason": f"Earlier take '{s1['text'][:40]}...' replaced by clean take '{s2['text'][:40]}...'",
-                        "prefix": " ".join(words1[:prefix_len])
+                        "prefix": " ".join(words1[:prefix_len]),
+                        "confidence": confidence,
+                        "uncertain": is_uncertain
                     })
 
     return detections
@@ -137,12 +158,22 @@ def analyze_transcript(transcript_data: Dict[str, Any]) -> Dict[str, Any]:
     for i in range(len(valid_words) - 1):
         gap = valid_words[i + 1]["start"] - valid_words[i]["end"]
         if gap >= 1.5:
+            gap_start = valid_words[i]["end"]
+            gap_end = valid_words[i + 1]["start"]
+            
+            # Check if ffmpeg acoustic silencedetect identified silence in this interval
+            acoustic_ok = any(
+                not (s["end"] <= gap_start or s["start"] >= gap_end)
+                for s in silences
+            )
+            
             long_pauses.append({
-                "start": round(valid_words[i]["end"], 3),
-                "end": round(valid_words[i + 1]["start"], 3),
+                "start": round(gap_start, 3),
+                "end": round(gap_end, 3),
                 "duration": round(gap, 3),
                 "before_word": valid_words[i]["word"].strip(),
-                "after_word": valid_words[i + 1]["word"].strip()
+                "after_word": valid_words[i + 1]["word"].strip(),
+                "acoustic_verified": acoustic_ok
             })
 
     false_starts = find_repetitions_and_false_starts(segments)

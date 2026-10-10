@@ -28,6 +28,7 @@ def main():
     parser.add_argument("--name", help="Project name (defaults to video filename slug)")
     parser.add_argument("--out-dir", default="work", help="Output directory for work files")
     parser.add_argument("--transcript", help="Optional pre-existing transcript JSON (skips transcription)")
+    parser.add_argument("--force-transcribe", action="store_true", help="Force re-running transcription even if transcript exists")
     parser.add_argument("--model", default="small", help="Whisper model size (small, medium, large-v3)")
     parser.add_argument("--no-video-preview", action="store_true", help="Skip MP4 video preview generation")
     parser.add_argument("--skip-capcut", action="store_true", help="Skip CapCut project generation")
@@ -67,7 +68,7 @@ def main():
         print(f"\n[3/7] Loading provided transcript: {args.transcript}")
         with open(args.transcript, "r", encoding="utf-8") as f:
             transcript_data = json.load(f)
-    elif os.path.exists(transcript_path):
+    elif os.path.exists(transcript_path) and not args.force_transcribe:
         print(f"\n[3/7] Loading existing transcript: {transcript_path}")
         with open(transcript_path, "r", encoding="utf-8") as f:
             transcript_data = json.load(f)

@@ -93,6 +93,15 @@ def create_editorial_plan(
                 trim_start = p["start"] + NATURAL_BREATH_PAD
                 trim_end = p["end"] - (TARGET_RESIDUAL_PAUSE - NATURAL_BREATH_PAD)
                 if trim_end - trim_start > 0.4:
+                    # Validate against word-level timestamps
+                    clash = [
+                        w for w in valid_words
+                        if (trim_start + 0.05 < w["end"] and w["start"] < trim_end - 0.05)
+                    ]
+                    if clash:
+                        continue
+
+                    confidence = 0.95 if p.get("acoustic_verified", True) else 0.80
                     cuts.append({
                         "action": "SHORTEN_PAUSE",
                         "source_start": round(trim_start, 3),
@@ -100,15 +109,33 @@ def create_editorial_plan(
                         "duration": round(trim_end - trim_start, 3),
                         "reason": f"Shorten dead air ({gap:.2f}s) to natural {TARGET_RESIDUAL_PAUSE:.2f}s breath pause",
                         "category": "dead_air",
-                        "confidence": 0.95
+                        "confidence": confidence,
+                        "uncertain": not p.get("acoustic_verified", True),
+                        "review_required": not p.get("acoustic_verified", True)
                     })
 
     # Sort cuts chronologically
     cuts.sort(key=lambda x: x["source_start"])
 
+    # Validate cuts against word timestamps
+    validated_cuts = []
+    for c in cuts:
+        c_start = c["source_start"]
+        c_end = c["source_end"]
+        if c["action"] != "REMOVE_TAKE":
+            clash = [
+                w for w in valid_words
+                if (c_start + 0.05 < w["end"] and w["start"] < c_end - 0.05)
+            ]
+            if clash:
+                c["uncertain"] = True
+                c["review_required"] = True
+                continue
+        validated_cuts.append(c)
+
     # Merge overlapping or touching/close cuts (within 0.4s)
     merged_cuts = []
-    for c in cuts:
+    for c in validated_cuts:
         if not merged_cuts:
             merged_cuts.append(c)
         else:
@@ -119,6 +146,9 @@ def create_editorial_plan(
                 prev["source_end"] = round(new_end, 3)
                 prev["duration"] = round(new_end - prev["source_start"], 3)
                 prev["reason"] = f"{prev['reason']} + {c['reason']}"
+                if c.get("uncertain"):
+                    prev["uncertain"] = True
+                    prev["review_required"] = True
             else:
                 merged_cuts.append(c)
 

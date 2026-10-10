@@ -63,8 +63,8 @@ def generate_edl_report(
         "",
         "## 2. Removed Sections & Editorial Rationale",
         "",
-        "| Cut | Raw Source | Duration | Action | Category | Reason |",
-        "| :-- | :--------- | :------- | :----- | :------- | :----- |"
+        "| Cut | Raw Source | Duration | Action | Category | Confidence | Review Status | Reason |",
+        "| :-- | :--------- | :------- | :----- | :------- | :--------- | :------------ | :----- |"
     ])
 
     for i, cut in enumerate(plan.get("cuts", [])):
@@ -72,8 +72,10 @@ def generate_edl_report(
         dur_str = f"{cut['duration']:.2f}s"
         action = cut.get("action", "REMOVE")
         cat = cut.get("category", "unspecified")
+        conf = f"{cut.get('confidence', 0.95):.2f}"
+        status = "⚠️ REVIEW REQUIRED" if cut.get("review_required") else "✅ Confirmed"
         reason = cut.get("reason", "").replace("|", "-")
-        lines.append(f"| #{i+1:02d} | `{s_range}` | {dur_str} | `{action}` | {cat} | {reason} |")
+        lines.append(f"| #{i+1:02d} | `{s_range}` | {dur_str} | `{action}` | {cat} | {conf} | {status} | {reason} |")
 
     lines.append("")
     md_content = "\n".join(lines)

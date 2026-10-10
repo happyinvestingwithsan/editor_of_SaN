@@ -88,82 +88,99 @@ def transcribe_audio(
     seg_id = 0
 
     if use_vad_refinement:
-        vad_opts = VadOptions(min_silence_duration_ms=200, speech_pad_ms=50, threshold=0.5)
+        vad_opts = VadOptions(min_silence_duration_ms=250, speech_pad_ms=80, threshold=0.4)
         speech_ts = get_speech_timestamps(audio_np, vad_opts)
 
-        for s in base_segs:
-            bursts = [
-                b for b in speech_ts
-                if (b["start"] / sr >= s.start - 0.15 and b["end"] / sr <= s.end + 0.15)
-            ]
+        if not speech_ts:
+            for s in base_segs:
+                words = [
+                    {
+                        "word": w.word,
+                        "start": round(w.start, 3),
+                        "end": round(w.end, 3),
+                        "prob": round(w.probability, 3)
+                    }
+                    for w in (s.words or [])
+                ]
+                all_words.extend(words)
+                refined_segments.append({
+                    "id": seg_id,
+                    "start": round(s.start, 3),
+                    "end": round(s.end, 3),
+                    "text": s.text.strip(),
+                    "words": words
+                })
+                seg_id += 1
+        else:
+            # Group consecutive speech bursts into coherent continuous clusters
+            # Any inter-burst gap < 0.8s is natural cadence/breathing; keep together!
+            clusters = []
+            cur_cluster = [speech_ts[0]]
+            for j in range(len(speech_ts) - 1):
+                gap = (speech_ts[j + 1]["start"] - speech_ts[j]["end"]) / sr
+                if gap >= 0.8:
+                    clusters.append(cur_cluster)
+                    cur_cluster = [speech_ts[j + 1]]
+                else:
+                    cur_cluster.append(speech_ts[j + 1])
+            clusters.append(cur_cluster)
 
-            has_internal_pause = False
-            for j in range(len(bursts) - 1):
-                if (bursts[j + 1]["start"] - bursts[j]["end"]) / sr >= 0.25:
-                    has_internal_pause = True
-                    break
+            for c in clusters:
+                c_start_sample = max(0, c[0]["start"] - int(0.12 * sr))
+                c_end_sample = min(len(audio_np), c[-1]["end"] + int(0.12 * sr))
+                offset_s = c_start_sample / sr
+                c_chunk = audio_np[c_start_sample:c_end_sample]
 
-            if has_internal_pause and len(bursts) > 1:
-                clusters = []
-                cur_cluster = [bursts[0]]
-                for j in range(len(bursts) - 1):
-                    gap = (bursts[j + 1]["start"] - bursts[j]["end"]) / sr
-                    if gap >= 0.25:
-                        clusters.append(cur_cluster)
-                        cur_cluster = [bursts[j + 1]]
-                    else:
-                        cur_cluster.append(bursts[j + 1])
-                clusters.append(cur_cluster)
+                sub_segs, _ = model.transcribe(
+                    c_chunk,
+                    language=info.language,
+                    word_timestamps=True,
+                    beam_size=5
+                )
 
-                for c in clusters:
-                    c_start_s = c[0]["start"] / sr
-                    c_end_s = c[-1]["end"] / sr
-                    c_chunk = audio_np[c[0]["start"]:c[-1]["end"]]
-                    sub_segs, _ = model.transcribe(
-                        c_chunk,
-                        language=info.language,
-                        word_timestamps=True,
-                        beam_size=1
-                    )
-                    for sub_s in sub_segs:
-                        words = [
-                            {
-                                "word": w.word,
-                                "start": round(c_start_s + w.start, 3),
-                                "end": round(c_start_s + w.end, 3),
-                                "prob": round(w.probability, 3)
-                            }
-                            for w in (sub_s.words or [])
-                        ]
-                        all_words.extend(words)
+                for sub_s in sub_segs:
+                    words = [
+                        {
+                            "word": w.word,
+                            "start": round(offset_s + w.start, 3),
+                            "end": round(offset_s + w.end, 3),
+                            "prob": round(w.probability, 3)
+                        }
+                        for w in (sub_s.words or []) if w.word.strip()
+                    ]
+                    if not words:
+                        continue
+
+                    # Sub-split within chunk if there is an internal pause >= 1.2s
+                    cur_words = [words[0]]
+                    for k in range(len(words) - 1):
+                        w_gap = words[k + 1]["start"] - words[k]["end"]
+                        if w_gap >= 1.2:
+                            w_text = " ".join(w["word"].strip() for w in cur_words)
+                            all_words.extend(cur_words)
+                            refined_segments.append({
+                                "id": seg_id,
+                                "start": cur_words[0]["start"],
+                                "end": cur_words[-1]["end"],
+                                "text": w_text,
+                                "words": cur_words
+                            })
+                            seg_id += 1
+                            cur_words = [words[k + 1]]
+                        else:
+                            cur_words.append(words[k + 1])
+
+                    if cur_words:
+                        w_text = " ".join(w["word"].strip() for w in cur_words)
+                        all_words.extend(cur_words)
                         refined_segments.append({
                             "id": seg_id,
-                            "start": round(c_start_s + sub_s.start, 3),
-                            "end": round(c_start_s + sub_s.end, 3),
-                            "text": sub_s.text.strip(),
-                            "words": words
+                            "start": cur_words[0]["start"],
+                            "end": cur_words[-1]["end"],
+                            "text": w_text,
+                            "words": cur_words
                         })
                         seg_id += 1
-                continue
-
-            words = [
-                {
-                    "word": w.word,
-                    "start": round(w.start, 3),
-                    "end": round(w.end, 3),
-                    "prob": round(w.probability, 3)
-                }
-                for w in (s.words or [])
-            ]
-            all_words.extend(words)
-            refined_segments.append({
-                "id": seg_id,
-                "start": round(s.start, 3),
-                "end": round(s.end, 3),
-                "text": s.text.strip(),
-                "words": words
-            })
-            seg_id += 1
     else:
         for s in base_segs:
             words = [
