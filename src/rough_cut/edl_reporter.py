@@ -1,6 +1,7 @@
 """
-Edit Decision List (EDL) Reporter.
-Generates human-reviewable and machine-readable edit decision reports.
+Edit Decision List (EDL) & Editorial Decision Reporter.
+Generates human-reviewable and machine-readable edit decision reports,
+including the mandatory auditable Thought Block Decision Report.
 """
 
 import json
@@ -20,7 +21,7 @@ def generate_edl_report(
     output_dir: str,
     project_name: str
 ) -> Dict[str, str]:
-    """Generate both JSON and Markdown EDL reports."""
+    """Generate both JSON and Markdown EDL reports with auditable thought block decisions."""
     os.makedirs(output_dir, exist_ok=True)
     json_path = os.path.join(output_dir, f"{project_name}_edl.json")
     md_path = os.path.join(output_dir, f"{project_name}_edl.md")
@@ -46,11 +47,29 @@ def generate_edl_report(
         f"- **Total Kept Clips:** {len(plan.get('kept_segments', []))}",
         f"- **Total Editorial Cuts:** {len(plan.get('cuts', []))}",
         "",
-        "## 1. Kept Clips (CapCut Master Timeline)",
+        "## 1. Auditable Thought Block Editorial Decision Report",
+        "",
+        "| Thought block | Candidate takes | Selected take | Rejected source ranges | Reason | Confidence | Review required |",
+        "| :--- | :--- | :--- | :--- | :--- | :--- | :--- |"
+    ]
+
+    for d in plan.get("editorial_decisions", []):
+        tb = d.get("thought_block", "").replace("|", "-")
+        cand = d.get("candidate_takes", "").replace("|", ";")
+        sel = d.get("selected_take", "").replace("|", "-")
+        rej = d.get("rejected_source_ranges", "None").replace("|", "-")
+        reason = d.get("reason", "").replace("|", "-")
+        conf = f"{d.get('confidence', 0.95):.2f}"
+        rev = "YES (Flagged)" if d.get("review_required") else "No"
+        lines.append(f"| **{tb}** | {cand} | {sel} | `{rej}` | {reason} | {conf} | {rev} |")
+
+    lines.extend([
+        "",
+        "## 2. Kept Clips (CapCut Master Timeline)",
         "",
         "| Clip | Draft Playhead | Raw Source | Duration | Spoken Summary |",
         "| :--- | :------------- | :--------- | :------- | :------------- |"
-    ]
+    ])
 
     for c in plan.get("kept_segments", []):
         d_range = f"{format_tc(c['draft_start'])} - {format_tc(c['draft_end'])}"
@@ -61,7 +80,7 @@ def generate_edl_report(
 
     lines.extend([
         "",
-        "## 2. Removed Sections & Editorial Rationale",
+        "## 3. Removed Sections & Editorial Rationale",
         "",
         "| Cut | Raw Source | Duration | Action | Category | Confidence | Review Status | Reason |",
         "| :-- | :--------- | :------- | :----- | :------- | :--------- | :------------ | :----- |"

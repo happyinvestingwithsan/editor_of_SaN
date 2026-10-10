@@ -82,20 +82,26 @@ def main():
         print(f"      Transcribed {len(transcript_data.get('segments', []))} speech segments -> {transcript_path}")
 
     # 4. Analyze speech and pauses
-    print(f"\n[4/7] Analyzing speech patterns, dead air, and false starts...")
+    print(f"\n[4/7] Analyzing speech patterns, dead air, and candidate thought blocks...")
     analysis_data = analyze_transcript(transcript_data)
     analysis_path = os.path.join(work_dir, f"{project_name}_analysis.json")
     with open(analysis_path, "w", encoding="utf-8") as f:
         json.dump(analysis_data, f, indent=2, ensure_ascii=False)
-    print(f"      Found {len(analysis_data.get('long_pauses', []))} long pauses, {len(analysis_data.get('false_starts_and_retakes', []))} false starts/retakes.")
+    n_blocks = len(analysis_data.get("thought_blocks", []))
+    n_clusters = len(analysis_data.get("thought_clusters", []))
+    print(f"      Identified {n_blocks} thought blocks across {n_clusters} semantic narrative clusters.")
 
     # 5. Editorial Reasoning & Plan
-    print(f"\n[5/7] Formulating editorial rough-cut plan...")
+    print(f"\n[5/7] Formulating evidence-based editorial rough-cut plan...")
     plan = create_editorial_plan(transcript_data, analysis_data)
     print(f"      Initial plan: {len(plan['kept_segments'])} clips, {len(plan['cuts'])} cuts.")
+    if plan.get("editorial_decisions"):
+        print("      Editorial Decisions:")
+        for d in plan["editorial_decisions"]:
+            print(f"        - {d['thought_block']}: {d['reason']}")
 
     # Boundary refinement with waveform
-    print(f"      Refining cut boundaries with acoustic zero-crossing...")
+    print(f"      Refining cut boundaries with acoustic zero-crossing (speech protected)...")
     refined_clips = refine_boundaries_with_waveform(wav_path, plan["kept_segments"])
     plan["kept_segments"] = refined_clips
 
@@ -123,9 +129,15 @@ def main():
     # Video preview
     if not args.no_video_preview:
         preview_mp4 = os.path.join(work_dir, f"{project_name}_preview.mp4")
-        print(f"      Rendering 720p rough-cut MP4 preview...")
-        generate_video_preview(video_path, refined_clips, preview_mp4, scale_height=720)
+        print(f"      Rendering 720p rough-cut MP4 preview (filter-based PTS sync)...")
+        generate_video_preview(video_path, refined_clips, preview_mp4, scale_height=720, fps=int(round(v_info.get("fps", 30))))
         print(f"      Video preview -> {preview_mp4}")
+        try:
+            from src.rough_cut.preview_generator import measure_preview_sync
+            sync_metrics = measure_preview_sync(preview_mp4)
+            print(f"      A/V Sync Verification: drift {sync_metrics['duration_drift_ms']}ms | Multi-point sync: {'PASS' if sync_metrics['multi_point_sync_ok'] else 'FAIL'}")
+        except Exception as e:
+            print(f"      A/V Sync Verification warning: {e}")
 
     # CapCut Project
     if not args.skip_capcut:

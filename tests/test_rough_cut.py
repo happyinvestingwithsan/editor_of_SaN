@@ -13,6 +13,8 @@ from src.rough_cut.analyzer import clean_token, find_repetitions_and_false_start
 from src.rough_cut.editorial_reasoner import create_editorial_plan
 from src.rough_cut.edl_reporter import format_tc, generate_edl_report
 from src.rough_cut.capcut_builder import get_capcut_draft_root, find_template_dir
+from src.rough_cut.preview_generator import build_filter_script, generate_audio_preview, generate_video_preview, measure_preview_sync
+from src.rough_cut.waveform_refiner import refine_boundaries_with_waveform
 
 
 class TestRoughCutModules(unittest.TestCase):
@@ -207,6 +209,183 @@ class TestRoughCutModules(unittest.TestCase):
         self.assertIsNotNone(distant_detection)
         # Distant retake without stumble markers must be flagged as uncertain
         self.assertTrue(distant_detection.get("uncertain"), "Distant retake without stumble marker must be flagged uncertain")
+
+    def test_preview_filter_script_fades_and_boundaries(self):
+        """Phase 1 test: Boundary fades only added when handles exist, never on speech."""
+        segments_with_handles = [
+            {
+                "source_start": 10.0,
+                "source_end": 15.0,
+                "speech_start": 10.20,  # 200ms handle before speech
+                "speech_end": 14.80,    # 200ms handle after speech
+            }
+        ]
+        script_with = build_filter_script(segments_with_handles, scale_height=720, include_video=True)
+        self.assertIn("afade=t=in", script_with)
+        self.assertIn("afade=t=out", script_with)
+        self.assertIn("setpts=PTS-STARTPTS", script_with)
+        self.assertIn("asetpts=PTS-STARTPTS", script_with)
+        self.assertIn("trim=start=10.000:end=15.000", script_with)
+
+        # Segments with tight boundaries (no handles): MUST NOT fade speech away
+        segments_without_handles = [
+            {
+                "source_start": 10.0,
+                "source_end": 15.0,
+                "speech_start": 10.01,  # Only 10ms cushion - must NOT fade
+                "speech_end": 14.99,    # Only 10ms cushion - must NOT fade
+            }
+        ]
+        script_without = build_filter_script(segments_without_handles, scale_height=720, include_video=True)
+        self.assertNotIn("afade=t=in", script_without)
+        self.assertNotIn("afade=t=out", script_without)
+
+    def test_preview_sync_and_duration_regression(self):
+        """Phase 1 test: Verify expected vs actual duration and multi-point A/V sync."""
+        fixture_path = r"D:\AI Projects\Video_Editing\input\Test_v10.mp4"
+        if not os.path.exists(fixture_path):
+            self.skipTest(f"Fixture video not found: {fixture_path}")
+
+        test_out = os.path.abspath("work/test_preview_sync.mp4")
+        segments = [
+            {"source_start": 6.58, "source_end": 8.58, "duration": 2.00, "speech_start": 6.68, "speech_end": 8.48},
+            {"source_start": 27.80, "source_end": 29.80, "duration": 2.00, "speech_start": 27.90, "speech_end": 29.70}
+        ]
+        expected_duration = 4.00
+
+        try:
+            generate_video_preview(fixture_path, segments, test_out, scale_height=360, fps=30)
+            self.assertTrue(os.path.exists(test_out), "Preview MP4 should be generated")
+
+            sync_metrics = measure_preview_sync(test_out, check_points_s=[1.0, 2.0, 3.0])
+            self.assertTrue(sync_metrics["nominal_sync_ok"], f"A/V duration drift exceeded tolerance: {sync_metrics['duration_drift_ms']}ms")
+            self.assertTrue(sync_metrics["multi_point_sync_ok"], "A/V desync detected at one or more check points across preview")
+            self.assertTrue(sync_metrics["is_synchronized"], "Preview should be fully synchronized")
+            self.assertAlmostEqual(sync_metrics["video_duration_s"], expected_duration, delta=0.08)
+            self.assertAlmostEqual(sync_metrics["audio_duration_s"], expected_duration, delta=0.08)
+        finally:
+            if os.path.exists(test_out):
+                try:
+                    os.remove(test_out)
+                except Exception:
+                    pass
+
+    def test_clipped_consonants_waveform_safety(self):
+        """Phase 3 test: Boundary refinement CANNOT move into a spoken word (e.g. initial 'In')."""
+        import tempfile
+        import wave
+        with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tf:
+            wav_path = tf.name
+
+        try:
+            with wave.open(wav_path, "wb") as wf:
+                wf.setnchannels(1)
+                wf.setsampwidth(2)
+                wf.setframerate(16000)
+                # 4 seconds total
+                wf.writeframes(bytearray(16000 * 4 * 2))
+
+            # Segment where spoken word starts at 1.00s and ends at 2.50s
+            # Proposed boundary is 0.85s (150ms cushion)
+            kept = [{
+                "clip_index": 1,
+                "source_start": 0.85,
+                "source_end": 2.65,
+                "speech_start": 1.00,
+                "speech_end": 2.50,
+                "duration": 1.80
+            }]
+            refined = refine_boundaries_with_waveform(wav_path, kept, search_window=0.15)
+            # Refined start MUST be <= speech_start - 0.05 (strictly before speech onset)
+            self.assertLessEqual(
+                refined[0]["source_start"], 0.95,
+                "Waveform refinement must never encroach on speech onset (protects initial consonants)!"
+            )
+            # Refined end MUST be >= speech_end + 0.05 (strictly after speech offset)
+            self.assertGreaterEqual(
+                refined[0]["source_end"], 2.55,
+                "Waveform refinement must never encroach on speech offset!"
+            )
+        finally:
+            if os.path.exists(wav_path):
+                os.remove(wav_path)
+
+    def test_missing_initial_words_protection(self):
+        """Phase 3 test: Valid speech onsets have breath cushions and are never cut."""
+        transcript_path = "work/HappyInvesting_Test_v10/HappyInvesting_Test_v10_transcript.json"
+        if not os.path.exists(transcript_path):
+            self.skipTest("Reference transcript not found")
+
+        with open(transcript_path, "r", encoding="utf-8") as f:
+            transcript_data = json.load(f)
+
+        analysis = analyze_transcript(transcript_data)
+        plan = create_editorial_plan(transcript_data, analysis)
+
+        # Segment containing 'In this tool, when a stock hits its 52 week low...'
+        # Speech onset for 'In' is 39.48s
+        framework_clip = next((k for k in plan["kept_segments"] if "when a stock hits" in k["text_summary"]), None)
+        self.assertIsNotNone(framework_clip, "Framework clip must be kept")
+        self.assertLessEqual(
+            framework_clip["source_start"], 39.45,
+            "Framework clip must retain breath cushion before 'In this tool' onset (no clipped word)!"
+        )
+
+    def test_orphan_clauses_elimination(self):
+        """Phase 3 test: Broken orphan clauses (e.g. 'and using the same framework and I have explained the...') do not survive."""
+        transcript_path = "work/HappyInvesting_Test_v10/HappyInvesting_Test_v10_transcript.json"
+        if not os.path.exists(transcript_path):
+            self.skipTest("Reference transcript not found")
+
+        with open(transcript_path, "r", encoding="utf-8") as f:
+            transcript_data = json.load(f)
+
+        analysis = analyze_transcript(transcript_data)
+        plan = create_editorial_plan(transcript_data, analysis)
+
+        # Assert no kept segment contains the broken clause at 80.65s - 84.51s
+        for k in plan["kept_segments"]:
+            self.assertFalse(
+                k["source_start"] <= 81.0 and k["source_end"] >= 84.0,
+                f"Broken orphan clause surviving in kept clip {k}!"
+            )
+
+    def test_natural_pause_preservation(self):
+        """Phase 3 test: Conversational pauses within valid continuous thought blocks are protected."""
+        transcript_path = "work/HappyInvesting_Test_v10/HappyInvesting_Test_v10_transcript.json"
+        if not os.path.exists(transcript_path):
+            self.skipTest("Reference transcript not found")
+
+        with open(transcript_path, "r", encoding="utf-8") as f:
+            transcript_data = json.load(f)
+
+        analysis = analyze_transcript(transcript_data)
+        plan = create_editorial_plan(transcript_data, analysis)
+
+        # Framework core runs from ~39.48 to ~74.80s continuously
+        # Pauses at 45.86-46.30 (0.44s) and 52.68-53.10 (0.42s) MUST NOT be cut
+        for cut in plan["cuts"]:
+            self.assertFalse(
+                45.0 <= cut["source_start"] <= 74.0 and cut["action"] == "SHORTEN_PAUSE",
+                f"Natural conversational pause inside framework unlawfully cut: {cut}"
+            )
+
+    def test_no_incorrect_joining_of_abandoned_takes(self):
+        """Phase 3 test: Multiple precursor takes (Takes 1-3) are excised as a single macro cut, not stitched together."""
+        transcript_path = "work/HappyInvesting_Test_v10/HappyInvesting_Test_v10_transcript.json"
+        if not os.path.exists(transcript_path):
+            self.skipTest("Reference transcript not found")
+
+        with open(transcript_path, "r", encoding="utf-8") as f:
+            transcript_data = json.load(f)
+
+        analysis = analyze_transcript(transcript_data)
+        plan = create_editorial_plan(transcript_data, analysis)
+
+        # Assert that the entire interval from ~75.0s to ~173.5s is removed in a macro cut
+        pitch_cut = next((c for c in plan["cuts"] if c["action"] == "REMOVE_SUPERSEDED_TAKES"), None)
+        self.assertIsNotNone(pitch_cut, "Precursor pitch takes must be removed in a single macro cut")
+        self.assertGreater(pitch_cut["duration"], 80.0, "Precursor pitch cut should span >80s of failed rehearsals")
 
 
 if __name__ == "__main__":
