@@ -1,8 +1,18 @@
 # ==========================================
-# SaN Studio - Git Ignore Rules
+# SaN Studio - 4-Zone Git Ignore Rules
 # ==========================================
 
-# 1. Video & Audio Binaries (Never track multi-gigabyte media in Git)
+# 1. Ephemeral Workspace (Disposables never tracked in Git)
+3_WORKSPACE/raw/*
+3_WORKSPACE/proxies/*
+3_WORKSPACE/audio/*
+3_WORKSPACE/preview/*
+!3_WORKSPACE/raw/.gitkeep
+!3_WORKSPACE/proxies/.gitkeep
+!3_WORKSPACE/audio/.gitkeep
+!3_WORKSPACE/preview/.gitkeep
+
+# 2. Large Media Binaries (Keep repo ultra-lean)
 *.mp4
 *.mov
 *.avi
@@ -14,39 +24,29 @@
 *.mp3
 *.part
 
-# 2. Node & Package Dependencies
+# 3. Dependencies & Package Managers
 node_modules/
+1_CORE/engine/node_modules/
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 package-lock.json
 
-# 3. Build Outputs & Bundler Caches
+# 4. Engine Build Outputs & Caches
 .remotion/
 .cache/
 build/
 dist/
 out/
 contact_frames/
-dmart-video-engine/build/
-dmart-video-engine/out/
-dmart-video-engine/contact_frames/
-dmart-video-engine/contact_sheet.png
-dmart-video-engine/node_modules/
-pathfinder-oct22-engine/node_modules/
-pathfinder-oct22-engine/out/
+1_CORE/engine/build/
+1_CORE/engine/out/
+1_CORE/engine/contact_frames/
+1_CORE/engine/public/video/
+1_CORE/engine/public/audio/
 
-# 4. Large Intermediate Media in Engine / Public
-dmart-video-engine/public/video/
-dmart-video-engine/public/audio/
-
-# 5. Work, Scratch & Legacy Archives
-archive/
-scratch/
-work/
-temp/
-tmp/
-*.tmp
+# 5. Output Large Video Deliverables (Paths kept in 4_OUTPUT/master_manifest.json)
+4_OUTPUT/exports/*.mp4
+4_OUTPUT/exports/*.mov
 
 # 6. Python Artifacts
 __pycache__/
@@ -68,15 +68,11 @@ Thumbs.db
 *.swp
 *.swo
 
-# 8. Large Master Video Deliverables in exports (Paths preserved in completed_video_manifest.json)
-exports/*.mp4
-exports/*.mov
-
-# 9. Whitelist essential documentation, code & manifests inside 01_VAULT & 02_PROJECTS
-!01_VAULT/brand_kits/**/*.json
-!01_VAULT/brand_kits/**/*.ts
-!01_VAULT/vault_index.json
-!02_PROJECTS/completed_video_manifest.json
-!02_PROJECTS/_completed/**/*.md
-!02_PROJECTS/_completed/**/*.json
-!02_PROJECTS/_completed/**/*.txt
+# 8. Whitelist Core Assets, Tokens, Code & Manifests
+!2_VAULT/brand_kits/**/*.json
+!2_VAULT/brand_kits/**/*.ts
+!2_VAULT/vault_index.json
+!4_OUTPUT/master_manifest.json
+!4_OUTPUT/projects/**/*.md
+!4_OUTPUT/projects/**/*.json
+!4_OUTPUT/projects/**/*.txt
