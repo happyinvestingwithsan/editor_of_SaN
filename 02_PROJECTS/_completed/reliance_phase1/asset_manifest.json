@@ -1,0 +1,55 @@
+{
+  "project": "Reliance Phase 1",
+  "generated_at": "2026-11-03T00:15:00+05:30",
+  "source_video": {
+    "path": "d:\\QuickShare\\Reliance\\Out\\Video - after adobe\\Part 1 & 2.mov",
+    "duration_sec": 203.633,
+    "frames": 6109,
+    "fps": 30.0,
+    "resolution": "1920x1080",
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  },
+  "remotion_proxy_video": {
+    "path": "dmart-video-engine/public/video/reliance_intro_ch1_facecam.mp4",
+    "format": "All-Intra H.264 (g=1, faststart)",
+    "resolution": "1920x1080",
+    "fps": 30.0,
+    "frames": 6109,
+    "audio": "None (separate audio track architecture)"
+  },
+  "remotion_audio": {
+    "path": "dmart-video-engine/public/video/reliance_intro_ch1_audio.wav",
+    "sample_rate": 48000,
+    "channels": 2,
+    "format": "pcm_s16le uncompressed"
+  },
+  "brand_logos": [
+    {
+      "name": "Happy Investing Logo",
+      "source": "D:\\Davinci Presets\\Happy INvesting Kit\\Happy Investing Logo_2026.png",
+      "installed_path": "dmart-video-engine/public/brand/Happy_Investing_Logo_2026.png",
+      "status": "verified"
+    },
+    {
+      "name": "Reliance Brand Logo (Transparent)",
+      "source": "D:\\Davinci Presets\\Images\\reliance-removebg-preview.png",
+      "installed_path": "dmart-video-engine/public/brand/reliance_logo.png",
+      "status": "verified"
+    },
+    {
+      "name": "Reliance Corporate Crest",
+      "source": "D:\\Davinci Presets\\Images\\reliance.png",
+      "installed_path": "dmart-video-engine/public/brand/reliance_crest.png",
+      "status": "verified"
+    }
+  ],
+  "transcription_artifacts": [
+    "reliance_phase1/master_audio.wav",
+    "reliance_phase1/transcription_words.json",
+    "reliance_phase1/transcription_segments.json",
+    "reliance_phase1/transcript.txt",
+    "reliance_phase1/edit_decision_list.json",
+    "reliance_phase1/storyboard.md"
+  ]
+}

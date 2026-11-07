@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-20",
+  "top_10": [
+    {
+      "primary_key": "BSE",
+      "entity_label": "BSE (E40) - BSE",
+      "stock_info": {
+        "ticker": "BSE",
+        "name": "BSE",
+        "list": "E40",
+        "sector": "Others",
+        "ltp": 3334.8,
+        "change": -0.63
+      },
+      "title": "Weekly Recap: CAS rule changes and BSE Ltd. shares fall after SEBI circular - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORTIya21ZNHNUWmx4eUxPZHpLSDE1ei1HWEpnZ2NiWC1VbUNPVEtOYVBJbnVfcDlYdGpFMmVnclVLQkg2M1puZGl4Ul9VaUtVcWxON284ZUN2V1QyalVsUTYxWklHUmtzVEVEa2h3cDVXLWNkWllUU0ZwRzNFeEJsNWFNU2Eya041NHM5YzduYzFwY3pQdzFRZThVVHFqSnlDYmpCa1FMU3liSG5BWGJUTHB2OW8ydmZ6T2FQS3dEX0N3NzV1QmtjNXZ5T3VfQVJf?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 39.0,
+      "buzz_triggers": [
+        "Cas",
+        "Fall",
+        "Sebi",
+        "Circular"
+      ],
+      "figures": [],
+      "alternate_headlines": [
+        "Core4 Engineers to raise \u20b955 cr via IPO on BSE SME platform - BusinessLine",
+        "How Polo Queen Industrial and Fintech (BSE: 540717) Is Under Scrutiny After a Weaker June Quarter - Kalkine India"
+      ],
+      "total_articles_found": 85
+    },
+    {
+      "primary_key": "SEBI_REGULATORY",
+      "entity_label": "SEBI Regulatory / Circular",
+      "stock_info": null,
+      "title": "Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
+      "link": "https://www.sebi.gov.in/legal/circulars/sep-2026/review-of-position-limits-for-clients-and-penalty-provisions-for-violation-breach-of-position-limits-for-commodity-derivatives-segment_104387.html",
+      "source": "SEBI Official Circulars",
+      "published": "Sep 09, 2026",
+      "description": "Official SEBI Official Circulars issued on Sep 09, 2026: Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
+      "rank_score": 35.0,
+      "buzz_triggers": [
+        "Penalty",
+        "Sebi"
+      ],
+      "figures": [],
+      "alternate_headlines": [
+        "Extension of timeline for implementation of provisions of SEBI Circular dated June 15, 2026 on norms for base price, price bands, call auction in pre-open session and Close-out procedure for Exchange Traded Funds (ETFs)",
+        "Extension of timeline for enrolment with PaRRVA as specified in SEBI Circular No. HO/38/14/(4)2026-MIRSD-POD/I/10557/2026 dated April 29, 2026"
+      ],
+      "total_articles_found": 26
+    },
+    {
+      "primary_key": "HYUNDAI",
+      "entity_label": "HYUNDAI (E40) - HYUNDAI",
+      "stock_info": {
+        "ticker": "HYUNDAI",
+        "name": "HYUNDAI",
+        "list": "E40",
+        "sector": "Others",
+        "ltp": 1915.0,
+        "change": -1.54
+      },
+      "title": "Hyundai Rotem Shares Plunge 11% as Weak Q3 Results Compound K2 Order Uncertainty - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSnZhTWdYUmlBWEplcG5MaHlucFB2bnkweTViWGx1RThWaEllOUFodVFvWF9jeWlJZWxfOXQxQzRJc1F1dl9CaHhhZHp1a01NcS1MelZkd1Zqa0M0NHpaZ19Xc1ZnX1dyNnpONkVPQ0Y2Zk1XZ0E?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 29.0,
+      "buzz_triggers": [
+        "Order",
+        "Q3 Results",
+        "Plunge"
+      ],
+      "figures": [
+        "11%"
+      ],
+      "alternate_headlines": [
+        "Hyundai Rotem's Defense Expansion Overshadowed by Earnings Miss, Sending Shares Down 10% - Businesskorea",
+        "FOCUS: Hyundai Motor steps up physical AI push amid Chinese competition, stock slump - Japan Wire by Kyodo News"
+      ],
+      "total_articles_found": 88
+    },
+    {
+      "primary_key": "HAVELLS",
+      "entity_label": "HAVELLS (F40) - HAVELLS",
+      "stock_info": {
+        "ticker": "HAVELLS",
+        "name": "HAVELLS",
+        "list": "F40",
+        "sector": "Others",
+        "ltp": 1023.7,
+        "change": -3.47
+      },
+      "title": "Lloyd FY26 performance: Havells reports 23% revenue fall and loss after weak summer demand - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVhOV0NoSUVjVUZ4aHhvQUdTTEpLOXVBb0Y5MDFBVXhJRmxUTUdqOGlGSzFaYWRxNVQzQXRyVDctNFFLUW00dlRXTEF6ck41VVpsYjlsdlVzQUt4cTZMT0lQTmhpTG5lSmJpUnJOQ1U3RXotaGpXaXpTUzRlZEdiMGV1NmFCMjRjd3ZpVGloRUc2WldiSVQ1NHJSMF9qY3RRMG9sOUhSeTdoZnU0Zzc4?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 28.0,
+      "buzz_triggers": [
+        "Revenue",
+        "Fall",
+        "Loss"
+      ],
+      "figures": [
+        "23%"
+      ],
+      "alternate_headlines": [
+        "Havells India - Concurrent Gainers: 15 stocks gain for 5 days in a row - The Economic Times",
+        "Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper \u2014 Ask Profit - NDTV Profit"
+      ],
+      "total_articles_found": 6
+    },
+    {
+      "primary_key": "TCS",
+      "entity_label": "TCS (F40) - TCS",
+      "stock_info": {
+        "ticker": "TCS",
+        "name": "TCS",
+        "list": "F40",
+        "sector": "Others",
+        "ltp": 2076.0,
+        "change": -0.21
+      },
+      "title": "NVIDIA Earnings Spark IT Rally? TCS, HCL Tech, Wipro, Infosys, etc Jump As AI Giant Delivers Strong Q4 - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeHpwZ1V6VXYxNm5oYi01TUFrUTdCeWwyMktRMXRoeWoyRllERkNzcEdqeFNYTzV1TTNWaGMtZG5oRUpzMWpSTXJOODUyTDV0OFZoQVM3Q2k4SFV2S0EyUjBvRHRjcHhqc3ZDUHRTVVppS0otekcxejRBSVZqdGJBT19lNVBVUXg1YmxoT3NtN0RoeXRnd2lBTEE0SGJzMkV4SC1PQ21sbDM0VmliRGI5eHdyMExEN2RRajJ3V3hZYktFY1VPdWNGU1hvZDNOUkVoMVFSbmxn?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 25.0,
+      "buzz_triggers": [
+        "Earnings",
+        "Rally",
+        "Jump"
+      ],
+      "figures": [],
+      "alternate_headlines": [
+        "Indian IT giants' H-1B visa registrations fall amid Trump's crackdown; Infosys, Cognizant, TCS report fewer entries",
+        "Infosys, Cognizant and TCS H-1B visa registrations plunge amid Trump\u2019s US immigration crackdown | Hindustan Times - Hindustan Times"
+      ],
+      "total_articles_found": 60
+    },
+    {
+      "primary_key": "AXISBANK",
+      "entity_label": "AXISBANK (F40) - AXISBANK",
+      "stock_info": {
+        "ticker": "AXISBANK",
+        "name": "AXISBANK",
+        "list": "F40",
+        "sector": "Banks",
+        "ltp": 1245.0,
+        "change": 0.2
+      },
+      "title": "AXISBANK.NS Q2 2026 Earnings: Revenue Rises 4.01% YoY to \u20b988,067 Crore as Earnings Hold Steady - Balance Sheet Strength - https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlliQ2lLalFLR3VacnVsUkptWV8xOUJrOXlhbW9DUzNaX2VtTWtsQjMyRmRpOUtkcXl1QVNaY1Q4bl9qUTVOTGpWY1JvYnA4ZFVpM0t0ckNIZGJwb2h2czZLUmJtcjRjMldoZWpRZHRuQkFtMFo4MlB6SVNDUnJlZjVZNkVVaDdwU3drSkVTR0lpbC1xajVtZEFDeWhiM0RVaDRnRjFOM01VSmdidVo1SC12UGwwYk1lM0dldzNCOXI2VVY5aklESEtYMA?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 25.0,
+      "buzz_triggers": [
+        "Revenue",
+        "Earnings"
+      ],
+      "figures": [
+        "4.01%",
+        "\u20b988,067"
+      ],
+      "alternate_headlines": [
+        "Axis Bank (NSE:AXISBANK): What Did Its Q2 FY27 Results Newspaper Publication Disclose? - Kalkine India"
+      ],
+      "total_articles_found": 2
+    },
+    {
+      "primary_key": "ITC",
+      "entity_label": "ITC (F40) - ITC",
+      "stock_info": {
+        "ticker": "ITC",
+        "name": "ITC",
+        "list": "F40",
+        "sector": "Others",
+        "ltp": 255.0,
+        "change": -4.03
+      },
+      "title": "Saraswati Saree Depot hit with \u20b932.09 lakh CGST penalty over IPO ITC - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2Vhd01PX3RZSkRPMEV3Vm1GUTFUeG4tamNrcjdTSlFxNkdzMUtVLUdjTTJKa1cxYU1BZ2R1dTNuV3JaQXVnZXVaZFN3NE5QVEw0alE0VTJ3aUFlb2pvU3JZTDZCejVsU0lrbEtoLUtCTHZGbjdrMG5XYTBzczh0RGhaYU5hYl9GV2VlY0k4bUZhTzVqUGZLQmgwSDJWR25XSl9fcDRhX3VYaFBjOW5LWVdpV3k?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 25.0,
+      "buzz_triggers": [
+        "Penalty",
+        "Ipo"
+      ],
+      "figures": [
+        "\u20b932.09"
+      ],
+      "alternate_headlines": [
+        "Schneider Infra appeal rejected in FY18 ITC case, penalty upheld - scanx.trade",
+        "Karnataka High Court Invalidates GST Assessment Order Over Unexamined ITC Reconciliation and Natural Justice Breaches - TaxCorp AI"
+      ],
+      "total_articles_found": 35
+    },
+    {
+      "primary_key": "PGHH",
+      "entity_label": "PGHH (F40) - PGHH",
+      "stock_info": {
+        "ticker": "PGHH",
+        "name": "PGHH",
+        "list": "F40",
+        "sector": "Others",
+        "ltp": 6857.0,
+        "change": -0.92
+      },
+      "title": "PGHH Q2 2026 Earnings: EPS of \u20b9263.86 as Revenue Grows 2.15% Year-on-Year - Earnings Surprise Score - https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmNWbnBJckpXRTdmWERoMUNkTWtkbEhYUWN5UFp1b2R3VXhPU21POVJ6NFFzOGFxT25WdzZraGVTVkdpbmh4QTd5MWZhaEhYZlRIR1dZb3pCTEx3WEFTUmFlRUlYRTFPYWd3Y2hJMWs0WkhpZmpROXo2bEc1Qks1VlBIUUJQcnFFMGJBVzNwUVpSdWdLbHBVQVVJMEpCWm5NaXFsMWpsOGhOa1J4QVE?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 25.0,
+      "buzz_triggers": [
+        "Revenue",
+        "Earnings"
+      ],
+      "figures": [
+        "\u20b9263.86",
+        "2.15%"
+      ],
+      "alternate_headlines": [],
+      "total_articles_found": 1
+    },
+    {
+      "primary_key": "INFY",
+      "entity_label": "INFY (F40) - INFY",
+      "stock_info": {
+        "ticker": "INFY",
+        "name": "INFY",
+        "list": "F40",
+        "sector": "Others",
+        "ltp": 997.0,
+        "change": 0.5
+      },
+      "title": "Key facts: INFY Q2 FY27 revenue \u20b949,090\u2013\u20b949,323cr; EBIT up ~40 bps - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDR5Z3JabkdGTDdTODdnNVotOVJpc0ZvcGR3cW5FR0FKdkt6SjlFTDBSU0RPQnNEc0h6d1k4S2Rjb0M4MkRoUnphelJHS1pRQTlYc2dLWGV0Y1FsRTBnYXpmSTBKVzVtMWRZc3BQWEcxZ3FtVnIzb2FNSU9nLVh1ckxVanRUV2h4WGxjSXJRREFfcjV4MDVnX0V0ZEx5VS1FWFFTa1BIeUtpRGhldEpzWF9hSndEY2dNeDJPTHVrZTk?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 24.0,
+      "buzz_triggers": [
+        "Revenue"
+      ],
+      "figures": [
+        "\u20b949,090",
+        "\u20b949,323",
+        "40 bps"
+      ],
+      "alternate_headlines": [
+        "Infosys Limited (INFY) Expands Truist Collaboration to Build Hyderabad GCC - TradingView",
+        "Infosys Limited (INFY) Options Chain - Yahoo! Finance Canada"
+      ],
+      "total_articles_found": 7
+    },
+    {
+      "primary_key": "PFIZER",
+      "entity_label": "PFIZER (F40) - PFIZER",
+      "stock_info": {
+        "ticker": "PFIZER",
+        "name": "PFIZER",
+        "list": "F40",
+        "sector": "Others",
+        "ltp": 3750.0,
+        "change": -1.71
+      },
+      "title": "Bristol Myers is Cheaper Than Pfizer, but Its 40% Earnings Jump Has a Catch - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDVaNjRuSUloRHlUZTR4TWNmandKankwZjduX2VEMnRmN0xOLUtabjZ3YmJRT0c0dTNQcjdOdEJlNTVUcG9ob3c1N1lVSF9ZbFo4aFh1ZnJ0OWdHZFNFR2sycG9qMVFxX213dHVTYkc3azFwRjZpV1hxTW4xQTBCRlVabHpody1hT2RBNmxRbXVKMkVnSXlN?oc=5",
+      "source": "Google News Search",
+      "published": "",
+      "description": "",
+      "rank_score": 23.5,
+      "buzz_triggers": [
+        "Earnings",
+        "Jump"
+      ],
+      "figures": [
+        "40%"
+      ],
+      "alternate_headlines": [
+        "Pfizer\u2019s Lyme disease vaccine shows 70% efficacy; Texas man sentenced to 12.5 years in $61.5M Medicare telemarketing fraud scheme; Novo Nordisk launches Wegovy subscription model \u2013 Morning Medical Update - Medical Economics",
+        "NVAX Stock Rises Overnight Ahead Of Q4 Print With Pfizer Tailwinds \u2014 Analyst Warns Of 20% Crash - Stocktwits"
+      ],
+      "total_articles_found": 52
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[000.00s -> 003.54s] (frames 00000-00106) India just delivered its strongest weekly market rally in more than 5 years.
+[003.98s -> 007.76s] (frames 00119-00233) But interestingly, while Indian markets are celebrating, Wall Street technology stocks
+[007.76s -> 008.32s] (frames 00233-00250) are crashing.
+[008.80s -> 009.70s] (frames 00264-00291) What's happening globally?
+[010.08s -> 012.10s] (frames 00302-00363) Why is foreign money suddenly returning to India?
+[012.54s -> 013.28s] (frames 00376-00398) Let's quickly understand.
+[013.74s -> 015.18s] (frames 00412-00455) First, the US midterm election.
+[015.66s -> 019.60s] (frames 00470-00588) Democrats have gained the control of Congress, creating a major political setback for Trump.
+[020.14s -> 021.42s] (frames 00604-00643) Why does this matter to markets?
+[021.92s -> 024.34s] (frames 00658-00730) There is a growing scrutiny around AI infrastructure.
+[024.98s -> 026.84s] (frames 00749-00805) Data center needs enormous amount of electricity.
+[026.84s -> 030.68s] (frames 00805-00920) And water and some political leaders are pushing for the restriction on their expansion.
+[031.34s -> 035.52s] (frames 00940-01066) This has made investors to question whether the massive AI investments will generate the
+[035.52s -> 037.24s] (frames 01066-01117) returns expected or will it not?
+[037.72s -> 044.56s] (frames 01132-01337) On November 5th, yesterday, NASDAQ crashed 5.5% and S&P fell around 4.4%.
+[044.56s -> 047.00s] (frames 01337-01410) And here is where India's story is getting interesting.
+[047.42s -> 050.14s] (frames 01423-01504) For months, FIA was continuously selling Indian stocks.
+[050.56s -> 052.86s] (frames 01517-01586) But now, three things are changing their investment equation.
+[052.86s -> 058.22s] (frames 01586-01747) First, global AI trade is getting crowded as investors reduce exposure to expensive AI
+[058.22s -> 058.72s] (frames 01747-01762) linked stocks.
+[059.12s -> 063.00s] (frames 01774-01890) India, with a large diversified market and relatively less dependence on the AI infrastructure,
+[063.48s -> 065.00s] (frames 01904-01950) become an alternative destination for them.
+[065.40s -> 068.78s] (frames 01962-02063) Second, crude oil prices are cooling and US-born yields are easing.
+[069.12s -> 072.84s] (frames 02074-02185) That's an important because low oil prices ease the pressure on India's input bill
+[072.84s -> 076.52s] (frames 02185-02296) while softer US yields making emerging markets like India more attractive for the FIA.
+[076.90s -> 078.84s] (frames 02307-02365) And third, India's earning outlook is improving.
+[079.36s -> 083.98s] (frames 02381-02519) So this is not just money chasing a market rally, it's a combination of global money
+[083.98s -> 088.02s] (frames 02519-02641) rotation, India's macro pressure easing and improving earnings expectations.
+[088.14s -> 091.90s] (frames 02644-02757) Just on number 5th, FIA has got nearly 15,000 crores worth of Indian equities.
+[092.42s -> 095.04s] (frames 02773-02851) That's one of the biggest single day buying sessions in nearly 6 years.
+[095.44s -> 099.56s] (frames 02863-02987) And if you look at today's number, FIA have got 13,750 crores worth of Indian equities.
+[099.88s -> 103.48s] (frames 02996-03104) And that's the major reason behind this week's powerful India market rally.
+[103.80s -> 105.40s] (frames 03114-03162) But now comes the most important question.
+[105.84s -> 109.00s] (frames 03175-03270) When the market was falling, FIA stock many investors from buying.
+[109.48s -> 112.72s] (frames 03284-03382) Now after this rally, FOMO and DRI are pushing them to buy.
+[113.12s -> 114.26s] (frames 03394-03428) Still they are in a confused mode.
+[114.52s -> 115.42s] (frames 03436-03463) So what you should do?
+[115.88s -> 117.24s] (frames 03476-03517) Let me share what I am personally doing.
+[117.56s -> 121.76s] (frames 03527-03653) I had increased my allocation back in September, October when the Indian markets were in full
+[121.76s -> 122.06s] (frames 03653-03662) fear.
+[122.50s -> 124.46s] (frames 03675-03734) Now I have reached my planned allocation in Indian market.
+[124.76s -> 128.18s] (frames 03743-03845) So I am not chasing the rally, I am simply waiting for the stocks to reach their target
+[128.18s -> 130.94s] (frames 03845-03928) valuation and booking profit where the framework tells me to do.
+[130.94s -> 136.14s] (frames 03928-04084) Meanwhile, I am studying the quality stocks in US market using exactly the same framework.
+[136.30s -> 137.88s] (frames 04089-04136) Because opportunity doesn't belong to one company.
+[138.14s -> 140.38s] (frames 04144-04211) Opportunity lies everywhere where there is a fear.
+[140.80s -> 144.28s] (frames 04224-04328) If you know how to identify a quality business and buying them with a margin of safety.
+[144.72s -> 147.96s] (frames 04342-04439) That's why I always say don't let the market emotion make your investment decisions.
+[148.24s -> 151.76s] (frames 04447-04553) Have a framework that tells you what to buy, at what price to buy, how much risk you
+[151.76s -> 152.38s] (frames 04553-04571) have to take on that.
+[152.66s -> 155.90s] (frames 04580-04677) That is exactly what I will be explaining in my 3 hours master class which I am making
+[155.90s -> 157.30s] (frames 04677-04719) completely free for this Diwali.
+[157.30s -> 162.10s] (frames 04719-04863) Visit HappyInvesting.in and use the coupon code of HappyDiwali and access the master
+[162.10s -> 163.78s] (frames 04863-04913) class completely free for this week.
+[164.12s -> 167.44s] (frames 04924-05023) Learn the framework, evaluate the opportunities and understand whether this HappyInvesting
+[167.44s -> 168.64s] (frames 05023-05059) community is suitable for you or not.
+[168.96s -> 172.12s] (frames 05069-05164) Finally, I am saying don't chase the market, learn to evaluate the opportunities.
+[172.50s -> 173.74s] (frames 05175-05212) With that said, see you in the next one.

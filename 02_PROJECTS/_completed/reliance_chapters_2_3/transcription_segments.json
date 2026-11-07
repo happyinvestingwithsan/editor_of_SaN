@@ -1,0 +1,4394 @@
+[
+  {
+    "id": 0,
+    "start": 0.0,
+    "end": 5.42,
+    "startFrame": 0,
+    "endFrame": 163,
+    "text": "Let's look at three important business, first, oil to chemical or O2C it is called.",
+    "words": [
+      {
+        "word": "Let's",
+        "start": 0.0,
+        "end": 0.36,
+        "startFrame": 0,
+        "endFrame": 11,
+        "probability": 0.839
+      },
+      {
+        "word": "look",
+        "start": 0.36,
+        "end": 0.56,
+        "startFrame": 11,
+        "endFrame": 17,
+        "probability": 0.972
+      },
+      {
+        "word": "at",
+        "start": 0.56,
+        "end": 0.8,
+        "startFrame": 17,
+        "endFrame": 24,
+        "probability": 0.991
+      },
+      {
+        "word": "three",
+        "start": 0.8,
+        "end": 1.06,
+        "startFrame": 24,
+        "endFrame": 32,
+        "probability": 0.538
+      },
+      {
+        "word": "important",
+        "start": 1.06,
+        "end": 1.6,
+        "startFrame": 32,
+        "endFrame": 48,
+        "probability": 0.994
+      },
+      {
+        "word": "business,",
+        "start": 1.6,
+        "end": 2.32,
+        "startFrame": 48,
+        "endFrame": 70,
+        "probability": 0.755
+      },
+      {
+        "word": "first,",
+        "start": 2.68,
+        "end": 3.06,
+        "startFrame": 80,
+        "endFrame": 92,
+        "probability": 0.889
+      },
+      {
+        "word": "oil",
+        "start": 3.16,
+        "end": 3.36,
+        "startFrame": 95,
+        "endFrame": 101,
+        "probability": 0.601
+      },
+      {
+        "word": "to",
+        "start": 3.36,
+        "end": 3.56,
+        "startFrame": 101,
+        "endFrame": 107,
+        "probability": 0.923
+      },
+      {
+        "word": "chemical",
+        "start": 3.56,
+        "end": 3.88,
+        "startFrame": 107,
+        "endFrame": 116,
+        "probability": 0.913
+      },
+      {
+        "word": "or",
+        "start": 3.88,
+        "end": 4.38,
+        "startFrame": 116,
+        "endFrame": 131,
+        "probability": 0.894
+      },
+      {
+        "word": "O2C",
+        "start": 4.38,
+        "end": 4.84,
+        "startFrame": 131,
+        "endFrame": 145,
+        "probability": 0.917
+      },
+      {
+        "word": "it",
+        "start": 4.84,
+        "end": 4.94,
+        "startFrame": 145,
+        "endFrame": 148,
+        "probability": 0.319
+      },
+      {
+        "word": "is",
+        "start": 4.94,
+        "end": 5.2,
+        "startFrame": 148,
+        "endFrame": 156,
+        "probability": 0.962
+      },
+      {
+        "word": "called.",
+        "start": 5.2,
+        "end": 5.42,
+        "startFrame": 156,
+        "endFrame": 163,
+        "probability": 0.996
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "start": 5.88,
+    "end": 8.44,
+    "startFrame": 176,
+    "endFrame": 253,
+    "text": "This is where the real surprise came from.",
+    "words": [
+      {
+        "word": "This",
+        "start": 5.88,
+        "end": 6.08,
+        "startFrame": 176,
+        "endFrame": 182,
+        "probability": 0.967
+      },
+      {
+        "word": "is",
+        "start": 6.08,
+        "end": 6.28,
+        "startFrame": 182,
+        "endFrame": 188,
+        "probability": 0.999
+      },
+      {
+        "word": "where",
+        "start": 6.28,
+        "end": 6.54,
+        "startFrame": 188,
+        "endFrame": 196,
+        "probability": 0.997
+      },
+      {
+        "word": "the",
+        "start": 6.54,
+        "end": 6.78,
+        "startFrame": 196,
+        "endFrame": 203,
+        "probability": 0.993
+      },
+      {
+        "word": "real",
+        "start": 6.78,
+        "end": 7.08,
+        "startFrame": 203,
+        "endFrame": 212,
+        "probability": 0.996
+      },
+      {
+        "word": "surprise",
+        "start": 7.08,
+        "end": 7.62,
+        "startFrame": 212,
+        "endFrame": 229,
+        "probability": 0.969
+      },
+      {
+        "word": "came",
+        "start": 7.62,
+        "end": 7.98,
+        "startFrame": 229,
+        "endFrame": 239,
+        "probability": 0.997
+      },
+      {
+        "word": "from.",
+        "start": 7.98,
+        "end": 8.44,
+        "startFrame": 239,
+        "endFrame": 253,
+        "probability": 0.995
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 8.54,
+    "end": 15.24,
+    "startFrame": 256,
+    "endFrame": 457,
+    "text": "O2C EBITDA increased almost 68% year on year to 25,203 crore.",
+    "words": [
+      {
+        "word": "O2C",
+        "start": 8.54,
+        "end": 9.18,
+        "startFrame": 256,
+        "endFrame": 275,
+        "probability": 0.983
+      },
+      {
+        "word": "EBITDA",
+        "start": 9.18,
+        "end": 9.62,
+        "startFrame": 275,
+        "endFrame": 289,
+        "probability": 0.953
+      },
+      {
+        "word": "increased",
+        "start": 9.62,
+        "end": 10.14,
+        "startFrame": 289,
+        "endFrame": 304,
+        "probability": 0.934
+      },
+      {
+        "word": "almost",
+        "start": 10.14,
+        "end": 10.46,
+        "startFrame": 304,
+        "endFrame": 314,
+        "probability": 0.973
+      },
+      {
+        "word": "68",
+        "start": 10.46,
+        "end": 10.96,
+        "startFrame": 314,
+        "endFrame": 329,
+        "probability": 0.983
+      },
+      {
+        "word": "%",
+        "start": 10.96,
+        "end": 11.54,
+        "startFrame": 329,
+        "endFrame": 346,
+        "probability": 0.664
+      },
+      {
+        "word": "year",
+        "start": 11.54,
+        "end": 11.88,
+        "startFrame": 346,
+        "endFrame": 356,
+        "probability": 0.863
+      },
+      {
+        "word": "on",
+        "start": 11.88,
+        "end": 12.12,
+        "startFrame": 356,
+        "endFrame": 364,
+        "probability": 0.708
+      },
+      {
+        "word": "year",
+        "start": 12.12,
+        "end": 12.28,
+        "startFrame": 364,
+        "endFrame": 368,
+        "probability": 0.993
+      },
+      {
+        "word": "to",
+        "start": 12.28,
+        "end": 12.52,
+        "startFrame": 368,
+        "endFrame": 376,
+        "probability": 0.968
+      },
+      {
+        "word": "25",
+        "start": 12.52,
+        "end": 12.94,
+        "startFrame": 376,
+        "endFrame": 388,
+        "probability": 0.676
+      },
+      {
+        "word": ",203",
+        "start": 12.94,
+        "end": 14.5,
+        "startFrame": 388,
+        "endFrame": 435,
+        "probability": 0.886
+      },
+      {
+        "word": "crore.",
+        "start": 14.5,
+        "end": 15.24,
+        "startFrame": 435,
+        "endFrame": 457,
+        "probability": 0.651
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 15.32,
+    "end": 16.86,
+    "startFrame": 460,
+    "endFrame": 506,
+    "text": "That is extraordinary improvement.",
+    "words": [
+      {
+        "word": "That",
+        "start": 15.32,
+        "end": 15.44,
+        "startFrame": 460,
+        "endFrame": 463,
+        "probability": 0.894
+      },
+      {
+        "word": "is",
+        "start": 15.44,
+        "end": 15.72,
+        "startFrame": 463,
+        "endFrame": 472,
+        "probability": 0.928
+      },
+      {
+        "word": "extraordinary",
+        "start": 15.72,
+        "end": 16.36,
+        "startFrame": 472,
+        "endFrame": 491,
+        "probability": 0.845
+      },
+      {
+        "word": "improvement.",
+        "start": 16.36,
+        "end": 16.86,
+        "startFrame": 491,
+        "endFrame": 506,
+        "probability": 0.977
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 17.52,
+    "end": 18.54,
+    "startFrame": 526,
+    "endFrame": 556,
+    "text": "Second, Jio.",
+    "words": [
+      {
+        "word": "Second,",
+        "start": 17.52,
+        "end": 17.84,
+        "startFrame": 526,
+        "endFrame": 535,
+        "probability": 0.897
+      },
+      {
+        "word": "Jio.",
+        "start": 18.22,
+        "end": 18.54,
+        "startFrame": 547,
+        "endFrame": 556,
+        "probability": 0.807
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 18.74,
+    "end": 21.26,
+    "startFrame": 562,
+    "endFrame": 638,
+    "text": "Jio platform continued to perform well.",
+    "words": [
+      {
+        "word": "Jio",
+        "start": 18.74,
+        "end": 19.08,
+        "startFrame": 562,
+        "endFrame": 572,
+        "probability": 0.995
+      },
+      {
+        "word": "platform",
+        "start": 19.08,
+        "end": 19.44,
+        "startFrame": 572,
+        "endFrame": 583,
+        "probability": 0.94
+      },
+      {
+        "word": "continued",
+        "start": 19.44,
+        "end": 20.02,
+        "startFrame": 583,
+        "endFrame": 601,
+        "probability": 0.54
+      },
+      {
+        "word": "to",
+        "start": 20.02,
+        "end": 20.48,
+        "startFrame": 601,
+        "endFrame": 614,
+        "probability": 0.998
+      },
+      {
+        "word": "perform",
+        "start": 20.48,
+        "end": 20.8,
+        "startFrame": 614,
+        "endFrame": 624,
+        "probability": 0.996
+      },
+      {
+        "word": "well.",
+        "start": 20.8,
+        "end": 21.26,
+        "startFrame": 624,
+        "endFrame": 638,
+        "probability": 0.988
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 21.76,
+    "end": 28.14,
+    "startFrame": 653,
+    "endFrame": 844,
+    "text": "Its EBITDA increased approximately from 17% supported by subscriber addition, higher ARPU",
+    "words": [
+      {
+        "word": "Its",
+        "start": 21.76,
+        "end": 21.98,
+        "startFrame": 653,
+        "endFrame": 659,
+        "probability": 0.677
+      },
+      {
+        "word": "EBITDA",
+        "start": 21.98,
+        "end": 22.38,
+        "startFrame": 659,
+        "endFrame": 671,
+        "probability": 0.993
+      },
+      {
+        "word": "increased",
+        "start": 22.38,
+        "end": 22.86,
+        "startFrame": 671,
+        "endFrame": 686,
+        "probability": 0.973
+      },
+      {
+        "word": "approximately",
+        "start": 22.86,
+        "end": 23.84,
+        "startFrame": 686,
+        "endFrame": 715,
+        "probability": 0.973
+      },
+      {
+        "word": "from",
+        "start": 23.84,
+        "end": 24.12,
+        "startFrame": 715,
+        "endFrame": 724,
+        "probability": 0.985
+      },
+      {
+        "word": "17",
+        "start": 24.12,
+        "end": 24.6,
+        "startFrame": 724,
+        "endFrame": 738,
+        "probability": 0.995
+      },
+      {
+        "word": "%",
+        "start": 24.6,
+        "end": 25.28,
+        "startFrame": 738,
+        "endFrame": 758,
+        "probability": 0.836
+      },
+      {
+        "word": "supported",
+        "start": 25.28,
+        "end": 25.74,
+        "startFrame": 758,
+        "endFrame": 772,
+        "probability": 0.948
+      },
+      {
+        "word": "by",
+        "start": 25.74,
+        "end": 25.98,
+        "startFrame": 772,
+        "endFrame": 779,
+        "probability": 0.996
+      },
+      {
+        "word": "subscriber",
+        "start": 25.98,
+        "end": 26.5,
+        "startFrame": 779,
+        "endFrame": 795,
+        "probability": 0.873
+      },
+      {
+        "word": "addition,",
+        "start": 26.5,
+        "end": 27.08,
+        "startFrame": 795,
+        "endFrame": 812,
+        "probability": 0.721
+      },
+      {
+        "word": "higher",
+        "start": 27.36,
+        "end": 27.56,
+        "startFrame": 821,
+        "endFrame": 827,
+        "probability": 0.986
+      },
+      {
+        "word": "ARPU",
+        "start": 27.56,
+        "end": 28.14,
+        "startFrame": 827,
+        "endFrame": 844,
+        "probability": 0.965
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 28.14,
+    "end": 29.78,
+    "startFrame": 844,
+    "endFrame": 893,
+    "text": "and improving margins.",
+    "words": [
+      {
+        "word": "and",
+        "start": 28.14,
+        "end": 28.46,
+        "startFrame": 844,
+        "endFrame": 854,
+        "probability": 0.245
+      },
+      {
+        "word": "improving",
+        "start": 28.46,
+        "end": 29.08,
+        "startFrame": 854,
+        "endFrame": 872,
+        "probability": 0.679
+      },
+      {
+        "word": "margins.",
+        "start": 29.08,
+        "end": 29.78,
+        "startFrame": 872,
+        "endFrame": 893,
+        "probability": 0.974
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 30.1,
+    "end": 31.58,
+    "startFrame": 903,
+    "endFrame": 947,
+    "text": "And third, Reliance Retail.",
+    "words": [
+      {
+        "word": "And",
+        "start": 30.1,
+        "end": 30.44,
+        "startFrame": 903,
+        "endFrame": 913,
+        "probability": 0.621
+      },
+      {
+        "word": "third,",
+        "start": 30.44,
+        "end": 30.7,
+        "startFrame": 913,
+        "endFrame": 921,
+        "probability": 0.797
+      },
+      {
+        "word": "Reliance",
+        "start": 30.92,
+        "end": 31.1,
+        "startFrame": 928,
+        "endFrame": 933,
+        "probability": 0.922
+      },
+      {
+        "word": "Retail.",
+        "start": 31.1,
+        "end": 31.58,
+        "startFrame": 933,
+        "endFrame": 947,
+        "probability": 0.877
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 31.76,
+    "end": 33.9,
+    "startFrame": 953,
+    "endFrame": 1017,
+    "text": "Here the picture was not so encouraging.",
+    "words": [
+      {
+        "word": "Here",
+        "start": 31.76,
+        "end": 31.88,
+        "startFrame": 953,
+        "endFrame": 956,
+        "probability": 0.89
+      },
+      {
+        "word": "the",
+        "start": 31.88,
+        "end": 32.0,
+        "startFrame": 956,
+        "endFrame": 960,
+        "probability": 0.61
+      },
+      {
+        "word": "picture",
+        "start": 32.0,
+        "end": 32.26,
+        "startFrame": 960,
+        "endFrame": 968,
+        "probability": 0.986
+      },
+      {
+        "word": "was",
+        "start": 32.26,
+        "end": 32.54,
+        "startFrame": 968,
+        "endFrame": 976,
+        "probability": 0.988
+      },
+      {
+        "word": "not",
+        "start": 32.54,
+        "end": 33.06,
+        "startFrame": 976,
+        "endFrame": 992,
+        "probability": 0.992
+      },
+      {
+        "word": "so",
+        "start": 33.06,
+        "end": 33.28,
+        "startFrame": 992,
+        "endFrame": 998,
+        "probability": 0.96
+      },
+      {
+        "word": "encouraging.",
+        "start": 33.28,
+        "end": 33.9,
+        "startFrame": 998,
+        "endFrame": 1017,
+        "probability": 0.994
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 34.38,
+    "end": 41.36,
+    "startFrame": 1031,
+    "endFrame": 1241,
+    "text": "Retail revenue increased around 6.4% but EBITDA before the one time impairment charge is actually",
+    "words": [
+      {
+        "word": "Retail",
+        "start": 34.38,
+        "end": 34.68,
+        "startFrame": 1031,
+        "endFrame": 1040,
+        "probability": 0.757
+      },
+      {
+        "word": "revenue",
+        "start": 34.68,
+        "end": 35.04,
+        "startFrame": 1040,
+        "endFrame": 1051,
+        "probability": 0.93
+      },
+      {
+        "word": "increased",
+        "start": 35.04,
+        "end": 35.54,
+        "startFrame": 1051,
+        "endFrame": 1066,
+        "probability": 0.979
+      },
+      {
+        "word": "around",
+        "start": 35.54,
+        "end": 35.94,
+        "startFrame": 1066,
+        "endFrame": 1078,
+        "probability": 0.975
+      },
+      {
+        "word": "6",
+        "start": 35.94,
+        "end": 36.24,
+        "startFrame": 1078,
+        "endFrame": 1087,
+        "probability": 0.973
+      },
+      {
+        "word": ".4",
+        "start": 36.24,
+        "end": 36.6,
+        "startFrame": 1087,
+        "endFrame": 1098,
+        "probability": 0.865
+      },
+      {
+        "word": "%",
+        "start": 36.6,
+        "end": 37.14,
+        "startFrame": 1098,
+        "endFrame": 1114,
+        "probability": 0.583
+      },
+      {
+        "word": "but",
+        "start": 37.14,
+        "end": 37.64,
+        "startFrame": 1114,
+        "endFrame": 1129,
+        "probability": 0.885
+      },
+      {
+        "word": "EBITDA",
+        "start": 37.64,
+        "end": 38.56,
+        "startFrame": 1129,
+        "endFrame": 1157,
+        "probability": 0.927
+      },
+      {
+        "word": "before",
+        "start": 38.56,
+        "end": 39.02,
+        "startFrame": 1157,
+        "endFrame": 1171,
+        "probability": 0.426
+      },
+      {
+        "word": "the",
+        "start": 39.02,
+        "end": 39.28,
+        "startFrame": 1171,
+        "endFrame": 1178,
+        "probability": 0.974
+      },
+      {
+        "word": "one",
+        "start": 39.28,
+        "end": 39.5,
+        "startFrame": 1178,
+        "endFrame": 1185,
+        "probability": 0.717
+      },
+      {
+        "word": "time",
+        "start": 39.5,
+        "end": 39.7,
+        "startFrame": 1185,
+        "endFrame": 1191,
+        "probability": 0.406
+      },
+      {
+        "word": "impairment",
+        "start": 39.7,
+        "end": 40.24,
+        "startFrame": 1191,
+        "endFrame": 1207,
+        "probability": 0.54
+      },
+      {
+        "word": "charge",
+        "start": 40.24,
+        "end": 40.62,
+        "startFrame": 1207,
+        "endFrame": 1219,
+        "probability": 0.805
+      },
+      {
+        "word": "is",
+        "start": 40.62,
+        "end": 40.98,
+        "startFrame": 1219,
+        "endFrame": 1229,
+        "probability": 0.75
+      },
+      {
+        "word": "actually",
+        "start": 40.98,
+        "end": 41.36,
+        "startFrame": 1229,
+        "endFrame": 1241,
+        "probability": 0.994
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 41.36,
+    "end": 43.5,
+    "startFrame": 1241,
+    "endFrame": 1305,
+    "text": "declined around 8.6%.",
+    "words": [
+      {
+        "word": "declined",
+        "start": 41.36,
+        "end": 41.74,
+        "startFrame": 1241,
+        "endFrame": 1252,
+        "probability": 0.968
+      },
+      {
+        "word": "around",
+        "start": 41.74,
+        "end": 42.06,
+        "startFrame": 1252,
+        "endFrame": 1262,
+        "probability": 0.986
+      },
+      {
+        "word": "8",
+        "start": 42.06,
+        "end": 42.44,
+        "startFrame": 1262,
+        "endFrame": 1273,
+        "probability": 0.985
+      },
+      {
+        "word": ".6%.",
+        "start": 42.44,
+        "end": 43.5,
+        "startFrame": 1273,
+        "endFrame": 1305,
+        "probability": 0.906
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "start": 43.5,
+    "end": 48.84,
+    "startFrame": 1305,
+    "endFrame": 1465,
+    "text": "The company is investing heavily in digital commerce and the festive season shift to December",
+    "words": [
+      {
+        "word": "The",
+        "start": 43.5,
+        "end": 43.96,
+        "startFrame": 1305,
+        "endFrame": 1319,
+        "probability": 0.979
+      },
+      {
+        "word": "company",
+        "start": 43.96,
+        "end": 44.3,
+        "startFrame": 1319,
+        "endFrame": 1329,
+        "probability": 0.915
+      },
+      {
+        "word": "is",
+        "start": 44.3,
+        "end": 44.66,
+        "startFrame": 1329,
+        "endFrame": 1340,
+        "probability": 0.982
+      },
+      {
+        "word": "investing",
+        "start": 44.66,
+        "end": 44.92,
+        "startFrame": 1340,
+        "endFrame": 1348,
+        "probability": 0.992
+      },
+      {
+        "word": "heavily",
+        "start": 44.92,
+        "end": 45.48,
+        "startFrame": 1348,
+        "endFrame": 1364,
+        "probability": 0.997
+      },
+      {
+        "word": "in",
+        "start": 45.48,
+        "end": 45.84,
+        "startFrame": 1364,
+        "endFrame": 1375,
+        "probability": 0.997
+      },
+      {
+        "word": "digital",
+        "start": 45.84,
+        "end": 46.14,
+        "startFrame": 1375,
+        "endFrame": 1384,
+        "probability": 0.821
+      },
+      {
+        "word": "commerce",
+        "start": 46.14,
+        "end": 46.58,
+        "startFrame": 1384,
+        "endFrame": 1397,
+        "probability": 0.989
+      },
+      {
+        "word": "and",
+        "start": 46.58,
+        "end": 47.02,
+        "startFrame": 1397,
+        "endFrame": 1411,
+        "probability": 0.863
+      },
+      {
+        "word": "the",
+        "start": 47.02,
+        "end": 47.14,
+        "startFrame": 1411,
+        "endFrame": 1414,
+        "probability": 0.879
+      },
+      {
+        "word": "festive",
+        "start": 47.14,
+        "end": 47.4,
+        "startFrame": 1414,
+        "endFrame": 1422,
+        "probability": 0.972
+      },
+      {
+        "word": "season",
+        "start": 47.4,
+        "end": 47.8,
+        "startFrame": 1422,
+        "endFrame": 1434,
+        "probability": 0.933
+      },
+      {
+        "word": "shift",
+        "start": 47.8,
+        "end": 48.16,
+        "startFrame": 1434,
+        "endFrame": 1445,
+        "probability": 0.967
+      },
+      {
+        "word": "to",
+        "start": 48.16,
+        "end": 48.5,
+        "startFrame": 1445,
+        "endFrame": 1455,
+        "probability": 0.99
+      },
+      {
+        "word": "December",
+        "start": 48.5,
+        "end": 48.84,
+        "startFrame": 1455,
+        "endFrame": 1465,
+        "probability": 0.934
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "start": 48.84,
+    "end": 50.74,
+    "startFrame": 1465,
+    "endFrame": 1522,
+    "text": "quarter also affected the performance.",
+    "words": [
+      {
+        "word": "quarter",
+        "start": 48.84,
+        "end": 49.18,
+        "startFrame": 1465,
+        "endFrame": 1475,
+        "probability": 0.888
+      },
+      {
+        "word": "also",
+        "start": 49.18,
+        "end": 49.7,
+        "startFrame": 1475,
+        "endFrame": 1491,
+        "probability": 0.967
+      },
+      {
+        "word": "affected",
+        "start": 49.7,
+        "end": 50.06,
+        "startFrame": 1491,
+        "endFrame": 1502,
+        "probability": 0.973
+      },
+      {
+        "word": "the",
+        "start": 50.06,
+        "end": 50.36,
+        "startFrame": 1502,
+        "endFrame": 1511,
+        "probability": 0.987
+      },
+      {
+        "word": "performance.",
+        "start": 50.36,
+        "end": 50.74,
+        "startFrame": 1511,
+        "endFrame": 1522,
+        "probability": 0.995
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "start": 51.14,
+    "end": 56.32,
+    "startFrame": 1534,
+    "endFrame": 1690,
+    "text": "So if you ask me what really surprised the market, it was extraordinary performance of",
+    "words": [
+      {
+        "word": "So",
+        "start": 51.14,
+        "end": 51.44,
+        "startFrame": 1534,
+        "endFrame": 1543,
+        "probability": 0.978
+      },
+      {
+        "word": "if",
+        "start": 51.44,
+        "end": 51.56,
+        "startFrame": 1543,
+        "endFrame": 1547,
+        "probability": 0.671
+      },
+      {
+        "word": "you",
+        "start": 51.56,
+        "end": 51.78,
+        "startFrame": 1547,
+        "endFrame": 1553,
+        "probability": 0.994
+      },
+      {
+        "word": "ask",
+        "start": 51.78,
+        "end": 51.96,
+        "startFrame": 1553,
+        "endFrame": 1559,
+        "probability": 0.901
+      },
+      {
+        "word": "me",
+        "start": 51.96,
+        "end": 52.18,
+        "startFrame": 1559,
+        "endFrame": 1565,
+        "probability": 0.995
+      },
+      {
+        "word": "what",
+        "start": 52.18,
+        "end": 52.5,
+        "startFrame": 1565,
+        "endFrame": 1575,
+        "probability": 0.813
+      },
+      {
+        "word": "really",
+        "start": 52.5,
+        "end": 52.88,
+        "startFrame": 1575,
+        "endFrame": 1586,
+        "probability": 0.992
+      },
+      {
+        "word": "surprised",
+        "start": 52.88,
+        "end": 53.3,
+        "startFrame": 1586,
+        "endFrame": 1599,
+        "probability": 0.978
+      },
+      {
+        "word": "the",
+        "start": 53.3,
+        "end": 53.54,
+        "startFrame": 1599,
+        "endFrame": 1606,
+        "probability": 0.996
+      },
+      {
+        "word": "market,",
+        "start": 53.54,
+        "end": 53.9,
+        "startFrame": 1606,
+        "endFrame": 1617,
+        "probability": 0.995
+      },
+      {
+        "word": "it",
+        "start": 54.3,
+        "end": 54.4,
+        "startFrame": 1629,
+        "endFrame": 1632,
+        "probability": 0.929
+      },
+      {
+        "word": "was",
+        "start": 54.4,
+        "end": 54.62,
+        "startFrame": 1632,
+        "endFrame": 1639,
+        "probability": 0.999
+      },
+      {
+        "word": "extraordinary",
+        "start": 54.62,
+        "end": 55.26,
+        "startFrame": 1639,
+        "endFrame": 1658,
+        "probability": 0.941
+      },
+      {
+        "word": "performance",
+        "start": 55.26,
+        "end": 55.84,
+        "startFrame": 1658,
+        "endFrame": 1675,
+        "probability": 0.99
+      },
+      {
+        "word": "of",
+        "start": 55.84,
+        "end": 56.32,
+        "startFrame": 1675,
+        "endFrame": 1690,
+        "probability": 0.976
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "start": 56.32,
+    "end": 61.9,
+    "startFrame": 1690,
+    "endFrame": 1857,
+    "text": "the oil to chemical business supported by Jio and this is where I want to spend most",
+    "words": [
+      {
+        "word": "the",
+        "start": 56.32,
+        "end": 56.7,
+        "startFrame": 1690,
+        "endFrame": 1701,
+        "probability": 0.142
+      },
+      {
+        "word": "oil",
+        "start": 56.7,
+        "end": 56.72,
+        "startFrame": 1701,
+        "endFrame": 1702,
+        "probability": 0.706
+      },
+      {
+        "word": "to",
+        "start": 56.72,
+        "end": 56.88,
+        "startFrame": 1702,
+        "endFrame": 1706,
+        "probability": 0.851
+      },
+      {
+        "word": "chemical",
+        "start": 56.88,
+        "end": 57.2,
+        "startFrame": 1706,
+        "endFrame": 1716,
+        "probability": 0.927
+      },
+      {
+        "word": "business",
+        "start": 57.2,
+        "end": 57.66,
+        "startFrame": 1716,
+        "endFrame": 1730,
+        "probability": 0.958
+      },
+      {
+        "word": "supported",
+        "start": 57.66,
+        "end": 58.12,
+        "startFrame": 1730,
+        "endFrame": 1744,
+        "probability": 0.804
+      },
+      {
+        "word": "by",
+        "start": 58.12,
+        "end": 58.38,
+        "startFrame": 1744,
+        "endFrame": 1751,
+        "probability": 0.992
+      },
+      {
+        "word": "Jio",
+        "start": 58.38,
+        "end": 58.86,
+        "startFrame": 1751,
+        "endFrame": 1766,
+        "probability": 0.794
+      },
+      {
+        "word": "and",
+        "start": 58.86,
+        "end": 59.4,
+        "startFrame": 1766,
+        "endFrame": 1782,
+        "probability": 0.337
+      },
+      {
+        "word": "this",
+        "start": 59.4,
+        "end": 59.7,
+        "startFrame": 1782,
+        "endFrame": 1791,
+        "probability": 0.96
+      },
+      {
+        "word": "is",
+        "start": 59.7,
+        "end": 59.92,
+        "startFrame": 1791,
+        "endFrame": 1798,
+        "probability": 0.984
+      },
+      {
+        "word": "where",
+        "start": 59.92,
+        "end": 60.18,
+        "startFrame": 1798,
+        "endFrame": 1805,
+        "probability": 0.986
+      },
+      {
+        "word": "I",
+        "start": 60.18,
+        "end": 60.42,
+        "startFrame": 1805,
+        "endFrame": 1813,
+        "probability": 0.884
+      },
+      {
+        "word": "want",
+        "start": 60.42,
+        "end": 60.6,
+        "startFrame": 1813,
+        "endFrame": 1818,
+        "probability": 0.984
+      },
+      {
+        "word": "to",
+        "start": 60.6,
+        "end": 61.46,
+        "startFrame": 1818,
+        "endFrame": 1844,
+        "probability": 0.994
+      },
+      {
+        "word": "spend",
+        "start": 61.46,
+        "end": 61.46,
+        "startFrame": 1844,
+        "endFrame": 1844,
+        "probability": 0.995
+      },
+      {
+        "word": "most",
+        "start": 61.46,
+        "end": 61.9,
+        "startFrame": 1844,
+        "endFrame": 1857,
+        "probability": 0.965
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "start": 61.9,
+    "end": 67.22,
+    "startFrame": 1857,
+    "endFrame": 2017,
+    "text": "of our time in this video today because there is an interesting business story hidden inside",
+    "words": [
+      {
+        "word": "of",
+        "start": 61.9,
+        "end": 62.08,
+        "startFrame": 1857,
+        "endFrame": 1862,
+        "probability": 0.994
+      },
+      {
+        "word": "our",
+        "start": 62.08,
+        "end": 62.24,
+        "startFrame": 1862,
+        "endFrame": 1867,
+        "probability": 0.97
+      },
+      {
+        "word": "time",
+        "start": 62.24,
+        "end": 62.56,
+        "startFrame": 1867,
+        "endFrame": 1877,
+        "probability": 0.998
+      },
+      {
+        "word": "in",
+        "start": 62.56,
+        "end": 62.72,
+        "startFrame": 1877,
+        "endFrame": 1882,
+        "probability": 0.977
+      },
+      {
+        "word": "this",
+        "start": 62.72,
+        "end": 62.92,
+        "startFrame": 1882,
+        "endFrame": 1888,
+        "probability": 0.988
+      },
+      {
+        "word": "video",
+        "start": 62.92,
+        "end": 63.14,
+        "startFrame": 1888,
+        "endFrame": 1894,
+        "probability": 0.997
+      },
+      {
+        "word": "today",
+        "start": 63.14,
+        "end": 63.44,
+        "startFrame": 1894,
+        "endFrame": 1903,
+        "probability": 0.968
+      },
+      {
+        "word": "because",
+        "start": 63.44,
+        "end": 64.34,
+        "startFrame": 1903,
+        "endFrame": 1930,
+        "probability": 0.642
+      },
+      {
+        "word": "there",
+        "start": 64.34,
+        "end": 64.7,
+        "startFrame": 1930,
+        "endFrame": 1941,
+        "probability": 0.976
+      },
+      {
+        "word": "is",
+        "start": 64.7,
+        "end": 64.84,
+        "startFrame": 1941,
+        "endFrame": 1945,
+        "probability": 0.966
+      },
+      {
+        "word": "an",
+        "start": 64.84,
+        "end": 65.08,
+        "startFrame": 1945,
+        "endFrame": 1952,
+        "probability": 0.685
+      },
+      {
+        "word": "interesting",
+        "start": 65.08,
+        "end": 65.54,
+        "startFrame": 1952,
+        "endFrame": 1966,
+        "probability": 0.994
+      },
+      {
+        "word": "business",
+        "start": 65.54,
+        "end": 66.0,
+        "startFrame": 1966,
+        "endFrame": 1980,
+        "probability": 0.983
+      },
+      {
+        "word": "story",
+        "start": 66.0,
+        "end": 66.38,
+        "startFrame": 1980,
+        "endFrame": 1991,
+        "probability": 0.985
+      },
+      {
+        "word": "hidden",
+        "start": 66.38,
+        "end": 66.7,
+        "startFrame": 1991,
+        "endFrame": 2001,
+        "probability": 0.985
+      },
+      {
+        "word": "inside",
+        "start": 66.7,
+        "end": 67.22,
+        "startFrame": 2001,
+        "endFrame": 2017,
+        "probability": 0.989
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "start": 67.22,
+    "end": 67.92,
+    "startFrame": 2017,
+    "endFrame": 2038,
+    "text": "these numbers.",
+    "words": [
+      {
+        "word": "these",
+        "start": 67.22,
+        "end": 67.48,
+        "startFrame": 2017,
+        "endFrame": 2024,
+        "probability": 0.936
+      },
+      {
+        "word": "numbers.",
+        "start": 67.48,
+        "end": 67.92,
+        "startFrame": 2024,
+        "endFrame": 2038,
+        "probability": 0.998
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "start": 68.28,
+    "end": 70.38,
+    "startFrame": 2048,
+    "endFrame": 2111,
+    "text": "Let's first understand the basic economics.",
+    "words": [
+      {
+        "word": "Let's",
+        "start": 68.28,
+        "end": 68.54,
+        "startFrame": 2048,
+        "endFrame": 2056,
+        "probability": 0.931
+      },
+      {
+        "word": "first",
+        "start": 68.54,
+        "end": 68.72,
+        "startFrame": 2056,
+        "endFrame": 2062,
+        "probability": 0.982
+      },
+      {
+        "word": "understand",
+        "start": 68.72,
+        "end": 69.22,
+        "startFrame": 2062,
+        "endFrame": 2077,
+        "probability": 0.991
+      },
+      {
+        "word": "the",
+        "start": 69.22,
+        "end": 69.44,
+        "startFrame": 2077,
+        "endFrame": 2083,
+        "probability": 0.988
+      },
+      {
+        "word": "basic",
+        "start": 69.44,
+        "end": 69.72,
+        "startFrame": 2083,
+        "endFrame": 2092,
+        "probability": 0.978
+      },
+      {
+        "word": "economics.",
+        "start": 69.72,
+        "end": 70.38,
+        "startFrame": 2092,
+        "endFrame": 2111,
+        "probability": 0.975
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "start": 71.02,
+    "end": 76.04,
+    "startFrame": 2131,
+    "endFrame": 2281,
+    "text": "Reliance has one of the world's largest integrated refining and petrochemical complexes.",
+    "words": [
+      {
+        "word": "Reliance",
+        "start": 71.02,
+        "end": 71.16,
+        "startFrame": 2131,
+        "endFrame": 2135,
+        "probability": 0.896
+      },
+      {
+        "word": "has",
+        "start": 71.16,
+        "end": 71.56,
+        "startFrame": 2135,
+        "endFrame": 2147,
+        "probability": 0.986
+      },
+      {
+        "word": "one",
+        "start": 71.56,
+        "end": 71.88,
+        "startFrame": 2147,
+        "endFrame": 2156,
+        "probability": 0.98
+      },
+      {
+        "word": "of",
+        "start": 71.88,
+        "end": 72.02,
+        "startFrame": 2156,
+        "endFrame": 2161,
+        "probability": 0.999
+      },
+      {
+        "word": "the",
+        "start": 72.02,
+        "end": 72.32,
+        "startFrame": 2161,
+        "endFrame": 2170,
+        "probability": 0.998
+      },
+      {
+        "word": "world's",
+        "start": 72.32,
+        "end": 73.08,
+        "startFrame": 2170,
+        "endFrame": 2192,
+        "probability": 0.857
+      },
+      {
+        "word": "largest",
+        "start": 73.08,
+        "end": 73.22,
+        "startFrame": 2192,
+        "endFrame": 2197,
+        "probability": 0.998
+      },
+      {
+        "word": "integrated",
+        "start": 73.22,
+        "end": 74.0,
+        "startFrame": 2197,
+        "endFrame": 2220,
+        "probability": 0.946
+      },
+      {
+        "word": "refining",
+        "start": 74.0,
+        "end": 74.58,
+        "startFrame": 2220,
+        "endFrame": 2237,
+        "probability": 0.994
+      },
+      {
+        "word": "and",
+        "start": 74.58,
+        "end": 74.94,
+        "startFrame": 2237,
+        "endFrame": 2248,
+        "probability": 0.993
+      },
+      {
+        "word": "petrochemical",
+        "start": 74.94,
+        "end": 75.48,
+        "startFrame": 2248,
+        "endFrame": 2264,
+        "probability": 0.981
+      },
+      {
+        "word": "complexes.",
+        "start": 75.48,
+        "end": 76.04,
+        "startFrame": 2264,
+        "endFrame": 2281,
+        "probability": 0.969
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "start": 76.2,
+    "end": 82.14,
+    "startFrame": 2286,
+    "endFrame": 2464,
+    "text": "The company buys crude oil basically and processes it in the refineries and converts it into",
+    "words": [
+      {
+        "word": "The",
+        "start": 76.2,
+        "end": 76.36,
+        "startFrame": 2286,
+        "endFrame": 2291,
+        "probability": 0.964
+      },
+      {
+        "word": "company",
+        "start": 76.36,
+        "end": 76.84,
+        "startFrame": 2291,
+        "endFrame": 2305,
+        "probability": 0.989
+      },
+      {
+        "word": "buys",
+        "start": 76.84,
+        "end": 77.3,
+        "startFrame": 2305,
+        "endFrame": 2319,
+        "probability": 0.991
+      },
+      {
+        "word": "crude",
+        "start": 77.3,
+        "end": 77.6,
+        "startFrame": 2319,
+        "endFrame": 2328,
+        "probability": 0.996
+      },
+      {
+        "word": "oil",
+        "start": 77.6,
+        "end": 77.8,
+        "startFrame": 2328,
+        "endFrame": 2334,
+        "probability": 0.993
+      },
+      {
+        "word": "basically",
+        "start": 77.8,
+        "end": 78.32,
+        "startFrame": 2334,
+        "endFrame": 2350,
+        "probability": 0.931
+      },
+      {
+        "word": "and",
+        "start": 78.32,
+        "end": 78.8,
+        "startFrame": 2350,
+        "endFrame": 2364,
+        "probability": 0.939
+      },
+      {
+        "word": "processes",
+        "start": 78.8,
+        "end": 79.3,
+        "startFrame": 2364,
+        "endFrame": 2379,
+        "probability": 0.914
+      },
+      {
+        "word": "it",
+        "start": 79.3,
+        "end": 79.98,
+        "startFrame": 2379,
+        "endFrame": 2399,
+        "probability": 0.974
+      },
+      {
+        "word": "in",
+        "start": 79.98,
+        "end": 80.24,
+        "startFrame": 2399,
+        "endFrame": 2407,
+        "probability": 0.99
+      },
+      {
+        "word": "the",
+        "start": 80.24,
+        "end": 80.4,
+        "startFrame": 2407,
+        "endFrame": 2412,
+        "probability": 0.968
+      },
+      {
+        "word": "refineries",
+        "start": 80.4,
+        "end": 80.92,
+        "startFrame": 2412,
+        "endFrame": 2428,
+        "probability": 0.996
+      },
+      {
+        "word": "and",
+        "start": 80.92,
+        "end": 81.24,
+        "startFrame": 2428,
+        "endFrame": 2437,
+        "probability": 0.989
+      },
+      {
+        "word": "converts",
+        "start": 81.24,
+        "end": 81.6,
+        "startFrame": 2437,
+        "endFrame": 2448,
+        "probability": 0.987
+      },
+      {
+        "word": "it",
+        "start": 81.6,
+        "end": 81.9,
+        "startFrame": 2448,
+        "endFrame": 2457,
+        "probability": 0.994
+      },
+      {
+        "word": "into",
+        "start": 81.9,
+        "end": 82.14,
+        "startFrame": 2457,
+        "endFrame": 2464,
+        "probability": 0.993
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "start": 82.14,
+    "end": 87.66,
+    "startFrame": 2464,
+    "endFrame": 2630,
+    "text": "various products, petrol, diesel, aviation fuel and other petroleum products.",
+    "words": [
+      {
+        "word": "various",
+        "start": 82.14,
+        "end": 82.52,
+        "startFrame": 2464,
+        "endFrame": 2476,
+        "probability": 0.216
+      },
+      {
+        "word": "products,",
+        "start": 82.52,
+        "end": 83.22,
+        "startFrame": 2476,
+        "endFrame": 2497,
+        "probability": 0.971
+      },
+      {
+        "word": "petrol,",
+        "start": 83.42,
+        "end": 83.98,
+        "startFrame": 2503,
+        "endFrame": 2519,
+        "probability": 0.501
+      },
+      {
+        "word": "diesel,",
+        "start": 84.26,
+        "end": 84.72,
+        "startFrame": 2528,
+        "endFrame": 2542,
+        "probability": 0.973
+      },
+      {
+        "word": "aviation",
+        "start": 85.12,
+        "end": 85.44,
+        "startFrame": 2554,
+        "endFrame": 2563,
+        "probability": 0.96
+      },
+      {
+        "word": "fuel",
+        "start": 85.44,
+        "end": 85.94,
+        "startFrame": 2563,
+        "endFrame": 2578,
+        "probability": 0.813
+      },
+      {
+        "word": "and",
+        "start": 85.94,
+        "end": 86.48,
+        "startFrame": 2578,
+        "endFrame": 2594,
+        "probability": 0.729
+      },
+      {
+        "word": "other",
+        "start": 86.48,
+        "end": 86.7,
+        "startFrame": 2594,
+        "endFrame": 2601,
+        "probability": 0.951
+      },
+      {
+        "word": "petroleum",
+        "start": 86.7,
+        "end": 87.12,
+        "startFrame": 2601,
+        "endFrame": 2614,
+        "probability": 0.979
+      },
+      {
+        "word": "products.",
+        "start": 87.12,
+        "end": 87.66,
+        "startFrame": 2614,
+        "endFrame": 2630,
+        "probability": 0.988
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "start": 88.06,
+    "end": 94.82,
+    "startFrame": 2642,
+    "endFrame": 2845,
+    "text": "It also manufactures petroleum products that eventually go into plastics, polyester and",
+    "words": [
+      {
+        "word": "It",
+        "start": 88.06,
+        "end": 88.36,
+        "startFrame": 2642,
+        "endFrame": 2651,
+        "probability": 0.979
+      },
+      {
+        "word": "also",
+        "start": 88.36,
+        "end": 88.84,
+        "startFrame": 2651,
+        "endFrame": 2665,
+        "probability": 0.997
+      },
+      {
+        "word": "manufactures",
+        "start": 88.84,
+        "end": 89.7,
+        "startFrame": 2665,
+        "endFrame": 2691,
+        "probability": 0.964
+      },
+      {
+        "word": "petroleum",
+        "start": 89.7,
+        "end": 90.32,
+        "startFrame": 2691,
+        "endFrame": 2710,
+        "probability": 0.978
+      },
+      {
+        "word": "products",
+        "start": 90.32,
+        "end": 90.96,
+        "startFrame": 2710,
+        "endFrame": 2729,
+        "probability": 0.991
+      },
+      {
+        "word": "that",
+        "start": 90.96,
+        "end": 91.48,
+        "startFrame": 2729,
+        "endFrame": 2744,
+        "probability": 0.961
+      },
+      {
+        "word": "eventually",
+        "start": 91.48,
+        "end": 91.98,
+        "startFrame": 2744,
+        "endFrame": 2759,
+        "probability": 0.99
+      },
+      {
+        "word": "go",
+        "start": 91.98,
+        "end": 92.28,
+        "startFrame": 2759,
+        "endFrame": 2768,
+        "probability": 0.978
+      },
+      {
+        "word": "into",
+        "start": 92.28,
+        "end": 92.64,
+        "startFrame": 2768,
+        "endFrame": 2779,
+        "probability": 0.978
+      },
+      {
+        "word": "plastics,",
+        "start": 92.64,
+        "end": 93.42,
+        "startFrame": 2779,
+        "endFrame": 2803,
+        "probability": 0.99
+      },
+      {
+        "word": "polyester",
+        "start": 93.92,
+        "end": 94.32,
+        "startFrame": 2818,
+        "endFrame": 2830,
+        "probability": 0.986
+      },
+      {
+        "word": "and",
+        "start": 94.32,
+        "end": 94.82,
+        "startFrame": 2830,
+        "endFrame": 2845,
+        "probability": 0.877
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "start": 94.82,
+    "end": 96.04,
+    "startFrame": 2845,
+    "endFrame": 2881,
+    "text": "several other industries.",
+    "words": [
+      {
+        "word": "several",
+        "start": 94.82,
+        "end": 95.24,
+        "startFrame": 2845,
+        "endFrame": 2857,
+        "probability": 0.984
+      },
+      {
+        "word": "other",
+        "start": 95.24,
+        "end": 95.6,
+        "startFrame": 2857,
+        "endFrame": 2868,
+        "probability": 0.99
+      },
+      {
+        "word": "industries.",
+        "start": 95.6,
+        "end": 96.04,
+        "startFrame": 2868,
+        "endFrame": 2881,
+        "probability": 0.996
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "start": 96.32,
+    "end": 101.8,
+    "startFrame": 2890,
+    "endFrame": 3054,
+    "text": "Now imagine a situation where the global supply of these products suddenly becomes constrained.",
+    "words": [
+      {
+        "word": "Now",
+        "start": 96.32,
+        "end": 96.56,
+        "startFrame": 2890,
+        "endFrame": 2897,
+        "probability": 0.97
+      },
+      {
+        "word": "imagine",
+        "start": 96.56,
+        "end": 97.08,
+        "startFrame": 2897,
+        "endFrame": 2912,
+        "probability": 0.661
+      },
+      {
+        "word": "a",
+        "start": 97.08,
+        "end": 97.22,
+        "startFrame": 2912,
+        "endFrame": 2917,
+        "probability": 0.965
+      },
+      {
+        "word": "situation",
+        "start": 97.22,
+        "end": 97.92,
+        "startFrame": 2917,
+        "endFrame": 2938,
+        "probability": 0.998
+      },
+      {
+        "word": "where",
+        "start": 97.92,
+        "end": 98.32,
+        "startFrame": 2938,
+        "endFrame": 2950,
+        "probability": 0.926
+      },
+      {
+        "word": "the",
+        "start": 98.32,
+        "end": 98.66,
+        "startFrame": 2950,
+        "endFrame": 2960,
+        "probability": 0.985
+      },
+      {
+        "word": "global",
+        "start": 98.66,
+        "end": 99.0,
+        "startFrame": 2960,
+        "endFrame": 2970,
+        "probability": 0.998
+      },
+      {
+        "word": "supply",
+        "start": 99.0,
+        "end": 99.36,
+        "startFrame": 2970,
+        "endFrame": 2981,
+        "probability": 0.997
+      },
+      {
+        "word": "of",
+        "start": 99.36,
+        "end": 99.58,
+        "startFrame": 2981,
+        "endFrame": 2987,
+        "probability": 0.998
+      },
+      {
+        "word": "these",
+        "start": 99.58,
+        "end": 99.92,
+        "startFrame": 2987,
+        "endFrame": 2998,
+        "probability": 0.993
+      },
+      {
+        "word": "products",
+        "start": 99.92,
+        "end": 100.4,
+        "startFrame": 2998,
+        "endFrame": 3012,
+        "probability": 0.997
+      },
+      {
+        "word": "suddenly",
+        "start": 100.4,
+        "end": 100.92,
+        "startFrame": 3012,
+        "endFrame": 3028,
+        "probability": 0.988
+      },
+      {
+        "word": "becomes",
+        "start": 100.92,
+        "end": 101.26,
+        "startFrame": 3028,
+        "endFrame": 3038,
+        "probability": 0.981
+      },
+      {
+        "word": "constrained.",
+        "start": 101.26,
+        "end": 101.8,
+        "startFrame": 3038,
+        "endFrame": 3054,
+        "probability": 0.926
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "start": 102.69,
+    "end": 107.95,
+    "startFrame": 3081,
+    "endFrame": 3238,
+    "text": "Demand is still there but availability of this in the supply side is reducing.",
+    "words": [
+      {
+        "word": "Demand",
+        "start": 102.69,
+        "end": 103.11,
+        "startFrame": 3081,
+        "endFrame": 3093,
+        "probability": 0.992
+      },
+      {
+        "word": "is",
+        "start": 103.11,
+        "end": 103.39,
+        "startFrame": 3093,
+        "endFrame": 3102,
+        "probability": 0.997
+      },
+      {
+        "word": "still",
+        "start": 103.39,
+        "end": 103.61,
+        "startFrame": 3102,
+        "endFrame": 3108,
+        "probability": 0.998
+      },
+      {
+        "word": "there",
+        "start": 103.61,
+        "end": 103.91,
+        "startFrame": 3108,
+        "endFrame": 3117,
+        "probability": 0.997
+      },
+      {
+        "word": "but",
+        "start": 103.91,
+        "end": 104.53,
+        "startFrame": 3117,
+        "endFrame": 3136,
+        "probability": 0.245
+      },
+      {
+        "word": "availability",
+        "start": 104.53,
+        "end": 105.21,
+        "startFrame": 3136,
+        "endFrame": 3156,
+        "probability": 0.957
+      },
+      {
+        "word": "of",
+        "start": 105.21,
+        "end": 105.57,
+        "startFrame": 3156,
+        "endFrame": 3167,
+        "probability": 0.989
+      },
+      {
+        "word": "this",
+        "start": 105.57,
+        "end": 106.19,
+        "startFrame": 3167,
+        "endFrame": 3186,
+        "probability": 0.97
+      },
+      {
+        "word": "in",
+        "start": 106.19,
+        "end": 106.51,
+        "startFrame": 3186,
+        "endFrame": 3195,
+        "probability": 0.94
+      },
+      {
+        "word": "the",
+        "start": 106.51,
+        "end": 106.67,
+        "startFrame": 3195,
+        "endFrame": 3200,
+        "probability": 0.869
+      },
+      {
+        "word": "supply",
+        "start": 106.67,
+        "end": 106.93,
+        "startFrame": 3200,
+        "endFrame": 3208,
+        "probability": 0.988
+      },
+      {
+        "word": "side",
+        "start": 106.93,
+        "end": 107.15,
+        "startFrame": 3208,
+        "endFrame": 3214,
+        "probability": 0.947
+      },
+      {
+        "word": "is",
+        "start": 107.15,
+        "end": 107.49,
+        "startFrame": 3214,
+        "endFrame": 3225,
+        "probability": 0.995
+      },
+      {
+        "word": "reducing.",
+        "start": 107.49,
+        "end": 107.95,
+        "startFrame": 3225,
+        "endFrame": 3238,
+        "probability": 0.995
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "start": 108.51,
+    "end": 111.85,
+    "startFrame": 3255,
+    "endFrame": 3356,
+    "text": "What happens to the selling price of those products?",
+    "words": [
+      {
+        "word": "What",
+        "start": 108.51,
+        "end": 108.89,
+        "startFrame": 3255,
+        "endFrame": 3267,
+        "probability": 0.39
+      },
+      {
+        "word": "happens",
+        "start": 108.89,
+        "end": 109.39,
+        "startFrame": 3267,
+        "endFrame": 3282,
+        "probability": 0.976
+      },
+      {
+        "word": "to",
+        "start": 109.39,
+        "end": 109.63,
+        "startFrame": 3282,
+        "endFrame": 3289,
+        "probability": 0.991
+      },
+      {
+        "word": "the",
+        "start": 109.63,
+        "end": 109.73,
+        "startFrame": 3289,
+        "endFrame": 3292,
+        "probability": 0.969
+      },
+      {
+        "word": "selling",
+        "start": 109.73,
+        "end": 109.99,
+        "startFrame": 3292,
+        "endFrame": 3300,
+        "probability": 0.988
+      },
+      {
+        "word": "price",
+        "start": 109.99,
+        "end": 110.39,
+        "startFrame": 3300,
+        "endFrame": 3312,
+        "probability": 0.975
+      },
+      {
+        "word": "of",
+        "start": 110.39,
+        "end": 110.85,
+        "startFrame": 3312,
+        "endFrame": 3326,
+        "probability": 0.977
+      },
+      {
+        "word": "those",
+        "start": 110.85,
+        "end": 111.29,
+        "startFrame": 3326,
+        "endFrame": 3339,
+        "probability": 0.946
+      },
+      {
+        "word": "products?",
+        "start": 111.29,
+        "end": 111.85,
+        "startFrame": 3339,
+        "endFrame": 3356,
+        "probability": 0.992
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "start": 112.27,
+    "end": 117.23,
+    "startFrame": 3368,
+    "endFrame": 3517,
+    "text": "It can increase significantly and that is broadly what happened during this quarter.",
+    "words": [
+      {
+        "word": "It",
+        "start": 112.27,
+        "end": 112.27,
+        "startFrame": 3368,
+        "endFrame": 3368,
+        "probability": 0.909
+      },
+      {
+        "word": "can",
+        "start": 112.27,
+        "end": 112.57,
+        "startFrame": 3368,
+        "endFrame": 3377,
+        "probability": 0.977
+      },
+      {
+        "word": "increase",
+        "start": 112.57,
+        "end": 113.15,
+        "startFrame": 3377,
+        "endFrame": 3394,
+        "probability": 0.993
+      },
+      {
+        "word": "significantly",
+        "start": 113.15,
+        "end": 113.93,
+        "startFrame": 3394,
+        "endFrame": 3418,
+        "probability": 0.979
+      },
+      {
+        "word": "and",
+        "start": 113.93,
+        "end": 114.31,
+        "startFrame": 3418,
+        "endFrame": 3429,
+        "probability": 0.482
+      },
+      {
+        "word": "that",
+        "start": 114.31,
+        "end": 114.57,
+        "startFrame": 3429,
+        "endFrame": 3437,
+        "probability": 0.986
+      },
+      {
+        "word": "is",
+        "start": 114.57,
+        "end": 114.95,
+        "startFrame": 3437,
+        "endFrame": 3448,
+        "probability": 0.983
+      },
+      {
+        "word": "broadly",
+        "start": 114.95,
+        "end": 115.33,
+        "startFrame": 3448,
+        "endFrame": 3460,
+        "probability": 0.968
+      },
+      {
+        "word": "what",
+        "start": 115.33,
+        "end": 115.65,
+        "startFrame": 3460,
+        "endFrame": 3470,
+        "probability": 0.973
+      },
+      {
+        "word": "happened",
+        "start": 115.65,
+        "end": 116.05,
+        "startFrame": 3470,
+        "endFrame": 3482,
+        "probability": 0.99
+      },
+      {
+        "word": "during",
+        "start": 116.05,
+        "end": 116.43,
+        "startFrame": 3482,
+        "endFrame": 3493,
+        "probability": 0.946
+      },
+      {
+        "word": "this",
+        "start": 116.43,
+        "end": 116.77,
+        "startFrame": 3493,
+        "endFrame": 3503,
+        "probability": 0.991
+      },
+      {
+        "word": "quarter.",
+        "start": 116.77,
+        "end": 117.23,
+        "startFrame": 3503,
+        "endFrame": 3517,
+        "probability": 0.994
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "start": 117.65,
+    "end": 122.69,
+    "startFrame": 3530,
+    "endFrame": 3681,
+    "text": "Because of the geopolitical disruption in the Middle East and Russia, several refining",
+    "words": [
+      {
+        "word": "Because",
+        "start": 117.65,
+        "end": 117.85,
+        "startFrame": 3530,
+        "endFrame": 3536,
+        "probability": 0.932
+      },
+      {
+        "word": "of",
+        "start": 117.85,
+        "end": 118.07,
+        "startFrame": 3536,
+        "endFrame": 3542,
+        "probability": 0.997
+      },
+      {
+        "word": "the",
+        "start": 118.07,
+        "end": 118.19,
+        "startFrame": 3542,
+        "endFrame": 3546,
+        "probability": 0.976
+      },
+      {
+        "word": "geopolitical",
+        "start": 118.19,
+        "end": 118.81,
+        "startFrame": 3546,
+        "endFrame": 3564,
+        "probability": 0.952
+      },
+      {
+        "word": "disruption",
+        "start": 118.81,
+        "end": 119.39,
+        "startFrame": 3564,
+        "endFrame": 3582,
+        "probability": 0.986
+      },
+      {
+        "word": "in",
+        "start": 119.39,
+        "end": 119.77,
+        "startFrame": 3582,
+        "endFrame": 3593,
+        "probability": 0.962
+      },
+      {
+        "word": "the",
+        "start": 119.77,
+        "end": 119.93,
+        "startFrame": 3593,
+        "endFrame": 3598,
+        "probability": 0.99
+      },
+      {
+        "word": "Middle",
+        "start": 119.93,
+        "end": 120.17,
+        "startFrame": 3598,
+        "endFrame": 3605,
+        "probability": 0.757
+      },
+      {
+        "word": "East",
+        "start": 120.17,
+        "end": 120.39,
+        "startFrame": 3605,
+        "endFrame": 3612,
+        "probability": 0.975
+      },
+      {
+        "word": "and",
+        "start": 120.39,
+        "end": 120.65,
+        "startFrame": 3612,
+        "endFrame": 3620,
+        "probability": 0.991
+      },
+      {
+        "word": "Russia,",
+        "start": 120.65,
+        "end": 121.17,
+        "startFrame": 3620,
+        "endFrame": 3635,
+        "probability": 0.988
+      },
+      {
+        "word": "several",
+        "start": 121.67,
+        "end": 122.01,
+        "startFrame": 3650,
+        "endFrame": 3660,
+        "probability": 0.97
+      },
+      {
+        "word": "refining",
+        "start": 122.01,
+        "end": 122.69,
+        "startFrame": 3660,
+        "endFrame": 3681,
+        "probability": 0.997
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "start": 122.69,
+    "end": 127.89,
+    "startFrame": 3681,
+    "endFrame": 3837,
+    "text": "operations were affected completely like there were some bombs that was going into Russian",
+    "words": [
+      {
+        "word": "operations",
+        "start": 122.69,
+        "end": 123.33,
+        "startFrame": 3681,
+        "endFrame": 3700,
+        "probability": 0.672
+      },
+      {
+        "word": "were",
+        "start": 123.33,
+        "end": 123.79,
+        "startFrame": 3700,
+        "endFrame": 3714,
+        "probability": 0.974
+      },
+      {
+        "word": "affected",
+        "start": 123.79,
+        "end": 124.19,
+        "startFrame": 3714,
+        "endFrame": 3726,
+        "probability": 0.968
+      },
+      {
+        "word": "completely",
+        "start": 124.19,
+        "end": 124.89,
+        "startFrame": 3726,
+        "endFrame": 3747,
+        "probability": 0.98
+      },
+      {
+        "word": "like",
+        "start": 124.89,
+        "end": 125.47,
+        "startFrame": 3747,
+        "endFrame": 3764,
+        "probability": 0.314
+      },
+      {
+        "word": "there",
+        "start": 125.47,
+        "end": 125.79,
+        "startFrame": 3764,
+        "endFrame": 3774,
+        "probability": 0.845
+      },
+      {
+        "word": "were",
+        "start": 125.79,
+        "end": 126.17,
+        "startFrame": 3774,
+        "endFrame": 3785,
+        "probability": 0.97
+      },
+      {
+        "word": "some",
+        "start": 126.17,
+        "end": 126.51,
+        "startFrame": 3785,
+        "endFrame": 3795,
+        "probability": 0.985
+      },
+      {
+        "word": "bombs",
+        "start": 126.51,
+        "end": 126.71,
+        "startFrame": 3795,
+        "endFrame": 3801,
+        "probability": 0.964
+      },
+      {
+        "word": "that",
+        "start": 126.71,
+        "end": 126.89,
+        "startFrame": 3801,
+        "endFrame": 3807,
+        "probability": 0.908
+      },
+      {
+        "word": "was",
+        "start": 126.89,
+        "end": 127.11,
+        "startFrame": 3807,
+        "endFrame": 3813,
+        "probability": 0.688
+      },
+      {
+        "word": "going",
+        "start": 127.11,
+        "end": 127.35,
+        "startFrame": 3813,
+        "endFrame": 3820,
+        "probability": 0.995
+      },
+      {
+        "word": "into",
+        "start": 127.35,
+        "end": 127.57,
+        "startFrame": 3820,
+        "endFrame": 3827,
+        "probability": 0.934
+      },
+      {
+        "word": "Russian",
+        "start": 127.57,
+        "end": 127.89,
+        "startFrame": 3827,
+        "endFrame": 3837,
+        "probability": 0.944
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "start": 127.89,
+    "end": 129.59,
+    "startFrame": 3837,
+    "endFrame": 3888,
+    "text": "refineries including that.",
+    "words": [
+      {
+        "word": "refineries",
+        "start": 127.89,
+        "end": 128.69,
+        "startFrame": 3837,
+        "endFrame": 3861,
+        "probability": 0.993
+      },
+      {
+        "word": "including",
+        "start": 128.69,
+        "end": 129.09,
+        "startFrame": 3861,
+        "endFrame": 3873,
+        "probability": 0.473
+      },
+      {
+        "word": "that.",
+        "start": 129.09,
+        "end": 129.59,
+        "startFrame": 3873,
+        "endFrame": 3888,
+        "probability": 0.99
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "start": 129.89,
+    "end": 134.11,
+    "startFrame": 3897,
+    "endFrame": 4023,
+    "text": "The movement of crude oil and the finished products was also disrupted.",
+    "words": [
+      {
+        "word": "The",
+        "start": 129.89,
+        "end": 130.07,
+        "startFrame": 3897,
+        "endFrame": 3902,
+        "probability": 0.971
+      },
+      {
+        "word": "movement",
+        "start": 130.07,
+        "end": 130.23,
+        "startFrame": 3902,
+        "endFrame": 3907,
+        "probability": 0.911
+      },
+      {
+        "word": "of",
+        "start": 130.23,
+        "end": 130.59,
+        "startFrame": 3907,
+        "endFrame": 3918,
+        "probability": 0.998
+      },
+      {
+        "word": "crude",
+        "start": 130.59,
+        "end": 130.83,
+        "startFrame": 3918,
+        "endFrame": 3925,
+        "probability": 0.997
+      },
+      {
+        "word": "oil",
+        "start": 130.83,
+        "end": 131.27,
+        "startFrame": 3925,
+        "endFrame": 3938,
+        "probability": 0.992
+      },
+      {
+        "word": "and",
+        "start": 131.27,
+        "end": 131.61,
+        "startFrame": 3938,
+        "endFrame": 3948,
+        "probability": 0.981
+      },
+      {
+        "word": "the",
+        "start": 131.61,
+        "end": 131.75,
+        "startFrame": 3948,
+        "endFrame": 3952,
+        "probability": 0.886
+      },
+      {
+        "word": "finished",
+        "start": 131.75,
+        "end": 131.95,
+        "startFrame": 3952,
+        "endFrame": 3958,
+        "probability": 0.894
+      },
+      {
+        "word": "products",
+        "start": 131.95,
+        "end": 132.53,
+        "startFrame": 3958,
+        "endFrame": 3976,
+        "probability": 0.942
+      },
+      {
+        "word": "was",
+        "start": 132.53,
+        "end": 133.11,
+        "startFrame": 3976,
+        "endFrame": 3993,
+        "probability": 0.979
+      },
+      {
+        "word": "also",
+        "start": 133.11,
+        "end": 133.59,
+        "startFrame": 3993,
+        "endFrame": 4008,
+        "probability": 0.999
+      },
+      {
+        "word": "disrupted.",
+        "start": 133.59,
+        "end": 134.11,
+        "startFrame": 4008,
+        "endFrame": 4023,
+        "probability": 0.996
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "start": 134.11,
+    "end": 140.41,
+    "startFrame": 4023,
+    "endFrame": 4212,
+    "text": "Inventories of important petroleum products came down drastically and global refining",
+    "words": [
+      {
+        "word": "Inventories",
+        "start": 134.11,
+        "end": 135.19,
+        "startFrame": 4023,
+        "endFrame": 4056,
+        "probability": 0.924
+      },
+      {
+        "word": "of",
+        "start": 135.19,
+        "end": 135.57,
+        "startFrame": 4056,
+        "endFrame": 4067,
+        "probability": 0.996
+      },
+      {
+        "word": "important",
+        "start": 135.57,
+        "end": 135.99,
+        "startFrame": 4067,
+        "endFrame": 4080,
+        "probability": 0.933
+      },
+      {
+        "word": "petroleum",
+        "start": 135.99,
+        "end": 136.55,
+        "startFrame": 4080,
+        "endFrame": 4096,
+        "probability": 0.951
+      },
+      {
+        "word": "products",
+        "start": 136.55,
+        "end": 137.15,
+        "startFrame": 4096,
+        "endFrame": 4114,
+        "probability": 0.994
+      },
+      {
+        "word": "came",
+        "start": 137.15,
+        "end": 137.69,
+        "startFrame": 4114,
+        "endFrame": 4131,
+        "probability": 0.98
+      },
+      {
+        "word": "down",
+        "start": 137.69,
+        "end": 137.97,
+        "startFrame": 4131,
+        "endFrame": 4139,
+        "probability": 0.997
+      },
+      {
+        "word": "drastically",
+        "start": 137.97,
+        "end": 138.65,
+        "startFrame": 4139,
+        "endFrame": 4160,
+        "probability": 0.988
+      },
+      {
+        "word": "and",
+        "start": 138.65,
+        "end": 139.59,
+        "startFrame": 4160,
+        "endFrame": 4188,
+        "probability": 0.544
+      },
+      {
+        "word": "global",
+        "start": 139.59,
+        "end": 139.95,
+        "startFrame": 4188,
+        "endFrame": 4198,
+        "probability": 0.802
+      },
+      {
+        "word": "refining",
+        "start": 139.95,
+        "end": 140.41,
+        "startFrame": 4198,
+        "endFrame": 4212,
+        "probability": 0.996
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "start": 140.41,
+    "end": 145.77,
+    "startFrame": 4212,
+    "endFrame": 4373,
+    "text": "margin started expanding dramatically because of this demand and supply mismatch.",
+    "words": [
+      {
+        "word": "margin",
+        "start": 140.41,
+        "end": 141.03,
+        "startFrame": 4212,
+        "endFrame": 4231,
+        "probability": 0.871
+      },
+      {
+        "word": "started",
+        "start": 141.03,
+        "end": 141.49,
+        "startFrame": 4231,
+        "endFrame": 4245,
+        "probability": 0.964
+      },
+      {
+        "word": "expanding",
+        "start": 141.49,
+        "end": 142.15,
+        "startFrame": 4245,
+        "endFrame": 4264,
+        "probability": 0.994
+      },
+      {
+        "word": "dramatically",
+        "start": 142.15,
+        "end": 142.91,
+        "startFrame": 4264,
+        "endFrame": 4287,
+        "probability": 0.942
+      },
+      {
+        "word": "because",
+        "start": 142.91,
+        "end": 143.57,
+        "startFrame": 4287,
+        "endFrame": 4307,
+        "probability": 0.961
+      },
+      {
+        "word": "of",
+        "start": 143.57,
+        "end": 144.03,
+        "startFrame": 4307,
+        "endFrame": 4321,
+        "probability": 0.993
+      },
+      {
+        "word": "this",
+        "start": 144.03,
+        "end": 144.35,
+        "startFrame": 4321,
+        "endFrame": 4330,
+        "probability": 0.941
+      },
+      {
+        "word": "demand",
+        "start": 144.35,
+        "end": 144.57,
+        "startFrame": 4330,
+        "endFrame": 4337,
+        "probability": 0.956
+      },
+      {
+        "word": "and",
+        "start": 144.57,
+        "end": 144.83,
+        "startFrame": 4337,
+        "endFrame": 4345,
+        "probability": 0.938
+      },
+      {
+        "word": "supply",
+        "start": 144.83,
+        "end": 145.01,
+        "startFrame": 4345,
+        "endFrame": 4350,
+        "probability": 0.995
+      },
+      {
+        "word": "mismatch.",
+        "start": 145.01,
+        "end": 145.77,
+        "startFrame": 4350,
+        "endFrame": 4373,
+        "probability": 0.992
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "start": 146.05,
+    "end": 150.79,
+    "startFrame": 4382,
+    "endFrame": 4524,
+    "text": "Reliance management said gasoline cracks were approximately three times higher than the",
+    "words": [
+      {
+        "word": "Reliance",
+        "start": 146.05,
+        "end": 146.19,
+        "startFrame": 4382,
+        "endFrame": 4386,
+        "probability": 0.739
+      },
+      {
+        "word": "management",
+        "start": 146.19,
+        "end": 146.73,
+        "startFrame": 4386,
+        "endFrame": 4402,
+        "probability": 0.936
+      },
+      {
+        "word": "said",
+        "start": 146.73,
+        "end": 147.13,
+        "startFrame": 4402,
+        "endFrame": 4414,
+        "probability": 0.894
+      },
+      {
+        "word": "gasoline",
+        "start": 147.13,
+        "end": 147.87,
+        "startFrame": 4414,
+        "endFrame": 4436,
+        "probability": 0.859
+      },
+      {
+        "word": "cracks",
+        "start": 147.87,
+        "end": 148.25,
+        "startFrame": 4436,
+        "endFrame": 4448,
+        "probability": 0.888
+      },
+      {
+        "word": "were",
+        "start": 148.25,
+        "end": 148.51,
+        "startFrame": 4448,
+        "endFrame": 4455,
+        "probability": 0.963
+      },
+      {
+        "word": "approximately",
+        "start": 148.51,
+        "end": 149.27,
+        "startFrame": 4455,
+        "endFrame": 4478,
+        "probability": 0.939
+      },
+      {
+        "word": "three",
+        "start": 149.27,
+        "end": 149.67,
+        "startFrame": 4478,
+        "endFrame": 4490,
+        "probability": 0.528
+      },
+      {
+        "word": "times",
+        "start": 149.67,
+        "end": 150.03,
+        "startFrame": 4490,
+        "endFrame": 4501,
+        "probability": 0.996
+      },
+      {
+        "word": "higher",
+        "start": 150.03,
+        "end": 150.37,
+        "startFrame": 4501,
+        "endFrame": 4511,
+        "probability": 0.99
+      },
+      {
+        "word": "than",
+        "start": 150.37,
+        "end": 150.51,
+        "startFrame": 4511,
+        "endFrame": 4515,
+        "probability": 0.997
+      },
+      {
+        "word": "the",
+        "start": 150.51,
+        "end": 150.79,
+        "startFrame": 4515,
+        "endFrame": 4524,
+        "probability": 0.953
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "start": 150.79,
+    "end": 158.31,
+    "startFrame": 4524,
+    "endFrame": 4749,
+    "text": "previous year, diesel cracks were around 3.5 times higher and aviation fuel cracks were",
+    "words": [
+      {
+        "word": "previous",
+        "start": 150.79,
+        "end": 151.09,
+        "startFrame": 4524,
+        "endFrame": 4533,
+        "probability": 0.998
+      },
+      {
+        "word": "year,",
+        "start": 151.09,
+        "end": 151.51,
+        "startFrame": 4533,
+        "endFrame": 4545,
+        "probability": 0.996
+      },
+      {
+        "word": "diesel",
+        "start": 152.11,
+        "end": 152.57,
+        "startFrame": 4563,
+        "endFrame": 4577,
+        "probability": 0.964
+      },
+      {
+        "word": "cracks",
+        "start": 152.57,
+        "end": 153.21,
+        "startFrame": 4577,
+        "endFrame": 4596,
+        "probability": 0.981
+      },
+      {
+        "word": "were",
+        "start": 153.21,
+        "end": 153.69,
+        "startFrame": 4596,
+        "endFrame": 4611,
+        "probability": 0.913
+      },
+      {
+        "word": "around",
+        "start": 153.69,
+        "end": 154.03,
+        "startFrame": 4611,
+        "endFrame": 4621,
+        "probability": 0.98
+      },
+      {
+        "word": "3",
+        "start": 154.03,
+        "end": 154.29,
+        "startFrame": 4621,
+        "endFrame": 4629,
+        "probability": 0.943
+      },
+      {
+        "word": ".5",
+        "start": 154.29,
+        "end": 154.77,
+        "startFrame": 4629,
+        "endFrame": 4643,
+        "probability": 0.997
+      },
+      {
+        "word": "times",
+        "start": 154.77,
+        "end": 155.17,
+        "startFrame": 4643,
+        "endFrame": 4655,
+        "probability": 0.958
+      },
+      {
+        "word": "higher",
+        "start": 155.17,
+        "end": 155.63,
+        "startFrame": 4655,
+        "endFrame": 4669,
+        "probability": 0.994
+      },
+      {
+        "word": "and",
+        "start": 155.63,
+        "end": 156.57,
+        "startFrame": 4669,
+        "endFrame": 4697,
+        "probability": 0.798
+      },
+      {
+        "word": "aviation",
+        "start": 156.57,
+        "end": 157.17,
+        "startFrame": 4697,
+        "endFrame": 4715,
+        "probability": 0.969
+      },
+      {
+        "word": "fuel",
+        "start": 157.17,
+        "end": 157.53,
+        "startFrame": 4715,
+        "endFrame": 4726,
+        "probability": 0.994
+      },
+      {
+        "word": "cracks",
+        "start": 157.53,
+        "end": 157.89,
+        "startFrame": 4726,
+        "endFrame": 4737,
+        "probability": 0.987
+      },
+      {
+        "word": "were",
+        "start": 157.89,
+        "end": 158.31,
+        "startFrame": 4737,
+        "endFrame": 4749,
+        "probability": 0.911
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "start": 158.31,
+    "end": 160.61,
+    "startFrame": 4749,
+    "endFrame": 4818,
+    "text": "approximately 3.7 times higher.",
+    "words": [
+      {
+        "word": "approximately",
+        "start": 158.31,
+        "end": 159.01,
+        "startFrame": 4749,
+        "endFrame": 4770,
+        "probability": 0.983
+      },
+      {
+        "word": "3",
+        "start": 159.01,
+        "end": 159.37,
+        "startFrame": 4770,
+        "endFrame": 4781,
+        "probability": 0.987
+      },
+      {
+        "word": ".7",
+        "start": 159.37,
+        "end": 159.99,
+        "startFrame": 4781,
+        "endFrame": 4800,
+        "probability": 0.998
+      },
+      {
+        "word": "times",
+        "start": 159.99,
+        "end": 160.29,
+        "startFrame": 4800,
+        "endFrame": 4809,
+        "probability": 0.994
+      },
+      {
+        "word": "higher.",
+        "start": 160.29,
+        "end": 160.61,
+        "startFrame": 4809,
+        "endFrame": 4818,
+        "probability": 0.996
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "start": 161.05,
+    "end": 163.89,
+    "startFrame": 4832,
+    "endFrame": 4917,
+    "text": "Let me explain what a crack spread means.",
+    "words": [
+      {
+        "word": "Let",
+        "start": 161.05,
+        "end": 161.39,
+        "startFrame": 4832,
+        "endFrame": 4842,
+        "probability": 0.739
+      },
+      {
+        "word": "me",
+        "start": 161.39,
+        "end": 161.61,
+        "startFrame": 4842,
+        "endFrame": 4848,
+        "probability": 0.99
+      },
+      {
+        "word": "explain",
+        "start": 161.61,
+        "end": 161.87,
+        "startFrame": 4848,
+        "endFrame": 4856,
+        "probability": 0.989
+      },
+      {
+        "word": "what",
+        "start": 161.87,
+        "end": 162.25,
+        "startFrame": 4856,
+        "endFrame": 4868,
+        "probability": 0.941
+      },
+      {
+        "word": "a",
+        "start": 162.25,
+        "end": 162.53,
+        "startFrame": 4868,
+        "endFrame": 4876,
+        "probability": 0.915
+      },
+      {
+        "word": "crack",
+        "start": 162.53,
+        "end": 162.87,
+        "startFrame": 4876,
+        "endFrame": 4886,
+        "probability": 0.683
+      },
+      {
+        "word": "spread",
+        "start": 162.87,
+        "end": 163.21,
+        "startFrame": 4886,
+        "endFrame": 4896,
+        "probability": 0.931
+      },
+      {
+        "word": "means.",
+        "start": 163.21,
+        "end": 163.89,
+        "startFrame": 4896,
+        "endFrame": 4917,
+        "probability": 0.982
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "start": 164.31,
+    "end": 169.23,
+    "startFrame": 4929,
+    "endFrame": 5077,
+    "text": "Suppose a refinery purchases crude oil and converts it into a petrol or diesel.",
+    "words": [
+      {
+        "word": "Suppose",
+        "start": 164.31,
+        "end": 164.65,
+        "startFrame": 4929,
+        "endFrame": 4940,
+        "probability": 0.956
+      },
+      {
+        "word": "a",
+        "start": 164.65,
+        "end": 164.93,
+        "startFrame": 4940,
+        "endFrame": 4948,
+        "probability": 0.862
+      },
+      {
+        "word": "refinery",
+        "start": 164.93,
+        "end": 165.35,
+        "startFrame": 4948,
+        "endFrame": 4960,
+        "probability": 0.99
+      },
+      {
+        "word": "purchases",
+        "start": 165.35,
+        "end": 165.91,
+        "startFrame": 4960,
+        "endFrame": 4977,
+        "probability": 0.979
+      },
+      {
+        "word": "crude",
+        "start": 165.91,
+        "end": 166.29,
+        "startFrame": 4977,
+        "endFrame": 4989,
+        "probability": 0.976
+      },
+      {
+        "word": "oil",
+        "start": 166.29,
+        "end": 166.61,
+        "startFrame": 4989,
+        "endFrame": 4998,
+        "probability": 0.992
+      },
+      {
+        "word": "and",
+        "start": 166.61,
+        "end": 167.09,
+        "startFrame": 4998,
+        "endFrame": 5013,
+        "probability": 0.864
+      },
+      {
+        "word": "converts",
+        "start": 167.09,
+        "end": 167.49,
+        "startFrame": 5013,
+        "endFrame": 5025,
+        "probability": 0.987
+      },
+      {
+        "word": "it",
+        "start": 167.49,
+        "end": 167.79,
+        "startFrame": 5025,
+        "endFrame": 5034,
+        "probability": 0.977
+      },
+      {
+        "word": "into",
+        "start": 167.79,
+        "end": 168.05,
+        "startFrame": 5034,
+        "endFrame": 5042,
+        "probability": 0.959
+      },
+      {
+        "word": "a",
+        "start": 168.05,
+        "end": 168.23,
+        "startFrame": 5042,
+        "endFrame": 5047,
+        "probability": 0.698
+      },
+      {
+        "word": "petrol",
+        "start": 168.23,
+        "end": 168.59,
+        "startFrame": 5047,
+        "endFrame": 5058,
+        "probability": 0.982
+      },
+      {
+        "word": "or",
+        "start": 168.59,
+        "end": 168.89,
+        "startFrame": 5058,
+        "endFrame": 5067,
+        "probability": 0.974
+      },
+      {
+        "word": "diesel.",
+        "start": 168.89,
+        "end": 169.23,
+        "startFrame": 5067,
+        "endFrame": 5077,
+        "probability": 0.991
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "start": 169.59,
+    "end": 174.67,
+    "startFrame": 5088,
+    "endFrame": 5240,
+    "text": "The difference between the selling value of the finished product and the cost of crude",
+    "words": [
+      {
+        "word": "The",
+        "start": 169.59,
+        "end": 169.71,
+        "startFrame": 5088,
+        "endFrame": 5091,
+        "probability": 0.968
+      },
+      {
+        "word": "difference",
+        "start": 169.71,
+        "end": 170.13,
+        "startFrame": 5091,
+        "endFrame": 5104,
+        "probability": 0.991
+      },
+      {
+        "word": "between",
+        "start": 170.13,
+        "end": 170.69,
+        "startFrame": 5104,
+        "endFrame": 5121,
+        "probability": 0.996
+      },
+      {
+        "word": "the",
+        "start": 170.69,
+        "end": 171.13,
+        "startFrame": 5121,
+        "endFrame": 5134,
+        "probability": 0.941
+      },
+      {
+        "word": "selling",
+        "start": 171.13,
+        "end": 171.41,
+        "startFrame": 5134,
+        "endFrame": 5142,
+        "probability": 0.984
+      },
+      {
+        "word": "value",
+        "start": 171.41,
+        "end": 171.81,
+        "startFrame": 5142,
+        "endFrame": 5154,
+        "probability": 0.987
+      },
+      {
+        "word": "of",
+        "start": 171.81,
+        "end": 172.11,
+        "startFrame": 5154,
+        "endFrame": 5163,
+        "probability": 0.996
+      },
+      {
+        "word": "the",
+        "start": 172.11,
+        "end": 172.27,
+        "startFrame": 5163,
+        "endFrame": 5168,
+        "probability": 0.941
+      },
+      {
+        "word": "finished",
+        "start": 172.27,
+        "end": 172.51,
+        "startFrame": 5168,
+        "endFrame": 5175,
+        "probability": 0.994
+      },
+      {
+        "word": "product",
+        "start": 172.51,
+        "end": 173.05,
+        "startFrame": 5175,
+        "endFrame": 5192,
+        "probability": 0.989
+      },
+      {
+        "word": "and",
+        "start": 173.05,
+        "end": 173.63,
+        "startFrame": 5192,
+        "endFrame": 5209,
+        "probability": 0.967
+      },
+      {
+        "word": "the",
+        "start": 173.63,
+        "end": 173.91,
+        "startFrame": 5209,
+        "endFrame": 5217,
+        "probability": 0.928
+      },
+      {
+        "word": "cost",
+        "start": 173.91,
+        "end": 174.15,
+        "startFrame": 5217,
+        "endFrame": 5224,
+        "probability": 0.996
+      },
+      {
+        "word": "of",
+        "start": 174.15,
+        "end": 174.47,
+        "startFrame": 5224,
+        "endFrame": 5234,
+        "probability": 0.998
+      },
+      {
+        "word": "crude",
+        "start": 174.47,
+        "end": 174.67,
+        "startFrame": 5234,
+        "endFrame": 5240,
+        "probability": 0.995
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "start": 174.67,
+    "end": 177.15,
+    "startFrame": 5240,
+    "endFrame": 5314,
+    "text": "is broadly called as crack spread.",
+    "words": [
+      {
+        "word": "is",
+        "start": 174.67,
+        "end": 174.93,
+        "startFrame": 5240,
+        "endFrame": 5248,
+        "probability": 0.968
+      },
+      {
+        "word": "broadly",
+        "start": 174.93,
+        "end": 175.55,
+        "startFrame": 5248,
+        "endFrame": 5266,
+        "probability": 0.991
+      },
+      {
+        "word": "called",
+        "start": 175.55,
+        "end": 176.07,
+        "startFrame": 5266,
+        "endFrame": 5282,
+        "probability": 0.992
+      },
+      {
+        "word": "as",
+        "start": 176.07,
+        "end": 176.49,
+        "startFrame": 5282,
+        "endFrame": 5295,
+        "probability": 0.855
+      },
+      {
+        "word": "crack",
+        "start": 176.49,
+        "end": 176.79,
+        "startFrame": 5295,
+        "endFrame": 5304,
+        "probability": 0.647
+      },
+      {
+        "word": "spread.",
+        "start": 176.79,
+        "end": 177.15,
+        "startFrame": 5304,
+        "endFrame": 5314,
+        "probability": 0.965
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "start": 177.89,
+    "end": 183.97,
+    "startFrame": 5337,
+    "endFrame": 5519,
+    "text": "This is not the final profit of the refinery because you still have operating cost, transportation",
+    "words": [
+      {
+        "word": "This",
+        "start": 177.89,
+        "end": 178.07,
+        "startFrame": 5337,
+        "endFrame": 5342,
+        "probability": 0.976
+      },
+      {
+        "word": "is",
+        "start": 178.07,
+        "end": 178.25,
+        "startFrame": 5342,
+        "endFrame": 5348,
+        "probability": 0.994
+      },
+      {
+        "word": "not",
+        "start": 178.25,
+        "end": 178.55,
+        "startFrame": 5348,
+        "endFrame": 5356,
+        "probability": 0.995
+      },
+      {
+        "word": "the",
+        "start": 178.55,
+        "end": 178.77,
+        "startFrame": 5356,
+        "endFrame": 5363,
+        "probability": 0.986
+      },
+      {
+        "word": "final",
+        "start": 178.77,
+        "end": 179.23,
+        "startFrame": 5363,
+        "endFrame": 5377,
+        "probability": 0.99
+      },
+      {
+        "word": "profit",
+        "start": 179.23,
+        "end": 179.63,
+        "startFrame": 5377,
+        "endFrame": 5389,
+        "probability": 0.992
+      },
+      {
+        "word": "of",
+        "start": 179.63,
+        "end": 179.81,
+        "startFrame": 5389,
+        "endFrame": 5394,
+        "probability": 0.983
+      },
+      {
+        "word": "the",
+        "start": 179.81,
+        "end": 179.97,
+        "startFrame": 5394,
+        "endFrame": 5399,
+        "probability": 0.966
+      },
+      {
+        "word": "refinery",
+        "start": 179.97,
+        "end": 180.45,
+        "startFrame": 5399,
+        "endFrame": 5414,
+        "probability": 0.996
+      },
+      {
+        "word": "because",
+        "start": 180.45,
+        "end": 181.13,
+        "startFrame": 5414,
+        "endFrame": 5434,
+        "probability": 0.704
+      },
+      {
+        "word": "you",
+        "start": 181.13,
+        "end": 181.45,
+        "startFrame": 5434,
+        "endFrame": 5444,
+        "probability": 0.969
+      },
+      {
+        "word": "still",
+        "start": 181.45,
+        "end": 181.79,
+        "startFrame": 5444,
+        "endFrame": 5454,
+        "probability": 0.976
+      },
+      {
+        "word": "have",
+        "start": 181.79,
+        "end": 182.23,
+        "startFrame": 5454,
+        "endFrame": 5467,
+        "probability": 0.993
+      },
+      {
+        "word": "operating",
+        "start": 182.23,
+        "end": 182.65,
+        "startFrame": 5467,
+        "endFrame": 5480,
+        "probability": 0.922
+      },
+      {
+        "word": "cost,",
+        "start": 182.65,
+        "end": 183.13,
+        "startFrame": 5480,
+        "endFrame": 5494,
+        "probability": 0.776
+      },
+      {
+        "word": "transportation",
+        "start": 183.29,
+        "end": 183.97,
+        "startFrame": 5499,
+        "endFrame": 5519,
+        "probability": 0.954
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "start": 183.97,
+    "end": 189.59,
+    "startFrame": 5519,
+    "endFrame": 5688,
+    "text": "and energy cost and other expenses that put together gives some other expense also for",
+    "words": [
+      {
+        "word": "and",
+        "start": 183.97,
+        "end": 185.01,
+        "startFrame": 5519,
+        "endFrame": 5550,
+        "probability": 0.528
+      },
+      {
+        "word": "energy",
+        "start": 185.01,
+        "end": 185.65,
+        "startFrame": 5550,
+        "endFrame": 5570,
+        "probability": 0.774
+      },
+      {
+        "word": "cost",
+        "start": 185.65,
+        "end": 186.01,
+        "startFrame": 5570,
+        "endFrame": 5580,
+        "probability": 0.735
+      },
+      {
+        "word": "and",
+        "start": 186.01,
+        "end": 186.23,
+        "startFrame": 5580,
+        "endFrame": 5587,
+        "probability": 0.89
+      },
+      {
+        "word": "other",
+        "start": 186.23,
+        "end": 186.45,
+        "startFrame": 5587,
+        "endFrame": 5594,
+        "probability": 0.929
+      },
+      {
+        "word": "expenses",
+        "start": 186.45,
+        "end": 186.85,
+        "startFrame": 5594,
+        "endFrame": 5606,
+        "probability": 0.995
+      },
+      {
+        "word": "that",
+        "start": 186.85,
+        "end": 187.23,
+        "startFrame": 5606,
+        "endFrame": 5617,
+        "probability": 0.947
+      },
+      {
+        "word": "put",
+        "start": 187.23,
+        "end": 187.41,
+        "startFrame": 5617,
+        "endFrame": 5622,
+        "probability": 0.92
+      },
+      {
+        "word": "together",
+        "start": 187.41,
+        "end": 187.77,
+        "startFrame": 5622,
+        "endFrame": 5633,
+        "probability": 0.994
+      },
+      {
+        "word": "gives",
+        "start": 187.77,
+        "end": 188.11,
+        "startFrame": 5633,
+        "endFrame": 5643,
+        "probability": 0.449
+      },
+      {
+        "word": "some",
+        "start": 188.11,
+        "end": 188.47,
+        "startFrame": 5643,
+        "endFrame": 5654,
+        "probability": 0.981
+      },
+      {
+        "word": "other",
+        "start": 188.47,
+        "end": 188.75,
+        "startFrame": 5654,
+        "endFrame": 5662,
+        "probability": 0.979
+      },
+      {
+        "word": "expense",
+        "start": 188.75,
+        "end": 189.01,
+        "startFrame": 5662,
+        "endFrame": 5670,
+        "probability": 0.859
+      },
+      {
+        "word": "also",
+        "start": 189.01,
+        "end": 189.43,
+        "startFrame": 5670,
+        "endFrame": 5683,
+        "probability": 0.967
+      },
+      {
+        "word": "for",
+        "start": 189.43,
+        "end": 189.59,
+        "startFrame": 5683,
+        "endFrame": 5688,
+        "probability": 0.984
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "start": 189.59,
+    "end": 190.09,
+    "startFrame": 5688,
+    "endFrame": 5703,
+    "text": "the refinery.",
+    "words": [
+      {
+        "word": "the",
+        "start": 189.59,
+        "end": 189.75,
+        "startFrame": 5688,
+        "endFrame": 5692,
+        "probability": 0.98
+      },
+      {
+        "word": "refinery.",
+        "start": 189.75,
+        "end": 190.09,
+        "startFrame": 5692,
+        "endFrame": 5703,
+        "probability": 0.997
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "start": 190.09,
+    "end": 197.09,
+    "startFrame": 5703,
+    "endFrame": 5913,
+    "text": "But still when the difference increases substantially the refinery has an opportunity to make significant",
+    "words": [
+      {
+        "word": "But",
+        "start": 190.09,
+        "end": 190.59,
+        "startFrame": 5703,
+        "endFrame": 5718,
+        "probability": 0.676
+      },
+      {
+        "word": "still",
+        "start": 190.59,
+        "end": 191.19,
+        "startFrame": 5718,
+        "endFrame": 5736,
+        "probability": 0.837
+      },
+      {
+        "word": "when",
+        "start": 191.19,
+        "end": 191.69,
+        "startFrame": 5736,
+        "endFrame": 5751,
+        "probability": 0.385
+      },
+      {
+        "word": "the",
+        "start": 191.69,
+        "end": 191.95,
+        "startFrame": 5751,
+        "endFrame": 5758,
+        "probability": 0.985
+      },
+      {
+        "word": "difference",
+        "start": 191.95,
+        "end": 192.19,
+        "startFrame": 5758,
+        "endFrame": 5766,
+        "probability": 0.977
+      },
+      {
+        "word": "increases",
+        "start": 192.19,
+        "end": 192.75,
+        "startFrame": 5766,
+        "endFrame": 5782,
+        "probability": 0.981
+      },
+      {
+        "word": "substantially",
+        "start": 192.75,
+        "end": 193.59,
+        "startFrame": 5782,
+        "endFrame": 5808,
+        "probability": 0.958
+      },
+      {
+        "word": "the",
+        "start": 193.59,
+        "end": 193.95,
+        "startFrame": 5808,
+        "endFrame": 5818,
+        "probability": 0.535
+      },
+      {
+        "word": "refinery",
+        "start": 193.95,
+        "end": 194.33,
+        "startFrame": 5818,
+        "endFrame": 5830,
+        "probability": 0.992
+      },
+      {
+        "word": "has",
+        "start": 194.33,
+        "end": 194.71,
+        "startFrame": 5830,
+        "endFrame": 5841,
+        "probability": 0.995
+      },
+      {
+        "word": "an",
+        "start": 194.71,
+        "end": 194.95,
+        "startFrame": 5841,
+        "endFrame": 5848,
+        "probability": 0.966
+      },
+      {
+        "word": "opportunity",
+        "start": 194.95,
+        "end": 195.43,
+        "startFrame": 5848,
+        "endFrame": 5863,
+        "probability": 0.992
+      },
+      {
+        "word": "to",
+        "start": 195.43,
+        "end": 196.15,
+        "startFrame": 5863,
+        "endFrame": 5884,
+        "probability": 0.995
+      },
+      {
+        "word": "make",
+        "start": 196.15,
+        "end": 196.43,
+        "startFrame": 5884,
+        "endFrame": 5893,
+        "probability": 0.968
+      },
+      {
+        "word": "significant",
+        "start": 196.43,
+        "end": 197.09,
+        "startFrame": 5893,
+        "endFrame": 5913,
+        "probability": 0.975
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "start": 197.09,
+    "end": 202.89,
+    "startFrame": 5913,
+    "endFrame": 6087,
+    "text": "more money than what it actually made previously and Reliance was in the position to capture",
+    "words": [
+      {
+        "word": "more",
+        "start": 197.09,
+        "end": 197.71,
+        "startFrame": 5913,
+        "endFrame": 5931,
+        "probability": 0.992
+      },
+      {
+        "word": "money",
+        "start": 197.71,
+        "end": 198.21,
+        "startFrame": 5931,
+        "endFrame": 5946,
+        "probability": 0.996
+      },
+      {
+        "word": "than",
+        "start": 198.21,
+        "end": 198.43,
+        "startFrame": 5946,
+        "endFrame": 5953,
+        "probability": 0.937
+      },
+      {
+        "word": "what",
+        "start": 198.43,
+        "end": 198.67,
+        "startFrame": 5953,
+        "endFrame": 5960,
+        "probability": 0.994
+      },
+      {
+        "word": "it",
+        "start": 198.67,
+        "end": 198.91,
+        "startFrame": 5960,
+        "endFrame": 5967,
+        "probability": 0.984
+      },
+      {
+        "word": "actually",
+        "start": 198.91,
+        "end": 199.15,
+        "startFrame": 5967,
+        "endFrame": 5974,
+        "probability": 0.973
+      },
+      {
+        "word": "made",
+        "start": 199.15,
+        "end": 199.39,
+        "startFrame": 5974,
+        "endFrame": 5982,
+        "probability": 0.966
+      },
+      {
+        "word": "previously",
+        "start": 199.39,
+        "end": 199.89,
+        "startFrame": 5982,
+        "endFrame": 5997,
+        "probability": 0.987
+      },
+      {
+        "word": "and",
+        "start": 199.89,
+        "end": 200.65,
+        "startFrame": 5997,
+        "endFrame": 6020,
+        "probability": 0.566
+      },
+      {
+        "word": "Reliance",
+        "start": 200.65,
+        "end": 201.07,
+        "startFrame": 6020,
+        "endFrame": 6032,
+        "probability": 0.931
+      },
+      {
+        "word": "was",
+        "start": 201.07,
+        "end": 201.43,
+        "startFrame": 6032,
+        "endFrame": 6043,
+        "probability": 0.985
+      },
+      {
+        "word": "in",
+        "start": 201.43,
+        "end": 201.59,
+        "startFrame": 6043,
+        "endFrame": 6048,
+        "probability": 0.993
+      },
+      {
+        "word": "the",
+        "start": 201.59,
+        "end": 201.67,
+        "startFrame": 6048,
+        "endFrame": 6050,
+        "probability": 0.958
+      },
+      {
+        "word": "position",
+        "start": 201.67,
+        "end": 202.13,
+        "startFrame": 6050,
+        "endFrame": 6064,
+        "probability": 0.993
+      },
+      {
+        "word": "to",
+        "start": 202.13,
+        "end": 202.51,
+        "startFrame": 6064,
+        "endFrame": 6075,
+        "probability": 0.998
+      },
+      {
+        "word": "capture",
+        "start": 202.51,
+        "end": 202.89,
+        "startFrame": 6075,
+        "endFrame": 6087,
+        "probability": 0.997
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "start": 202.89,
+    "end": 203.83,
+    "startFrame": 6087,
+    "endFrame": 6115,
+    "text": "that opportunity.",
+    "words": [
+      {
+        "word": "that",
+        "start": 202.89,
+        "end": 203.23,
+        "startFrame": 6087,
+        "endFrame": 6097,
+        "probability": 0.998
+      },
+      {
+        "word": "opportunity.",
+        "start": 203.23,
+        "end": 203.83,
+        "startFrame": 6097,
+        "endFrame": 6115,
+        "probability": 0.995
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "start": 204.15,
+    "end": 206.97,
+    "startFrame": 6124,
+    "endFrame": 6209,
+    "text": "But wait, there is something more interesting than this.",
+    "words": [
+      {
+        "word": "But",
+        "start": 204.15,
+        "end": 204.25,
+        "startFrame": 6124,
+        "endFrame": 6128,
+        "probability": 0.971
+      },
+      {
+        "word": "wait,",
+        "start": 204.25,
+        "end": 204.55,
+        "startFrame": 6128,
+        "endFrame": 6136,
+        "probability": 0.981
+      },
+      {
+        "word": "there",
+        "start": 204.81,
+        "end": 204.89,
+        "startFrame": 6144,
+        "endFrame": 6147,
+        "probability": 0.974
+      },
+      {
+        "word": "is",
+        "start": 204.89,
+        "end": 205.09,
+        "startFrame": 6147,
+        "endFrame": 6153,
+        "probability": 0.967
+      },
+      {
+        "word": "something",
+        "start": 205.09,
+        "end": 205.39,
+        "startFrame": 6153,
+        "endFrame": 6162,
+        "probability": 0.996
+      },
+      {
+        "word": "more",
+        "start": 205.39,
+        "end": 205.89,
+        "startFrame": 6162,
+        "endFrame": 6177,
+        "probability": 0.998
+      },
+      {
+        "word": "interesting",
+        "start": 205.89,
+        "end": 206.47,
+        "startFrame": 6177,
+        "endFrame": 6194,
+        "probability": 0.997
+      },
+      {
+        "word": "than",
+        "start": 206.47,
+        "end": 206.75,
+        "startFrame": 6194,
+        "endFrame": 6202,
+        "probability": 0.981
+      },
+      {
+        "word": "this.",
+        "start": 206.75,
+        "end": 206.97,
+        "startFrame": 6202,
+        "endFrame": 6209,
+        "probability": 0.997
+      }
+    ]
+  }
+]

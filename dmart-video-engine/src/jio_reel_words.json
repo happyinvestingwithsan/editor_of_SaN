@@ -1,0 +1,2754 @@
+[
+  {
+    "word": "biggest",
+    "start": 0.607,
+    "end": 1.147,
+    "frame_start": 18,
+    "frame_end": 34,
+    "segment_index": 0
+  },
+  {
+    "word": "IPO",
+    "start": 1.147,
+    "end": 1.667,
+    "frame_start": 34,
+    "frame_end": 50,
+    "segment_index": 0
+  },
+  {
+    "word": "in",
+    "start": 1.667,
+    "end": 2.107,
+    "frame_start": 50,
+    "frame_end": 63,
+    "segment_index": 0
+  },
+  {
+    "word": "the",
+    "start": 2.107,
+    "end": 2.207,
+    "frame_start": 63,
+    "frame_end": 66,
+    "segment_index": 0
+  },
+  {
+    "word": "history,",
+    "start": 2.207,
+    "end": 2.607,
+    "frame_start": 66,
+    "frame_end": 78,
+    "segment_index": 0
+  },
+  {
+    "word": "the",
+    "start": 2.987,
+    "end": 3.047,
+    "frame_start": 90,
+    "frame_end": 91,
+    "segment_index": 0
+  },
+  {
+    "word": "30",
+    "start": 3.047,
+    "end": 3.407,
+    "frame_start": 91,
+    "frame_end": 102,
+    "segment_index": 0
+  },
+  {
+    "word": ",000",
+    "start": 3.407,
+    "end": 3.807,
+    "frame_start": 102,
+    "frame_end": 114,
+    "segment_index": 0
+  },
+  {
+    "word": "crore",
+    "start": 3.807,
+    "end": 4.327,
+    "frame_start": 114,
+    "frame_end": 130,
+    "segment_index": 0
+  },
+  {
+    "word": "GEO",
+    "start": 4.327,
+    "end": 4.727,
+    "frame_start": 130,
+    "frame_end": 142,
+    "segment_index": 0
+  },
+  {
+    "word": "platform",
+    "start": 4.727,
+    "end": 5.107,
+    "frame_start": 142,
+    "frame_end": 153,
+    "segment_index": 0
+  },
+  {
+    "word": "is",
+    "start": 5.107,
+    "end": 5.507,
+    "frame_start": 153,
+    "frame_end": 165,
+    "segment_index": 0
+  },
+  {
+    "word": "opening.",
+    "start": 5.507,
+    "end": 5.867,
+    "frame_start": 165,
+    "frame_end": 176,
+    "segment_index": 0
+  },
+  {
+    "word": "But",
+    "start": 6.133,
+    "end": 6.327,
+    "frame_start": 184,
+    "frame_end": 190,
+    "segment_index": 1
+  },
+  {
+    "word": "is",
+    "start": 6.327,
+    "end": 6.847,
+    "frame_start": 190,
+    "frame_end": 205,
+    "segment_index": 1
+  },
+  {
+    "word": "this",
+    "start": 6.847,
+    "end": 7.027,
+    "frame_start": 205,
+    "frame_end": 211,
+    "segment_index": 1
+  },
+  {
+    "word": "another",
+    "start": 7.027,
+    "end": 7.327,
+    "frame_start": 211,
+    "frame_end": 220,
+    "segment_index": 1
+  },
+  {
+    "word": "paytm",
+    "start": 7.327,
+    "end": 8.007,
+    "frame_start": 220,
+    "frame_end": 240,
+    "segment_index": 1
+  },
+  {
+    "word": "or",
+    "start": 8.007,
+    "end": 8.287,
+    "frame_start": 240,
+    "frame_end": 249,
+    "segment_index": 1
+  },
+  {
+    "word": "Swiggy",
+    "start": 8.287,
+    "end": 8.627,
+    "frame_start": 249,
+    "frame_end": 259,
+    "segment_index": 1
+  },
+  {
+    "word": "trap",
+    "start": 8.627,
+    "end": 8.987,
+    "frame_start": 259,
+    "frame_end": 270,
+    "segment_index": 1
+  },
+  {
+    "word": "that",
+    "start": 8.987,
+    "end": 9.407,
+    "frame_start": 270,
+    "frame_end": 282,
+    "segment_index": 1
+  },
+  {
+    "word": "crashes",
+    "start": 9.407,
+    "end": 9.767,
+    "frame_start": 282,
+    "frame_end": 293,
+    "segment_index": 1
+  },
+  {
+    "word": "50",
+    "start": 9.767,
+    "end": 10.227,
+    "frame_start": 293,
+    "frame_end": 307,
+    "segment_index": 1
+  },
+  {
+    "word": "%",
+    "start": 10.227,
+    "end": 10.607,
+    "frame_start": 307,
+    "frame_end": 318,
+    "segment_index": 1
+  },
+  {
+    "word": "after",
+    "start": 10.607,
+    "end": 11.047,
+    "frame_start": 318,
+    "frame_end": 331,
+    "segment_index": 1
+  },
+  {
+    "word": "listing",
+    "start": 11.047,
+    "end": 11.387,
+    "frame_start": 331,
+    "frame_end": 342,
+    "segment_index": 1
+  },
+  {
+    "word": "or",
+    "start": 11.387,
+    "end": 12.127,
+    "frame_start": 342,
+    "frame_end": 364,
+    "segment_index": 1
+  },
+  {
+    "word": "is",
+    "start": 12.127,
+    "end": 12.407,
+    "frame_start": 364,
+    "frame_end": 372,
+    "segment_index": 1
+  },
+  {
+    "word": "it",
+    "start": 12.407,
+    "end": 12.527,
+    "frame_start": 372,
+    "frame_end": 376,
+    "segment_index": 1
+  },
+  {
+    "word": "genuinely",
+    "start": 12.527,
+    "end": 12.947,
+    "frame_start": 376,
+    "frame_end": 388,
+    "segment_index": 1
+  },
+  {
+    "word": "good?",
+    "start": 12.947,
+    "end": 13.267,
+    "frame_start": 388,
+    "frame_end": 398,
+    "segment_index": 1
+  },
+  {
+    "word": "Here",
+    "start": 13.927,
+    "end": 14.087,
+    "frame_start": 418,
+    "frame_end": 423,
+    "segment_index": 1
+  },
+  {
+    "word": "is",
+    "start": 14.087,
+    "end": 14.227,
+    "frame_start": 423,
+    "frame_end": 427,
+    "segment_index": 1
+  },
+  {
+    "word": "a",
+    "start": 14.227,
+    "end": 14.307,
+    "frame_start": 427,
+    "frame_end": 429,
+    "segment_index": 1
+  },
+  {
+    "word": "400",
+    "start": 14.307,
+    "end": 14.807,
+    "frame_start": 429,
+    "frame_end": 444,
+    "segment_index": 1
+  },
+  {
+    "word": "page",
+    "start": 14.807,
+    "end": 15.207,
+    "frame_start": 444,
+    "frame_end": 456,
+    "segment_index": 1
+  },
+  {
+    "word": "DRHP",
+    "start": 15.207,
+    "end": 16.027,
+    "frame_start": 456,
+    "frame_end": 481,
+    "segment_index": 1
+  },
+  {
+    "word": "breakdown",
+    "start": 16.027,
+    "end": 16.587,
+    "frame_start": 481,
+    "frame_end": 498,
+    "segment_index": 1
+  },
+  {
+    "word": "in",
+    "start": 16.587,
+    "end": 17.047,
+    "frame_start": 498,
+    "frame_end": 511,
+    "segment_index": 1
+  },
+  {
+    "word": "90",
+    "start": 17.047,
+    "end": 17.287,
+    "frame_start": 511,
+    "frame_end": 519,
+    "segment_index": 1
+  },
+  {
+    "word": "seconds.",
+    "start": 17.287,
+    "end": 17.647,
+    "frame_start": 519,
+    "frame_end": 529,
+    "segment_index": 1
+  },
+  {
+    "word": "First,",
+    "start": 17.8,
+    "end": 18.14,
+    "frame_start": 534,
+    "frame_end": 544,
+    "segment_index": 2
+  },
+  {
+    "word": "the",
+    "start": 18.44,
+    "end": 18.46,
+    "frame_start": 553,
+    "frame_end": 554,
+    "segment_index": 2
+  },
+  {
+    "word": "balance",
+    "start": 18.46,
+    "end": 18.7,
+    "frame_start": 554,
+    "frame_end": 561,
+    "segment_index": 2
+  },
+  {
+    "word": "sheet.",
+    "start": 18.7,
+    "end": 19.08,
+    "frame_start": 561,
+    "frame_end": 572,
+    "segment_index": 2
+  },
+  {
+    "word": "In",
+    "start": 19.42,
+    "end": 19.54,
+    "frame_start": 583,
+    "frame_end": 586,
+    "segment_index": 2
+  },
+  {
+    "word": "the",
+    "start": 19.54,
+    "end": 19.64,
+    "frame_start": 586,
+    "frame_end": 589,
+    "segment_index": 2
+  },
+  {
+    "word": "past",
+    "start": 19.64,
+    "end": 19.94,
+    "frame_start": 589,
+    "frame_end": 598,
+    "segment_index": 2
+  },
+  {
+    "word": "tech",
+    "start": 19.94,
+    "end": 20.16,
+    "frame_start": 598,
+    "frame_end": 605,
+    "segment_index": 2
+  },
+  {
+    "word": "IPOs,",
+    "start": 20.16,
+    "end": 20.74,
+    "frame_start": 605,
+    "frame_end": 622,
+    "segment_index": 2
+  },
+  {
+    "word": "early",
+    "start": 20.98,
+    "end": 21.2,
+    "frame_start": 629,
+    "frame_end": 636,
+    "segment_index": 2
+  },
+  {
+    "word": "investors",
+    "start": 21.2,
+    "end": 21.6,
+    "frame_start": 636,
+    "frame_end": 648,
+    "segment_index": 2
+  },
+  {
+    "word": "dumped",
+    "start": 21.6,
+    "end": 22.08,
+    "frame_start": 648,
+    "frame_end": 662,
+    "segment_index": 2
+  },
+  {
+    "word": "loss",
+    "start": 22.08,
+    "end": 22.38,
+    "frame_start": 662,
+    "frame_end": 671,
+    "segment_index": 2
+  },
+  {
+    "word": "-making",
+    "start": 22.38,
+    "end": 22.68,
+    "frame_start": 671,
+    "frame_end": 680,
+    "segment_index": 2
+  },
+  {
+    "word": "shares",
+    "start": 22.68,
+    "end": 23.06,
+    "frame_start": 680,
+    "frame_end": 692,
+    "segment_index": 2
+  },
+  {
+    "word": "through",
+    "start": 23.06,
+    "end": 23.52,
+    "frame_start": 692,
+    "frame_end": 706,
+    "segment_index": 2
+  },
+  {
+    "word": "offer",
+    "start": 23.52,
+    "end": 24.18,
+    "frame_start": 706,
+    "frame_end": 725,
+    "segment_index": 2
+  },
+  {
+    "word": "for",
+    "start": 24.18,
+    "end": 24.38,
+    "frame_start": 725,
+    "frame_end": 731,
+    "segment_index": 2
+  },
+  {
+    "word": "sale",
+    "start": 24.38,
+    "end": 24.62,
+    "frame_start": 731,
+    "frame_end": 739,
+    "segment_index": 2
+  },
+  {
+    "word": "to",
+    "start": 24.62,
+    "end": 25.12,
+    "frame_start": 739,
+    "frame_end": 754,
+    "segment_index": 2
+  },
+  {
+    "word": "cash",
+    "start": 25.12,
+    "end": 25.46,
+    "frame_start": 754,
+    "frame_end": 764,
+    "segment_index": 2
+  },
+  {
+    "word": "out",
+    "start": 25.46,
+    "end": 25.82,
+    "frame_start": 764,
+    "frame_end": 775,
+    "segment_index": 2
+  },
+  {
+    "word": "their",
+    "start": 25.82,
+    "end": 26.18,
+    "frame_start": 775,
+    "frame_end": 785,
+    "segment_index": 2
+  },
+  {
+    "word": "investment.",
+    "start": 26.18,
+    "end": 26.62,
+    "frame_start": 785,
+    "frame_end": 799,
+    "segment_index": 2
+  },
+  {
+    "word": "In",
+    "start": 27.04,
+    "end": 27.2,
+    "frame_start": 811,
+    "frame_end": 816,
+    "segment_index": 2
+  },
+  {
+    "word": "GEO,",
+    "start": 27.2,
+    "end": 27.56,
+    "frame_start": 816,
+    "frame_end": 827,
+    "segment_index": 2
+  },
+  {
+    "word": "there",
+    "start": 27.56,
+    "end": 27.96,
+    "frame_start": 827,
+    "frame_end": 839,
+    "segment_index": 2
+  },
+  {
+    "word": "is",
+    "start": 27.96,
+    "end": 28.12,
+    "frame_start": 839,
+    "frame_end": 844,
+    "segment_index": 2
+  },
+  {
+    "word": "0",
+    "start": 28.12,
+    "end": 28.44,
+    "frame_start": 844,
+    "frame_end": 853,
+    "segment_index": 2
+  },
+  {
+    "word": "%",
+    "start": 28.44,
+    "end": 28.9,
+    "frame_start": 853,
+    "frame_end": 867,
+    "segment_index": 2
+  },
+  {
+    "word": "of",
+    "start": 28.9,
+    "end": 29.3,
+    "frame_start": 867,
+    "frame_end": 879,
+    "segment_index": 2
+  },
+  {
+    "word": "offer",
+    "start": 29.3,
+    "end": 29.68,
+    "frame_start": 879,
+    "frame_end": 890,
+    "segment_index": 2
+  },
+  {
+    "word": "for",
+    "start": 29.68,
+    "end": 29.84,
+    "frame_start": 890,
+    "frame_end": 895,
+    "segment_index": 2
+  },
+  {
+    "word": "sale.",
+    "start": 29.84,
+    "end": 30.12,
+    "frame_start": 895,
+    "frame_end": 904,
+    "segment_index": 2
+  },
+  {
+    "word": "Even",
+    "start": 30.7,
+    "end": 30.7,
+    "frame_start": 921,
+    "frame_end": 921,
+    "segment_index": 2
+  },
+  {
+    "word": "Meta",
+    "start": 30.7,
+    "end": 31.26,
+    "frame_start": 921,
+    "frame_end": 938,
+    "segment_index": 2
+  },
+  {
+    "word": "and",
+    "start": 31.26,
+    "end": 31.52,
+    "frame_start": 938,
+    "frame_end": 946,
+    "segment_index": 2
+  },
+  {
+    "word": "Google",
+    "start": 31.52,
+    "end": 31.84,
+    "frame_start": 946,
+    "frame_end": 955,
+    "segment_index": 2
+  },
+  {
+    "word": "are",
+    "start": 31.84,
+    "end": 32.24,
+    "frame_start": 955,
+    "frame_end": 967,
+    "segment_index": 2
+  },
+  {
+    "word": "not",
+    "start": 32.24,
+    "end": 32.48,
+    "frame_start": 967,
+    "frame_end": 974,
+    "segment_index": 2
+  },
+  {
+    "word": "selling",
+    "start": 32.48,
+    "end": 32.82,
+    "frame_start": 974,
+    "frame_end": 985,
+    "segment_index": 2
+  },
+  {
+    "word": "single",
+    "start": 32.82,
+    "end": 33.32,
+    "frame_start": 985,
+    "frame_end": 1000,
+    "segment_index": 2
+  },
+  {
+    "word": "share.",
+    "start": 33.32,
+    "end": 33.66,
+    "frame_start": 1000,
+    "frame_end": 1010,
+    "segment_index": 2
+  },
+  {
+    "word": "100",
+    "start": 34.18,
+    "end": 34.5,
+    "frame_start": 1025,
+    "frame_end": 1035,
+    "segment_index": 2
+  },
+  {
+    "word": "%",
+    "start": 34.5,
+    "end": 34.96,
+    "frame_start": 1035,
+    "frame_end": 1049,
+    "segment_index": 2
+  },
+  {
+    "word": "of",
+    "start": 34.96,
+    "end": 35.4,
+    "frame_start": 1049,
+    "frame_end": 1062,
+    "segment_index": 2
+  },
+  {
+    "word": "this",
+    "start": 35.4,
+    "end": 35.8,
+    "frame_start": 1062,
+    "frame_end": 1074,
+    "segment_index": 2
+  },
+  {
+    "word": "30",
+    "start": 35.8,
+    "end": 36.32,
+    "frame_start": 1074,
+    "frame_end": 1090,
+    "segment_index": 2
+  },
+  {
+    "word": ",000",
+    "start": 36.32,
+    "end": 36.72,
+    "frame_start": 1090,
+    "frame_end": 1102,
+    "segment_index": 2
+  },
+  {
+    "word": "crore",
+    "start": 36.72,
+    "end": 37.06,
+    "frame_start": 1102,
+    "frame_end": 1112,
+    "segment_index": 2
+  },
+  {
+    "word": "is",
+    "start": 37.06,
+    "end": 37.26,
+    "frame_start": 1112,
+    "frame_end": 1118,
+    "segment_index": 2
+  },
+  {
+    "word": "fresh",
+    "start": 37.26,
+    "end": 37.76,
+    "frame_start": 1118,
+    "frame_end": 1133,
+    "segment_index": 2
+  },
+  {
+    "word": "issue",
+    "start": 37.76,
+    "end": 38.32,
+    "frame_start": 1133,
+    "frame_end": 1150,
+    "segment_index": 2
+  },
+  {
+    "word": "capital",
+    "start": 38.32,
+    "end": 38.74,
+    "frame_start": 1150,
+    "frame_end": 1162,
+    "segment_index": 2
+  },
+  {
+    "word": "with",
+    "start": 38.74,
+    "end": 39.4,
+    "frame_start": 1162,
+    "frame_end": 1182,
+    "segment_index": 2
+  },
+  {
+    "word": "27",
+    "start": 39.4,
+    "end": 40.06,
+    "frame_start": 1182,
+    "frame_end": 1202,
+    "segment_index": 2
+  },
+  {
+    "word": ",500",
+    "start": 40.06,
+    "end": 40.86,
+    "frame_start": 1202,
+    "frame_end": 1226,
+    "segment_index": 2
+  },
+  {
+    "word": "crore",
+    "start": 40.86,
+    "end": 41.72,
+    "frame_start": 1226,
+    "frame_end": 1252,
+    "segment_index": 2
+  },
+  {
+    "word": "going",
+    "start": 41.72,
+    "end": 42.14,
+    "frame_start": 1252,
+    "frame_end": 1264,
+    "segment_index": 2
+  },
+  {
+    "word": "directly",
+    "start": 42.14,
+    "end": 42.76,
+    "frame_start": 1264,
+    "frame_end": 1283,
+    "segment_index": 2
+  },
+  {
+    "word": "to",
+    "start": 42.76,
+    "end": 43.02,
+    "frame_start": 1283,
+    "frame_end": 1291,
+    "segment_index": 2
+  },
+  {
+    "word": "prepay",
+    "start": 43.02,
+    "end": 43.52,
+    "frame_start": 1291,
+    "frame_end": 1306,
+    "segment_index": 2
+  },
+  {
+    "word": "the",
+    "start": 43.52,
+    "end": 43.64,
+    "frame_start": 1306,
+    "frame_end": 1309,
+    "segment_index": 2
+  },
+  {
+    "word": "bank",
+    "start": 43.64,
+    "end": 43.96,
+    "frame_start": 1309,
+    "frame_end": 1319,
+    "segment_index": 2
+  },
+  {
+    "word": "borrowings",
+    "start": 43.96,
+    "end": 44.5,
+    "frame_start": 1319,
+    "frame_end": 1335,
+    "segment_index": 2
+  },
+  {
+    "word": "that",
+    "start": 44.5,
+    "end": 44.9,
+    "frame_start": 1335,
+    "frame_end": 1347,
+    "segment_index": 2
+  },
+  {
+    "word": "wipes",
+    "start": 44.9,
+    "end": 45.18,
+    "frame_start": 1347,
+    "frame_end": 1355,
+    "segment_index": 2
+  },
+  {
+    "word": "out",
+    "start": 45.18,
+    "end": 45.42,
+    "frame_start": 1355,
+    "frame_end": 1363,
+    "segment_index": 2
+  },
+  {
+    "word": "external",
+    "start": 45.42,
+    "end": 45.98,
+    "frame_start": 1363,
+    "frame_end": 1379,
+    "segment_index": 2
+  },
+  {
+    "word": "debt",
+    "start": 45.98,
+    "end": 46.3,
+    "frame_start": 1379,
+    "frame_end": 1389,
+    "segment_index": 2
+  },
+  {
+    "word": "and",
+    "start": 46.3,
+    "end": 46.68,
+    "frame_start": 1389,
+    "frame_end": 1400,
+    "segment_index": 2
+  },
+  {
+    "word": "saves",
+    "start": 46.68,
+    "end": 47.02,
+    "frame_start": 1400,
+    "frame_end": 1411,
+    "segment_index": 2
+  },
+  {
+    "word": "thousands",
+    "start": 47.02,
+    "end": 47.48,
+    "frame_start": 1411,
+    "frame_end": 1424,
+    "segment_index": 2
+  },
+  {
+    "word": "of",
+    "start": 47.48,
+    "end": 47.82,
+    "frame_start": 1424,
+    "frame_end": 1435,
+    "segment_index": 2
+  },
+  {
+    "word": "crores",
+    "start": 47.82,
+    "end": 48.16,
+    "frame_start": 1435,
+    "frame_end": 1445,
+    "segment_index": 2
+  },
+  {
+    "word": "in",
+    "start": 48.16,
+    "end": 48.3,
+    "frame_start": 1445,
+    "frame_end": 1449,
+    "segment_index": 2
+  },
+  {
+    "word": "annual",
+    "start": 48.3,
+    "end": 48.58,
+    "frame_start": 1449,
+    "frame_end": 1457,
+    "segment_index": 2
+  },
+  {
+    "word": "interest.",
+    "start": 48.58,
+    "end": 49.12,
+    "frame_start": 1457,
+    "frame_end": 1474,
+    "segment_index": 2
+  },
+  {
+    "word": "Second,",
+    "start": 49.331,
+    "end": 49.671,
+    "frame_start": 1480,
+    "frame_end": 1490,
+    "segment_index": 3
+  },
+  {
+    "word": "the",
+    "start": 49.911,
+    "end": 49.911,
+    "frame_start": 1497,
+    "frame_end": 1497,
+    "segment_index": 3
+  },
+  {
+    "word": "numbers.",
+    "start": 49.911,
+    "end": 50.191,
+    "frame_start": 1497,
+    "frame_end": 1506,
+    "segment_index": 3
+  },
+  {
+    "word": "53",
+    "start": 50.651,
+    "end": 51.011,
+    "frame_start": 1520,
+    "frame_end": 1530,
+    "segment_index": 3
+  },
+  {
+    "word": "crore",
+    "start": 51.011,
+    "end": 51.411,
+    "frame_start": 1530,
+    "frame_end": 1542,
+    "segment_index": 3
+  },
+  {
+    "word": "users,",
+    "start": 51.411,
+    "end": 51.691,
+    "frame_start": 1542,
+    "frame_end": 1551,
+    "segment_index": 3
+  },
+  {
+    "word": "50",
+    "start": 52.191,
+    "end": 52.431,
+    "frame_start": 1566,
+    "frame_end": 1573,
+    "segment_index": 3
+  },
+  {
+    "word": "%",
+    "start": 52.431,
+    "end": 52.831,
+    "frame_start": 1573,
+    "frame_end": 1585,
+    "segment_index": 3
+  },
+  {
+    "word": "of",
+    "start": 52.831,
+    "end": 53.091,
+    "frame_start": 1585,
+    "frame_end": 1593,
+    "segment_index": 3
+  },
+  {
+    "word": "operating",
+    "start": 53.091,
+    "end": 53.491,
+    "frame_start": 1593,
+    "frame_end": 1605,
+    "segment_index": 3
+  },
+  {
+    "word": "margin",
+    "start": 53.491,
+    "end": 54.011,
+    "frame_start": 1605,
+    "frame_end": 1620,
+    "segment_index": 3
+  },
+  {
+    "word": "and",
+    "start": 54.011,
+    "end": 54.471,
+    "frame_start": 1620,
+    "frame_end": 1634,
+    "segment_index": 3
+  },
+  {
+    "word": "ARP",
+    "start": 54.471,
+    "end": 55.011,
+    "frame_start": 1634,
+    "frame_end": 1650,
+    "segment_index": 3
+  },
+  {
+    "word": "rising",
+    "start": 55.011,
+    "end": 55.371,
+    "frame_start": 1650,
+    "frame_end": 1661,
+    "segment_index": 3
+  },
+  {
+    "word": "towards",
+    "start": 55.371,
+    "end": 55.651,
+    "frame_start": 1661,
+    "frame_end": 1670,
+    "segment_index": 3
+  },
+  {
+    "word": "219.",
+    "start": 55.651,
+    "end": 56.451,
+    "frame_start": 1670,
+    "frame_end": 1694,
+    "segment_index": 3
+  },
+  {
+    "word": "1119",
+    "start": 57.62,
+    "end": 58.74,
+    "frame_start": 1729,
+    "frame_end": 1762,
+    "segment_index": 4
+  },
+  {
+    "word": "per",
+    "start": 58.74,
+    "end": 59.0,
+    "frame_start": 1762,
+    "frame_end": 1770,
+    "segment_index": 4
+  },
+  {
+    "word": "share,",
+    "start": 59.0,
+    "end": 59.28,
+    "frame_start": 1770,
+    "frame_end": 1778,
+    "segment_index": 4
+  },
+  {
+    "word": "Jio",
+    "start": 59.6,
+    "end": 59.88,
+    "frame_start": 1788,
+    "frame_end": 1796,
+    "segment_index": 4
+  },
+  {
+    "word": "is",
+    "start": 59.88,
+    "end": 60.1,
+    "frame_start": 1796,
+    "frame_end": 1803,
+    "segment_index": 4
+  },
+  {
+    "word": "currently",
+    "start": 60.1,
+    "end": 60.44,
+    "frame_start": 1803,
+    "frame_end": 1813,
+    "segment_index": 4
+  },
+  {
+    "word": "valued",
+    "start": 60.44,
+    "end": 60.88,
+    "frame_start": 1813,
+    "frame_end": 1826,
+    "segment_index": 4
+  },
+  {
+    "word": "at",
+    "start": 60.88,
+    "end": 61.14,
+    "frame_start": 1826,
+    "frame_end": 1834,
+    "segment_index": 4
+  },
+  {
+    "word": "10",
+    "start": 61.14,
+    "end": 61.56,
+    "frame_start": 1834,
+    "frame_end": 1847,
+    "segment_index": 4
+  },
+  {
+    "word": ".3",
+    "start": 61.56,
+    "end": 62.24,
+    "frame_start": 1847,
+    "frame_end": 1867,
+    "segment_index": 4
+  },
+  {
+    "word": "lakh",
+    "start": 62.24,
+    "end": 62.54,
+    "frame_start": 1867,
+    "frame_end": 1876,
+    "segment_index": 4
+  },
+  {
+    "word": "crore",
+    "start": 62.54,
+    "end": 63.18,
+    "frame_start": 1876,
+    "frame_end": 1895,
+    "segment_index": 4
+  },
+  {
+    "word": "in",
+    "start": 63.18,
+    "end": 63.3,
+    "frame_start": 1895,
+    "frame_end": 1899,
+    "segment_index": 4
+  },
+  {
+    "word": "the",
+    "start": 63.3,
+    "end": 63.38,
+    "frame_start": 1899,
+    "frame_end": 1901,
+    "segment_index": 4
+  },
+  {
+    "word": "market",
+    "start": 63.38,
+    "end": 63.62,
+    "frame_start": 1901,
+    "frame_end": 1909,
+    "segment_index": 4
+  },
+  {
+    "word": "cap,",
+    "start": 63.62,
+    "end": 63.94,
+    "frame_start": 1909,
+    "frame_end": 1918,
+    "segment_index": 4
+  },
+  {
+    "word": "that",
+    "start": 64.067,
+    "end": 64.2,
+    "frame_start": 1922,
+    "frame_end": 1926,
+    "segment_index": 5
+  },
+  {
+    "word": "is",
+    "start": 64.2,
+    "end": 64.4,
+    "frame_start": 1926,
+    "frame_end": 1932,
+    "segment_index": 5
+  },
+  {
+    "word": "34",
+    "start": 64.4,
+    "end": 64.98,
+    "frame_start": 1932,
+    "frame_end": 1949,
+    "segment_index": 5
+  },
+  {
+    "word": "times",
+    "start": 64.98,
+    "end": 65.22,
+    "frame_start": 1949,
+    "frame_end": 1957,
+    "segment_index": 5
+  },
+  {
+    "word": "of",
+    "start": 65.22,
+    "end": 65.42,
+    "frame_start": 1957,
+    "frame_end": 1963,
+    "segment_index": 5
+  },
+  {
+    "word": "PE,",
+    "start": 65.42,
+    "end": 65.7,
+    "frame_start": 1963,
+    "frame_end": 1971,
+    "segment_index": 5
+  },
+  {
+    "word": "actually",
+    "start": 65.96,
+    "end": 66.18,
+    "frame_start": 1979,
+    "frame_end": 1985,
+    "segment_index": 5
+  },
+  {
+    "word": "cheaper",
+    "start": 66.18,
+    "end": 66.62,
+    "frame_start": 1985,
+    "frame_end": 1999,
+    "segment_index": 5
+  },
+  {
+    "word": "than",
+    "start": 66.62,
+    "end": 66.9,
+    "frame_start": 1999,
+    "frame_end": 2007,
+    "segment_index": 5
+  },
+  {
+    "word": "Bharati",
+    "start": 66.9,
+    "end": 67.32,
+    "frame_start": 2007,
+    "frame_end": 2020,
+    "segment_index": 5
+  },
+  {
+    "word": "Airtel's",
+    "start": 67.32,
+    "end": 67.74,
+    "frame_start": 2020,
+    "frame_end": 2032,
+    "segment_index": 5
+  },
+  {
+    "word": "50",
+    "start": 67.74,
+    "end": 68.02,
+    "frame_start": 2032,
+    "frame_end": 2041,
+    "segment_index": 5
+  },
+  {
+    "word": "PE.",
+    "start": 68.02,
+    "end": 68.32,
+    "frame_start": 2041,
+    "frame_end": 2050,
+    "segment_index": 5
+  },
+  {
+    "word": "So,",
+    "start": 68.473,
+    "end": 68.653,
+    "frame_start": 2054,
+    "frame_end": 2060,
+    "segment_index": 6
+  },
+  {
+    "word": "what",
+    "start": 69.213,
+    "end": 69.473,
+    "frame_start": 2076,
+    "frame_end": 2084,
+    "segment_index": 6
+  },
+  {
+    "word": "is",
+    "start": 69.473,
+    "end": 69.613,
+    "frame_start": 2084,
+    "frame_end": 2088,
+    "segment_index": 6
+  },
+  {
+    "word": "the",
+    "start": 69.613,
+    "end": 69.713,
+    "frame_start": 2088,
+    "frame_end": 2091,
+    "segment_index": 6
+  },
+  {
+    "word": "catch?",
+    "start": 69.713,
+    "end": 70.033,
+    "frame_start": 2091,
+    "frame_end": 2101,
+    "segment_index": 6
+  },
+  {
+    "word": "A",
+    "start": 70.553,
+    "end": 70.653,
+    "frame_start": 2117,
+    "frame_end": 2120,
+    "segment_index": 6
+  },
+  {
+    "word": "10",
+    "start": 70.653,
+    "end": 70.993,
+    "frame_start": 2120,
+    "frame_end": 2130,
+    "segment_index": 6
+  },
+  {
+    "word": "lakh",
+    "start": 70.993,
+    "end": 71.173,
+    "frame_start": 2130,
+    "frame_end": 2135,
+    "segment_index": 6
+  },
+  {
+    "word": "market",
+    "start": 71.173,
+    "end": 71.593,
+    "frame_start": 2135,
+    "frame_end": 2148,
+    "segment_index": 6
+  },
+  {
+    "word": "cap,",
+    "start": 71.593,
+    "end": 71.993,
+    "frame_start": 2148,
+    "frame_end": 2160,
+    "segment_index": 6
+  },
+  {
+    "word": "mega",
+    "start": 72.153,
+    "end": 72.293,
+    "frame_start": 2165,
+    "frame_end": 2169,
+    "segment_index": 6
+  },
+  {
+    "word": "cap,",
+    "start": 72.293,
+    "end": 72.733,
+    "frame_start": 2169,
+    "frame_end": 2182,
+    "segment_index": 6
+  },
+  {
+    "word": "does",
+    "start": 73.013,
+    "end": 73.133,
+    "frame_start": 2190,
+    "frame_end": 2194,
+    "segment_index": 6
+  },
+  {
+    "word": "not",
+    "start": 73.133,
+    "end": 73.453,
+    "frame_start": 2194,
+    "frame_end": 2204,
+    "segment_index": 6
+  },
+  {
+    "word": "double",
+    "start": 73.453,
+    "end": 74.013,
+    "frame_start": 2204,
+    "frame_end": 2220,
+    "segment_index": 6
+  },
+  {
+    "word": "in",
+    "start": 74.013,
+    "end": 74.193,
+    "frame_start": 2220,
+    "frame_end": 2226,
+    "segment_index": 6
+  },
+  {
+    "word": "listing",
+    "start": 74.193,
+    "end": 74.473,
+    "frame_start": 2226,
+    "frame_end": 2234,
+    "segment_index": 6
+  },
+  {
+    "word": "day",
+    "start": 74.473,
+    "end": 74.773,
+    "frame_start": 2234,
+    "frame_end": 2243,
+    "segment_index": 6
+  },
+  {
+    "word": "and",
+    "start": 74.773,
+    "end": 75.193,
+    "frame_start": 2243,
+    "frame_end": 2256,
+    "segment_index": 6
+  },
+  {
+    "word": "an",
+    "start": 75.193,
+    "end": 75.373,
+    "frame_start": 2256,
+    "frame_end": 2261,
+    "segment_index": 6
+  },
+  {
+    "word": "IPO",
+    "start": 75.373,
+    "end": 75.713,
+    "frame_start": 2261,
+    "frame_end": 2271,
+    "segment_index": 6
+  },
+  {
+    "word": "is",
+    "start": 75.713,
+    "end": 76.093,
+    "frame_start": 2271,
+    "frame_end": 2283,
+    "segment_index": 6
+  },
+  {
+    "word": "always",
+    "start": 76.093,
+    "end": 76.433,
+    "frame_start": 2283,
+    "frame_end": 2293,
+    "segment_index": 6
+  },
+  {
+    "word": "a",
+    "start": 76.433,
+    "end": 76.613,
+    "frame_start": 2293,
+    "frame_end": 2298,
+    "segment_index": 6
+  },
+  {
+    "word": "gamble",
+    "start": 76.613,
+    "end": 77.013,
+    "frame_start": 2298,
+    "frame_end": 2310,
+    "segment_index": 6
+  },
+  {
+    "word": "on",
+    "start": 77.013,
+    "end": 77.353,
+    "frame_start": 2310,
+    "frame_end": 2321,
+    "segment_index": 6
+  },
+  {
+    "word": "allotment,",
+    "start": 77.353,
+    "end": 77.933,
+    "frame_start": 2321,
+    "frame_end": 2338,
+    "segment_index": 6
+  },
+  {
+    "word": "luck",
+    "start": 78.213,
+    "end": 78.313,
+    "frame_start": 2346,
+    "frame_end": 2349,
+    "segment_index": 6
+  },
+  {
+    "word": "and",
+    "start": 78.313,
+    "end": 78.813,
+    "frame_start": 2349,
+    "frame_end": 2364,
+    "segment_index": 6
+  },
+  {
+    "word": "market",
+    "start": 78.813,
+    "end": 79.373,
+    "frame_start": 2364,
+    "frame_end": 2381,
+    "segment_index": 6
+  },
+  {
+    "word": "mood.",
+    "start": 79.373,
+    "end": 79.753,
+    "frame_start": 2381,
+    "frame_end": 2393,
+    "segment_index": 6
+  },
+  {
+    "word": "Will",
+    "start": 79.833,
+    "end": 79.988,
+    "frame_start": 2395,
+    "frame_end": 2400,
+    "segment_index": 7
+  },
+  {
+    "word": "I",
+    "start": 79.988,
+    "end": 80.088,
+    "frame_start": 2400,
+    "frame_end": 2403,
+    "segment_index": 7
+  },
+  {
+    "word": "personally",
+    "start": 80.088,
+    "end": 80.468,
+    "frame_start": 2403,
+    "frame_end": 2414,
+    "segment_index": 7
+  },
+  {
+    "word": "apply?",
+    "start": 80.468,
+    "end": 80.848,
+    "frame_start": 2414,
+    "frame_end": 2425,
+    "segment_index": 7
+  },
+  {
+    "word": "The",
+    "start": 81.408,
+    "end": 81.468,
+    "frame_start": 2442,
+    "frame_end": 2444,
+    "segment_index": 7
+  },
+  {
+    "word": "answer",
+    "start": 81.468,
+    "end": 81.748,
+    "frame_start": 2444,
+    "frame_end": 2452,
+    "segment_index": 7
+  },
+  {
+    "word": "is",
+    "start": 81.748,
+    "end": 81.968,
+    "frame_start": 2452,
+    "frame_end": 2459,
+    "segment_index": 7
+  },
+  {
+    "word": "no.",
+    "start": 81.968,
+    "end": 82.288,
+    "frame_start": 2459,
+    "frame_end": 2469,
+    "segment_index": 7
+  },
+  {
+    "word": "Not",
+    "start": 82.648,
+    "end": 82.748,
+    "frame_start": 2479,
+    "frame_end": 2482,
+    "segment_index": 7
+  },
+  {
+    "word": "because",
+    "start": 82.748,
+    "end": 83.068,
+    "frame_start": 2482,
+    "frame_end": 2492,
+    "segment_index": 7
+  },
+  {
+    "word": "the",
+    "start": 83.068,
+    "end": 83.248,
+    "frame_start": 2492,
+    "frame_end": 2497,
+    "segment_index": 7
+  },
+  {
+    "word": "business",
+    "start": 83.248,
+    "end": 83.468,
+    "frame_start": 2497,
+    "frame_end": 2504,
+    "segment_index": 7
+  },
+  {
+    "word": "is",
+    "start": 83.468,
+    "end": 83.688,
+    "frame_start": 2504,
+    "frame_end": 2511,
+    "segment_index": 7
+  },
+  {
+    "word": "bad.",
+    "start": 83.688,
+    "end": 84.008,
+    "frame_start": 2511,
+    "frame_end": 2520,
+    "segment_index": 7
+  },
+  {
+    "word": "It",
+    "start": 84.308,
+    "end": 84.308,
+    "frame_start": 2529,
+    "frame_end": 2529,
+    "segment_index": 7
+  },
+  {
+    "word": "is",
+    "start": 84.308,
+    "end": 84.448,
+    "frame_start": 2529,
+    "frame_end": 2533,
+    "segment_index": 7
+  },
+  {
+    "word": "phenomenal.",
+    "start": 84.448,
+    "end": 84.848,
+    "frame_start": 2533,
+    "frame_end": 2545,
+    "segment_index": 7
+  },
+  {
+    "word": "But",
+    "start": 85.448,
+    "end": 85.528,
+    "frame_start": 2563,
+    "frame_end": 2566,
+    "segment_index": 7
+  },
+  {
+    "word": "my",
+    "start": 85.528,
+    "end": 85.728,
+    "frame_start": 2566,
+    "frame_end": 2572,
+    "segment_index": 7
+  },
+  {
+    "word": "framework",
+    "start": 85.728,
+    "end": 86.228,
+    "frame_start": 2572,
+    "frame_end": 2587,
+    "segment_index": 7
+  },
+  {
+    "word": "allows",
+    "start": 86.228,
+    "end": 86.648,
+    "frame_start": 2587,
+    "frame_end": 2599,
+    "segment_index": 7
+  },
+  {
+    "word": "only",
+    "start": 86.648,
+    "end": 87.408,
+    "frame_start": 2599,
+    "frame_end": 2622,
+    "segment_index": 7
+  },
+  {
+    "word": "to",
+    "start": 87.408,
+    "end": 87.728,
+    "frame_start": 2622,
+    "frame_end": 2632,
+    "segment_index": 7
+  },
+  {
+    "word": "invest",
+    "start": 87.728,
+    "end": 88.048,
+    "frame_start": 2632,
+    "frame_end": 2641,
+    "segment_index": 7
+  },
+  {
+    "word": "after",
+    "start": 88.048,
+    "end": 88.468,
+    "frame_start": 2641,
+    "frame_end": 2654,
+    "segment_index": 7
+  },
+  {
+    "word": "seeing",
+    "start": 88.468,
+    "end": 88.748,
+    "frame_start": 2654,
+    "frame_end": 2662,
+    "segment_index": 7
+  },
+  {
+    "word": "the",
+    "start": 88.748,
+    "end": 88.928,
+    "frame_start": 2662,
+    "frame_end": 2668,
+    "segment_index": 7
+  },
+  {
+    "word": "200",
+    "start": 88.928,
+    "end": 89.208,
+    "frame_start": 2668,
+    "frame_end": 2676,
+    "segment_index": 7
+  },
+  {
+    "word": "-day",
+    "start": 89.208,
+    "end": 89.508,
+    "frame_start": 2676,
+    "frame_end": 2685,
+    "segment_index": 7
+  },
+  {
+    "word": "moving",
+    "start": 89.508,
+    "end": 89.708,
+    "frame_start": 2685,
+    "frame_end": 2691,
+    "segment_index": 7
+  },
+  {
+    "word": "average",
+    "start": 89.708,
+    "end": 90.068,
+    "frame_start": 2691,
+    "frame_end": 2702,
+    "segment_index": 7
+  },
+  {
+    "word": "in",
+    "start": 90.068,
+    "end": 90.368,
+    "frame_start": 2702,
+    "frame_end": 2711,
+    "segment_index": 7
+  },
+  {
+    "word": "the",
+    "start": 90.368,
+    "end": 90.468,
+    "frame_start": 2711,
+    "frame_end": 2714,
+    "segment_index": 7
+  },
+  {
+    "word": "technical",
+    "start": 90.468,
+    "end": 90.788,
+    "frame_start": 2714,
+    "frame_end": 2724,
+    "segment_index": 7
+  },
+  {
+    "word": "chart.",
+    "start": 90.788,
+    "end": 91.208,
+    "frame_start": 2724,
+    "frame_end": 2736,
+    "segment_index": 7
+  },
+  {
+    "word": "Otherwise,",
+    "start": 91.728,
+    "end": 92.028,
+    "frame_start": 2752,
+    "frame_end": 2761,
+    "segment_index": 7
+  },
+  {
+    "word": "there",
+    "start": 92.248,
+    "end": 92.368,
+    "frame_start": 2767,
+    "frame_end": 2771,
+    "segment_index": 7
+  },
+  {
+    "word": "is",
+    "start": 92.368,
+    "end": 92.468,
+    "frame_start": 2771,
+    "frame_end": 2774,
+    "segment_index": 7
+  },
+  {
+    "word": "no",
+    "start": 92.468,
+    "end": 92.688,
+    "frame_start": 2774,
+    "frame_end": 2781,
+    "segment_index": 7
+  },
+  {
+    "word": "entry.",
+    "start": 92.688,
+    "end": 92.988,
+    "frame_start": 2781,
+    "frame_end": 2790,
+    "segment_index": 7
+  },
+  {
+    "word": "Zomato,",
+    "start": 93.572,
+    "end": 93.932,
+    "frame_start": 2807,
+    "frame_end": 2818,
+    "segment_index": 8
+  },
+  {
+    "word": "Swiggy,",
+    "start": 94.352,
+    "end": 94.752,
+    "frame_start": 2831,
+    "frame_end": 2843,
+    "segment_index": 8
+  },
+  {
+    "word": "Paytm,",
+    "start": 95.072,
+    "end": 95.512,
+    "frame_start": 2852,
+    "frame_end": 2865,
+    "segment_index": 8
+  },
+  {
+    "word": "it",
+    "start": 95.792,
+    "end": 95.912,
+    "frame_start": 2874,
+    "frame_end": 2877,
+    "segment_index": 8
+  },
+  {
+    "word": "crashed",
+    "start": 95.912,
+    "end": 96.332,
+    "frame_start": 2877,
+    "frame_end": 2890,
+    "segment_index": 8
+  },
+  {
+    "word": "like",
+    "start": 96.332,
+    "end": 96.672,
+    "frame_start": 2890,
+    "frame_end": 2900,
+    "segment_index": 8
+  },
+  {
+    "word": "anything",
+    "start": 96.672,
+    "end": 97.052,
+    "frame_start": 2900,
+    "frame_end": 2912,
+    "segment_index": 8
+  },
+  {
+    "word": "before",
+    "start": 97.052,
+    "end": 97.492,
+    "frame_start": 2912,
+    "frame_end": 2925,
+    "segment_index": 8
+  },
+  {
+    "word": "building",
+    "start": 97.492,
+    "end": 97.972,
+    "frame_start": 2925,
+    "frame_end": 2939,
+    "segment_index": 8
+  },
+  {
+    "word": "the",
+    "start": 97.972,
+    "end": 98.152,
+    "frame_start": 2939,
+    "frame_end": 2945,
+    "segment_index": 8
+  },
+  {
+    "word": "200",
+    "start": 98.152,
+    "end": 98.452,
+    "frame_start": 2945,
+    "frame_end": 2954,
+    "segment_index": 8
+  },
+  {
+    "word": "day",
+    "start": 98.452,
+    "end": 98.732,
+    "frame_start": 2954,
+    "frame_end": 2962,
+    "segment_index": 8
+  },
+  {
+    "word": "moving",
+    "start": 98.732,
+    "end": 98.932,
+    "frame_start": 2962,
+    "frame_end": 2968,
+    "segment_index": 8
+  },
+  {
+    "word": "average",
+    "start": 98.932,
+    "end": 99.292,
+    "frame_start": 2968,
+    "frame_end": 2979,
+    "segment_index": 8
+  },
+  {
+    "word": "where",
+    "start": 99.292,
+    "end": 99.732,
+    "frame_start": 2979,
+    "frame_end": 2992,
+    "segment_index": 8
+  },
+  {
+    "word": "actually",
+    "start": 99.732,
+    "end": 100.172,
+    "frame_start": 2992,
+    "frame_end": 3005,
+    "segment_index": 8
+  },
+  {
+    "word": "the",
+    "start": 100.172,
+    "end": 100.312,
+    "frame_start": 3005,
+    "frame_end": 3009,
+    "segment_index": 8
+  },
+  {
+    "word": "price",
+    "start": 100.312,
+    "end": 100.592,
+    "frame_start": 3009,
+    "frame_end": 3018,
+    "segment_index": 8
+  },
+  {
+    "word": "discovery",
+    "start": 100.592,
+    "end": 100.952,
+    "frame_start": 3018,
+    "frame_end": 3029,
+    "segment_index": 8
+  },
+  {
+    "word": "happens.",
+    "start": 100.952,
+    "end": 101.432,
+    "frame_start": 3029,
+    "frame_end": 3043,
+    "segment_index": 8
+  },
+  {
+    "word": "to",
+    "start": 102.165,
+    "end": 102.425,
+    "frame_start": 3065,
+    "frame_end": 3073,
+    "segment_index": 9
+  },
+  {
+    "word": "miss",
+    "start": 102.425,
+    "end": 102.605,
+    "frame_start": 3073,
+    "frame_end": 3078,
+    "segment_index": 9
+  },
+  {
+    "word": "early",
+    "start": 102.605,
+    "end": 103.025,
+    "frame_start": 3078,
+    "frame_end": 3091,
+    "segment_index": 9
+  },
+  {
+    "word": "listing",
+    "start": 103.025,
+    "end": 103.285,
+    "frame_start": 3091,
+    "frame_end": 3099,
+    "segment_index": 9
+  },
+  {
+    "word": "games",
+    "start": 103.285,
+    "end": 103.665,
+    "frame_start": 3099,
+    "frame_end": 3110,
+    "segment_index": 9
+  },
+  {
+    "word": "and",
+    "start": 103.665,
+    "end": 103.985,
+    "frame_start": 3110,
+    "frame_end": 3120,
+    "segment_index": 9
+  },
+  {
+    "word": "let",
+    "start": 103.985,
+    "end": 104.145,
+    "frame_start": 3120,
+    "frame_end": 3124,
+    "segment_index": 9
+  },
+  {
+    "word": "the",
+    "start": 104.145,
+    "end": 104.285,
+    "frame_start": 3124,
+    "frame_end": 3129,
+    "segment_index": 9
+  },
+  {
+    "word": "price",
+    "start": 104.285,
+    "end": 104.525,
+    "frame_start": 3129,
+    "frame_end": 3136,
+    "segment_index": 9
+  },
+  {
+    "word": "discovery",
+    "start": 104.525,
+    "end": 104.905,
+    "frame_start": 3136,
+    "frame_end": 3147,
+    "segment_index": 9
+  },
+  {
+    "word": "happen.",
+    "start": 104.905,
+    "end": 105.345,
+    "frame_start": 3147,
+    "frame_end": 3160,
+    "segment_index": 9
+  },
+  {
+    "word": "you",
+    "start": 105.557,
+    "end": 105.657,
+    "frame_start": 3167,
+    "frame_end": 3170,
+    "segment_index": 10
+  },
+  {
+    "word": "want",
+    "start": 105.657,
+    "end": 105.797,
+    "frame_start": 3170,
+    "frame_end": 3174,
+    "segment_index": 10
+  },
+  {
+    "word": "the",
+    "start": 105.797,
+    "end": 105.897,
+    "frame_start": 3174,
+    "frame_end": 3177,
+    "segment_index": 10
+  },
+  {
+    "word": "full",
+    "start": 105.897,
+    "end": 106.157,
+    "frame_start": 3177,
+    "frame_end": 3185,
+    "segment_index": 10
+  },
+  {
+    "word": "numbers",
+    "start": 106.157,
+    "end": 106.697,
+    "frame_start": 3185,
+    "frame_end": 3201,
+    "segment_index": 10
+  },
+  {
+    "word": "i",
+    "start": 106.697,
+    "end": 107.017,
+    "frame_start": 3201,
+    "frame_end": 3211,
+    "segment_index": 10
+  },
+  {
+    "word": "have",
+    "start": 107.017,
+    "end": 107.117,
+    "frame_start": 3211,
+    "frame_end": 3214,
+    "segment_index": 10
+  },
+  {
+    "word": "just",
+    "start": 107.117,
+    "end": 107.277,
+    "frame_start": 3214,
+    "frame_end": 3218,
+    "segment_index": 10
+  },
+  {
+    "word": "dropped",
+    "start": 107.277,
+    "end": 107.677,
+    "frame_start": 3218,
+    "frame_end": 3230,
+    "segment_index": 10
+  },
+  {
+    "word": "a",
+    "start": 107.677,
+    "end": 107.877,
+    "frame_start": 3230,
+    "frame_end": 3236,
+    "segment_index": 10
+  },
+  {
+    "word": "complete",
+    "start": 107.877,
+    "end": 108.217,
+    "frame_start": 3236,
+    "frame_end": 3247,
+    "segment_index": 10
+  },
+  {
+    "word": "deep",
+    "start": 108.217,
+    "end": 108.557,
+    "frame_start": 3247,
+    "frame_end": 3257,
+    "segment_index": 10
+  },
+  {
+    "word": "dive",
+    "start": 108.557,
+    "end": 108.797,
+    "frame_start": 3257,
+    "frame_end": 3264,
+    "segment_index": 10
+  },
+  {
+    "word": "on",
+    "start": 108.797,
+    "end": 108.977,
+    "frame_start": 3264,
+    "frame_end": 3269,
+    "segment_index": 10
+  },
+  {
+    "word": "my",
+    "start": 108.977,
+    "end": 109.117,
+    "frame_start": 3269,
+    "frame_end": 3274,
+    "segment_index": 10
+  },
+  {
+    "word": "youtube",
+    "start": 109.117,
+    "end": 109.337,
+    "frame_start": 3274,
+    "frame_end": 3280,
+    "segment_index": 10
+  },
+  {
+    "word": "channel",
+    "start": 109.337,
+    "end": 109.737,
+    "frame_start": 3280,
+    "frame_end": 3292,
+    "segment_index": 10
+  },
+  {
+    "word": "breaking",
+    "start": 109.737,
+    "end": 110.177,
+    "frame_start": 3292,
+    "frame_end": 3305,
+    "segment_index": 10
+  },
+  {
+    "word": "down",
+    "start": 110.177,
+    "end": 110.497,
+    "frame_start": 3305,
+    "frame_end": 3315,
+    "segment_index": 10
+  },
+  {
+    "word": "the",
+    "start": 110.497,
+    "end": 110.637,
+    "frame_start": 3315,
+    "frame_end": 3319,
+    "segment_index": 10
+  },
+  {
+    "word": "entire",
+    "start": 110.637,
+    "end": 110.997,
+    "frame_start": 3319,
+    "frame_end": 3330,
+    "segment_index": 10
+  },
+  {
+    "word": "400",
+    "start": 110.997,
+    "end": 111.397,
+    "frame_start": 3330,
+    "frame_end": 3342,
+    "segment_index": 10
+  },
+  {
+    "word": "page",
+    "start": 111.397,
+    "end": 111.737,
+    "frame_start": 3342,
+    "frame_end": 3352,
+    "segment_index": 10
+  },
+  {
+    "word": "drhp",
+    "start": 111.737,
+    "end": 112.397,
+    "frame_start": 3352,
+    "frame_end": 3372,
+    "segment_index": 10
+  },
+  {
+    "word": "and",
+    "start": 112.397,
+    "end": 112.757,
+    "frame_start": 3372,
+    "frame_end": 3383,
+    "segment_index": 10
+  },
+  {
+    "word": "my",
+    "start": 112.757,
+    "end": 112.917,
+    "frame_start": 3383,
+    "frame_end": 3388,
+    "segment_index": 10
+  },
+  {
+    "word": "exact",
+    "start": 112.917,
+    "end": 113.277,
+    "frame_start": 3388,
+    "frame_end": 3398,
+    "segment_index": 10
+  },
+  {
+    "word": "entry",
+    "start": 113.277,
+    "end": 113.677,
+    "frame_start": 3398,
+    "frame_end": 3410,
+    "segment_index": 10
+  },
+  {
+    "word": "triggers",
+    "start": 113.677,
+    "end": 114.017,
+    "frame_start": 3410,
+    "frame_end": 3421,
+    "segment_index": 10
+  },
+  {
+    "word": "and",
+    "start": 114.017,
+    "end": 114.317,
+    "frame_start": 3421,
+    "frame_end": 3430,
+    "segment_index": 10
+  },
+  {
+    "word": "what",
+    "start": 114.317,
+    "end": 114.517,
+    "frame_start": 3430,
+    "frame_end": 3436,
+    "segment_index": 10
+  },
+  {
+    "word": "i",
+    "start": 114.517,
+    "end": 114.637,
+    "frame_start": 3436,
+    "frame_end": 3439,
+    "segment_index": 10
+  },
+  {
+    "word": "do",
+    "start": 114.637,
+    "end": 114.817,
+    "frame_start": 3439,
+    "frame_end": 3445,
+    "segment_index": 10
+  },
+  {
+    "word": "with",
+    "start": 114.817,
+    "end": 115.017,
+    "frame_start": 3445,
+    "frame_end": 3451,
+    "segment_index": 10
+  },
+  {
+    "word": "that",
+    "start": 115.017,
+    "end": 115.237,
+    "frame_start": 3451,
+    "frame_end": 3457,
+    "segment_index": 10
+  },
+  {
+    "word": "video",
+    "start": 116.636,
+    "end": 117.176,
+    "frame_start": 3499,
+    "frame_end": 3515,
+    "segment_index": 11
+  },
+  {
+    "word": "on",
+    "start": 117.176,
+    "end": 117.436,
+    "frame_start": 3515,
+    "frame_end": 3523,
+    "segment_index": 11
+  },
+  {
+    "word": "my",
+    "start": 117.436,
+    "end": 117.576,
+    "frame_start": 3523,
+    "frame_end": 3527,
+    "segment_index": 11
+  },
+  {
+    "word": "YouTube",
+    "start": 117.576,
+    "end": 117.736,
+    "frame_start": 3527,
+    "frame_end": 3532,
+    "segment_index": 11
+  },
+  {
+    "word": "channel",
+    "start": 117.736,
+    "end": 118.056,
+    "frame_start": 3532,
+    "frame_end": 3542,
+    "segment_index": 11
+  },
+  {
+    "word": "right",
+    "start": 118.056,
+    "end": 118.356,
+    "frame_start": 3542,
+    "frame_end": 3551,
+    "segment_index": 11
+  },
+  {
+    "word": "now",
+    "start": 118.356,
+    "end": 118.656,
+    "frame_start": 3551,
+    "frame_end": 3560,
+    "segment_index": 11
+  },
+  {
+    "word": "or",
+    "start": 118.656,
+    "end": 118.767,
+    "frame_start": 3560,
+    "frame_end": 3563,
+    "segment_index": 11
+  },
+  {
+    "word": "or",
+    "start": 118.843,
+    "end": 119.083,
+    "frame_start": 3565,
+    "frame_end": 3572,
+    "segment_index": 12
+  },
+  {
+    "word": "comment",
+    "start": 119.083,
+    "end": 119.363,
+    "frame_start": 3572,
+    "frame_end": 3581,
+    "segment_index": 12
+  },
+  {
+    "word": "Geo",
+    "start": 119.363,
+    "end": 119.903,
+    "frame_start": 3581,
+    "frame_end": 3597,
+    "segment_index": 12
+  },
+  {
+    "word": "below",
+    "start": 119.903,
+    "end": 120.183,
+    "frame_start": 3597,
+    "frame_end": 3605,
+    "segment_index": 12
+  },
+  {
+    "word": "in",
+    "start": 120.183,
+    "end": 120.403,
+    "frame_start": 3605,
+    "frame_end": 3612,
+    "segment_index": 12
+  },
+  {
+    "word": "the",
+    "start": 120.403,
+    "end": 120.463,
+    "frame_start": 3612,
+    "frame_end": 3614,
+    "segment_index": 12
+  },
+  {
+    "word": "comment",
+    "start": 120.463,
+    "end": 120.623,
+    "frame_start": 3614,
+    "frame_end": 3619,
+    "segment_index": 12
+  },
+  {
+    "word": "section.",
+    "start": 120.623,
+    "end": 120.943,
+    "frame_start": 3619,
+    "frame_end": 3628,
+    "segment_index": 12
+  },
+  {
+    "word": "I",
+    "start": 121.143,
+    "end": 121.163,
+    "frame_start": 3634,
+    "frame_end": 3635,
+    "segment_index": 12
+  },
+  {
+    "word": "will",
+    "start": 121.163,
+    "end": 121.283,
+    "frame_start": 3635,
+    "frame_end": 3638,
+    "segment_index": 12
+  },
+  {
+    "word": "drop",
+    "start": 121.283,
+    "end": 121.523,
+    "frame_start": 3638,
+    "frame_end": 3646,
+    "segment_index": 12
+  },
+  {
+    "word": "you",
+    "start": 121.523,
+    "end": 121.683,
+    "frame_start": 3646,
+    "frame_end": 3650,
+    "segment_index": 12
+  },
+  {
+    "word": "the",
+    "start": 121.683,
+    "end": 121.823,
+    "frame_start": 3650,
+    "frame_end": 3655,
+    "segment_index": 12
+  },
+  {
+    "word": "link",
+    "start": 121.823,
+    "end": 122.063,
+    "frame_start": 3655,
+    "frame_end": 3662,
+    "segment_index": 12
+  },
+  {
+    "word": "for",
+    "start": 122.063,
+    "end": 122.303,
+    "frame_start": 3662,
+    "frame_end": 3669,
+    "segment_index": 12
+  },
+  {
+    "word": "the",
+    "start": 122.303,
+    "end": 122.423,
+    "frame_start": 3669,
+    "frame_end": 3673,
+    "segment_index": 12
+  },
+  {
+    "word": "video",
+    "start": 122.423,
+    "end": 122.723,
+    "frame_start": 3673,
+    "frame_end": 3682,
+    "segment_index": 12
+  },
+  {
+    "word": "or",
+    "start": 122.723,
+    "end": 122.963,
+    "frame_start": 3682,
+    "frame_end": 3689,
+    "segment_index": 12
+  },
+  {
+    "word": "the",
+    "start": 122.963,
+    "end": 123.083,
+    "frame_start": 3689,
+    "frame_end": 3692,
+    "segment_index": 12
+  },
+  {
+    "word": "channel",
+    "start": 123.083,
+    "end": 123.383,
+    "frame_start": 3692,
+    "frame_end": 3701,
+    "segment_index": 12
+  },
+  {
+    "word": "and",
+    "start": 123.383,
+    "end": 123.743,
+    "frame_start": 3701,
+    "frame_end": 3712,
+    "segment_index": 12
+  },
+  {
+    "word": "that's",
+    "start": 123.743,
+    "end": 124.003,
+    "frame_start": 3712,
+    "frame_end": 3720,
+    "segment_index": 12
+  },
+  {
+    "word": "it",
+    "start": 124.003,
+    "end": 124.083,
+    "frame_start": 3720,
+    "frame_end": 3722,
+    "segment_index": 12
+  },
+  {
+    "word": "from",
+    "start": 124.083,
+    "end": 124.223,
+    "frame_start": 3722,
+    "frame_end": 3727,
+    "segment_index": 12
+  },
+  {
+    "word": "my",
+    "start": 124.223,
+    "end": 124.383,
+    "frame_start": 3727,
+    "frame_end": 3731,
+    "segment_index": 12
+  },
+  {
+    "word": "side.",
+    "start": 124.383,
+    "end": 124.623,
+    "frame_start": 3731,
+    "frame_end": 3739,
+    "segment_index": 12
+  },
+  {
+    "word": "See",
+    "start": 124.723,
+    "end": 124.923,
+    "frame_start": 3742,
+    "frame_end": 3748,
+    "segment_index": 12
+  },
+  {
+    "word": "you",
+    "start": 124.923,
+    "end": 125.023,
+    "frame_start": 3748,
+    "frame_end": 3751,
+    "segment_index": 12
+  },
+  {
+    "word": "in",
+    "start": 125.023,
+    "end": 125.103,
+    "frame_start": 3751,
+    "frame_end": 3753,
+    "segment_index": 12
+  },
+  {
+    "word": "the",
+    "start": 125.103,
+    "end": 125.143,
+    "frame_start": 3753,
+    "frame_end": 3754,
+    "segment_index": 12
+  },
+  {
+    "word": "next",
+    "start": 125.143,
+    "end": 125.323,
+    "frame_start": 3754,
+    "frame_end": 3760,
+    "segment_index": 12
+  },
+  {
+    "word": "one.",
+    "start": 125.323,
+    "end": 125.503,
+    "frame_start": 3760,
+    "frame_end": 3765,
+    "segment_index": 12
+  },
+  {
+    "word": "Happy",
+    "start": 125.643,
+    "end": 125.823,
+    "frame_start": 3769,
+    "frame_end": 3775,
+    "segment_index": 12
+  },
+  {
+    "word": "investing.",
+    "start": 125.823,
+    "end": 126.083,
+    "frame_start": 3775,
+    "frame_end": 3782,
+    "segment_index": 12
+  }
+]

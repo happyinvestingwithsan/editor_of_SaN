@@ -1,0 +1,4260 @@
+[
+  {
+    "id": "sub_0",
+    "start": 0,
+    "end": 42,
+    "text": "India just delivered its",
+    "words": [
+      {
+        "word": "India",
+        "startFrame": 0,
+        "endFrame": 4
+      },
+      {
+        "word": "just",
+        "startFrame": 4,
+        "endFrame": 15
+      },
+      {
+        "word": "delivered",
+        "startFrame": 15,
+        "endFrame": 30
+      },
+      {
+        "word": "its",
+        "startFrame": 30,
+        "endFrame": 38
+      }
+    ]
+  },
+  {
+    "id": "sub_1",
+    "start": 38,
+    "end": 83,
+    "text": "strongest weekly market rally",
+    "words": [
+      {
+        "word": "strongest",
+        "startFrame": 38,
+        "endFrame": 49
+      },
+      {
+        "word": "weekly",
+        "startFrame": 49,
+        "endFrame": 58
+      },
+      {
+        "word": "market",
+        "startFrame": 58,
+        "endFrame": 71
+      },
+      {
+        "word": "rally",
+        "startFrame": 71,
+        "endFrame": 79
+      }
+    ]
+  },
+  {
+    "id": "sub_2",
+    "start": 79,
+    "end": 102,
+    "text": "in more than 5",
+    "words": [
+      {
+        "word": "in",
+        "startFrame": 79,
+        "endFrame": 84
+      },
+      {
+        "word": "more",
+        "startFrame": 84,
+        "endFrame": 88
+      },
+      {
+        "word": "than",
+        "startFrame": 88,
+        "endFrame": 92
+      },
+      {
+        "word": "5",
+        "startFrame": 92,
+        "endFrame": 98
+      }
+    ]
+  },
+  {
+    "id": "sub_3",
+    "start": 98,
+    "end": 140,
+    "text": "years. But interestingly,",
+    "words": [
+      {
+        "word": "years.",
+        "startFrame": 98,
+        "endFrame": 106
+      },
+      {
+        "word": "But",
+        "startFrame": 119,
+        "endFrame": 122
+      },
+      {
+        "word": "interestingly,",
+        "startFrame": 122,
+        "endFrame": 136
+      }
+    ]
+  },
+  {
+    "id": "sub_4",
+    "start": 145,
+    "end": 177,
+    "text": "while Indian markets are",
+    "words": [
+      {
+        "word": "while",
+        "startFrame": 145,
+        "endFrame": 149
+      },
+      {
+        "word": "Indian",
+        "startFrame": 149,
+        "endFrame": 157
+      },
+      {
+        "word": "markets",
+        "startFrame": 157,
+        "endFrame": 166
+      },
+      {
+        "word": "are",
+        "startFrame": 166,
+        "endFrame": 173
+      }
+    ]
+  },
+  {
+    "id": "sub_5",
+    "start": 173,
+    "end": 226,
+    "text": "celebrating, Wall Street technology",
+    "words": [
+      {
+        "word": "celebrating,",
+        "startFrame": 173,
+        "endFrame": 185
+      },
+      {
+        "word": "Wall",
+        "startFrame": 202,
+        "endFrame": 202
+      },
+      {
+        "word": "Street",
+        "startFrame": 202,
+        "endFrame": 209
+      },
+      {
+        "word": "technology",
+        "startFrame": 209,
+        "endFrame": 222
+      }
+    ]
+  },
+  {
+    "id": "sub_6",
+    "start": 222,
+    "end": 254,
+    "text": "stocks are crashing.",
+    "words": [
+      {
+        "word": "stocks",
+        "startFrame": 222,
+        "endFrame": 233
+      },
+      {
+        "word": "are",
+        "startFrame": 233,
+        "endFrame": 239
+      },
+      {
+        "word": "crashing.",
+        "startFrame": 239,
+        "endFrame": 250
+      }
+    ]
+  },
+  {
+    "id": "sub_7",
+    "start": 264,
+    "end": 295,
+    "text": "What's happening globally?",
+    "words": [
+      {
+        "word": "What's",
+        "startFrame": 264,
+        "endFrame": 274
+      },
+      {
+        "word": "happening",
+        "startFrame": 274,
+        "endFrame": 282
+      },
+      {
+        "word": "globally?",
+        "startFrame": 282,
+        "endFrame": 291
+      }
+    ]
+  },
+  {
+    "id": "sub_8",
+    "start": 302,
+    "end": 333,
+    "text": "Why is foreign money",
+    "words": [
+      {
+        "word": "Why",
+        "startFrame": 302,
+        "endFrame": 308
+      },
+      {
+        "word": "is",
+        "startFrame": 308,
+        "endFrame": 314
+      },
+      {
+        "word": "foreign",
+        "startFrame": 314,
+        "endFrame": 322
+      },
+      {
+        "word": "money",
+        "startFrame": 322,
+        "endFrame": 329
+      }
+    ]
+  },
+  {
+    "id": "sub_9",
+    "start": 329,
+    "end": 367,
+    "text": "suddenly returning to India?",
+    "words": [
+      {
+        "word": "suddenly",
+        "startFrame": 329,
+        "endFrame": 341
+      },
+      {
+        "word": "returning",
+        "startFrame": 341,
+        "endFrame": 350
+      },
+      {
+        "word": "to",
+        "startFrame": 350,
+        "endFrame": 356
+      },
+      {
+        "word": "India?",
+        "startFrame": 356,
+        "endFrame": 363
+      }
+    ]
+  },
+  {
+    "id": "sub_10",
+    "start": 376,
+    "end": 402,
+    "text": "Let's quickly understand.",
+    "words": [
+      {
+        "word": "Let's",
+        "startFrame": 376,
+        "endFrame": 382
+      },
+      {
+        "word": "quickly",
+        "startFrame": 382,
+        "endFrame": 385
+      },
+      {
+        "word": "understand.",
+        "startFrame": 385,
+        "endFrame": 398
+      }
+    ]
+  },
+  {
+    "id": "sub_11",
+    "start": 412,
+    "end": 449,
+    "text": "First, the US midterm",
+    "words": [
+      {
+        "word": "First,",
+        "startFrame": 412,
+        "endFrame": 415
+      },
+      {
+        "word": "the",
+        "startFrame": 427,
+        "endFrame": 428
+      },
+      {
+        "word": "US",
+        "startFrame": 428,
+        "endFrame": 436
+      },
+      {
+        "word": "midterm",
+        "startFrame": 436,
+        "endFrame": 445
+      }
+    ]
+  },
+  {
+    "id": "sub_12",
+    "start": 445,
+    "end": 497,
+    "text": "election. Democrats have gained",
+    "words": [
+      {
+        "word": "election.",
+        "startFrame": 445,
+        "endFrame": 455
+      },
+      {
+        "word": "Democrats",
+        "startFrame": 470,
+        "endFrame": 475
+      },
+      {
+        "word": "have",
+        "startFrame": 475,
+        "endFrame": 485
+      },
+      {
+        "word": "gained",
+        "startFrame": 485,
+        "endFrame": 493
+      }
+    ]
+  },
+  {
+    "id": "sub_13",
+    "start": 493,
+    "end": 526,
+    "text": "the control of Congress,",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 493,
+        "endFrame": 498
+      },
+      {
+        "word": "control",
+        "startFrame": 498,
+        "endFrame": 506
+      },
+      {
+        "word": "of",
+        "startFrame": 506,
+        "endFrame": 512
+      },
+      {
+        "word": "Congress,",
+        "startFrame": 512,
+        "endFrame": 522
+      }
+    ]
+  },
+  {
+    "id": "sub_14",
+    "start": 527,
+    "end": 569,
+    "text": "creating a major political",
+    "words": [
+      {
+        "word": "creating",
+        "startFrame": 527,
+        "endFrame": 534
+      },
+      {
+        "word": "a",
+        "startFrame": 534,
+        "endFrame": 540
+      },
+      {
+        "word": "major",
+        "startFrame": 540,
+        "endFrame": 547
+      },
+      {
+        "word": "political",
+        "startFrame": 547,
+        "endFrame": 565
+      }
+    ]
+  },
+  {
+    "id": "sub_15",
+    "start": 565,
+    "end": 592,
+    "text": "setback for Trump.",
+    "words": [
+      {
+        "word": "setback",
+        "startFrame": 565,
+        "endFrame": 574
+      },
+      {
+        "word": "for",
+        "startFrame": 574,
+        "endFrame": 581
+      },
+      {
+        "word": "Trump.",
+        "startFrame": 581,
+        "endFrame": 588
+      }
+    ]
+  },
+  {
+    "id": "sub_16",
+    "start": 604,
+    "end": 629,
+    "text": "Why does this matter",
+    "words": [
+      {
+        "word": "Why",
+        "startFrame": 604,
+        "endFrame": 608
+      },
+      {
+        "word": "does",
+        "startFrame": 608,
+        "endFrame": 613
+      },
+      {
+        "word": "this",
+        "startFrame": 613,
+        "endFrame": 617
+      },
+      {
+        "word": "matter",
+        "startFrame": 617,
+        "endFrame": 625
+      }
+    ]
+  },
+  {
+    "id": "sub_17",
+    "start": 625,
+    "end": 647,
+    "text": "to markets?",
+    "words": [
+      {
+        "word": "to",
+        "startFrame": 625,
+        "endFrame": 632
+      },
+      {
+        "word": "markets?",
+        "startFrame": 632,
+        "endFrame": 643
+      }
+    ]
+  },
+  {
+    "id": "sub_18",
+    "start": 658,
+    "end": 681,
+    "text": "There is a growing",
+    "words": [
+      {
+        "word": "There",
+        "startFrame": 658,
+        "endFrame": 662
+      },
+      {
+        "word": "is",
+        "startFrame": 662,
+        "endFrame": 665
+      },
+      {
+        "word": "a",
+        "startFrame": 665,
+        "endFrame": 668
+      },
+      {
+        "word": "growing",
+        "startFrame": 668,
+        "endFrame": 677
+      }
+    ]
+  },
+  {
+    "id": "sub_19",
+    "start": 677,
+    "end": 734,
+    "text": "scrutiny around AI infrastructure.",
+    "words": [
+      {
+        "word": "scrutiny",
+        "startFrame": 677,
+        "endFrame": 689
+      },
+      {
+        "word": "around",
+        "startFrame": 689,
+        "endFrame": 708
+      },
+      {
+        "word": "AI",
+        "startFrame": 708,
+        "endFrame": 716
+      },
+      {
+        "word": "infrastructure.",
+        "startFrame": 716,
+        "endFrame": 730
+      }
+    ]
+  },
+  {
+    "id": "sub_20",
+    "start": 749,
+    "end": 788,
+    "text": "Data center needs enormous",
+    "words": [
+      {
+        "word": "Data",
+        "startFrame": 749,
+        "endFrame": 754
+      },
+      {
+        "word": "center",
+        "startFrame": 754,
+        "endFrame": 759
+      },
+      {
+        "word": "needs",
+        "startFrame": 759,
+        "endFrame": 770
+      },
+      {
+        "word": "enormous",
+        "startFrame": 770,
+        "endFrame": 784
+      }
+    ]
+  },
+  {
+    "id": "sub_21",
+    "start": 784,
+    "end": 809,
+    "text": "amount of electricity.",
+    "words": [
+      {
+        "word": "amount",
+        "startFrame": 784,
+        "endFrame": 793
+      },
+      {
+        "word": "of",
+        "startFrame": 793,
+        "endFrame": 797
+      },
+      {
+        "word": "electricity.",
+        "startFrame": 797,
+        "endFrame": 805
+      }
+    ]
+  },
+  {
+    "id": "sub_22",
+    "start": 805,
+    "end": 855,
+    "text": "And water and some",
+    "words": [
+      {
+        "word": "And",
+        "startFrame": 805,
+        "endFrame": 818
+      },
+      {
+        "word": "water",
+        "startFrame": 818,
+        "endFrame": 829
+      },
+      {
+        "word": "and",
+        "startFrame": 829,
+        "endFrame": 844
+      },
+      {
+        "word": "some",
+        "startFrame": 844,
+        "endFrame": 851
+      }
+    ]
+  },
+  {
+    "id": "sub_23",
+    "start": 851,
+    "end": 885,
+    "text": "political leaders are pushing",
+    "words": [
+      {
+        "word": "political",
+        "startFrame": 851,
+        "endFrame": 859
+      },
+      {
+        "word": "leaders",
+        "startFrame": 859,
+        "endFrame": 871
+      },
+      {
+        "word": "are",
+        "startFrame": 871,
+        "endFrame": 875
+      },
+      {
+        "word": "pushing",
+        "startFrame": 875,
+        "endFrame": 881
+      }
+    ]
+  },
+  {
+    "id": "sub_24",
+    "start": 881,
+    "end": 910,
+    "text": "for the restriction on",
+    "words": [
+      {
+        "word": "for",
+        "startFrame": 881,
+        "endFrame": 887
+      },
+      {
+        "word": "the",
+        "startFrame": 887,
+        "endFrame": 889
+      },
+      {
+        "word": "restriction",
+        "startFrame": 889,
+        "endFrame": 898
+      },
+      {
+        "word": "on",
+        "startFrame": 898,
+        "endFrame": 906
+      }
+    ]
+  },
+  {
+    "id": "sub_25",
+    "start": 906,
+    "end": 924,
+    "text": "their expansion.",
+    "words": [
+      {
+        "word": "their",
+        "startFrame": 906,
+        "endFrame": 909
+      },
+      {
+        "word": "expansion.",
+        "startFrame": 909,
+        "endFrame": 920
+      }
+    ]
+  },
+  {
+    "id": "sub_26",
+    "start": 940,
+    "end": 974,
+    "text": "This has made investors",
+    "words": [
+      {
+        "word": "This",
+        "startFrame": 940,
+        "endFrame": 944
+      },
+      {
+        "word": "has",
+        "startFrame": 944,
+        "endFrame": 955
+      },
+      {
+        "word": "made",
+        "startFrame": 955,
+        "endFrame": 962
+      },
+      {
+        "word": "investors",
+        "startFrame": 962,
+        "endFrame": 970
+      }
+    ]
+  },
+  {
+    "id": "sub_27",
+    "start": 970,
+    "end": 1013,
+    "text": "to question whether the",
+    "words": [
+      {
+        "word": "to",
+        "startFrame": 970,
+        "endFrame": 977
+      },
+      {
+        "word": "question",
+        "startFrame": 977,
+        "endFrame": 988
+      },
+      {
+        "word": "whether",
+        "startFrame": 988,
+        "endFrame": 1003
+      },
+      {
+        "word": "the",
+        "startFrame": 1003,
+        "endFrame": 1009
+      }
+    ]
+  },
+  {
+    "id": "sub_28",
+    "start": 1009,
+    "end": 1056,
+    "text": "massive AI investments will",
+    "words": [
+      {
+        "word": "massive",
+        "startFrame": 1009,
+        "endFrame": 1021
+      },
+      {
+        "word": "AI",
+        "startFrame": 1021,
+        "endFrame": 1030
+      },
+      {
+        "word": "investments",
+        "startFrame": 1030,
+        "endFrame": 1040
+      },
+      {
+        "word": "will",
+        "startFrame": 1040,
+        "endFrame": 1052
+      }
+    ]
+  },
+  {
+    "id": "sub_29",
+    "start": 1052,
+    "end": 1092,
+    "text": "generate the returns expected",
+    "words": [
+      {
+        "word": "generate",
+        "startFrame": 1052,
+        "endFrame": 1061
+      },
+      {
+        "word": "the",
+        "startFrame": 1061,
+        "endFrame": 1066
+      },
+      {
+        "word": "returns",
+        "startFrame": 1066,
+        "endFrame": 1075
+      },
+      {
+        "word": "expected",
+        "startFrame": 1075,
+        "endFrame": 1088
+      }
+    ]
+  },
+  {
+    "id": "sub_30",
+    "start": 1088,
+    "end": 1121,
+    "text": "or will it not?",
+    "words": [
+      {
+        "word": "or",
+        "startFrame": 1088,
+        "endFrame": 1101
+      },
+      {
+        "word": "will",
+        "startFrame": 1101,
+        "endFrame": 1108
+      },
+      {
+        "word": "it",
+        "startFrame": 1108,
+        "endFrame": 1110
+      },
+      {
+        "word": "not?",
+        "startFrame": 1110,
+        "endFrame": 1117
+      }
+    ]
+  },
+  {
+    "id": "sub_31",
+    "start": 1132,
+    "end": 1166,
+    "text": "On November 5th,",
+    "words": [
+      {
+        "word": "On",
+        "startFrame": 1132,
+        "endFrame": 1135
+      },
+      {
+        "word": "November",
+        "startFrame": 1135,
+        "endFrame": 1142
+      },
+      {
+        "word": "5th,",
+        "startFrame": 1142,
+        "endFrame": 1162
+      }
+    ]
+  },
+  {
+    "id": "sub_32",
+    "start": 1163,
+    "end": 1222,
+    "text": "yesterday, NASDAQ crashed 5",
+    "words": [
+      {
+        "word": "yesterday,",
+        "startFrame": 1163,
+        "endFrame": 1171
+      },
+      {
+        "word": "NASDAQ",
+        "startFrame": 1187,
+        "endFrame": 1196
+      },
+      {
+        "word": "crashed",
+        "startFrame": 1196,
+        "endFrame": 1207
+      },
+      {
+        "word": "5",
+        "startFrame": 1207,
+        "endFrame": 1218
+      }
+    ]
+  },
+  {
+    "id": "sub_33",
+    "start": 1218,
+    "end": 1253,
+    "text": ".5 % and S",
+    "words": [
+      {
+        "word": ".5",
+        "startFrame": 1218,
+        "endFrame": 1230
+      },
+      {
+        "word": "%",
+        "startFrame": 1230,
+        "endFrame": 1238
+      },
+      {
+        "word": "and",
+        "startFrame": 1238,
+        "endFrame": 1243
+      },
+      {
+        "word": "S",
+        "startFrame": 1243,
+        "endFrame": 1249
+      }
+    ]
+  },
+  {
+    "id": "sub_34",
+    "start": 1249,
+    "end": 1317,
+    "text": "&P fell around 4",
+    "words": [
+      {
+        "word": "&P",
+        "startFrame": 1249,
+        "endFrame": 1258
+      },
+      {
+        "word": "fell",
+        "startFrame": 1258,
+        "endFrame": 1269
+      },
+      {
+        "word": "around",
+        "startFrame": 1269,
+        "endFrame": 1285
+      },
+      {
+        "word": "4",
+        "startFrame": 1285,
+        "endFrame": 1313
+      }
+    ]
+  },
+  {
+    "id": "sub_35",
+    "start": 1313,
+    "end": 1361,
+    "text": ".4%. And here is",
+    "words": [
+      {
+        "word": ".4%.",
+        "startFrame": 1313,
+        "endFrame": 1337
+      },
+      {
+        "word": "And",
+        "startFrame": 1337,
+        "endFrame": 1348
+      },
+      {
+        "word": "here",
+        "startFrame": 1348,
+        "endFrame": 1353
+      },
+      {
+        "word": "is",
+        "startFrame": 1353,
+        "endFrame": 1357
+      }
+    ]
+  },
+  {
+    "id": "sub_36",
+    "start": 1357,
+    "end": 1398,
+    "text": "where India's story is",
+    "words": [
+      {
+        "word": "where",
+        "startFrame": 1357,
+        "endFrame": 1364
+      },
+      {
+        "word": "India's",
+        "startFrame": 1364,
+        "endFrame": 1380
+      },
+      {
+        "word": "story",
+        "startFrame": 1380,
+        "endFrame": 1388
+      },
+      {
+        "word": "is",
+        "startFrame": 1388,
+        "endFrame": 1394
+      }
+    ]
+  },
+  {
+    "id": "sub_37",
+    "start": 1394,
+    "end": 1414,
+    "text": "getting interesting.",
+    "words": [
+      {
+        "word": "getting",
+        "startFrame": 1394,
+        "endFrame": 1397
+      },
+      {
+        "word": "interesting.",
+        "startFrame": 1397,
+        "endFrame": 1410
+      }
+    ]
+  },
+  {
+    "id": "sub_38",
+    "start": 1423,
+    "end": 1443,
+    "text": "For months,",
+    "words": [
+      {
+        "word": "For",
+        "startFrame": 1423,
+        "endFrame": 1426
+      },
+      {
+        "word": "months,",
+        "startFrame": 1426,
+        "endFrame": 1439
+      }
+    ]
+  },
+  {
+    "id": "sub_39",
+    "start": 1446,
+    "end": 1491,
+    "text": "FII was continuously selling",
+    "words": [
+      {
+        "word": "FII",
+        "startFrame": 1446,
+        "endFrame": 1451
+      },
+      {
+        "word": "was",
+        "startFrame": 1451,
+        "endFrame": 1461
+      },
+      {
+        "word": "continuously",
+        "startFrame": 1461,
+        "endFrame": 1474
+      },
+      {
+        "word": "selling",
+        "startFrame": 1474,
+        "endFrame": 1487
+      }
+    ]
+  },
+  {
+    "id": "sub_40",
+    "start": 1487,
+    "end": 1508,
+    "text": "Indian stocks.",
+    "words": [
+      {
+        "word": "Indian",
+        "startFrame": 1487,
+        "endFrame": 1495
+      },
+      {
+        "word": "stocks.",
+        "startFrame": 1495,
+        "endFrame": 1504
+      }
+    ]
+  },
+  {
+    "id": "sub_41",
+    "start": 1517,
+    "end": 1532,
+    "text": "But now,",
+    "words": [
+      {
+        "word": "But",
+        "startFrame": 1517,
+        "endFrame": 1519
+      },
+      {
+        "word": "now,",
+        "startFrame": 1519,
+        "endFrame": 1528
+      }
+    ]
+  },
+  {
+    "id": "sub_42",
+    "start": 1534,
+    "end": 1566,
+    "text": "three things are changing",
+    "words": [
+      {
+        "word": "three",
+        "startFrame": 1534,
+        "endFrame": 1541
+      },
+      {
+        "word": "things",
+        "startFrame": 1541,
+        "endFrame": 1549
+      },
+      {
+        "word": "are",
+        "startFrame": 1549,
+        "endFrame": 1555
+      },
+      {
+        "word": "changing",
+        "startFrame": 1555,
+        "endFrame": 1562
+      }
+    ]
+  },
+  {
+    "id": "sub_43",
+    "start": 1562,
+    "end": 1590,
+    "text": "their investment equation.",
+    "words": [
+      {
+        "word": "their",
+        "startFrame": 1562,
+        "endFrame": 1569
+      },
+      {
+        "word": "investment",
+        "startFrame": 1569,
+        "endFrame": 1576
+      },
+      {
+        "word": "equation.",
+        "startFrame": 1576,
+        "endFrame": 1586
+      }
+    ]
+  },
+  {
+    "id": "sub_44",
+    "start": 1586,
+    "end": 1642,
+    "text": "First, global AI trade",
+    "words": [
+      {
+        "word": "First,",
+        "startFrame": 1586,
+        "endFrame": 1606
+      },
+      {
+        "word": "global",
+        "startFrame": 1624,
+        "endFrame": 1624
+      },
+      {
+        "word": "AI",
+        "startFrame": 1624,
+        "endFrame": 1631
+      },
+      {
+        "word": "trade",
+        "startFrame": 1631,
+        "endFrame": 1638
+      }
+    ]
+  },
+  {
+    "id": "sub_45",
+    "start": 1638,
+    "end": 1691,
+    "text": "is getting crowded as",
+    "words": [
+      {
+        "word": "is",
+        "startFrame": 1638,
+        "endFrame": 1651
+      },
+      {
+        "word": "getting",
+        "startFrame": 1651,
+        "endFrame": 1655
+      },
+      {
+        "word": "crowded",
+        "startFrame": 1655,
+        "endFrame": 1669
+      },
+      {
+        "word": "as",
+        "startFrame": 1669,
+        "endFrame": 1687
+      }
+    ]
+  },
+  {
+    "id": "sub_46",
+    "start": 1687,
+    "end": 1732,
+    "text": "investors reduce exposure to",
+    "words": [
+      {
+        "word": "investors",
+        "startFrame": 1687,
+        "endFrame": 1696
+      },
+      {
+        "word": "reduce",
+        "startFrame": 1696,
+        "endFrame": 1707
+      },
+      {
+        "word": "exposure",
+        "startFrame": 1707,
+        "endFrame": 1722
+      },
+      {
+        "word": "to",
+        "startFrame": 1722,
+        "endFrame": 1728
+      }
+    ]
+  },
+  {
+    "id": "sub_47",
+    "start": 1728,
+    "end": 1766,
+    "text": "expensive AI linked stocks.",
+    "words": [
+      {
+        "word": "expensive",
+        "startFrame": 1728,
+        "endFrame": 1738
+      },
+      {
+        "word": "AI",
+        "startFrame": 1738,
+        "endFrame": 1747
+      },
+      {
+        "word": "linked",
+        "startFrame": 1747,
+        "endFrame": 1751
+      },
+      {
+        "word": "stocks.",
+        "startFrame": 1751,
+        "endFrame": 1762
+      }
+    ]
+  },
+  {
+    "id": "sub_48",
+    "start": 1774,
+    "end": 1808,
+    "text": "India, with a large",
+    "words": [
+      {
+        "word": "India,",
+        "startFrame": 1774,
+        "endFrame": 1779
+      },
+      {
+        "word": "with",
+        "startFrame": 1787,
+        "endFrame": 1791
+      },
+      {
+        "word": "a",
+        "startFrame": 1791,
+        "endFrame": 1796
+      },
+      {
+        "word": "large",
+        "startFrame": 1796,
+        "endFrame": 1804
+      }
+    ]
+  },
+  {
+    "id": "sub_49",
+    "start": 1804,
+    "end": 1852,
+    "text": "diversified market and relatively",
+    "words": [
+      {
+        "word": "diversified",
+        "startFrame": 1804,
+        "endFrame": 1823
+      },
+      {
+        "word": "market",
+        "startFrame": 1823,
+        "endFrame": 1834
+      },
+      {
+        "word": "and",
+        "startFrame": 1834,
+        "endFrame": 1840
+      },
+      {
+        "word": "relatively",
+        "startFrame": 1840,
+        "endFrame": 1848
+      }
+    ]
+  },
+  {
+    "id": "sub_50",
+    "start": 1848,
+    "end": 1878,
+    "text": "less dependence on the",
+    "words": [
+      {
+        "word": "less",
+        "startFrame": 1848,
+        "endFrame": 1856
+      },
+      {
+        "word": "dependence",
+        "startFrame": 1856,
+        "endFrame": 1865
+      },
+      {
+        "word": "on",
+        "startFrame": 1865,
+        "endFrame": 1871
+      },
+      {
+        "word": "the",
+        "startFrame": 1871,
+        "endFrame": 1874
+      }
+    ]
+  },
+  {
+    "id": "sub_51",
+    "start": 1874,
+    "end": 1894,
+    "text": "AI infrastructure,",
+    "words": [
+      {
+        "word": "AI",
+        "startFrame": 1874,
+        "endFrame": 1878
+      },
+      {
+        "word": "infrastructure,",
+        "startFrame": 1878,
+        "endFrame": 1890
+      }
+    ]
+  },
+  {
+    "id": "sub_52",
+    "start": 1904,
+    "end": 1942,
+    "text": "become an alternative destination",
+    "words": [
+      {
+        "word": "become",
+        "startFrame": 1904,
+        "endFrame": 1909
+      },
+      {
+        "word": "an",
+        "startFrame": 1909,
+        "endFrame": 1913
+      },
+      {
+        "word": "alternative",
+        "startFrame": 1913,
+        "endFrame": 1925
+      },
+      {
+        "word": "destination",
+        "startFrame": 1925,
+        "endFrame": 1938
+      }
+    ]
+  },
+  {
+    "id": "sub_53",
+    "start": 1938,
+    "end": 1954,
+    "text": "for them.",
+    "words": [
+      {
+        "word": "for",
+        "startFrame": 1938,
+        "endFrame": 1945
+      },
+      {
+        "word": "them.",
+        "startFrame": 1945,
+        "endFrame": 1950
+      }
+    ]
+  },
+  {
+    "id": "sub_54",
+    "start": 1962,
+    "end": 2004,
+    "text": "Second, crude oil prices",
+    "words": [
+      {
+        "word": "Second,",
+        "startFrame": 1962,
+        "endFrame": 1971
+      },
+      {
+        "word": "crude",
+        "startFrame": 1982,
+        "endFrame": 1986
+      },
+      {
+        "word": "oil",
+        "startFrame": 1986,
+        "endFrame": 1991
+      },
+      {
+        "word": "prices",
+        "startFrame": 1991,
+        "endFrame": 2000
+      }
+    ]
+  },
+  {
+    "id": "sub_55",
+    "start": 2000,
+    "end": 2041,
+    "text": "are cooling and US",
+    "words": [
+      {
+        "word": "are",
+        "startFrame": 2000,
+        "endFrame": 2007
+      },
+      {
+        "word": "cooling",
+        "startFrame": 2007,
+        "endFrame": 2014
+      },
+      {
+        "word": "and",
+        "startFrame": 2014,
+        "endFrame": 2029
+      },
+      {
+        "word": "US",
+        "startFrame": 2029,
+        "endFrame": 2037
+      }
+    ]
+  },
+  {
+    "id": "sub_56",
+    "start": 2037,
+    "end": 2067,
+    "text": "-born yields are easing.",
+    "words": [
+      {
+        "word": "-born",
+        "startFrame": 2037,
+        "endFrame": 2044
+      },
+      {
+        "word": "yields",
+        "startFrame": 2044,
+        "endFrame": 2051
+      },
+      {
+        "word": "are",
+        "startFrame": 2051,
+        "endFrame": 2055
+      },
+      {
+        "word": "easing.",
+        "startFrame": 2055,
+        "endFrame": 2063
+      }
+    ]
+  },
+  {
+    "id": "sub_57",
+    "start": 2074,
+    "end": 2112,
+    "text": "That's an important because",
+    "words": [
+      {
+        "word": "That's",
+        "startFrame": 2074,
+        "endFrame": 2077
+      },
+      {
+        "word": "an",
+        "startFrame": 2077,
+        "endFrame": 2079
+      },
+      {
+        "word": "important",
+        "startFrame": 2079,
+        "endFrame": 2090
+      },
+      {
+        "word": "because",
+        "startFrame": 2090,
+        "endFrame": 2108
+      }
+    ]
+  },
+  {
+    "id": "sub_58",
+    "start": 2108,
+    "end": 2148,
+    "text": "low oil prices ease",
+    "words": [
+      {
+        "word": "low",
+        "startFrame": 2108,
+        "endFrame": 2120
+      },
+      {
+        "word": "oil",
+        "startFrame": 2120,
+        "endFrame": 2129
+      },
+      {
+        "word": "prices",
+        "startFrame": 2129,
+        "endFrame": 2138
+      },
+      {
+        "word": "ease",
+        "startFrame": 2138,
+        "endFrame": 2144
+      }
+    ]
+  },
+  {
+    "id": "sub_59",
+    "start": 2144,
+    "end": 2173,
+    "text": "the pressure on India's",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 2144,
+        "endFrame": 2147
+      },
+      {
+        "word": "pressure",
+        "startFrame": 2147,
+        "endFrame": 2153
+      },
+      {
+        "word": "on",
+        "startFrame": 2153,
+        "endFrame": 2159
+      },
+      {
+        "word": "India's",
+        "startFrame": 2159,
+        "endFrame": 2169
+      }
+    ]
+  },
+  {
+    "id": "sub_60",
+    "start": 2169,
+    "end": 2208,
+    "text": "input bill while softer",
+    "words": [
+      {
+        "word": "input",
+        "startFrame": 2169,
+        "endFrame": 2177
+      },
+      {
+        "word": "bill",
+        "startFrame": 2177,
+        "endFrame": 2185
+      },
+      {
+        "word": "while",
+        "startFrame": 2185,
+        "endFrame": 2196
+      },
+      {
+        "word": "softer",
+        "startFrame": 2196,
+        "endFrame": 2204
+      }
+    ]
+  },
+  {
+    "id": "sub_61",
+    "start": 2204,
+    "end": 2244,
+    "text": "US yields making emerging",
+    "words": [
+      {
+        "word": "US",
+        "startFrame": 2204,
+        "endFrame": 2213
+      },
+      {
+        "word": "yields",
+        "startFrame": 2213,
+        "endFrame": 2220
+      },
+      {
+        "word": "making",
+        "startFrame": 2220,
+        "endFrame": 2230
+      },
+      {
+        "word": "emerging",
+        "startFrame": 2230,
+        "endFrame": 2240
+      }
+    ]
+  },
+  {
+    "id": "sub_62",
+    "start": 2240,
+    "end": 2274,
+    "text": "markets like India more",
+    "words": [
+      {
+        "word": "markets",
+        "startFrame": 2240,
+        "endFrame": 2248
+      },
+      {
+        "word": "like",
+        "startFrame": 2248,
+        "endFrame": 2255
+      },
+      {
+        "word": "India",
+        "startFrame": 2255,
+        "endFrame": 2262
+      },
+      {
+        "word": "more",
+        "startFrame": 2262,
+        "endFrame": 2270
+      }
+    ]
+  },
+  {
+    "id": "sub_63",
+    "start": 2270,
+    "end": 2300,
+    "text": "attractive for the FIA.",
+    "words": [
+      {
+        "word": "attractive",
+        "startFrame": 2270,
+        "endFrame": 2281
+      },
+      {
+        "word": "for",
+        "startFrame": 2281,
+        "endFrame": 2288
+      },
+      {
+        "word": "the",
+        "startFrame": 2288,
+        "endFrame": 2291
+      },
+      {
+        "word": "FIA.",
+        "startFrame": 2291,
+        "endFrame": 2296
+      }
+    ]
+  },
+  {
+    "id": "sub_64",
+    "start": 2307,
+    "end": 2324,
+    "text": "And third,",
+    "words": [
+      {
+        "word": "And",
+        "startFrame": 2307,
+        "endFrame": 2312
+      },
+      {
+        "word": "third,",
+        "startFrame": 2312,
+        "endFrame": 2320
+      }
+    ]
+  },
+  {
+    "id": "sub_65",
+    "start": 2325,
+    "end": 2359,
+    "text": "India's earning outlook is",
+    "words": [
+      {
+        "word": "India's",
+        "startFrame": 2325,
+        "endFrame": 2332
+      },
+      {
+        "word": "earning",
+        "startFrame": 2332,
+        "endFrame": 2340
+      },
+      {
+        "word": "outlook",
+        "startFrame": 2340,
+        "endFrame": 2350
+      },
+      {
+        "word": "is",
+        "startFrame": 2350,
+        "endFrame": 2355
+      }
+    ]
+  },
+  {
+    "id": "sub_66",
+    "start": 2355,
+    "end": 2406,
+    "text": "improving. So this is",
+    "words": [
+      {
+        "word": "improving.",
+        "startFrame": 2355,
+        "endFrame": 2365
+      },
+      {
+        "word": "So",
+        "startFrame": 2381,
+        "endFrame": 2389
+      },
+      {
+        "word": "this",
+        "startFrame": 2389,
+        "endFrame": 2399
+      },
+      {
+        "word": "is",
+        "startFrame": 2399,
+        "endFrame": 2402
+      }
+    ]
+  },
+  {
+    "id": "sub_67",
+    "start": 2402,
+    "end": 2442,
+    "text": "not just money chasing",
+    "words": [
+      {
+        "word": "not",
+        "startFrame": 2402,
+        "endFrame": 2407
+      },
+      {
+        "word": "just",
+        "startFrame": 2407,
+        "endFrame": 2417
+      },
+      {
+        "word": "money",
+        "startFrame": 2417,
+        "endFrame": 2428
+      },
+      {
+        "word": "chasing",
+        "startFrame": 2428,
+        "endFrame": 2438
+      }
+    ]
+  },
+  {
+    "id": "sub_68",
+    "start": 2438,
+    "end": 2465,
+    "text": "a market rally,",
+    "words": [
+      {
+        "word": "a",
+        "startFrame": 2438,
+        "endFrame": 2444
+      },
+      {
+        "word": "market",
+        "startFrame": 2444,
+        "endFrame": 2451
+      },
+      {
+        "word": "rally,",
+        "startFrame": 2451,
+        "endFrame": 2461
+      }
+    ]
+  },
+  {
+    "id": "sub_69",
+    "start": 2467,
+    "end": 2502,
+    "text": "it's a combination of",
+    "words": [
+      {
+        "word": "it's",
+        "startFrame": 2467,
+        "endFrame": 2470
+      },
+      {
+        "word": "a",
+        "startFrame": 2470,
+        "endFrame": 2471
+      },
+      {
+        "word": "combination",
+        "startFrame": 2471,
+        "endFrame": 2482
+      },
+      {
+        "word": "of",
+        "startFrame": 2482,
+        "endFrame": 2498
+      }
+    ]
+  },
+  {
+    "id": "sub_70",
+    "start": 2498,
+    "end": 2538,
+    "text": "global money rotation,",
+    "words": [
+      {
+        "word": "global",
+        "startFrame": 2498,
+        "endFrame": 2511
+      },
+      {
+        "word": "money",
+        "startFrame": 2511,
+        "endFrame": 2519
+      },
+      {
+        "word": "rotation,",
+        "startFrame": 2519,
+        "endFrame": 2534
+      }
+    ]
+  },
+  {
+    "id": "sub_71",
+    "start": 2549,
+    "end": 2589,
+    "text": "India's macro pressure easing",
+    "words": [
+      {
+        "word": "India's",
+        "startFrame": 2549,
+        "endFrame": 2560
+      },
+      {
+        "word": "macro",
+        "startFrame": 2560,
+        "endFrame": 2568
+      },
+      {
+        "word": "pressure",
+        "startFrame": 2568,
+        "endFrame": 2576
+      },
+      {
+        "word": "easing",
+        "startFrame": 2576,
+        "endFrame": 2585
+      }
+    ]
+  },
+  {
+    "id": "sub_72",
+    "start": 2585,
+    "end": 2645,
+    "text": "and improving earnings expectations.",
+    "words": [
+      {
+        "word": "and",
+        "startFrame": 2585,
+        "endFrame": 2602
+      },
+      {
+        "word": "improving",
+        "startFrame": 2602,
+        "endFrame": 2614
+      },
+      {
+        "word": "earnings",
+        "startFrame": 2614,
+        "endFrame": 2626
+      },
+      {
+        "word": "expectations.",
+        "startFrame": 2626,
+        "endFrame": 2641
+      }
+    ]
+  },
+  {
+    "id": "sub_73",
+    "start": 2644,
+    "end": 2684,
+    "text": "Just on number 5th,",
+    "words": [
+      {
+        "word": "Just",
+        "startFrame": 2644,
+        "endFrame": 2647
+      },
+      {
+        "word": "on",
+        "startFrame": 2647,
+        "endFrame": 2653
+      },
+      {
+        "word": "number",
+        "startFrame": 2653,
+        "endFrame": 2660
+      },
+      {
+        "word": "5th,",
+        "startFrame": 2660,
+        "endFrame": 2680
+      }
+    ]
+  },
+  {
+    "id": "sub_74",
+    "start": 2680,
+    "end": 2706,
+    "text": "FII has got nearly",
+    "words": [
+      {
+        "word": "FII",
+        "startFrame": 2680,
+        "endFrame": 2680
+      },
+      {
+        "word": "has",
+        "startFrame": 2680,
+        "endFrame": 2687
+      },
+      {
+        "word": "got",
+        "startFrame": 2687,
+        "endFrame": 2693
+      },
+      {
+        "word": "nearly",
+        "startFrame": 2693,
+        "endFrame": 2702
+      }
+    ]
+  },
+  {
+    "id": "sub_75",
+    "start": 2702,
+    "end": 2744,
+    "text": "15 ,000 crores worth",
+    "words": [
+      {
+        "word": "15",
+        "startFrame": 2702,
+        "endFrame": 2715
+      },
+      {
+        "word": ",000",
+        "startFrame": 2715,
+        "endFrame": 2728
+      },
+      {
+        "word": "crores",
+        "startFrame": 2728,
+        "endFrame": 2734
+      },
+      {
+        "word": "worth",
+        "startFrame": 2734,
+        "endFrame": 2740
+      }
+    ]
+  },
+  {
+    "id": "sub_76",
+    "start": 2740,
+    "end": 2761,
+    "text": "of Indian equities.",
+    "words": [
+      {
+        "word": "of",
+        "startFrame": 2740,
+        "endFrame": 2743
+      },
+      {
+        "word": "Indian",
+        "startFrame": 2743,
+        "endFrame": 2748
+      },
+      {
+        "word": "equities.",
+        "startFrame": 2748,
+        "endFrame": 2757
+      }
+    ]
+  },
+  {
+    "id": "sub_77",
+    "start": 2773,
+    "end": 2791,
+    "text": "That's one of the",
+    "words": [
+      {
+        "word": "That's",
+        "startFrame": 2773,
+        "endFrame": 2777
+      },
+      {
+        "word": "one",
+        "startFrame": 2777,
+        "endFrame": 2781
+      },
+      {
+        "word": "of",
+        "startFrame": 2781,
+        "endFrame": 2785
+      },
+      {
+        "word": "the",
+        "startFrame": 2785,
+        "endFrame": 2787
+      }
+    ]
+  },
+  {
+    "id": "sub_78",
+    "start": 2787,
+    "end": 2819,
+    "text": "biggest single day buying",
+    "words": [
+      {
+        "word": "biggest",
+        "startFrame": 2787,
+        "endFrame": 2795
+      },
+      {
+        "word": "single",
+        "startFrame": 2795,
+        "endFrame": 2805
+      },
+      {
+        "word": "day",
+        "startFrame": 2805,
+        "endFrame": 2811
+      },
+      {
+        "word": "buying",
+        "startFrame": 2811,
+        "endFrame": 2815
+      }
+    ]
+  },
+  {
+    "id": "sub_79",
+    "start": 2815,
+    "end": 2847,
+    "text": "sessions in nearly 6",
+    "words": [
+      {
+        "word": "sessions",
+        "startFrame": 2815,
+        "endFrame": 2823
+      },
+      {
+        "word": "in",
+        "startFrame": 2823,
+        "endFrame": 2831
+      },
+      {
+        "word": "nearly",
+        "startFrame": 2831,
+        "endFrame": 2837
+      },
+      {
+        "word": "6",
+        "startFrame": 2837,
+        "endFrame": 2843
+      }
+    ]
+  },
+  {
+    "id": "sub_80",
+    "start": 2843,
+    "end": 2881,
+    "text": "years. And if you",
+    "words": [
+      {
+        "word": "years.",
+        "startFrame": 2843,
+        "endFrame": 2851
+      },
+      {
+        "word": "And",
+        "startFrame": 2863,
+        "endFrame": 2867
+      },
+      {
+        "word": "if",
+        "startFrame": 2867,
+        "endFrame": 2875
+      },
+      {
+        "word": "you",
+        "startFrame": 2875,
+        "endFrame": 2877
+      }
+    ]
+  },
+  {
+    "id": "sub_81",
+    "start": 2877,
+    "end": 2907,
+    "text": "look at today's number,",
+    "words": [
+      {
+        "word": "look",
+        "startFrame": 2877,
+        "endFrame": 2879
+      },
+      {
+        "word": "at",
+        "startFrame": 2879,
+        "endFrame": 2883
+      },
+      {
+        "word": "today's",
+        "startFrame": 2883,
+        "endFrame": 2896
+      },
+      {
+        "word": "number,",
+        "startFrame": 2896,
+        "endFrame": 2903
+      }
+    ]
+  },
+  {
+    "id": "sub_82",
+    "start": 2911,
+    "end": 2942,
+    "text": "FII have got 13",
+    "words": [
+      {
+        "word": "FII",
+        "startFrame": 2911,
+        "endFrame": 2914
+      },
+      {
+        "word": "have",
+        "startFrame": 2914,
+        "endFrame": 2922
+      },
+      {
+        "word": "got",
+        "startFrame": 2922,
+        "endFrame": 2930
+      },
+      {
+        "word": "13",
+        "startFrame": 2930,
+        "endFrame": 2938
+      }
+    ]
+  },
+  {
+    "id": "sub_83",
+    "start": 2938,
+    "end": 2977,
+    "text": ",750 crores worth of",
+    "words": [
+      {
+        "word": ",750",
+        "startFrame": 2938,
+        "endFrame": 2954
+      },
+      {
+        "word": "crores",
+        "startFrame": 2954,
+        "endFrame": 2964
+      },
+      {
+        "word": "worth",
+        "startFrame": 2964,
+        "endFrame": 2971
+      },
+      {
+        "word": "of",
+        "startFrame": 2971,
+        "endFrame": 2973
+      }
+    ]
+  },
+  {
+    "id": "sub_84",
+    "start": 2973,
+    "end": 2991,
+    "text": "Indian equities.",
+    "words": [
+      {
+        "word": "Indian",
+        "startFrame": 2973,
+        "endFrame": 2977
+      },
+      {
+        "word": "equities.",
+        "startFrame": 2977,
+        "endFrame": 2987
+      }
+    ]
+  },
+  {
+    "id": "sub_85",
+    "start": 2996,
+    "end": 3024,
+    "text": "And that's the major",
+    "words": [
+      {
+        "word": "And",
+        "startFrame": 2996,
+        "endFrame": 3002
+      },
+      {
+        "word": "that's",
+        "startFrame": 3002,
+        "endFrame": 3010
+      },
+      {
+        "word": "the",
+        "startFrame": 3010,
+        "endFrame": 3013
+      },
+      {
+        "word": "major",
+        "startFrame": 3013,
+        "endFrame": 3020
+      }
+    ]
+  },
+  {
+    "id": "sub_86",
+    "start": 3020,
+    "end": 3075,
+    "text": "reason behind this week's",
+    "words": [
+      {
+        "word": "reason",
+        "startFrame": 3020,
+        "endFrame": 3028
+      },
+      {
+        "word": "behind",
+        "startFrame": 3028,
+        "endFrame": 3041
+      },
+      {
+        "word": "this",
+        "startFrame": 3041,
+        "endFrame": 3049
+      },
+      {
+        "word": "week's",
+        "startFrame": 3049,
+        "endFrame": 3071
+      }
+    ]
+  },
+  {
+    "id": "sub_87",
+    "start": 3071,
+    "end": 3108,
+    "text": "powerful India market rally.",
+    "words": [
+      {
+        "word": "powerful",
+        "startFrame": 3071,
+        "endFrame": 3077
+      },
+      {
+        "word": "India",
+        "startFrame": 3077,
+        "endFrame": 3089
+      },
+      {
+        "word": "market",
+        "startFrame": 3089,
+        "endFrame": 3095
+      },
+      {
+        "word": "rally.",
+        "startFrame": 3095,
+        "endFrame": 3104
+      }
+    ]
+  },
+  {
+    "id": "sub_88",
+    "start": 3114,
+    "end": 3140,
+    "text": "But now comes the",
+    "words": [
+      {
+        "word": "But",
+        "startFrame": 3114,
+        "endFrame": 3118
+      },
+      {
+        "word": "now",
+        "startFrame": 3118,
+        "endFrame": 3124
+      },
+      {
+        "word": "comes",
+        "startFrame": 3124,
+        "endFrame": 3131
+      },
+      {
+        "word": "the",
+        "startFrame": 3131,
+        "endFrame": 3136
+      }
+    ]
+  },
+  {
+    "id": "sub_89",
+    "start": 3136,
+    "end": 3166,
+    "text": "most important question.",
+    "words": [
+      {
+        "word": "most",
+        "startFrame": 3136,
+        "endFrame": 3140
+      },
+      {
+        "word": "important",
+        "startFrame": 3140,
+        "endFrame": 3154
+      },
+      {
+        "word": "question.",
+        "startFrame": 3154,
+        "endFrame": 3162
+      }
+    ]
+  },
+  {
+    "id": "sub_90",
+    "start": 3175,
+    "end": 3201,
+    "text": "When the market was",
+    "words": [
+      {
+        "word": "When",
+        "startFrame": 3175,
+        "endFrame": 3182
+      },
+      {
+        "word": "the",
+        "startFrame": 3182,
+        "endFrame": 3185
+      },
+      {
+        "word": "market",
+        "startFrame": 3185,
+        "endFrame": 3190
+      },
+      {
+        "word": "was",
+        "startFrame": 3190,
+        "endFrame": 3197
+      }
+    ]
+  },
+  {
+    "id": "sub_91",
+    "start": 3197,
+    "end": 3249,
+    "text": "falling, FII stock many",
+    "words": [
+      {
+        "word": "falling,",
+        "startFrame": 3197,
+        "endFrame": 3211
+      },
+      {
+        "word": "FII",
+        "startFrame": 3223,
+        "endFrame": 3225
+      },
+      {
+        "word": "stock",
+        "startFrame": 3225,
+        "endFrame": 3236
+      },
+      {
+        "word": "many",
+        "startFrame": 3236,
+        "endFrame": 3245
+      }
+    ]
+  },
+  {
+    "id": "sub_92",
+    "start": 3245,
+    "end": 3274,
+    "text": "investors from buying.",
+    "words": [
+      {
+        "word": "investors",
+        "startFrame": 3245,
+        "endFrame": 3257
+      },
+      {
+        "word": "from",
+        "startFrame": 3257,
+        "endFrame": 3265
+      },
+      {
+        "word": "buying.",
+        "startFrame": 3265,
+        "endFrame": 3270
+      }
+    ]
+  },
+  {
+    "id": "sub_93",
+    "start": 3284,
+    "end": 3317,
+    "text": "Now after this rally,",
+    "words": [
+      {
+        "word": "Now",
+        "startFrame": 3284,
+        "endFrame": 3292
+      },
+      {
+        "word": "after",
+        "startFrame": 3292,
+        "endFrame": 3298
+      },
+      {
+        "word": "this",
+        "startFrame": 3298,
+        "endFrame": 3305
+      },
+      {
+        "word": "rally,",
+        "startFrame": 3305,
+        "endFrame": 3313
+      }
+    ]
+  },
+  {
+    "id": "sub_94",
+    "start": 3327,
+    "end": 3362,
+    "text": "FOMO and Greed are",
+    "words": [
+      {
+        "word": "FOMO",
+        "startFrame": 3327,
+        "endFrame": 3335
+      },
+      {
+        "word": "and",
+        "startFrame": 3335,
+        "endFrame": 3343
+      },
+      {
+        "word": "Greed",
+        "startFrame": 3343,
+        "endFrame": 3349
+      },
+      {
+        "word": "are",
+        "startFrame": 3349,
+        "endFrame": 3358
+      }
+    ]
+  },
+  {
+    "id": "sub_95",
+    "start": 3358,
+    "end": 3386,
+    "text": "pushing them to buy.",
+    "words": [
+      {
+        "word": "pushing",
+        "startFrame": 3358,
+        "endFrame": 3365
+      },
+      {
+        "word": "them",
+        "startFrame": 3365,
+        "endFrame": 3373
+      },
+      {
+        "word": "to",
+        "startFrame": 3373,
+        "endFrame": 3377
+      },
+      {
+        "word": "buy.",
+        "startFrame": 3377,
+        "endFrame": 3382
+      }
+    ]
+  },
+  {
+    "id": "sub_96",
+    "start": 3394,
+    "end": 3413,
+    "text": "Still they are in",
+    "words": [
+      {
+        "word": "Still",
+        "startFrame": 3394,
+        "endFrame": 3400
+      },
+      {
+        "word": "they",
+        "startFrame": 3400,
+        "endFrame": 3404
+      },
+      {
+        "word": "are",
+        "startFrame": 3404,
+        "endFrame": 3406
+      },
+      {
+        "word": "in",
+        "startFrame": 3406,
+        "endFrame": 3409
+      }
+    ]
+  },
+  {
+    "id": "sub_97",
+    "start": 3409,
+    "end": 3432,
+    "text": "a confused mode.",
+    "words": [
+      {
+        "word": "a",
+        "startFrame": 3409,
+        "endFrame": 3412
+      },
+      {
+        "word": "confused",
+        "startFrame": 3412,
+        "endFrame": 3419
+      },
+      {
+        "word": "mode.",
+        "startFrame": 3419,
+        "endFrame": 3428
+      }
+    ]
+  },
+  {
+    "id": "sub_98",
+    "start": 3436,
+    "end": 3459,
+    "text": "So what you should",
+    "words": [
+      {
+        "word": "So",
+        "startFrame": 3436,
+        "endFrame": 3439
+      },
+      {
+        "word": "what",
+        "startFrame": 3439,
+        "endFrame": 3445
+      },
+      {
+        "word": "you",
+        "startFrame": 3445,
+        "endFrame": 3451
+      },
+      {
+        "word": "should",
+        "startFrame": 3451,
+        "endFrame": 3455
+      }
+    ]
+  },
+  {
+    "id": "sub_99",
+    "start": 3455,
+    "end": 3491,
+    "text": "do? Let me share",
+    "words": [
+      {
+        "word": "do?",
+        "startFrame": 3455,
+        "endFrame": 3463
+      },
+      {
+        "word": "Let",
+        "startFrame": 3476,
+        "endFrame": 3479
+      },
+      {
+        "word": "me",
+        "startFrame": 3479,
+        "endFrame": 3482
+      },
+      {
+        "word": "share",
+        "startFrame": 3482,
+        "endFrame": 3487
+      }
+    ]
+  },
+  {
+    "id": "sub_100",
+    "start": 3487,
+    "end": 3514,
+    "text": "what I am personally",
+    "words": [
+      {
+        "word": "what",
+        "startFrame": 3487,
+        "endFrame": 3493
+      },
+      {
+        "word": "I",
+        "startFrame": 3493,
+        "endFrame": 3499
+      },
+      {
+        "word": "am",
+        "startFrame": 3499,
+        "endFrame": 3502
+      },
+      {
+        "word": "personally",
+        "startFrame": 3502,
+        "endFrame": 3510
+      }
+    ]
+  },
+  {
+    "id": "sub_101",
+    "start": 3510,
+    "end": 3553,
+    "text": "doing. I had increased",
+    "words": [
+      {
+        "word": "doing.",
+        "startFrame": 3510,
+        "endFrame": 3517
+      },
+      {
+        "word": "I",
+        "startFrame": 3527,
+        "endFrame": 3533
+      },
+      {
+        "word": "had",
+        "startFrame": 3533,
+        "endFrame": 3539
+      },
+      {
+        "word": "increased",
+        "startFrame": 3539,
+        "endFrame": 3549
+      }
+    ]
+  },
+  {
+    "id": "sub_102",
+    "start": 3549,
+    "end": 3589,
+    "text": "my allocation back in",
+    "words": [
+      {
+        "word": "my",
+        "startFrame": 3549,
+        "endFrame": 3555
+      },
+      {
+        "word": "allocation",
+        "startFrame": 3555,
+        "endFrame": 3564
+      },
+      {
+        "word": "back",
+        "startFrame": 3564,
+        "endFrame": 3574
+      },
+      {
+        "word": "in",
+        "startFrame": 3574,
+        "endFrame": 3585
+      }
+    ]
+  },
+  {
+    "id": "sub_103",
+    "start": 3585,
+    "end": 3627,
+    "text": "September, October when the",
+    "words": [
+      {
+        "word": "September,",
+        "startFrame": 3585,
+        "endFrame": 3598
+      },
+      {
+        "word": "October",
+        "startFrame": 3608,
+        "endFrame": 3611
+      },
+      {
+        "word": "when",
+        "startFrame": 3611,
+        "endFrame": 3620
+      },
+      {
+        "word": "the",
+        "startFrame": 3620,
+        "endFrame": 3623
+      }
+    ]
+  },
+  {
+    "id": "sub_104",
+    "start": 3623,
+    "end": 3651,
+    "text": "Indian markets were in",
+    "words": [
+      {
+        "word": "Indian",
+        "startFrame": 3623,
+        "endFrame": 3628
+      },
+      {
+        "word": "markets",
+        "startFrame": 3628,
+        "endFrame": 3637
+      },
+      {
+        "word": "were",
+        "startFrame": 3637,
+        "endFrame": 3643
+      },
+      {
+        "word": "in",
+        "startFrame": 3643,
+        "endFrame": 3647
+      }
+    ]
+  },
+  {
+    "id": "sub_105",
+    "start": 3647,
+    "end": 3666,
+    "text": "full fear.",
+    "words": [
+      {
+        "word": "full",
+        "startFrame": 3647,
+        "endFrame": 3653
+      },
+      {
+        "word": "fear.",
+        "startFrame": 3653,
+        "endFrame": 3662
+      }
+    ]
+  },
+  {
+    "id": "sub_106",
+    "start": 3675,
+    "end": 3696,
+    "text": "Now I have reached",
+    "words": [
+      {
+        "word": "Now",
+        "startFrame": 3675,
+        "endFrame": 3679
+      },
+      {
+        "word": "I",
+        "startFrame": 3679,
+        "endFrame": 3685
+      },
+      {
+        "word": "have",
+        "startFrame": 3685,
+        "endFrame": 3688
+      },
+      {
+        "word": "reached",
+        "startFrame": 3688,
+        "endFrame": 3692
+      }
+    ]
+  },
+  {
+    "id": "sub_107",
+    "start": 3692,
+    "end": 3726,
+    "text": "my planned allocation in",
+    "words": [
+      {
+        "word": "my",
+        "startFrame": 3692,
+        "endFrame": 3698
+      },
+      {
+        "word": "planned",
+        "startFrame": 3698,
+        "endFrame": 3706
+      },
+      {
+        "word": "allocation",
+        "startFrame": 3706,
+        "endFrame": 3715
+      },
+      {
+        "word": "in",
+        "startFrame": 3715,
+        "endFrame": 3722
+      }
+    ]
+  },
+  {
+    "id": "sub_108",
+    "start": 3722,
+    "end": 3738,
+    "text": "Indian market.",
+    "words": [
+      {
+        "word": "Indian",
+        "startFrame": 3722,
+        "endFrame": 3727
+      },
+      {
+        "word": "market.",
+        "startFrame": 3727,
+        "endFrame": 3734
+      }
+    ]
+  },
+  {
+    "id": "sub_109",
+    "start": 3743,
+    "end": 3767,
+    "text": "So I am not",
+    "words": [
+      {
+        "word": "So",
+        "startFrame": 3743,
+        "endFrame": 3748
+      },
+      {
+        "word": "I",
+        "startFrame": 3748,
+        "endFrame": 3757
+      },
+      {
+        "word": "am",
+        "startFrame": 3757,
+        "endFrame": 3760
+      },
+      {
+        "word": "not",
+        "startFrame": 3760,
+        "endFrame": 3763
+      }
+    ]
+  },
+  {
+    "id": "sub_110",
+    "start": 3763,
+    "end": 3786,
+    "text": "chasing the rally,",
+    "words": [
+      {
+        "word": "chasing",
+        "startFrame": 3763,
+        "endFrame": 3770
+      },
+      {
+        "word": "the",
+        "startFrame": 3770,
+        "endFrame": 3776
+      },
+      {
+        "word": "rally,",
+        "startFrame": 3776,
+        "endFrame": 3782
+      }
+    ]
+  },
+  {
+    "id": "sub_111",
+    "start": 3788,
+    "end": 3809,
+    "text": "I am simply waiting",
+    "words": [
+      {
+        "word": "I",
+        "startFrame": 3788,
+        "endFrame": 3790
+      },
+      {
+        "word": "am",
+        "startFrame": 3790,
+        "endFrame": 3791
+      },
+      {
+        "word": "simply",
+        "startFrame": 3791,
+        "endFrame": 3798
+      },
+      {
+        "word": "waiting",
+        "startFrame": 3798,
+        "endFrame": 3805
+      }
+    ]
+  },
+  {
+    "id": "sub_112",
+    "start": 3805,
+    "end": 3831,
+    "text": "for the stocks to",
+    "words": [
+      {
+        "word": "for",
+        "startFrame": 3805,
+        "endFrame": 3811
+      },
+      {
+        "word": "the",
+        "startFrame": 3811,
+        "endFrame": 3814
+      },
+      {
+        "word": "stocks",
+        "startFrame": 3814,
+        "endFrame": 3820
+      },
+      {
+        "word": "to",
+        "startFrame": 3820,
+        "endFrame": 3827
+      }
+    ]
+  },
+  {
+    "id": "sub_113",
+    "start": 3827,
+    "end": 3861,
+    "text": "reach their target valuation",
+    "words": [
+      {
+        "word": "reach",
+        "startFrame": 3827,
+        "endFrame": 3833
+      },
+      {
+        "word": "their",
+        "startFrame": 3833,
+        "endFrame": 3839
+      },
+      {
+        "word": "target",
+        "startFrame": 3839,
+        "endFrame": 3845
+      },
+      {
+        "word": "valuation",
+        "startFrame": 3845,
+        "endFrame": 3857
+      }
+    ]
+  },
+  {
+    "id": "sub_114",
+    "start": 3857,
+    "end": 3903,
+    "text": "and booking profit where",
+    "words": [
+      {
+        "word": "and",
+        "startFrame": 3857,
+        "endFrame": 3871
+      },
+      {
+        "word": "booking",
+        "startFrame": 3871,
+        "endFrame": 3877
+      },
+      {
+        "word": "profit",
+        "startFrame": 3877,
+        "endFrame": 3887
+      },
+      {
+        "word": "where",
+        "startFrame": 3887,
+        "endFrame": 3899
+      }
+    ]
+  },
+  {
+    "id": "sub_115",
+    "start": 3899,
+    "end": 3927,
+    "text": "the framework tells me",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 3899,
+        "endFrame": 3903
+      },
+      {
+        "word": "framework",
+        "startFrame": 3903,
+        "endFrame": 3908
+      },
+      {
+        "word": "tells",
+        "startFrame": 3908,
+        "endFrame": 3917
+      },
+      {
+        "word": "me",
+        "startFrame": 3917,
+        "endFrame": 3923
+      }
+    ]
+  },
+  {
+    "id": "sub_116",
+    "start": 3923,
+    "end": 3932,
+    "text": "to do.",
+    "words": [
+      {
+        "word": "to",
+        "startFrame": 3923,
+        "endFrame": 3926
+      },
+      {
+        "word": "do.",
+        "startFrame": 3926,
+        "endFrame": 3928
+      }
+    ]
+  },
+  {
+    "id": "sub_117",
+    "start": 3928,
+    "end": 3989,
+    "text": "Meanwhile, I am studying",
+    "words": [
+      {
+        "word": "Meanwhile,",
+        "startFrame": 3928,
+        "endFrame": 3950
+      },
+      {
+        "word": "I",
+        "startFrame": 3961,
+        "endFrame": 3963
+      },
+      {
+        "word": "am",
+        "startFrame": 3963,
+        "endFrame": 3968
+      },
+      {
+        "word": "studying",
+        "startFrame": 3968,
+        "endFrame": 3985
+      }
+    ]
+  },
+  {
+    "id": "sub_118",
+    "start": 3985,
+    "end": 4017,
+    "text": "the quality stocks in",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 3985,
+        "endFrame": 3992
+      },
+      {
+        "word": "quality",
+        "startFrame": 3992,
+        "endFrame": 3999
+      },
+      {
+        "word": "stocks",
+        "startFrame": 3999,
+        "endFrame": 4007
+      },
+      {
+        "word": "in",
+        "startFrame": 4007,
+        "endFrame": 4013
+      }
+    ]
+  },
+  {
+    "id": "sub_119",
+    "start": 4013,
+    "end": 4068,
+    "text": "US market using exactly",
+    "words": [
+      {
+        "word": "US",
+        "startFrame": 4013,
+        "endFrame": 4021
+      },
+      {
+        "word": "market",
+        "startFrame": 4021,
+        "endFrame": 4033
+      },
+      {
+        "word": "using",
+        "startFrame": 4033,
+        "endFrame": 4051
+      },
+      {
+        "word": "exactly",
+        "startFrame": 4051,
+        "endFrame": 4064
+      }
+    ]
+  },
+  {
+    "id": "sub_120",
+    "start": 4064,
+    "end": 4088,
+    "text": "the same framework.",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 4064,
+        "endFrame": 4069
+      },
+      {
+        "word": "same",
+        "startFrame": 4069,
+        "endFrame": 4075
+      },
+      {
+        "word": "framework.",
+        "startFrame": 4075,
+        "endFrame": 4084
+      }
+    ]
+  },
+  {
+    "id": "sub_121",
+    "start": 4089,
+    "end": 4122,
+    "text": "Because opportunity doesn't belong",
+    "words": [
+      {
+        "word": "Because",
+        "startFrame": 4089,
+        "endFrame": 4092
+      },
+      {
+        "word": "opportunity",
+        "startFrame": 4092,
+        "endFrame": 4102
+      },
+      {
+        "word": "doesn't",
+        "startFrame": 4102,
+        "endFrame": 4112
+      },
+      {
+        "word": "belong",
+        "startFrame": 4112,
+        "endFrame": 4118
+      }
+    ]
+  },
+  {
+    "id": "sub_122",
+    "start": 4118,
+    "end": 4140,
+    "text": "to one company.",
+    "words": [
+      {
+        "word": "to",
+        "startFrame": 4118,
+        "endFrame": 4123
+      },
+      {
+        "word": "one",
+        "startFrame": 4123,
+        "endFrame": 4129
+      },
+      {
+        "word": "company.",
+        "startFrame": 4129,
+        "endFrame": 4136
+      }
+    ]
+  },
+  {
+    "id": "sub_123",
+    "start": 4144,
+    "end": 4201,
+    "text": "Opportunity lies everywhere where",
+    "words": [
+      {
+        "word": "Opportunity",
+        "startFrame": 4144,
+        "endFrame": 4151
+      },
+      {
+        "word": "lies",
+        "startFrame": 4151,
+        "endFrame": 4165
+      },
+      {
+        "word": "everywhere",
+        "startFrame": 4165,
+        "endFrame": 4186
+      },
+      {
+        "word": "where",
+        "startFrame": 4186,
+        "endFrame": 4197
+      }
+    ]
+  },
+  {
+    "id": "sub_124",
+    "start": 4197,
+    "end": 4215,
+    "text": "there is a fear.",
+    "words": [
+      {
+        "word": "there",
+        "startFrame": 4197,
+        "endFrame": 4200
+      },
+      {
+        "word": "is",
+        "startFrame": 4200,
+        "endFrame": 4203
+      },
+      {
+        "word": "a",
+        "startFrame": 4203,
+        "endFrame": 4206
+      },
+      {
+        "word": "fear.",
+        "startFrame": 4206,
+        "endFrame": 4211
+      }
+    ]
+  },
+  {
+    "id": "sub_125",
+    "start": 4224,
+    "end": 4256,
+    "text": "If you know how",
+    "words": [
+      {
+        "word": "If",
+        "startFrame": 4224,
+        "endFrame": 4229
+      },
+      {
+        "word": "you",
+        "startFrame": 4229,
+        "endFrame": 4232
+      },
+      {
+        "word": "know",
+        "startFrame": 4232,
+        "endFrame": 4239
+      },
+      {
+        "word": "how",
+        "startFrame": 4239,
+        "endFrame": 4252
+      }
+    ]
+  },
+  {
+    "id": "sub_126",
+    "start": 4252,
+    "end": 4278,
+    "text": "to identify a quality",
+    "words": [
+      {
+        "word": "to",
+        "startFrame": 4252,
+        "endFrame": 4255
+      },
+      {
+        "word": "identify",
+        "startFrame": 4255,
+        "endFrame": 4261
+      },
+      {
+        "word": "a",
+        "startFrame": 4261,
+        "endFrame": 4267
+      },
+      {
+        "word": "quality",
+        "startFrame": 4267,
+        "endFrame": 4274
+      }
+    ]
+  },
+  {
+    "id": "sub_127",
+    "start": 4274,
+    "end": 4308,
+    "text": "business and buying them",
+    "words": [
+      {
+        "word": "business",
+        "startFrame": 4274,
+        "endFrame": 4284
+      },
+      {
+        "word": "and",
+        "startFrame": 4284,
+        "endFrame": 4293
+      },
+      {
+        "word": "buying",
+        "startFrame": 4293,
+        "endFrame": 4299
+      },
+      {
+        "word": "them",
+        "startFrame": 4299,
+        "endFrame": 4304
+      }
+    ]
+  },
+  {
+    "id": "sub_128",
+    "start": 4304,
+    "end": 4325,
+    "text": "with a margin of",
+    "words": [
+      {
+        "word": "with",
+        "startFrame": 4304,
+        "endFrame": 4307
+      },
+      {
+        "word": "a",
+        "startFrame": 4307,
+        "endFrame": 4310
+      },
+      {
+        "word": "margin",
+        "startFrame": 4310,
+        "endFrame": 4317
+      },
+      {
+        "word": "of",
+        "startFrame": 4317,
+        "endFrame": 4321
+      }
+    ]
+  },
+  {
+    "id": "sub_129",
+    "start": 4321,
+    "end": 4361,
+    "text": "safety. That's why I",
+    "words": [
+      {
+        "word": "safety.",
+        "startFrame": 4321,
+        "endFrame": 4328
+      },
+      {
+        "word": "That's",
+        "startFrame": 4342,
+        "endFrame": 4348
+      },
+      {
+        "word": "why",
+        "startFrame": 4348,
+        "endFrame": 4352
+      },
+      {
+        "word": "I",
+        "startFrame": 4352,
+        "endFrame": 4357
+      }
+    ]
+  },
+  {
+    "id": "sub_130",
+    "start": 4357,
+    "end": 4390,
+    "text": "always say don't let",
+    "words": [
+      {
+        "word": "always",
+        "startFrame": 4357,
+        "endFrame": 4363
+      },
+      {
+        "word": "say",
+        "startFrame": 4363,
+        "endFrame": 4370
+      },
+      {
+        "word": "don't",
+        "startFrame": 4370,
+        "endFrame": 4381
+      },
+      {
+        "word": "let",
+        "startFrame": 4381,
+        "endFrame": 4386
+      }
+    ]
+  },
+  {
+    "id": "sub_131",
+    "start": 4386,
+    "end": 4419,
+    "text": "the market emotion make",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 4386,
+        "endFrame": 4390
+      },
+      {
+        "word": "market",
+        "startFrame": 4390,
+        "endFrame": 4396
+      },
+      {
+        "word": "emotion",
+        "startFrame": 4396,
+        "endFrame": 4406
+      },
+      {
+        "word": "make",
+        "startFrame": 4406,
+        "endFrame": 4415
+      }
+    ]
+  },
+  {
+    "id": "sub_132",
+    "start": 4415,
+    "end": 4443,
+    "text": "your investment decisions.",
+    "words": [
+      {
+        "word": "your",
+        "startFrame": 4415,
+        "endFrame": 4419
+      },
+      {
+        "word": "investment",
+        "startFrame": 4419,
+        "endFrame": 4427
+      },
+      {
+        "word": "decisions.",
+        "startFrame": 4427,
+        "endFrame": 4439
+      }
+    ]
+  },
+  {
+    "id": "sub_133",
+    "start": 4447,
+    "end": 4477,
+    "text": "Have a framework that",
+    "words": [
+      {
+        "word": "Have",
+        "startFrame": 4447,
+        "endFrame": 4454
+      },
+      {
+        "word": "a",
+        "startFrame": 4454,
+        "endFrame": 4459
+      },
+      {
+        "word": "framework",
+        "startFrame": 4459,
+        "endFrame": 4463
+      },
+      {
+        "word": "that",
+        "startFrame": 4463,
+        "endFrame": 4473
+      }
+    ]
+  },
+  {
+    "id": "sub_134",
+    "start": 4473,
+    "end": 4507,
+    "text": "tells you what to",
+    "words": [
+      {
+        "word": "tells",
+        "startFrame": 4473,
+        "endFrame": 4478
+      },
+      {
+        "word": "you",
+        "startFrame": 4478,
+        "endFrame": 4486
+      },
+      {
+        "word": "what",
+        "startFrame": 4486,
+        "endFrame": 4498
+      },
+      {
+        "word": "to",
+        "startFrame": 4498,
+        "endFrame": 4503
+      }
+    ]
+  },
+  {
+    "id": "sub_135",
+    "start": 4503,
+    "end": 4529,
+    "text": "buy, at what price",
+    "words": [
+      {
+        "word": "buy,",
+        "startFrame": 4503,
+        "endFrame": 4507
+      },
+      {
+        "word": "at",
+        "startFrame": 4511,
+        "endFrame": 4514
+      },
+      {
+        "word": "what",
+        "startFrame": 4514,
+        "endFrame": 4519
+      },
+      {
+        "word": "price",
+        "startFrame": 4519,
+        "endFrame": 4525
+      }
+    ]
+  },
+  {
+    "id": "sub_136",
+    "start": 4525,
+    "end": 4537,
+    "text": "to buy,",
+    "words": [
+      {
+        "word": "to",
+        "startFrame": 4525,
+        "endFrame": 4529
+      },
+      {
+        "word": "buy,",
+        "startFrame": 4529,
+        "endFrame": 4533
+      }
+    ]
+  },
+  {
+    "id": "sub_137",
+    "start": 4535,
+    "end": 4557,
+    "text": "how much risk you",
+    "words": [
+      {
+        "word": "how",
+        "startFrame": 4535,
+        "endFrame": 4540
+      },
+      {
+        "word": "much",
+        "startFrame": 4540,
+        "endFrame": 4544
+      },
+      {
+        "word": "risk",
+        "startFrame": 4544,
+        "endFrame": 4548
+      },
+      {
+        "word": "you",
+        "startFrame": 4548,
+        "endFrame": 4553
+      }
+    ]
+  },
+  {
+    "id": "sub_138",
+    "start": 4553,
+    "end": 4571,
+    "text": "have to take on",
+    "words": [
+      {
+        "word": "have",
+        "startFrame": 4553,
+        "endFrame": 4555
+      },
+      {
+        "word": "to",
+        "startFrame": 4555,
+        "endFrame": 4558
+      },
+      {
+        "word": "take",
+        "startFrame": 4558,
+        "endFrame": 4562
+      },
+      {
+        "word": "on",
+        "startFrame": 4562,
+        "endFrame": 4567
+      }
+    ]
+  },
+  {
+    "id": "sub_139",
+    "start": 4567,
+    "end": 4605,
+    "text": "that. That is exactly",
+    "words": [
+      {
+        "word": "that.",
+        "startFrame": 4567,
+        "endFrame": 4571
+      },
+      {
+        "word": "That",
+        "startFrame": 4580,
+        "endFrame": 4589
+      },
+      {
+        "word": "is",
+        "startFrame": 4589,
+        "endFrame": 4592
+      },
+      {
+        "word": "exactly",
+        "startFrame": 4592,
+        "endFrame": 4601
+      }
+    ]
+  },
+  {
+    "id": "sub_140",
+    "start": 4601,
+    "end": 4620,
+    "text": "what I will be",
+    "words": [
+      {
+        "word": "what",
+        "startFrame": 4601,
+        "endFrame": 4609
+      },
+      {
+        "word": "I",
+        "startFrame": 4609,
+        "endFrame": 4613
+      },
+      {
+        "word": "will",
+        "startFrame": 4613,
+        "endFrame": 4615
+      },
+      {
+        "word": "be",
+        "startFrame": 4615,
+        "endFrame": 4616
+      }
+    ]
+  },
+  {
+    "id": "sub_141",
+    "start": 4616,
+    "end": 4642,
+    "text": "explaining in my 3",
+    "words": [
+      {
+        "word": "explaining",
+        "startFrame": 4616,
+        "endFrame": 4625
+      },
+      {
+        "word": "in",
+        "startFrame": 4625,
+        "endFrame": 4630
+      },
+      {
+        "word": "my",
+        "startFrame": 4630,
+        "endFrame": 4633
+      },
+      {
+        "word": "3",
+        "startFrame": 4633,
+        "endFrame": 4638
+      }
+    ]
+  },
+  {
+    "id": "sub_142",
+    "start": 4638,
+    "end": 4671,
+    "text": "hours master class which",
+    "words": [
+      {
+        "word": "hours",
+        "startFrame": 4638,
+        "endFrame": 4642
+      },
+      {
+        "word": "master",
+        "startFrame": 4642,
+        "endFrame": 4650
+      },
+      {
+        "word": "class",
+        "startFrame": 4650,
+        "endFrame": 4658
+      },
+      {
+        "word": "which",
+        "startFrame": 4658,
+        "endFrame": 4667
+      }
+    ]
+  },
+  {
+    "id": "sub_143",
+    "start": 4667,
+    "end": 4695,
+    "text": "I am making completely",
+    "words": [
+      {
+        "word": "I",
+        "startFrame": 4667,
+        "endFrame": 4670
+      },
+      {
+        "word": "am",
+        "startFrame": 4670,
+        "endFrame": 4673
+      },
+      {
+        "word": "making",
+        "startFrame": 4673,
+        "endFrame": 4677
+      },
+      {
+        "word": "completely",
+        "startFrame": 4677,
+        "endFrame": 4691
+      }
+    ]
+  },
+  {
+    "id": "sub_144",
+    "start": 4691,
+    "end": 4723,
+    "text": "free for this Diwali.",
+    "words": [
+      {
+        "word": "free",
+        "startFrame": 4691,
+        "endFrame": 4700
+      },
+      {
+        "word": "for",
+        "startFrame": 4700,
+        "endFrame": 4706
+      },
+      {
+        "word": "this",
+        "startFrame": 4706,
+        "endFrame": 4711
+      },
+      {
+        "word": "Diwali.",
+        "startFrame": 4711,
+        "endFrame": 4719
+      }
+    ]
+  },
+  {
+    "id": "sub_145",
+    "start": 4719,
+    "end": 4785,
+    "text": "Visit HappyInvesting .in and",
+    "words": [
+      {
+        "word": "Visit",
+        "startFrame": 4719,
+        "endFrame": 4733
+      },
+      {
+        "word": "HappyInvesting",
+        "startFrame": 4733,
+        "endFrame": 4753
+      },
+      {
+        "word": ".in",
+        "startFrame": 4753,
+        "endFrame": 4762
+      },
+      {
+        "word": "and",
+        "startFrame": 4762,
+        "endFrame": 4781
+      }
+    ]
+  },
+  {
+    "id": "sub_146",
+    "start": 4781,
+    "end": 4818,
+    "text": "use the coupon code",
+    "words": [
+      {
+        "word": "use",
+        "startFrame": 4781,
+        "endFrame": 4795
+      },
+      {
+        "word": "the",
+        "startFrame": 4795,
+        "endFrame": 4799
+      },
+      {
+        "word": "coupon",
+        "startFrame": 4799,
+        "endFrame": 4807
+      },
+      {
+        "word": "code",
+        "startFrame": 4807,
+        "endFrame": 4814
+      }
+    ]
+  },
+  {
+    "id": "sub_147",
+    "start": 4814,
+    "end": 4857,
+    "text": "of HappyDiwali and access",
+    "words": [
+      {
+        "word": "of",
+        "startFrame": 4814,
+        "endFrame": 4819
+      },
+      {
+        "word": "HappyDiwali",
+        "startFrame": 4819,
+        "endFrame": 4837
+      },
+      {
+        "word": "and",
+        "startFrame": 4837,
+        "endFrame": 4844
+      },
+      {
+        "word": "access",
+        "startFrame": 4844,
+        "endFrame": 4853
+      }
+    ]
+  },
+  {
+    "id": "sub_148",
+    "start": 4853,
+    "end": 4891,
+    "text": "the master class completely",
+    "words": [
+      {
+        "word": "the",
+        "startFrame": 4853,
+        "endFrame": 4858
+      },
+      {
+        "word": "master",
+        "startFrame": 4858,
+        "endFrame": 4863
+      },
+      {
+        "word": "class",
+        "startFrame": 4863,
+        "endFrame": 4873
+      },
+      {
+        "word": "completely",
+        "startFrame": 4873,
+        "endFrame": 4887
+      }
+    ]
+  },
+  {
+    "id": "sub_149",
+    "start": 4887,
+    "end": 4917,
+    "text": "free for this week.",
+    "words": [
+      {
+        "word": "free",
+        "startFrame": 4887,
+        "endFrame": 4897
+      },
+      {
+        "word": "for",
+        "startFrame": 4897,
+        "endFrame": 4901
+      },
+      {
+        "word": "this",
+        "startFrame": 4901,
+        "endFrame": 4906
+      },
+      {
+        "word": "week.",
+        "startFrame": 4906,
+        "endFrame": 4913
+      }
+    ]
+  },
+  {
+    "id": "sub_150",
+    "start": 4924,
+    "end": 4945,
+    "text": "Learn the framework,",
+    "words": [
+      {
+        "word": "Learn",
+        "startFrame": 4924,
+        "endFrame": 4928
+      },
+      {
+        "word": "the",
+        "startFrame": 4928,
+        "endFrame": 4933
+      },
+      {
+        "word": "framework,",
+        "startFrame": 4933,
+        "endFrame": 4941
+      }
+    ]
+  },
+  {
+    "id": "sub_151",
+    "start": 4952,
+    "end": 4987,
+    "text": "evaluate the opportunities and",
+    "words": [
+      {
+        "word": "evaluate",
+        "startFrame": 4952,
+        "endFrame": 4958
+      },
+      {
+        "word": "the",
+        "startFrame": 4958,
+        "endFrame": 4965
+      },
+      {
+        "word": "opportunities",
+        "startFrame": 4965,
+        "endFrame": 4972
+      },
+      {
+        "word": "and",
+        "startFrame": 4972,
+        "endFrame": 4983
+      }
+    ]
+  },
+  {
+    "id": "sub_152",
+    "start": 4983,
+    "end": 5027,
+    "text": "understand whether this HappyInvesting",
+    "words": [
+      {
+        "word": "understand",
+        "startFrame": 4983,
+        "endFrame": 4994
+      },
+      {
+        "word": "whether",
+        "startFrame": 4994,
+        "endFrame": 5002
+      },
+      {
+        "word": "this",
+        "startFrame": 5002,
+        "endFrame": 5008
+      },
+      {
+        "word": "HappyInvesting",
+        "startFrame": 5008,
+        "endFrame": 5023
+      }
+    ]
+  },
+  {
+    "id": "sub_153",
+    "start": 5023,
+    "end": 5050,
+    "text": "community is suitable for",
+    "words": [
+      {
+        "word": "community",
+        "startFrame": 5023,
+        "endFrame": 5028
+      },
+      {
+        "word": "is",
+        "startFrame": 5028,
+        "endFrame": 5035
+      },
+      {
+        "word": "suitable",
+        "startFrame": 5035,
+        "endFrame": 5040
+      },
+      {
+        "word": "for",
+        "startFrame": 5040,
+        "endFrame": 5046
+      }
+    ]
+  },
+  {
+    "id": "sub_154",
+    "start": 5046,
+    "end": 5063,
+    "text": "you or not.",
+    "words": [
+      {
+        "word": "you",
+        "startFrame": 5046,
+        "endFrame": 5050
+      },
+      {
+        "word": "or",
+        "startFrame": 5050,
+        "endFrame": 5053
+      },
+      {
+        "word": "not.",
+        "startFrame": 5053,
+        "endFrame": 5059
+      }
+    ]
+  },
+  {
+    "id": "sub_155",
+    "start": 5069,
+    "end": 5094,
+    "text": "Finally, I am saying",
+    "words": [
+      {
+        "word": "Finally,",
+        "startFrame": 5069,
+        "endFrame": 5074
+      },
+      {
+        "word": "I",
+        "startFrame": 5083,
+        "endFrame": 5083
+      },
+      {
+        "word": "am",
+        "startFrame": 5083,
+        "endFrame": 5085
+      },
+      {
+        "word": "saying",
+        "startFrame": 5085,
+        "endFrame": 5090
+      }
+    ]
+  },
+  {
+    "id": "sub_156",
+    "start": 5090,
+    "end": 5121,
+    "text": "don't chase the market,",
+    "words": [
+      {
+        "word": "don't",
+        "startFrame": 5090,
+        "endFrame": 5101
+      },
+      {
+        "word": "chase",
+        "startFrame": 5101,
+        "endFrame": 5104
+      },
+      {
+        "word": "the",
+        "startFrame": 5104,
+        "endFrame": 5109
+      },
+      {
+        "word": "market,",
+        "startFrame": 5109,
+        "endFrame": 5117
+      }
+    ]
+  },
+  {
+    "id": "sub_157",
+    "start": 5131,
+    "end": 5159,
+    "text": "learn to evaluate the",
+    "words": [
+      {
+        "word": "learn",
+        "startFrame": 5131,
+        "endFrame": 5134
+      },
+      {
+        "word": "to",
+        "startFrame": 5134,
+        "endFrame": 5139
+      },
+      {
+        "word": "evaluate",
+        "startFrame": 5139,
+        "endFrame": 5149
+      },
+      {
+        "word": "the",
+        "startFrame": 5149,
+        "endFrame": 5155
+      }
+    ]
+  },
+  {
+    "id": "sub_158",
+    "start": 5155,
+    "end": 5193,
+    "text": "opportunities. With that said,",
+    "words": [
+      {
+        "word": "opportunities.",
+        "startFrame": 5155,
+        "endFrame": 5164
+      },
+      {
+        "word": "With",
+        "startFrame": 5175,
+        "endFrame": 5176
+      },
+      {
+        "word": "that",
+        "startFrame": 5176,
+        "endFrame": 5181
+      },
+      {
+        "word": "said,",
+        "startFrame": 5181,
+        "endFrame": 5189
+      }
+    ]
+  },
+  {
+    "id": "sub_159",
+    "start": 5195,
+    "end": 5208,
+    "text": "see you in the",
+    "words": [
+      {
+        "word": "see",
+        "startFrame": 5195,
+        "endFrame": 5198
+      },
+      {
+        "word": "you",
+        "startFrame": 5198,
+        "endFrame": 5201
+      },
+      {
+        "word": "in",
+        "startFrame": 5201,
+        "endFrame": 5204
+      },
+      {
+        "word": "the",
+        "startFrame": 5204,
+        "endFrame": 5204
+      }
+    ]
+  },
+  {
+    "id": "sub_160",
+    "start": 5204,
+    "end": 5216,
+    "text": "next one.",
+    "words": [
+      {
+        "word": "next",
+        "startFrame": 5204,
+        "endFrame": 5208
+      },
+      {
+        "word": "one.",
+        "startFrame": 5208,
+        "endFrame": 5212
+      }
+    ]
+  }
+]

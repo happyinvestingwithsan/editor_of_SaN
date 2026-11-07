@@ -1,0 +1,604 @@
+{
+  "project": "Reliance Industries Masterclass - Chapters 2 & 3",
+  "source_master_file": "d:\\QuickShare\\Reliance\\Out\\Video - after adobe\\My Edit - WIP - dont touch.mov",
+  "source_audio_master": "d:\\QuickShare\\Reliance\\Out\\Part 2.WAV",
+  "aspect_ratio": "16:9 Landscape (1920x1080)",
+  "frame_rate": 30.0,
+  "total_duration_sec": 207.333,
+  "total_frames": 6220,
+  "timing_invariants": {
+    "t_start_sec": 0.0,
+    "t_end_sec": 207.333,
+    "start_frame": 0,
+    "end_frame": 6220,
+    "quantization": "Strict 30fps frames (round(t_sec * 30.0), zero microsecond gaps)"
+  },
+  "screen_layout_specifications": {
+    "left_graphics_zone": "x=50 to 650 (width: 600px, padding: 40px)",
+    "central_facecam_protection_zone": "x=650 to 1270 (width: 620px, 100% unobstructed facecam)",
+    "right_graphics_zone": "x=1270 to 1870 (width: 600px, padding: 40px)",
+    "fullscreen_conceptual_diagram_zone": "x=0 to 1920, y=0 to 1080 (full-screen graphics canvas for Visual 6, Visual 7, Visual 9/10)"
+  },
+  "chapter_summary": {
+    "chapter_2": {
+      "title": "Chapter 2: Where Did The Actual Profit Come From?",
+      "semantic_scope": "Three-part business comparison (O2C, Jio, Retail), identifying O2C (+67.9%) as the dominant surprise, Jio (+16.6%) resilience, Retail (-8.6%) headwinds, and setting up the O2C investigation.",
+      "start_time_sec": 0.0,
+      "end_time_sec": 68.0,
+      "start_frame": 0,
+      "end_frame": 2040,
+      "duration_sec": 68.0,
+      "duration_frames": 2040,
+      "visuals_included": [
+        "Visual 1",
+        "Visual 2",
+        "Visual 3",
+        "Visual 4",
+        "Visual 5"
+      ]
+    },
+    "chapter_3": {
+      "title": "Chapter 3: How Did The Global Crisis Become An Opportunity?",
+      "semantic_scope": "Deep-dive into refining economics, Jamnagar integrated complex, global supply disruption from Middle East and Russian refinery bombings, dramatic crack spread expansion (Gasoline 3.0x, Diesel 3.5x, Aviation Fuel 3.7x), crack spread definition, and Reliance's operational flexibility.",
+      "start_time_sec": 68.0,
+      "end_time_sec": 204.0,
+      "start_frame": 2040,
+      "end_frame": 6120,
+      "duration_sec": 136.0,
+      "duration_frames": 4080,
+      "visuals_included": [
+        "Visual 6",
+        "Visual 7 (Parts 1 & 2)",
+        "Visual 8",
+        "Visual 9",
+        "Visual 10"
+      ]
+    },
+    "trailing_bridge": {
+      "title": "Trailing Outro Bridge: Teaser to Chapter 4",
+      "semantic_scope": "Cliffhanger verbal hook: 'But wait, there is something more interesting than this.' setting up Chapter 4 (Russian crude discount / feedstock arbitrage).",
+      "start_time_sec": 204.0,
+      "end_time_sec": 207.333,
+      "start_frame": 6120,
+      "end_frame": 6220,
+      "duration_sec": 3.333,
+      "duration_frames": 100,
+      "visuals_included": [
+        "Trailing Outro Bridge"
+      ]
+    }
+  },
+  "ten_visual_anchor_points": [
+    {
+      "visual_id": "Visual 1",
+      "chapter": "Chapter 2",
+      "scene_id": "scene_01_ch2_v1",
+      "title": "Three-Part Business Comparison Overview",
+      "frame_range": "0 - 168 (168f)",
+      "time_range": "000.00s - 005.60s (5.600s)",
+      "spoken_dialogue": "Let's look at three important business, first, oil to chemical or O2C it is called.",
+      "screen_position": "Left Graphics Zone (x=50–650)",
+      "core_elements": "O2C ₹25,203 Cr EBITDA +67.9%, Jio ₹21,879 Cr EBITDA +16.6%, Retail ₹6,228 Cr EBITDA -8.6%"
+    },
+    {
+      "visual_id": "Visual 2",
+      "chapter": "Chapter 2",
+      "scene_id": "scene_02_ch2_v2",
+      "title": "O2C Is The Big Surprise",
+      "frame_range": "168 - 520 (352f)",
+      "time_range": "005.60s - 017.33s (11.733s)",
+      "spoken_dialogue": "This is where the real surprise came from. O2C EBITDA increased almost 68% year on year to 25,203 crore. That is extraordinary improvement.",
+      "screen_position": "Left Graphics Zone (x=50–650)",
+      "core_elements": "THE BIG SURPRISE, +67.9%, O2C EBITDA GROWTH (₹25,203 Cr)"
+    },
+    {
+      "visual_id": "Visual 3",
+      "chapter": "Chapter 2",
+      "scene_id": "scene_03_ch2_v3",
+      "title": "Jio Platforms Growth",
+      "frame_range": "520 - 900 (380f)",
+      "time_range": "017.33s - 030.00s (12.667s)",
+      "spoken_dialogue": "Second, Jio. Jio platform continued to perform well. Its EBITDA increased approximately from 17% supported by subscriber addition, higher ARPU and improving margins.",
+      "screen_position": "Right Graphics Zone (x=1270–1870)",
+      "core_elements": "+16.6% EBITDA GROWTH, ₹21,879 Cr, Subscriber growth, ARPU, telecom icon"
+    },
+    {
+      "visual_id": "Visual 4",
+      "chapter": "Chapter 2",
+      "scene_id": "scene_04_ch2_v4",
+      "title": "Reliance Retail Headwinds",
+      "frame_range": "900 - 1530 (630f)",
+      "time_range": "030.00s - 051.00s (21.000s)",
+      "spoken_dialogue": "And third, Reliance Retail. Here the picture was not so encouraging. Retail revenue increased around 6.4% but EBITDA before the one time impairment charge is actually declined around 8.6%. The company is investing heavily in digital commerce and the festive season shift to December quarter also affected the performance.",
+      "screen_position": "Left Graphics Zone (x=50–650)",
+      "core_elements": "RETAIL EBITDA ₹6,228 Cr (-8.6% YoY), Revenue ₹86,400 Cr (+6.4%), Labels: Higher Operating Costs, Digital Investments, Festive-Season Shift"
+    },
+    {
+      "visual_id": "Visual 5",
+      "chapter": "Chapter 2",
+      "scene_id": "scene_05_ch2_v5",
+      "title": "Chapter Conclusion: The O2C Story",
+      "frame_range": "1530 - 2040 (510f)",
+      "time_range": "051.00s - 068.00s (17.000s)",
+      "spoken_dialogue": "So if you ask me what really surprised the market, it was extraordinary performance of the oil to chemical business supported by Jio and this is where I want to spend most of our time in this video today because there is an interesting business story hidden inside these numbers.",
+      "screen_position": "Right Graphics Zone (x=1270–1870)",
+      "core_elements": "THE O2C STORY, Market Surprise synthesis, Hook into energy investigation"
+    },
+    {
+      "visual_id": "Visual 6",
+      "chapter": "Chapter 3",
+      "scene_id": "scene_07_ch3_v6",
+      "title": "Refinery Supply Disruption",
+      "frame_range": "2886 - 4380 (1494f)",
+      "time_range": "096.20s - 146.00s (49.800s)",
+      "spoken_dialogue": "Now imagine a situation where the global supply of these products suddenly becomes constrained. Demand is still there but availability of this in the supply side is reducing. What happens to the selling price of those products? It can increase significantly and that is broadly what happened during this quarter. Because of the geopolitical disruption in the Middle East and Russia, several refining operations were affected completely like there were some bombs that was going into Russian refineries including that. The movement of crude oil and the finished products was also disrupted. Inventories of important petroleum products came down drastically and global refining margin started expanding dramatically because of this demand and supply mismatch.",
+      "screen_position": "Full-Screen Conceptual Animation (x=0–1920, y=0–1080)",
+      "core_elements": "Supply disruption -> Tighter product availability -> Geopolitical conflict & Russian refinery strikes -> Inventories down -> Margins expand"
+    },
+    {
+      "visual_id": "Visual 7",
+      "chapter": "Chapter 3",
+      "scene_id": "scene_06_ch3_v7a & scene_09_ch3_v7b",
+      "title": "Refining Economics & Crack Spread Definition",
+      "frame_range": "2040 - 2886 (846f) & 4824 - 5700 (876f)",
+      "time_range": "068.00s - 096.20s (28.200s) & 160.80s - 190.00s (29.200s)",
+      "spoken_dialogue": "Part 1: Let's first understand the basic economics. Reliance has one of the world's largest integrated refining and petrochemical complexes. The company buys crude oil basically and processes it in the refineries and converts it into various products, petrol, diesel, aviation fuel and other petroleum products... Part 2: Let me explain what a crack spread means. Suppose a refinery purchases crude oil and converts it into a petrol or diesel. The difference between the selling value of the finished product and the cost of crude is broadly called as crack spread. This is not the final profit of the refinery because you still have operating cost, transportation and energy cost...",
+      "screen_position": "Full-Screen Conceptual Diagram (x=0–1920, y=0–1080)",
+      "core_elements": "Crude oil -> Refinery -> Petrol/Diesel -> Selling value - Cost = Crack spread (minus operating expenses)"
+    },
+    {
+      "visual_id": "Visual 8",
+      "chapter": "Chapter 3",
+      "scene_id": "scene_08_ch3_v8",
+      "title": "Crack-Spread Expansion",
+      "frame_range": "4380 - 4824 (444f)",
+      "time_range": "146.00s - 160.80s (14.800s)",
+      "spoken_dialogue": "Reliance management said gasoline cracks were approximately three times higher than the previous year, diesel cracks were around 3.5 times higher and aviation fuel cracks were approximately 3.7 times higher.",
+      "screen_position": "Left Graphics Zone (x=50–650) to Dual Flank",
+      "core_elements": "Gasoline 3.0x, Diesel 3.5x, Aviation Fuel 3.7x YoY"
+    },
+    {
+      "visual_id": "Visual 9",
+      "chapter": "Chapter 3",
+      "scene_id": "scene_10_ch3_v9_v10 (Phase 1)",
+      "title": "Reliance Captures Opportunity",
+      "frame_range": "5700 - 5970 (270f)",
+      "time_range": "190.00s - 199.00s (9.000s)",
+      "spoken_dialogue": "But still when the difference increases substantially the refinery has an opportunity to make significant more money than what it actually made previously...",
+      "screen_position": "Full-Screen Conceptual Diagram (x=0–1920, y=0–1080)",
+      "core_elements": "Crude sourcing -> Refining -> Finished products -> Global markets"
+    },
+    {
+      "visual_id": "Visual 10",
+      "chapter": "Chapter 3",
+      "scene_id": "scene_10_ch3_v9_v10 (Phase 2)",
+      "title": "Chapter Core Message: Operational Flexibility",
+      "frame_range": "5970 - 6120 (150f)",
+      "time_range": "199.00s - 204.00s (5.000s)",
+      "spoken_dialogue": "...and Reliance was in the position to capture that opportunity.",
+      "screen_position": "Full-Screen Conceptual Diagram (x=0–1920, y=0–1080)",
+      "core_elements": "1. Global Supply Disruption, 2. Higher Product Prices, 3. Flexible Sourcing, 4. Better Market Realisation -> 'OPERATIONAL FLEXIBILITY'"
+    }
+  ],
+  "scenes_count": 11,
+  "scenes": [
+    {
+      "id": "scene_01_ch2_v1",
+      "scene_index": 1,
+      "chapter": "Chapter 2: Where Did The Actual Profit Come From?",
+      "visual_id": "Visual 1",
+      "title": "Three-Part Business Comparison Overview",
+      "start_frame": 0,
+      "end_frame": 168,
+      "start_time_sec": 0.0,
+      "end_time_sec": 5.6,
+      "duration_sec": 5.6,
+      "duration_frames": 168,
+      "spoken_phrase": "Let's look at three important business, first, oil to chemical or O2C it is called.",
+      "segment_indices": [
+        0
+      ],
+      "screen_position": "Left Graphics Zone (x=50–650) [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Presenter Protection (Left Zone: x=50–650)",
+      "visual_treatment": "3-Pillar Macro Matrix introducing the 3 core revenue pillars of Reliance Industries (O2C, Jio Platforms, Reliance Retail). Animated card reveal showing high-level EBITDA placeholders and highlighting segment divergence.",
+      "key_metrics": {
+        "O2C": "₹25,203 Cr EBITDA (+67.9% YoY)",
+        "Jio Platforms": "₹21,879 Cr EBITDA (+16.6% YoY)",
+        "Reliance Retail": "₹6,228 Cr EBITDA (-8.6% YoY)"
+      },
+      "motion_kit_components": [
+        "ComparisonDuel",
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "whoosh_snap + glass_chime"
+    },
+    {
+      "id": "scene_02_ch2_v2",
+      "scene_index": 2,
+      "chapter": "Chapter 2: Where Did The Actual Profit Come From?",
+      "visual_id": "Visual 2",
+      "title": "O2C Is The Big Surprise (+67.9% EBITDA Surge)",
+      "start_frame": 168,
+      "end_frame": 520,
+      "start_time_sec": 5.6,
+      "end_time_sec": 17.333,
+      "duration_sec": 11.733,
+      "duration_frames": 352,
+      "spoken_phrase": "This is where the real surprise came from. O2C EBITDA increased almost 68% year on year to 25,203 crore. That is extraordinary improvement.",
+      "segment_indices": [
+        1,
+        2,
+        3
+      ],
+      "screen_position": "Left Graphics Zone (x=50–650) [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Presenter Protection (Left Zone: x=50–650)",
+      "visual_treatment": "Hero Metric Odometer Flash. Gold badge 'THE BIG SURPRISE', giant kinetic '+67.9%' rolling odometer in neon emerald green (#00E676), sub-headline 'O2C EBITDA GROWTH: ₹25,203 Cr', with glowing refining tower icon.",
+      "key_metrics": {
+        "headline_badge": "THE BIG SURPRISE",
+        "metric_value": "+67.9%",
+        "segment_name": "O2C EBITDA GROWTH",
+        "ebitda_amount": "₹25,203 Cr"
+      },
+      "motion_kit_components": [
+        "HeadlineBadge",
+        "MetricOdometer",
+        "KineticSubtitles"
+      ],
+      "sound_design": "rising_whoosh + sub_bass_thud"
+    },
+    {
+      "id": "scene_03_ch2_v3",
+      "scene_index": 3,
+      "chapter": "Chapter 2: Where Did The Actual Profit Come From?",
+      "visual_id": "Visual 3",
+      "title": "Jio Platforms: Resilient Growth (+16.6% EBITDA)",
+      "start_frame": 520,
+      "end_frame": 900,
+      "start_time_sec": 17.333,
+      "end_time_sec": 30.0,
+      "duration_sec": 12.667,
+      "duration_frames": 380,
+      "spoken_phrase": "Second, Jio. Jio platform continued to perform well. Its EBITDA increased approximately from 17% supported by subscriber addition, higher ARPU and improving margins.",
+      "segment_indices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "screen_position": "Right Graphics Zone (x=1270–1870) [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Presenter Protection (Right Zone: x=1270–1870)",
+      "visual_treatment": "Telecom Growth Pillar Card in Jio Cyan/Blue theme. Badge 'JIO PLATFORMS', Metric '+16.6% EBITDA GROWTH' (₹21,879 Cr), 3 bullet catalyst tags: [1] Subscriber Addition, [2] Higher ARPU (Tariff hikes), [3] Improving Margins, with animated 5G telecom tower pulse.",
+      "key_metrics": {
+        "company": "Jio Platforms",
+        "ebitda_growth": "+16.6%",
+        "ebitda_value": "₹21,879 Cr",
+        "catalysts": [
+          "Subscriber Addition",
+          "Higher ARPU",
+          "Margin Expansion"
+        ]
+      },
+      "motion_kit_components": [
+        "StockTickerCard",
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "telecom_bleep + swoosh"
+    },
+    {
+      "id": "scene_04_ch2_v4",
+      "scene_index": 4,
+      "chapter": "Chapter 2: Where Did The Actual Profit Come From?",
+      "visual_id": "Visual 4",
+      "title": "Reliance Retail: EBITDA Compression & Strategic Investments",
+      "start_frame": 900,
+      "end_frame": 1530,
+      "start_time_sec": 30.0,
+      "end_time_sec": 51.0,
+      "duration_sec": 21.0,
+      "duration_frames": 630,
+      "spoken_phrase": "And third, Reliance Retail. Here the picture was not so encouraging. Retail revenue increased around 6.4% but EBITDA before the one time impairment charge is actually declined around 8.6%. The company is investing heavily in digital commerce and the festive season shift to December quarter also affected the performance.",
+      "segment_indices": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "screen_position": "Left Graphics Zone (x=50–650) [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Presenter Protection (Left Zone: x=50–650)",
+      "visual_treatment": "Dual-Metric Forensic Autopsy Card. Revenue badge: 'REVENUE ₹86,400 Cr (+6.4%)' alongside warning badge 'RETAIL EBITDA ₹6,228 Cr (-8.6% YoY)' in soft crimson (#FF5252). 3 Explanatory Headwind Tags: [1] Higher Operating Costs, [2] Digital Investments (JioMart), [3] Festive-Season Shift (to Q3 Dec).",
+      "key_metrics": {
+        "retail_ebitda": "₹6,228 Cr",
+        "ebitda_change": "-8.6% YoY",
+        "retail_revenue": "₹86,400 Cr (+6.4%)",
+        "headwinds": [
+          "Higher Operating Costs",
+          "Digital Investments",
+          "Festive-Season Shift"
+        ]
+      },
+      "motion_kit_components": [
+        "AutopsyDossier",
+        "ComparisonDuel",
+        "KineticSubtitles"
+      ],
+      "sound_design": "warning_tone + paper_shuffle"
+    },
+    {
+      "id": "scene_05_ch2_v5",
+      "scene_index": 5,
+      "chapter": "Chapter 2: Where Did The Actual Profit Come From?",
+      "visual_id": "Visual 5",
+      "title": "Chapter Conclusion: The O2C Story & The Market Surprise",
+      "start_frame": 1530,
+      "end_frame": 2040,
+      "start_time_sec": 51.0,
+      "end_time_sec": 68.0,
+      "duration_sec": 17.0,
+      "duration_frames": 510,
+      "spoken_phrase": "So if you ask me what really surprised the market, it was extraordinary performance of the oil to chemical business supported by Jio and this is where I want to spend most of our time in this video today because there is an interesting business story hidden inside these numbers.",
+      "segment_indices": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "screen_position": "Right Graphics Zone (x=1270–1870) [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Presenter Protection (Right Zone: x=1270–1870)",
+      "visual_treatment": "Synthesis Hero Card: 'THE O2C STORY'. Glowing spotlight encircling O2C as the primary earnings locomotive (+67.9%), supported by Jio (+16.6%), proving that traditional energy drove the record quarter. Teaser stamp: 'AN EXTRAORDINARY BUSINESS STORY HIDDEN INSIDE THESE NUMBERS' with Happy Investing magnifying lens.",
+      "key_metrics": {
+        "chapter_title": "THE O2C STORY",
+        "primary_driver": "Oil-to-Chemicals (+67.9% EBITDA)",
+        "secondary_anchor": "Jio Platforms (+16.6% EBITDA)",
+        "investigation_hook": "The Hidden Business Story Inside These Numbers"
+      },
+      "motion_kit_components": [
+        "HeadlineBadge",
+        "AutopsyDossier",
+        "KineticSubtitles"
+      ],
+      "sound_design": "transition_swoosh + ambient_chime"
+    },
+    {
+      "id": "scene_06_ch3_v7a",
+      "scene_index": 6,
+      "chapter": "Chapter 3: How Did The Global Crisis Become An Opportunity?",
+      "visual_id": "Visual 7 (Part 1)",
+      "title": "Refining Economics & The World-Class Jamnagar Complex",
+      "start_frame": 2040,
+      "end_frame": 2886,
+      "start_time_sec": 68.0,
+      "end_time_sec": 96.2,
+      "duration_sec": 28.2,
+      "duration_frames": 846,
+      "spoken_phrase": "Let's first understand the basic economics. Reliance has one of the world's largest integrated refining and petrochemical complexes. The company buys crude oil basically and processes it in the refineries and converts it into various products, petrol, diesel, aviation fuel and other petroleum products. It also manufactures petroleum products that eventually go into plastics, polyester and several other industries.",
+      "segment_indices": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "screen_position": "Full-Screen Conceptual Diagram (w=1920, h=1080)",
+      "layout_type": "Full-Screen Conceptual Architecture Flow",
+      "visual_treatment": "Full-Screen Integrated Refining Diagram. Flow schematic: [Crude Oil Inflow (Global Tankers)] -> [World's Largest Jamnagar Integrated Complex (1.4M bpd capacity)] -> [High-Value Finished Output: Petrol, Diesel, Aviation Turbine Fuel (ATF)] + [Petrochemical Derivatives: Plastics, Polyester Fibres, Polymers].",
+      "key_metrics": {
+        "facility": "World's Largest Integrated Refining & Petrochemical Complex",
+        "input": "Crude Oil (Heavy / Sour / Light)",
+        "refining_products": [
+          "Petrol (Gasoline)",
+          "Diesel (Gasoil)",
+          "Aviation Turbine Fuel (ATF)"
+        ],
+        "petrochemical_downstream": [
+          "Plastics",
+          "Polyester",
+          "Industrial Polymers"
+        ]
+      },
+      "motion_kit_components": [
+        "FinancialChart",
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "industrial_hum + stream_flow"
+    },
+    {
+      "id": "scene_07_ch3_v6",
+      "scene_index": 7,
+      "chapter": "Chapter 3: How Did The Global Crisis Become An Opportunity?",
+      "visual_id": "Visual 6",
+      "title": "Global Refinery Supply Disruption & Geopolitical Shock",
+      "start_frame": 2886,
+      "end_frame": 4380,
+      "start_time_sec": 96.2,
+      "end_time_sec": 146.0,
+      "duration_sec": 49.8,
+      "duration_frames": 1494,
+      "spoken_phrase": "Now imagine a situation where the global supply of these products suddenly becomes constrained. Demand is still there but availability of this in the supply side is reducing. What happens to the selling price of those products? It can increase significantly and that is broadly what happened during this quarter. Because of the geopolitical disruption in the Middle East and Russia, several refining operations were affected completely like there were some bombs that was going into Russian refineries including that. The movement of crude oil and the finished products was also disrupted. Inventories of important petroleum products came down drastically and global refining margin started expanding dramatically because of this demand and supply mismatch.",
+      "segment_indices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "screen_position": "Full-Screen Conceptual Animation (w=1920, h=1080)",
+      "layout_type": "Full-Screen Geopolitical Crisis Map & Supply Chain Shock Flow",
+      "visual_treatment": "Full-Screen Conceptual Animation of Global Supply Shock. Animated world map focusing on Middle East & Russia. Drone strikes / outage markers on Russian refineries, disrupted sea freight tanker routes, plummeting inventory gauges ('Inventories Down Drastically'). Flow: [Supply Disruption] -> [Tighter Product Availability + Inelastic Global Demand] -> [Explosive Rise in Selling Prices & Refining Margins].",
+      "key_metrics": {
+        "geopolitical_epicenters": [
+          "Middle East Conflict",
+          "Russian Refineries Drone Disruption"
+        ],
+        "supply_shock": "Global Refining Capacity Taken Offline",
+        "inventories": "Drastic Drawdown to Multi-Year Lows",
+        "economic_result": "Demand Constant + Supply Squeezed -> Spiking Product Prices & Margins"
+      },
+      "motion_kit_components": [
+        "AutopsyDossier",
+        "ComparisonDuel",
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "dramatic_sub_impact + siren_pulse + digital_glitch"
+    },
+    {
+      "id": "scene_08_ch3_v8",
+      "scene_index": 8,
+      "chapter": "Chapter 3: How Did The Global Crisis Become An Opportunity?",
+      "visual_id": "Visual 8",
+      "title": "Crack-Spread Expansion (Gasoline 3.0x, Diesel 3.5x, Aviation Fuel 3.7x)",
+      "start_frame": 4380,
+      "end_frame": 4824,
+      "start_time_sec": 146.0,
+      "end_time_sec": 160.8,
+      "duration_sec": 14.8,
+      "duration_frames": 444,
+      "spoken_phrase": "Reliance management said gasoline cracks were approximately three times higher than the previous year, diesel cracks were around 3.5 times higher and aviation fuel cracks were approximately 3.7 times higher.",
+      "segment_indices": [
+        34,
+        35,
+        36
+      ],
+      "screen_position": "Left Graphics Zone (x=50–650) to Dual Flank [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Kinetic Multiplier Gauge Stack",
+      "visual_treatment": "Triple Kinetic Multiplier Gauge Stack. 3 glowing vertical fuel canisters filling up rapidly with kinetic multiplier badges: [1] Gasoline (Petrol): '3.0x YoY' in vibrant amber, [2] Diesel (Gasoil): '3.5x YoY' in neon green, [3] Aviation Fuel (ATF): '3.7x YoY' in electric cyan. Badge: 'OFFICIAL MANAGEMENT COMMENTARY: CRACK SPREADS EXPANDING DRAMATICALLY'.",
+      "key_metrics": {
+        "gasoline_cracks": "3.0x Higher YoY",
+        "diesel_cracks": "3.5x Higher YoY",
+        "aviation_fuel_cracks": "3.7x Higher YoY"
+      },
+      "motion_kit_components": [
+        "MetricOdometer",
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "gauge_charge_up + three_rapid_clicks"
+    },
+    {
+      "id": "scene_09_ch3_v7b",
+      "scene_index": 9,
+      "chapter": "Chapter 3: How Did The Global Crisis Become An Opportunity?",
+      "visual_id": "Visual 7 (Part 2)",
+      "title": "Refining Economics & The Crack Spread Equation",
+      "start_frame": 4824,
+      "end_frame": 5700,
+      "start_time_sec": 160.8,
+      "end_time_sec": 190.0,
+      "duration_sec": 29.2,
+      "duration_frames": 876,
+      "spoken_phrase": "Let me explain what a crack spread means. Suppose a refinery purchases crude oil and converts it into a petrol or diesel. The difference between the selling value of the finished product and the cost of crude is broadly called as crack spread. This is not the final profit of the refinery because you still have operating cost, transportation and energy cost and other expenses that put together gives some other expense also for the refinery.",
+      "segment_indices": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "screen_position": "Full-Screen Conceptual Diagram (w=1920, h=1080)",
+      "layout_type": "Full-Screen Financial Economics Equation Canvas",
+      "visual_treatment": "Full-Screen Blueprint Equation. Kinetic math animation: [Finished Product Selling Value (Petrol / Diesel)] MINUS [Crude Oil Acquisition Cost] EQUALS [CRACK SPREAD]. Secondary deduction breakdown: Less Operating Expenses (Energy, Hydrogen, Logistics, Maintenance) = [NET REFINING MARGIN]. Dynamic bar showing when crack spread widens from $5 to $25/bbl while opex stays fixed, operating leverage sends profits soaring.",
+      "key_metrics": {
+        "formula": "Selling Value (Products) - Cost (Crude) = Crack Spread",
+        "deductions": [
+          "Operating Energy",
+          "Transportation Logistics",
+          "Plant Fixed Costs"
+        ],
+        "economic_principle": "High Operating Leverage on Expanding Crack Spreads"
+      },
+      "motion_kit_components": [
+        "FinancialChart",
+        "ComparisonDuel",
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "chalk_scratch + calculator_tick + chime"
+    },
+    {
+      "id": "scene_10_ch3_v9_v10",
+      "scene_index": 10,
+      "chapter": "Chapter 3: How Did The Global Crisis Become An Opportunity?",
+      "visual_id": "Visual 9 & Visual 10",
+      "title": "Reliance Captures Opportunity & Chapter Core Message: Operational Flexibility",
+      "start_frame": 5700,
+      "end_frame": 6120,
+      "start_time_sec": 190.0,
+      "end_time_sec": 204.0,
+      "duration_sec": 14.0,
+      "duration_frames": 420,
+      "spoken_phrase": "But still when the difference increases substantially the refinery has an opportunity to make significant more money than what it actually made previously and Reliance was in the position to capture that opportunity.",
+      "segment_indices": [
+        44,
+        45,
+        46
+      ],
+      "screen_position": "Full-Screen Conceptual Diagram (w=1920, h=1080)",
+      "layout_type": "Full-Screen 4-Pillar Executive Flywheel & Arbitrage Pipeline",
+      "visual_treatment": "Two-Phase Master Synthesis. Phase 1 (Visual 9: Reliance Captures Opportunity): 4-Stage Arbitrage Pipeline: [Crude Sourcing Flexibility] -> [World-Class High-Complexity Refining] -> [Premium Finished Products] -> [High-Realisation Global Markets]. Phase 2 (Visual 10: Chapter Core Message): 4-Pillar Strategic Flywheel: 1. Global Supply Disruption, 2. Higher Product Prices, 3. Flexible Sourcing, 4. Better Market Realisation, locking into central gold stamp: 'OPERATIONAL FLEXIBILITY'.",
+      "key_metrics": {
+        "arbitrage_pipeline": [
+          "Crude Sourcing",
+          "Refining Complexity",
+          "Finished Products",
+          "Global Markets"
+        ],
+        "core_pillars": [
+          "1. Global Supply Disruption",
+          "2. Higher Product Prices",
+          "3. Flexible Sourcing",
+          "4. Better Market Realisation"
+        ],
+        "master_verdict": "OPERATIONAL FLEXIBILITY"
+      },
+      "motion_kit_components": [
+        "AutopsyDossier",
+        "HeadlineBadge",
+        "MetricOdometer",
+        "KineticSubtitles"
+      ],
+      "sound_design": "triumph_chord + sub_boom_gold"
+    },
+    {
+      "id": "scene_11_outro_bridge",
+      "scene_index": 11,
+      "chapter": "Trailing Outro Bridge: Teaser to Chapter 4",
+      "visual_id": "Trailing Outro Bridge",
+      "title": "Wait... There Is Something More Interesting Than This",
+      "start_frame": 6120,
+      "end_frame": 6220,
+      "start_time_sec": 204.0,
+      "end_time_sec": 207.333,
+      "duration_sec": 3.333,
+      "duration_frames": 100,
+      "spoken_phrase": "But wait, there is something more interesting than this.",
+      "segment_indices": [
+        47
+      ],
+      "screen_position": "Right Graphics Zone (x=1270–1870) [Central Zone x=650–1270 Unobstructed]",
+      "layout_type": "Split-Screen Dramatic Teaser Card",
+      "visual_treatment": "Dramatic Cinematic Teaser Card. Glowing amber mystery badge: 'BUT WAIT... THERE IS SOMETHING MORE INTERESTING THAN THIS' with pulsing question mark and lock icon, bridging forward into Chapter 4 (Russian crude oil discount arbitrage & feedstock moat).",
+      "key_metrics": {
+        "bridge_hook": "Something More Interesting Than Crack Spreads",
+        "next_chapter_teaser": "Russian Crude Discount & Feedstock Arbitrage"
+      },
+      "motion_kit_components": [
+        "HeadlineBadge",
+        "KineticSubtitles"
+      ],
+      "sound_design": "cliffhanger_synth_drone + subtle_heartbeat"
+    }
+  ]
+}

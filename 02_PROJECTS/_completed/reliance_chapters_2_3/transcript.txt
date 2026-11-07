@@ -1,0 +1,48 @@
+[000.00s -> 005.42s | f00000 -> f00163] Let's look at three important business, first, oil to chemical or O2C it is called.
+[005.88s -> 008.44s | f00176 -> f00253] This is where the real surprise came from.
+[008.54s -> 015.24s | f00256 -> f00457] O2C EBITDA increased almost 68% year on year to 25,203 crore.
+[015.32s -> 016.86s | f00460 -> f00506] That is extraordinary improvement.
+[017.52s -> 018.54s | f00526 -> f00556] Second, Jio.
+[018.74s -> 021.26s | f00562 -> f00638] Jio platform continued to perform well.
+[021.76s -> 028.14s | f00653 -> f00844] Its EBITDA increased approximately from 17% supported by subscriber addition, higher ARPU
+[028.14s -> 029.78s | f00844 -> f00893] and improving margins.
+[030.10s -> 031.58s | f00903 -> f00947] And third, Reliance Retail.
+[031.76s -> 033.90s | f00953 -> f01017] Here the picture was not so encouraging.
+[034.38s -> 041.36s | f01031 -> f01241] Retail revenue increased around 6.4% but EBITDA before the one time impairment charge is actually
+[041.36s -> 043.50s | f01241 -> f01305] declined around 8.6%.
+[043.50s -> 048.84s | f01305 -> f01465] The company is investing heavily in digital commerce and the festive season shift to December
+[048.84s -> 050.74s | f01465 -> f01522] quarter also affected the performance.
+[051.14s -> 056.32s | f01534 -> f01690] So if you ask me what really surprised the market, it was extraordinary performance of
+[056.32s -> 061.90s | f01690 -> f01857] the oil to chemical business supported by Jio and this is where I want to spend most
+[061.90s -> 067.22s | f01857 -> f02017] of our time in this video today because there is an interesting business story hidden inside
+[067.22s -> 067.92s | f02017 -> f02038] these numbers.
+[068.28s -> 070.38s | f02048 -> f02111] Let's first understand the basic economics.
+[071.02s -> 076.04s | f02131 -> f02281] Reliance has one of the world's largest integrated refining and petrochemical complexes.
+[076.20s -> 082.14s | f02286 -> f02464] The company buys crude oil basically and processes it in the refineries and converts it into
+[082.14s -> 087.66s | f02464 -> f02630] various products, petrol, diesel, aviation fuel and other petroleum products.
+[088.06s -> 094.82s | f02642 -> f02845] It also manufactures petroleum products that eventually go into plastics, polyester and
+[094.82s -> 096.04s | f02845 -> f02881] several other industries.
+[096.32s -> 101.80s | f02890 -> f03054] Now imagine a situation where the global supply of these products suddenly becomes constrained.
+[102.69s -> 107.95s | f03081 -> f03238] Demand is still there but availability of this in the supply side is reducing.
+[108.51s -> 111.85s | f03255 -> f03356] What happens to the selling price of those products?
+[112.27s -> 117.23s | f03368 -> f03517] It can increase significantly and that is broadly what happened during this quarter.
+[117.65s -> 122.69s | f03530 -> f03681] Because of the geopolitical disruption in the Middle East and Russia, several refining
+[122.69s -> 127.89s | f03681 -> f03837] operations were affected completely like there were some bombs that was going into Russian
+[127.89s -> 129.59s | f03837 -> f03888] refineries including that.
+[129.89s -> 134.11s | f03897 -> f04023] The movement of crude oil and the finished products was also disrupted.
+[134.11s -> 140.41s | f04023 -> f04212] Inventories of important petroleum products came down drastically and global refining
+[140.41s -> 145.77s | f04212 -> f04373] margin started expanding dramatically because of this demand and supply mismatch.
+[146.05s -> 150.79s | f04382 -> f04524] Reliance management said gasoline cracks were approximately three times higher than the
+[150.79s -> 158.31s | f04524 -> f04749] previous year, diesel cracks were around 3.5 times higher and aviation fuel cracks were
+[158.31s -> 160.61s | f04749 -> f04818] approximately 3.7 times higher.
+[161.05s -> 163.89s | f04832 -> f04917] Let me explain what a crack spread means.
+[164.31s -> 169.23s | f04929 -> f05077] Suppose a refinery purchases crude oil and converts it into a petrol or diesel.
+[169.59s -> 174.67s | f05088 -> f05240] The difference between the selling value of the finished product and the cost of crude
+[174.67s -> 177.15s | f05240 -> f05314] is broadly called as crack spread.
+[177.89s -> 183.97s | f05337 -> f05519] This is not the final profit of the refinery because you still have operating cost, transportation
+[183.97s -> 189.59s | f05519 -> f05688] and energy cost and other expenses that put together gives some other expense also for
+[189.59s -> 190.09s | f05688 -> f05703] the refinery.
+[190.09s -> 197.09s | f05703 -> f05913] But still when the difference increases substantially the refinery has an opportunity to make significant
+[197.09s -> 202.89s | f05913 -> f06087] more money than what it actually made previously and Reliance was in the position to capture
+[202.89s -> 203.83s | f06087 -> f06115] that opportunity.
+[204.15s -> 206.97s | f06124 -> f06209] But wait, there is something more interesting than this.

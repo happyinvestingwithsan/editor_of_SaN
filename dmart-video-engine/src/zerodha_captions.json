@@ -1,0 +1,738 @@
+[
+  {
+    "start": 0,
+    "end": 74,
+    "words": [
+      {
+        "word": "Finally,",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "word": "Zerodha",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "word": "activated",
+        "start": 38,
+        "end": 59
+      },
+      {
+        "word": "the",
+        "start": 59,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "start": 74,
+    "end": 118,
+    "words": [
+      {
+        "word": "US",
+        "start": 74,
+        "end": 83
+      },
+      {
+        "word": "investing",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "word": "segment.",
+        "start": 98,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "start": 126,
+    "end": 166,
+    "words": [
+      {
+        "word": "how",
+        "start": 126,
+        "end": 138
+      },
+      {
+        "word": "to",
+        "start": 138,
+        "end": 144
+      },
+      {
+        "word": "activate",
+        "start": 144,
+        "end": 156
+      },
+      {
+        "word": "it",
+        "start": 156,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "start": 166,
+    "end": 195,
+    "words": [
+      {
+        "word": "before",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "word": "15",
+        "start": 176,
+        "end": 187
+      },
+      {
+        "word": "minutes,",
+        "start": 187,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "start": 195,
+    "end": 220,
+    "words": [
+      {
+        "word": "I",
+        "start": 195,
+        "end": 199
+      },
+      {
+        "word": "was",
+        "start": 199,
+        "end": 204
+      },
+      {
+        "word": "also",
+        "start": 204,
+        "end": 210
+      },
+      {
+        "word": "wondering",
+        "start": 210,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "start": 220,
+    "end": 248,
+    "words": [
+      {
+        "word": "and",
+        "start": 220,
+        "end": 226
+      },
+      {
+        "word": "searching",
+        "start": 226,
+        "end": 235
+      },
+      {
+        "word": "here",
+        "start": 235,
+        "end": 244
+      },
+      {
+        "word": "and",
+        "start": 244,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "start": 248,
+    "end": 289,
+    "words": [
+      {
+        "word": "there,",
+        "start": 248,
+        "end": 256
+      },
+      {
+        "word": "but",
+        "start": 261,
+        "end": 271
+      },
+      {
+        "word": "found",
+        "start": 271,
+        "end": 284
+      },
+      {
+        "word": "a",
+        "start": 284,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "start": 289,
+    "end": 314,
+    "words": [
+      {
+        "word": "way",
+        "start": 289,
+        "end": 294
+      },
+      {
+        "word": "just",
+        "start": 294,
+        "end": 302
+      },
+      {
+        "word": "start",
+        "start": 302,
+        "end": 309
+      },
+      {
+        "word": "of",
+        "start": 309,
+        "end": 314
+      }
+    ]
+  },
+  {
+    "start": 314,
+    "end": 346,
+    "words": [
+      {
+        "word": "sharing",
+        "start": 314,
+        "end": 322
+      },
+      {
+        "word": "that",
+        "start": 322,
+        "end": 328
+      },
+      {
+        "word": "across",
+        "start": 328,
+        "end": 338
+      },
+      {
+        "word": "with",
+        "start": 338,
+        "end": 346
+      }
+    ]
+  },
+  {
+    "start": 346,
+    "end": 356,
+    "words": [
+      {
+        "word": "you.",
+        "start": 346,
+        "end": 350
+      }
+    ]
+  },
+  {
+    "start": 356,
+    "end": 388,
+    "words": [
+      {
+        "word": "link",
+        "start": 356,
+        "end": 367
+      },
+      {
+        "word": "if",
+        "start": 367,
+        "end": 374
+      },
+      {
+        "word": "you",
+        "start": 374,
+        "end": 376
+      },
+      {
+        "word": "already",
+        "start": 376,
+        "end": 388
+      }
+    ]
+  },
+  {
+    "start": 388,
+    "end": 429,
+    "words": [
+      {
+        "word": "signed",
+        "start": 388,
+        "end": 399
+      },
+      {
+        "word": "into",
+        "start": 399,
+        "end": 408
+      },
+      {
+        "word": "Zerodha,",
+        "start": 408,
+        "end": 419
+      }
+    ]
+  },
+  {
+    "start": 429,
+    "end": 464,
+    "words": [
+      {
+        "word": "then",
+        "start": 429,
+        "end": 432
+      },
+      {
+        "word": "just",
+        "start": 432,
+        "end": 440
+      },
+      {
+        "word": "click",
+        "start": 440,
+        "end": 449
+      },
+      {
+        "word": "login",
+        "start": 449,
+        "end": 464
+      }
+    ]
+  },
+  {
+    "start": 464,
+    "end": 504,
+    "words": [
+      {
+        "word": "otherwise",
+        "start": 464,
+        "end": 477
+      },
+      {
+        "word": "just",
+        "start": 477,
+        "end": 489
+      },
+      {
+        "word": "sign",
+        "start": 489,
+        "end": 498
+      },
+      {
+        "word": "in",
+        "start": 498,
+        "end": 504
+      }
+    ]
+  },
+  {
+    "start": 504,
+    "end": 540,
+    "words": [
+      {
+        "word": "and",
+        "start": 504,
+        "end": 521
+      },
+      {
+        "word": "it",
+        "start": 521,
+        "end": 528
+      },
+      {
+        "word": "will",
+        "start": 528,
+        "end": 531
+      },
+      {
+        "word": "open",
+        "start": 531,
+        "end": 540
+      }
+    ]
+  },
+  {
+    "start": 540,
+    "end": 571,
+    "words": [
+      {
+        "word": "the",
+        "start": 540,
+        "end": 546
+      },
+      {
+        "word": "account",
+        "start": 546,
+        "end": 554
+      },
+      {
+        "word": "page",
+        "start": 554,
+        "end": 565
+      },
+      {
+        "word": "in",
+        "start": 565,
+        "end": 568
+      }
+    ]
+  },
+  {
+    "start": 571,
+    "end": 603,
+    "words": [
+      {
+        "word": "just",
+        "start": 571,
+        "end": 575
+      },
+      {
+        "word": "scroll",
+        "start": 575,
+        "end": 587
+      },
+      {
+        "word": "down",
+        "start": 587,
+        "end": 596
+      },
+      {
+        "word": "and",
+        "start": 596,
+        "end": 603
+      }
+    ]
+  },
+  {
+    "start": 603,
+    "end": 672,
+    "words": [
+      {
+        "word": "open",
+        "start": 603,
+        "end": 617
+      },
+      {
+        "word": "the",
+        "start": 617,
+        "end": 636
+      },
+      {
+        "word": "segment",
+        "start": 636,
+        "end": 659
+      },
+      {
+        "word": "and",
+        "start": 659,
+        "end": 667
+      }
+    ]
+  },
+  {
+    "start": 672,
+    "end": 705,
+    "words": [
+      {
+        "word": "just",
+        "start": 672,
+        "end": 681
+      },
+      {
+        "word": "below",
+        "start": 681,
+        "end": 691
+      },
+      {
+        "word": "that,",
+        "start": 691,
+        "end": 702
+      }
+    ]
+  },
+  {
+    "start": 705,
+    "end": 729,
+    "words": [
+      {
+        "word": "it",
+        "start": 705,
+        "end": 714
+      },
+      {
+        "word": "will",
+        "start": 714,
+        "end": 717
+      },
+      {
+        "word": "be",
+        "start": 717,
+        "end": 721
+      },
+      {
+        "word": "US",
+        "start": 721,
+        "end": 729
+      }
+    ]
+  },
+  {
+    "start": 729,
+    "end": 745,
+    "words": [
+      {
+        "word": "investing,",
+        "start": 729,
+        "end": 744
+      }
+    ]
+  },
+  {
+    "start": 745,
+    "end": 779,
+    "words": [
+      {
+        "word": "just",
+        "start": 745,
+        "end": 758
+      },
+      {
+        "word": "select",
+        "start": 758,
+        "end": 766
+      },
+      {
+        "word": "that",
+        "start": 766,
+        "end": 773
+      },
+      {
+        "word": "and",
+        "start": 773,
+        "end": 779
+      }
+    ]
+  },
+  {
+    "start": 779,
+    "end": 806,
+    "words": [
+      {
+        "word": "you",
+        "start": 779,
+        "end": 782
+      },
+      {
+        "word": "can",
+        "start": 782,
+        "end": 785
+      },
+      {
+        "word": "activate",
+        "start": 785,
+        "end": 797
+      },
+      {
+        "word": "US",
+        "start": 797,
+        "end": 806
+      }
+    ]
+  },
+  {
+    "start": 806,
+    "end": 853,
+    "words": [
+      {
+        "word": "investing",
+        "start": 806,
+        "end": 820
+      },
+      {
+        "word": "within",
+        "start": 820,
+        "end": 829
+      },
+      {
+        "word": "48",
+        "start": 829,
+        "end": 842
+      },
+      {
+        "word": "hours,",
+        "start": 842,
+        "end": 850
+      }
+    ]
+  },
+  {
+    "start": 853,
+    "end": 872,
+    "words": [
+      {
+        "word": "they",
+        "start": 853,
+        "end": 857
+      },
+      {
+        "word": "are",
+        "start": 857,
+        "end": 860
+      },
+      {
+        "word": "saying",
+        "start": 860,
+        "end": 868
+      },
+      {
+        "word": "that",
+        "start": 868,
+        "end": 872
+      }
+    ]
+  },
+  {
+    "start": 872,
+    "end": 900,
+    "words": [
+      {
+        "word": "they",
+        "start": 872,
+        "end": 877
+      },
+      {
+        "word": "will",
+        "start": 877,
+        "end": 880
+      },
+      {
+        "word": "activate",
+        "start": 880,
+        "end": 890
+      }
+    ]
+  },
+  {
+    "start": 900,
+    "end": 932,
+    "words": [
+      {
+        "word": "this",
+        "start": 900,
+        "end": 906
+      },
+      {
+        "word": "was",
+        "start": 906,
+        "end": 910
+      },
+      {
+        "word": "useful",
+        "start": 910,
+        "end": 919
+      },
+      {
+        "word": "friends,",
+        "start": 919,
+        "end": 932
+      }
+    ]
+  },
+  {
+    "start": 932,
+    "end": 970,
+    "words": [
+      {
+        "word": "you,",
+        "start": 932,
+        "end": 935
+      },
+      {
+        "word": "enjoy",
+        "start": 941,
+        "end": 947
+      },
+      {
+        "word": "US",
+        "start": 947,
+        "end": 956
+      },
+      {
+        "word": "investing",
+        "start": 956,
+        "end": 970
+      }
+    ]
+  },
+  {
+    "start": 970,
+    "end": 1000,
+    "words": [
+      {
+        "word": "with",
+        "start": 970,
+        "end": 976
+      },
+      {
+        "word": "a",
+        "start": 976,
+        "end": 980
+      },
+      {
+        "word": "trusted",
+        "start": 980,
+        "end": 988
+      },
+      {
+        "word": "broker",
+        "start": 988,
+        "end": 1000
+      }
+    ]
+  },
+  {
+    "start": 1000,
+    "end": 1051,
+    "words": [
+      {
+        "word": "in",
+        "start": 1000,
+        "end": 1009
+      },
+      {
+        "word": "India",
+        "start": 1009,
+        "end": 1021
+      },
+      {
+        "word": "and",
+        "start": 1021,
+        "end": 1039
+      },
+      {
+        "word": "Happy",
+        "start": 1039,
+        "end": 1051
+      }
+    ]
+  },
+  {
+    "start": 1051,
+    "end": 1073,
+    "words": [
+      {
+        "word": "investing.",
+        "start": 1051,
+        "end": 1063
+      }
+    ]
+  }
+]

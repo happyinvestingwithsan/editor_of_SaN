@@ -1,0 +1,152 @@
+{
+  "project": "Equitas Small Finance Bank — Personal Investment Thesis & Risk Management",
+  "compositionId": "ESFB-Outro-Personal-Thesis",
+  "masterRender": {
+    "outputPath": "equitas_personal_investment_thesis/FINAL_EQUITAS_PERSONAL_THESIS.mp4",
+    "fileSizeBytes": 285830034,
+    "fileSizeMB": 285.8,
+    "durationSec": 163.1,
+    "totalFrames": 4893,
+    "crf": 18,
+    "videoBitrate": "13.7 Mbps",
+    "audioBitrate": "317 kbps"
+  },
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 4893,
+  "durationInSeconds": 163.1,
+  "sourceMedia": {
+    "masterVideo": "d:\\QuickShare\\Equitas SFB\\Capcut\\WSFB - Outro Video.mov",
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "sampleRate": 44100,
+    "sourceDuration": 163.12
+  },
+  "ingestedProxies": {
+    "allIntraProxy": "dmart-video-engine/public/video/esfb_outro_facecam.mp4",
+    "uncompressedAudio": "dmart-video-engine/public/audio/esfb_outro_audio.wav",
+    "audioSampleRate": 48000,
+    "audioChannels": 2,
+    "videoKeyframeInterval": 1
+  },
+  "alignmentData": {
+    "wordsJson": "dmart-video-engine/src/esfb_outro_words.json",
+    "blocksJson": "dmart-video-engine/src/esfb_outro_blocks.json",
+    "totalWords": 494,
+    "totalBlocks": 165
+  },
+  "motionGraphicsComponents": [
+    {
+      "name": "OpeningHeading",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/OpeningHeading.tsx",
+      "scene": "Scene 01: What am I doing with my own money?",
+      "frameRange": [15, 145]
+    },
+    {
+      "name": "ValuationComparisonCard",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/ValuationComparisonCard.tsx",
+      "scene": "Scene 01 & 02: Simple Valuation & Book Value vs Market Price",
+      "frameRange": [150, 698]
+    },
+    {
+      "name": "ProfitAnnualisationCard",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/ProfitAnnualisationCard.tsx",
+      "scene": "Scene 03: Quarterly Profit Run Rate",
+      "frameRange": [700, 956]
+    },
+    {
+      "name": "InvestmentThesisCard",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/InvestmentThesisCard.tsx",
+      "scene": "Scene 04: The 3-Pillar Investment Thesis & Temporary Pain",
+      "frameRange": [960, 1275]
+    },
+    {
+      "name": "PersonalPositionAllocation",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/PersonalPositionAllocation.tsx",
+      "scene": "Scene 05: Personal Position & Reserved Cash",
+      "frameRange": [1380, 1820]
+    },
+    {
+      "name": "SuccessionAndMarketCard",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/SuccessionAndMarketCard.tsx",
+      "scene": "Scene 06: Why Not Invest Everything? (Succession & Settlement)",
+      "frameRange": [1835, 2155]
+    },
+    {
+      "name": "StagedEntryDiagram",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/StagedEntryDiagram.tsx",
+      "scene": "Scene 07: 3-Stage Accumulation Strategy",
+      "frameRange": [2160, 2490]
+    },
+    {
+      "name": "DoNotCopyCard",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/DoNotCopyCard.tsx",
+      "scene": "Scene 08: Do Not Blindly Copy My Trade",
+      "frameRange": [2505, 2660]
+    },
+    {
+      "name": "PositionSizingCards",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/PositionSizingCards.tsx",
+      "scene": "Scene 09: Personal Portfolio Risk Limits (1.5%, 3%, 5%)",
+      "frameRange": [2915, 3215]
+    },
+    {
+      "name": "PortfolioRiskIllustration",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/PortfolioRiskIllustration.tsx",
+      "scene": "Scene 10: Limit Concentration Risk & Avoid Bleeding",
+      "frameRange": [3220, 3470]
+    },
+    {
+      "name": "InvestorResponsibilityCard",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/InvestorResponsibilityCard.tsx",
+      "scene": "Scene 11: Final Investor Due Diligence & Responsibility",
+      "frameRange": [3680, 4190]
+    },
+    {
+      "name": "EngagementCTA",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/EngagementCTA.tsx",
+      "scene": "Scene 12: Community Discussion & Interactive CTA",
+      "frameRange": [4365, 4655]
+    },
+    {
+      "name": "HappyInvestingOutro",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/HappyInvestingOutro.tsx",
+      "scene": "Scene 13: Stay Calm, Stay Disciplined & Happy Investing",
+      "frameRange": [4660, 4893]
+    },
+    {
+      "name": "LightKineticSubtitles",
+      "path": "dmart-video-engine/src/compositions/equitas_outro/components/LightKineticSubtitles.tsx",
+      "scene": "Persistent Mobile Kinetic Subtitles",
+      "frameRange": [0, 4893]
+    }
+  ],
+  "sfxAssets": [
+    "dmart-video-engine/public/audio/clean_transition_whoosh.wav",
+    "dmart-video-engine/public/audio/metallic_counter_tick.wav",
+    "dmart-video-engine/public/sfx/soft_bell.wav"
+  ],
+  "designSystem": {
+    "style": "Premium Editorial Light Theme",
+    "brandPalette": {
+      "primaryBackground": "#FFFFFF",
+      "secondaryBackground": "#F2FAF9",
+      "softTeal": "#E8F5F3",
+      "primaryTeal": "#0F8F87",
+      "deepTeal": "#08736D",
+      "mainText": "#18252B",
+      "secondaryText": "#687780",
+      "positiveIndicator": "#249B79",
+      "warningAmber": "#E9AD58",
+      "negativeIndicator": "#D97869"
+    },
+    "typography": {
+      "fontFamily": "Inter, -apple-system, sans-serif",
+      "monoFamily": "JetBrains Mono, Roboto Mono, monospace",
+      "mobileCardHeading": 32,
+      "mobileMetrics": 54,
+      "mobileSub": 18
+    }
+  }
+}

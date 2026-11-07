@@ -1,0 +1,80 @@
+{
+  "project": "Equitas Small Finance Bank - Screener Part 2",
+  "topic": "Microfinance Crisis, Profit Collapse & Management Response",
+  "version": "1.0.0",
+  "createdAt": "2026-10-31T17:40:00Z",
+  "compositionId": "ESFB-Screenr-2-Video",
+  "resolution": {
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "fps": 30
+  },
+  "duration": {
+    "frames": 3544,
+    "seconds": 118.133333
+  },
+  "sourceMedia": {
+    "cameraMaster": {
+      "path": "d:\\QuickShare\\Equitas SFB\\Capcut\\ESFB - Screenr - 2 - Video.mov",
+      "codec": "h264",
+      "container": "mov",
+      "bitrate": "9932 kb/s"
+    },
+    "allIntraProxy": {
+      "path": "dmart-video-engine/public/video/esfb_screener2_facecam.mp4",
+      "codec": "libx264",
+      "preset": "veryfast",
+      "gopSize": 1,
+      "crf": 22,
+      "pixelFormat": "yuv420p",
+      "audioMuted": true,
+      "faststart": true
+    },
+    "masterAudio": {
+      "path": "dmart-video-engine/public/video/esfb_screener2_audio.wav",
+      "codec": "pcm_s16le",
+      "sampleRate": 48000,
+      "channels": 2,
+      "bitrate": "1536 kb/s"
+    }
+  },
+  "soundDesign": [
+    { "frame": 90, "sfx": "sfx/clean_transition_whoosh.wav", "purpose": "SaN enters Left dock, Scene 1 appears" },
+    { "frame": 240, "sfx": "sfx/paper_document_shuffle.wav", "purpose": "Concall Transcript document card slide" },
+    { "frame": 450, "sfx": "sfx/clean_transition_whoosh.wav", "purpose": "SaN shifts to Right dock, Microfinance Crisis Map reveals" },
+    { "frame": 740, "sfx": "sfx/pop.wav", "purpose": "Multiple simultaneous loan cards cascade" },
+    { "frame": 870, "sfx": "sfx/fracture.wav", "purpose": "Dual exogenous shocks & default explosion impact" },
+    { "frame": 1180, "sfx": "sfx/boom.wav", "purpose": "Credit cost shock (2.3% to 11.37%) 5x bar surge" },
+    { "frame": 1470, "sfx": "sfx/cinematic_impact_hit.wav", "purpose": "₹630 Cr operating profit wipeout slam" },
+    { "frame": 1635, "sfx": "sfx/paper_document_shuffle.wav", "purpose": "Management honesty question transition" },
+    { "frame": 1860, "sfx": "sfx/stamp.wav", "purpose": "Cleaned in One Go rubber stamp impact" },
+    { "frame": 2320, "sfx": "sfx/padlock.wav", "purpose": "Underwriting credit gate lock on over-leveraged borrowers" },
+    { "frame": 2600, "sfx": "sfx/pop.wav", "purpose": "50% risky loan rejection stat pop" },
+    { "frame": 2850, "sfx": "sfx/cash_chime.wav", "purpose": "15% vs 85% portfolio doughnut reveal" },
+    { "frame": 3060, "sfx": "sfx/clean_transition_whoosh.wav", "purpose": "85% real physical asset pillars entry" },
+    { "frame": 3265, "sfx": "sfx/soft_bell.wav", "purpose": "Pristine monthly EMI repayment calendar checks" },
+    { "frame": 3410, "sfx": "sfx/clean_transition_whoosh.wav", "purpose": "SaN full screen outro & Phoenix Rebound teaser" }
+  ],
+  "themeTokens": {
+    "canvasPrimary": "#FFFFFF",
+    "canvasSecondary": "#F2FAF9",
+    "canvasTealTint": "#E8F5F3",
+    "cardBackground": "#FFFFFF",
+    "primaryTeal": "#0F8F87",
+    "deepTeal": "#08736D",
+    "darkTeal": "#064E4A",
+    "textPrimary": "#18252B",
+    "textSecondary": "#687780",
+    "positive": "#249B79",
+    "negative": "#D97869",
+    "alert": "#E9AD58"
+  },
+  "tier1Stills": [
+    "equitas_microfinance_crisis/stills/scene01_frame180.png",
+    "equitas_microfinance_crisis/stills/scene04_frame820.png",
+    "equitas_microfinance_crisis/stills/scene06_frame1300.png",
+    "equitas_microfinance_crisis/stills/scene09_frame2050.png",
+    "equitas_microfinance_crisis/stills/scene12_frame2950.png"
+  ]
+}

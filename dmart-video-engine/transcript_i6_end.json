@@ -1,0 +1,660 @@
+[
+  {
+    "word": " you",
+    "start": 55.28,
+    "end": 55.36,
+    "start_frame": 1658,
+    "end_frame": 1660
+  },
+  {
+    "word": " are",
+    "start": 55.36,
+    "end": 55.48,
+    "start_frame": 1660,
+    "end_frame": 1664
+  },
+  {
+    "word": " one",
+    "start": 55.48,
+    "end": 55.64,
+    "start_frame": 1664,
+    "end_frame": 1669
+  },
+  {
+    "word": " among",
+    "start": 55.64,
+    "end": 55.9,
+    "start_frame": 1669,
+    "end_frame": 1677
+  },
+  {
+    "word": " them.",
+    "start": 55.9,
+    "end": 56.1,
+    "start_frame": 1677,
+    "end_frame": 1683
+  },
+  {
+    "word": " And",
+    "start": 56.1,
+    "end": 56.38,
+    "start_frame": 1683,
+    "end_frame": 1691
+  },
+  {
+    "word": " consider",
+    "start": 56.38,
+    "end": 56.78,
+    "start_frame": 1691,
+    "end_frame": 1703
+  },
+  {
+    "word": " exploring",
+    "start": 56.78,
+    "end": 57.28,
+    "start_frame": 1703,
+    "end_frame": 1718
+  },
+  {
+    "word": " that.",
+    "start": 57.28,
+    "end": 57.54,
+    "start_frame": 1718,
+    "end_frame": 1726
+  },
+  {
+    "word": " Once",
+    "start": 57.92,
+    "end": 58.06,
+    "start_frame": 1737,
+    "end_frame": 1741
+  },
+  {
+    "word": " you're",
+    "start": 58.06,
+    "end": 58.24,
+    "start_frame": 1741,
+    "end_frame": 1747
+  },
+  {
+    "word": " enrolled",
+    "start": 58.24,
+    "end": 58.46,
+    "start_frame": 1747,
+    "end_frame": 1753
+  },
+  {
+    "word": " into",
+    "start": 58.46,
+    "end": 58.7,
+    "start_frame": 1753,
+    "end_frame": 1761
+  },
+  {
+    "word": " the",
+    "start": 58.7,
+    "end": 58.78,
+    "start_frame": 1761,
+    "end_frame": 1763
+  },
+  {
+    "word": " master",
+    "start": 58.78,
+    "end": 59.02,
+    "start_frame": 1763,
+    "end_frame": 1770
+  },
+  {
+    "word": " class,",
+    "start": 59.02,
+    "end": 59.14,
+    "start_frame": 1770,
+    "end_frame": 1774
+  },
+  {
+    "word": " you",
+    "start": 59.14,
+    "end": 59.56,
+    "start_frame": 1774,
+    "end_frame": 1786
+  },
+  {
+    "word": " will",
+    "start": 59.56,
+    "end": 59.66,
+    "start_frame": 1786,
+    "end_frame": 1789
+  },
+  {
+    "word": " get",
+    "start": 59.66,
+    "end": 59.8,
+    "start_frame": 1789,
+    "end_frame": 1794
+  },
+  {
+    "word": " an",
+    "start": 59.8,
+    "end": 59.98,
+    "start_frame": 1794,
+    "end_frame": 1799
+  },
+  {
+    "word": " option",
+    "start": 59.98,
+    "end": 60.2,
+    "start_frame": 1799,
+    "end_frame": 1806
+  },
+  {
+    "word": " of",
+    "start": 60.2,
+    "end": 60.4,
+    "start_frame": 1806,
+    "end_frame": 1812
+  },
+  {
+    "word": " English",
+    "start": 60.4,
+    "end": 60.72,
+    "start_frame": 1812,
+    "end_frame": 1821
+  },
+  {
+    "word": " or",
+    "start": 60.72,
+    "end": 60.9,
+    "start_frame": 1821,
+    "end_frame": 1827
+  },
+  {
+    "word": " Tamil.",
+    "start": 60.9,
+    "end": 61.14,
+    "start_frame": 1827,
+    "end_frame": 1834
+  },
+  {
+    "word": " You",
+    "start": 61.32,
+    "end": 61.4,
+    "start_frame": 1839,
+    "end_frame": 1842
+  },
+  {
+    "word": " choose",
+    "start": 61.4,
+    "end": 61.68,
+    "start_frame": 1842,
+    "end_frame": 1850
+  },
+  {
+    "word": " the",
+    "start": 61.68,
+    "end": 61.86,
+    "start_frame": 1850,
+    "end_frame": 1855
+  },
+  {
+    "word": " language",
+    "start": 61.86,
+    "end": 62.18,
+    "start_frame": 1855,
+    "end_frame": 1865
+  },
+  {
+    "word": " and",
+    "start": 62.18,
+    "end": 62.5,
+    "start_frame": 1865,
+    "end_frame": 1875
+  },
+  {
+    "word": " take",
+    "start": 62.5,
+    "end": 62.74,
+    "start_frame": 1875,
+    "end_frame": 1882
+  },
+  {
+    "word": " your",
+    "start": 62.74,
+    "end": 63.04,
+    "start_frame": 1882,
+    "end_frame": 1891
+  },
+  {
+    "word": " master",
+    "start": 63.04,
+    "end": 63.42,
+    "start_frame": 1891,
+    "end_frame": 1902
+  },
+  {
+    "word": " class.",
+    "start": 63.42,
+    "end": 63.62,
+    "start_frame": 1902,
+    "end_frame": 1908
+  },
+  {
+    "word": " I",
+    "start": 64.02,
+    "end": 64.12,
+    "start_frame": 1920,
+    "end_frame": 1923
+  },
+  {
+    "word": " am",
+    "start": 64.12,
+    "end": 64.26,
+    "start_frame": 1923,
+    "end_frame": 1927
+  },
+  {
+    "word": " guaranteeing",
+    "start": 64.26,
+    "end": 64.84,
+    "start_frame": 1927,
+    "end_frame": 1945
+  },
+  {
+    "word": " that",
+    "start": 64.84,
+    "end": 64.94,
+    "start_frame": 1945,
+    "end_frame": 1948
+  },
+  {
+    "word": " master",
+    "start": 64.94,
+    "end": 65.26,
+    "start_frame": 1948,
+    "end_frame": 1957
+  },
+  {
+    "word": " class",
+    "start": 65.26,
+    "end": 65.44,
+    "start_frame": 1957,
+    "end_frame": 1963
+  },
+  {
+    "word": " will",
+    "start": 65.44,
+    "end": 65.64,
+    "start_frame": 1963,
+    "end_frame": 1969
+  },
+  {
+    "word": " bring",
+    "start": 65.64,
+    "end": 65.86,
+    "start_frame": 1969,
+    "end_frame": 1975
+  },
+  {
+    "word": " you",
+    "start": 65.86,
+    "end": 66.0,
+    "start_frame": 1975,
+    "end_frame": 1980
+  },
+  {
+    "word": " a",
+    "start": 66.0,
+    "end": 66.1,
+    "start_frame": 1980,
+    "end_frame": 1982
+  },
+  {
+    "word": " new",
+    "start": 66.1,
+    "end": 66.32,
+    "start_frame": 1982,
+    "end_frame": 1989
+  },
+  {
+    "word": " perspective",
+    "start": 66.32,
+    "end": 66.78,
+    "start_frame": 1989,
+    "end_frame": 2003
+  },
+  {
+    "word": " of",
+    "start": 66.78,
+    "end": 67.1,
+    "start_frame": 2003,
+    "end_frame": 2012
+  },
+  {
+    "word": " stock",
+    "start": 67.1,
+    "end": 67.3,
+    "start_frame": 2012,
+    "end_frame": 2019
+  },
+  {
+    "word": " market.",
+    "start": 67.3,
+    "end": 67.68,
+    "start_frame": 2019,
+    "end_frame": 2030
+  },
+  {
+    "word": " And",
+    "start": 68.24,
+    "end": 68.34,
+    "start_frame": 2047,
+    "end_frame": 2050
+  },
+  {
+    "word": " after",
+    "start": 68.34,
+    "end": 68.74,
+    "start_frame": 2050,
+    "end_frame": 2062
+  },
+  {
+    "word": " watching",
+    "start": 68.74,
+    "end": 69.0,
+    "start_frame": 2062,
+    "end_frame": 2070
+  },
+  {
+    "word": " master",
+    "start": 69.0,
+    "end": 69.24,
+    "start_frame": 2070,
+    "end_frame": 2077
+  },
+  {
+    "word": " class,",
+    "start": 69.24,
+    "end": 69.44,
+    "start_frame": 2077,
+    "end_frame": 2083
+  },
+  {
+    "word": " if",
+    "start": 69.44,
+    "end": 69.62,
+    "start_frame": 2083,
+    "end_frame": 2088
+  },
+  {
+    "word": " you",
+    "start": 69.62,
+    "end": 69.68,
+    "start_frame": 2088,
+    "end_frame": 2090
+  },
+  {
+    "word": " also",
+    "start": 69.68,
+    "end": 69.94,
+    "start_frame": 2090,
+    "end_frame": 2098
+  },
+  {
+    "word": " feel",
+    "start": 69.94,
+    "end": 70.16,
+    "start_frame": 2098,
+    "end_frame": 2104
+  },
+  {
+    "word": " the",
+    "start": 70.16,
+    "end": 70.34,
+    "start_frame": 2104,
+    "end_frame": 2110
+  },
+  {
+    "word": " same,",
+    "start": 70.34,
+    "end": 70.54,
+    "start_frame": 2110,
+    "end_frame": 2116
+  },
+  {
+    "word": " consider",
+    "start": 70.86,
+    "end": 71.12,
+    "start_frame": 2125,
+    "end_frame": 2133
+  },
+  {
+    "word": " enrolling",
+    "start": 71.12,
+    "end": 71.54,
+    "start_frame": 2133,
+    "end_frame": 2146
+  },
+  {
+    "word": " into",
+    "start": 71.54,
+    "end": 71.8,
+    "start_frame": 2146,
+    "end_frame": 2154
+  },
+  {
+    "word": " the",
+    "start": 71.8,
+    "end": 71.94,
+    "start_frame": 2154,
+    "end_frame": 2158
+  },
+  {
+    "word": " cohort.",
+    "start": 71.94,
+    "end": 72.22,
+    "start_frame": 2158,
+    "end_frame": 2166
+  },
+  {
+    "word": " Our",
+    "start": 72.4,
+    "end": 72.52,
+    "start_frame": 2172,
+    "end_frame": 2175
+  },
+  {
+    "word": " next",
+    "start": 72.52,
+    "end": 72.68,
+    "start_frame": 2175,
+    "end_frame": 2180
+  },
+  {
+    "word": " cohort",
+    "start": 72.68,
+    "end": 73.0,
+    "start_frame": 2180,
+    "end_frame": 2190
+  },
+  {
+    "word": " will",
+    "start": 73.0,
+    "end": 73.22,
+    "start_frame": 2190,
+    "end_frame": 2196
+  },
+  {
+    "word": " be",
+    "start": 73.22,
+    "end": 73.38,
+    "start_frame": 2196,
+    "end_frame": 2201
+  },
+  {
+    "word": " in",
+    "start": 73.38,
+    "end": 73.56,
+    "start_frame": 2201,
+    "end_frame": 2206
+  },
+  {
+    "word": " November",
+    "start": 73.56,
+    "end": 73.76,
+    "start_frame": 2206,
+    "end_frame": 2212
+  },
+  {
+    "word": " 1st",
+    "start": 73.76,
+    "end": 74.06,
+    "start_frame": 2212,
+    "end_frame": 2221
+  },
+  {
+    "word": " or",
+    "start": 74.06,
+    "end": 74.12,
+    "start_frame": 2221,
+    "end_frame": 2223
+  },
+  {
+    "word": " 2nd",
+    "start": 74.12,
+    "end": 74.44,
+    "start_frame": 2223,
+    "end_frame": 2233
+  },
+  {
+    "word": " week.",
+    "start": 74.44,
+    "end": 74.64,
+    "start_frame": 2233,
+    "end_frame": 2239
+  },
+  {
+    "word": " So",
+    "start": 75.0,
+    "end": 75.08,
+    "start_frame": 2250,
+    "end_frame": 2252
+  },
+  {
+    "word": " consider",
+    "start": 75.08,
+    "end": 75.34,
+    "start_frame": 2252,
+    "end_frame": 2260
+  },
+  {
+    "word": " enrolling",
+    "start": 75.34,
+    "end": 75.8,
+    "start_frame": 2260,
+    "end_frame": 2274
+  },
+  {
+    "word": " into",
+    "start": 75.8,
+    "end": 76.1,
+    "start_frame": 2274,
+    "end_frame": 2283
+  },
+  {
+    "word": " that.",
+    "start": 76.1,
+    "end": 76.3,
+    "start_frame": 2283,
+    "end_frame": 2289
+  },
+  {
+    "word": " Already",
+    "start": 76.82,
+    "end": 77.1,
+    "start_frame": 2304,
+    "end_frame": 2313
+  },
+  {
+    "word": " you're",
+    "start": 77.1,
+    "end": 77.36,
+    "start_frame": 2313,
+    "end_frame": 2320
+  },
+  {
+    "word": " serving",
+    "start": 77.36,
+    "end": 77.62,
+    "start_frame": 2320,
+    "end_frame": 2328
+  },
+  {
+    "word": " 555",
+    "start": 77.62,
+    "end": 78.36,
+    "start_frame": 2328,
+    "end_frame": 2350
+  },
+  {
+    "word": " members.",
+    "start": 78.36,
+    "end": 78.64,
+    "start_frame": 2350,
+    "end_frame": 2359
+  },
+  {
+    "word": " It's",
+    "start": 78.66,
+    "end": 78.92,
+    "start_frame": 2359,
+    "end_frame": 2367
+  },
+  {
+    "word": " a",
+    "start": 78.92,
+    "end": 78.98,
+    "start_frame": 2367,
+    "end_frame": 2369
+  },
+  {
+    "word": " very",
+    "start": 78.98,
+    "end": 79.14,
+    "start_frame": 2369,
+    "end_frame": 2374
+  },
+  {
+    "word": " small",
+    "start": 79.14,
+    "end": 79.48,
+    "start_frame": 2374,
+    "end_frame": 2384
+  },
+  {
+    "word": " community",
+    "start": 79.48,
+    "end": 80.06,
+    "start_frame": 2384,
+    "end_frame": 2401
+  },
+  {
+    "word": " that",
+    "start": 80.06,
+    "end": 80.36,
+    "start_frame": 2401,
+    "end_frame": 2410
+  },
+  {
+    "word": " I",
+    "start": 80.36,
+    "end": 80.56,
+    "start_frame": 2410,
+    "end_frame": 2416
+  },
+  {
+    "word": " serve.",
+    "start": 80.56,
+    "end": 80.94,
+    "start_frame": 2416,
+    "end_frame": 2428
+  }
+]

@@ -1,0 +1,31 @@
+export const theme = {
+  colors: {
+    bgDark: "#06080F",
+    bgCard: "rgba(11, 15, 25, 0.88)",
+    bgGlass: "rgba(17, 24, 39, 0.75)",
+    borderGlass: "rgba(255, 255, 255, 0.12)",
+    goldPrimary: "#F59E0B",
+    goldNeon: "#FBBF24",
+    goldGlow: "rgba(245, 158, 11, 0.35)",
+    goldBezel: "rgba(245, 158, 11, 0.6)",
+    emerald: "#10B981",
+    emeraldNeon: "#00E599",
+    emeraldGlow: "rgba(16, 185, 129, 0.3)",
+    crimson: "#EF4444",
+    crimsonGlow: "rgba(239, 68, 68, 0.35)",
+    cyan: "#06B6D4",
+    cyanGlow: "rgba(6, 182, 212, 0.35)",
+    textPrimary: "#F9FAFB",
+    textSecondary: "#9CA3AF",
+    textMuted: "#6B7280",
+  },
+  typography: {
+    fontSans: "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    fontHeading: "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+  },
+  shadows: {
+    goldCard: "0 20px 40px rgba(0, 0, 0, 0.6), 0 0 30px rgba(245, 158, 11, 0.2)",
+    glassCard: "0 20px 50px rgba(0, 0, 0, 0.7), inset 0 1px 1px rgba(255, 255, 255, 0.15)",
+    glowBox: (color: string) => `0 0 25px ${color}`,
+  },
+};

@@ -395,3 +395,304 @@ def build_capcut_draft(
         "tab1_name": tab1_name,
         "tab2_name": tab2_name
     }
+
+
+def amend_capcut_draft(
+    project_name: str,
+    video_path: str,
+    raw_duration_s: float,
+    new_kept_segments: List[Dict[str, Any]],
+    fps: float = 30.0
+) -> Dict[str, Any]:
+    """
+    Incrementally amend an existing CapCut draft:
+    - Back up existing draft folder with timestamp
+    - Append new video material and rough-cut clips onto Master Timeline (Track 0)
+    - Enforce strict continuity: clip[k].target_start = clip[k-1].target_start + clip[k-1].target_duration
+    - Append raw take to Raw Footage Timeline (Tab 2)
+    - Update Timelines/project.json, timeline_layout.json, draft_meta_info.json
+    - Safely promote draft to Index 0 in root_meta_info.json
+    - Clean .locked file
+    """
+    draft_root = get_capcut_draft_root()
+    target_dir = os.path.join(draft_root, project_name)
+
+    if not os.path.exists(target_dir):
+        raise FileNotFoundError(f"Cannot amend non-existent CapCut project: {target_dir}")
+
+    # Timestamped backup of existing project
+    backup_dir = os.path.join(draft_root, f"{project_name}_backup_{int(time.time())}")
+    shutil.copytree(target_dir, backup_dir)
+
+    timelines_dir = os.path.join(target_dir, "Timelines")
+    pj_file = os.path.join(timelines_dir, "project.json")
+    with open(pj_file, "r", encoding="utf-8") as f:
+        pj_data = json.load(f)
+
+    project_id = pj_data["id"]
+    timeline_edit_id = pj_data["timelines"][0]["id"]
+    timeline_raw_id = pj_data["timelines"][1]["id"] if len(pj_data["timelines"]) > 1 else None
+
+    # Load master edit timeline
+    edit_dc_file = os.path.join(target_dir, "draft_content.json")
+    with open(edit_dc_file, "r", encoding="utf-8") as f:
+        edit_dc = json.load(f)
+
+    # Prototypes
+    proto_vid = edit_dc["materials"]["videos"][-1].copy() if edit_dc["materials"].get("videos") else {}
+    proto_spd = edit_dc["materials"]["speeds"][-1].copy() if edit_dc["materials"].get("speeds") else {}
+    proto_can = edit_dc["materials"]["canvases"][-1].copy() if edit_dc["materials"].get("canvases") else {}
+    proto_plc = edit_dc["materials"]["placeholder_infos"][-1].copy() if edit_dc["materials"].get("placeholder_infos") else {}
+    proto_snd = edit_dc["materials"]["sound_channel_mappings"][-1].copy() if edit_dc["materials"].get("sound_channel_mappings") else {}
+    proto_col = edit_dc["materials"]["material_colors"][-1].copy() if edit_dc["materials"].get("material_colors") else {}
+    proto_voc = edit_dc["materials"]["vocal_separations"][-1].copy() if edit_dc["materials"].get("vocal_separations") else {}
+    proto_seg = edit_dc["tracks"][0]["segments"][-1].copy() if edit_dc.get("tracks") and edit_dc["tracks"][0].get("segments") else {}
+
+    existing_segments = edit_dc["tracks"][0].get("segments", [])
+    if existing_segments:
+        last_seg = existing_segments[-1]
+        current_target_us = last_seg["target_timerange"]["start"] + last_seg["target_timerange"]["duration"]
+    else:
+        current_target_us = 0
+
+    norm_video_path = os.path.abspath(video_path).replace("\\", "/")
+    raw_duration_us = int(round(raw_duration_s * 1000000))
+    start_clip_idx = len(existing_segments)
+
+    width = proto_vid.get("width", 1920)
+    height = proto_vid.get("height", 1080)
+
+    for idx, s in enumerate(new_kept_segments):
+        clip_global_idx = start_clip_idx + idx
+        src_start_us = s.get("source_start_us", int(round(s["source_start"] * 1000000)))
+        src_dur_us = s.get("duration_us", int(round(s["duration"] * 1000000)))
+        tgt_start_us = current_target_us
+        current_target_us += src_dur_us
+
+        seg_seed = f"{timeline_edit_id}.seg.{clip_global_idx}"
+        seg_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, seg_seed)).upper()
+        vid_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.vid")).upper()
+        spd_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.spd")).upper()
+        can_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.can")).upper()
+        plc_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.plc")).upper()
+        snd_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.snd")).upper()
+        col_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.col")).upper()
+        voc_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{seg_seed}.voc")).upper()
+
+        v_mat = proto_vid.copy()
+        v_mat["id"] = vid_id
+        v_mat["path"] = norm_video_path
+        v_mat["material_name"] = os.path.basename(video_path)
+        v_mat["width"] = width
+        v_mat["height"] = height
+        v_mat["duration"] = raw_duration_us
+        edit_dc["materials"]["videos"].append(v_mat)
+
+        s_mat = proto_spd.copy()
+        s_mat["id"] = spd_id
+        s_mat["speed"] = 1.0
+        edit_dc["materials"]["speeds"].append(s_mat)
+
+        c_mat = proto_can.copy()
+        c_mat["id"] = can_id
+        edit_dc["materials"]["canvases"].append(c_mat)
+
+        p_mat = proto_plc.copy()
+        p_mat["id"] = plc_id
+        edit_dc["materials"]["placeholder_infos"].append(p_mat)
+
+        snd_mat = proto_snd.copy()
+        snd_mat["id"] = snd_id
+        edit_dc["materials"]["sound_channel_mappings"].append(snd_mat)
+
+        col_mat = proto_col.copy()
+        col_mat["id"] = col_id
+        edit_dc["materials"]["material_colors"].append(col_mat)
+
+        voc_mat = proto_voc.copy()
+        voc_mat["id"] = voc_id
+        edit_dc["materials"]["vocal_separations"].append(voc_mat)
+
+        new_seg = proto_seg.copy()
+        new_seg["id"] = seg_id
+        new_seg["material_id"] = vid_id
+        new_seg["source_timerange"] = {"start": src_start_us, "duration": src_dur_us}
+        new_seg["target_timerange"] = {"start": tgt_start_us, "duration": src_dur_us}
+        new_seg["render_timerange"] = {"start": 0, "duration": 0}
+        new_seg["desc"] = f"Clip #{clip_global_idx+1}: {s.get('text_summary', '')[:30]}"
+        new_seg["clip"] = {"scale": {"x": 1.0, "y": 1.0}, "rotation": 0.0, "transform": {"x": 0.0, "y": 0.0}, "flip": {"vertical": False, "horizontal": False}, "alpha": 1.0}
+        new_seg["uniform_scale"] = {"on": True, "value": 1.0}
+        new_seg["extra_material_refs"] = [spd_id, plc_id, can_id, snd_id, col_id, voc_id]
+        new_seg["speed"] = 1.0
+        new_seg["volume"] = 1.0
+        existing_segments.append(new_seg)
+
+    total_edited_s = current_target_us / 1000000.0
+    edit_min = int(total_edited_s // 60)
+    edit_sec = int(total_edited_s % 60)
+    tab1_name = f"V3 Master Edit ({edit_min}m {edit_sec:02d}s)"
+
+    edit_dc["name"] = tab1_name
+    edit_dc["duration"] = current_target_us
+
+    # Update Tab 2 (Raw Footage) if present
+    tab2_name = "Raw Footage"
+    if timeline_raw_id:
+        raw_dc_file = os.path.join(timelines_dir, timeline_raw_id, "draft_content.json")
+        if os.path.exists(raw_dc_file):
+            with open(raw_dc_file, "r", encoding="utf-8") as f:
+                raw_dc = json.load(f)
+
+            raw_seg_count = len(raw_dc["tracks"][0].get("segments", []))
+            raw_target_us = sum(s["target_timerange"]["duration"] for s in raw_dc["tracks"][0].get("segments", []))
+
+            raw_seed = f"{timeline_raw_id}.seg.{raw_seg_count}"
+            r_seg_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, raw_seed)).upper()
+            r_vid_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.vid")).upper()
+            r_spd_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.spd")).upper()
+            r_can_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.can")).upper()
+            r_plc_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.plc")).upper()
+            r_snd_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.snd")).upper()
+            r_col_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.col")).upper()
+            r_voc_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, f"{raw_seed}.voc")).upper()
+
+            v_mat_raw = proto_vid.copy()
+            v_mat_raw["id"] = r_vid_id
+            v_mat_raw["path"] = norm_video_path
+            v_mat_raw["material_name"] = os.path.basename(video_path)
+            v_mat_raw["width"] = width
+            v_mat_raw["height"] = height
+            v_mat_raw["duration"] = raw_duration_us
+            raw_dc["materials"]["videos"].append(v_mat_raw)
+
+            s_mat_raw = proto_spd.copy()
+            s_mat_raw["id"] = r_spd_id
+            raw_dc["materials"]["speeds"].append(s_mat_raw)
+
+            c_mat_raw = proto_can.copy()
+            c_mat_raw["id"] = r_can_id
+            raw_dc["materials"]["canvases"].append(c_mat_raw)
+
+            p_mat_raw = proto_plc.copy()
+            p_mat_raw["id"] = r_plc_id
+            raw_dc["materials"]["placeholder_infos"].append(p_mat_raw)
+
+            snd_mat_raw = proto_snd.copy()
+            snd_mat_raw["id"] = r_snd_id
+            raw_dc["materials"]["sound_channel_mappings"].append(snd_mat_raw)
+
+            col_mat_raw = proto_col.copy()
+            col_mat_raw["id"] = r_col_id
+            raw_dc["materials"]["material_colors"].append(col_mat_raw)
+
+            voc_mat_raw = proto_voc.copy()
+            voc_mat_raw["id"] = r_voc_id
+            raw_dc["materials"]["vocal_separations"].append(voc_mat_raw)
+
+            new_raw_seg = proto_seg.copy()
+            new_raw_seg["id"] = r_seg_id
+            new_raw_seg["material_id"] = r_vid_id
+            new_raw_seg["source_timerange"] = {"start": 0, "duration": raw_duration_us}
+            new_raw_seg["target_timerange"] = {"start": raw_target_us, "duration": raw_duration_us}
+            new_raw_seg["render_timerange"] = {"start": 0, "duration": 0}
+            new_raw_seg["desc"] = f"Raw Footage #{raw_seg_count+1} ({os.path.basename(video_path)})"
+            new_raw_seg["clip"] = {"scale": {"x": 1.0, "y": 1.0}, "rotation": 0.0, "transform": {"x": 0.0, "y": 0.0}, "flip": {"vertical": False, "horizontal": False}, "alpha": 1.0}
+            new_raw_seg["uniform_scale"] = {"on": True, "value": 1.0}
+            new_raw_seg["extra_material_refs"] = [r_spd_id, r_plc_id, r_can_id, r_snd_id, r_col_id, r_voc_id]
+            new_raw_seg["speed"] = 1.0
+            new_raw_seg["volume"] = 1.0
+            raw_dc["tracks"][0]["segments"].append(new_raw_seg)
+
+            total_raw_us = raw_target_us + raw_duration_us
+            raw_dc["duration"] = total_raw_us
+            raw_min = int((total_raw_us / 1000000.0) // 60)
+            raw_sec = int((total_raw_us / 1000000.0) % 60)
+            tab2_name = f"Raw Footage ({raw_min}m {raw_sec:02d}s)"
+            raw_dc["name"] = tab2_name
+
+            with open(raw_dc_file, "w", encoding="utf-8") as f:
+                json.dump(raw_dc, f, indent=2, ensure_ascii=False)
+            with open(os.path.join(timelines_dir, timeline_raw_id, "template-2.tmp"), "w", encoding="utf-8") as f:
+                json.dump(raw_dc, f, indent=2, ensure_ascii=False)
+
+    # Write edit timeline files
+    with open(edit_dc_file, "w", encoding="utf-8") as f:
+        json.dump(edit_dc, f, indent=2, ensure_ascii=False)
+    with open(os.path.join(target_dir, "template-2.tmp"), "w", encoding="utf-8") as f:
+        json.dump(edit_dc, f, indent=2, ensure_ascii=False)
+
+    edit_tl_dir = os.path.join(timelines_dir, timeline_edit_id)
+    with open(os.path.join(edit_tl_dir, "draft_content.json"), "w", encoding="utf-8") as f:
+        json.dump(edit_dc, f, indent=2, ensure_ascii=False)
+    with open(os.path.join(edit_tl_dir, "template-2.tmp"), "w", encoding="utf-8") as f:
+        json.dump(edit_dc, f, indent=2, ensure_ascii=False)
+
+    now_us = int(time.time() * 1000000)
+    pj_data["update_time"] = now_us
+    pj_data["timelines"][0]["name"] = tab1_name
+    pj_data["timelines"][0]["update_time"] = now_us
+    if len(pj_data["timelines"]) > 1 and timeline_raw_id:
+        pj_data["timelines"][1]["name"] = tab2_name
+        pj_data["timelines"][1]["update_time"] = now_us
+
+    with open(pj_file, "w", encoding="utf-8") as f:
+        json.dump(pj_data, f, indent=2, ensure_ascii=False)
+
+    layout_file = os.path.join(target_dir, "timeline_layout.json")
+    if os.path.exists(layout_file):
+        with open(layout_file, "r", encoding="utf-8") as f:
+            layout = json.load(f)
+        if "dockItems" in layout and len(layout["dockItems"]) > 0:
+            layout["dockItems"][0]["timelineNames"] = [tab1_name, tab2_name]
+        with open(layout_file, "w", encoding="utf-8") as f:
+            json.dump(layout, f, indent=2, ensure_ascii=False)
+
+    meta_file = os.path.join(target_dir, "draft_meta_info.json")
+    if os.path.exists(meta_file):
+        with open(meta_file, "r", encoding="utf-8") as f:
+            meta = json.load(f)
+        meta["tm_duration"] = current_target_us
+        meta["tm_draft_modified"] = now_us
+        with open(meta_file, "w", encoding="utf-8") as f:
+            json.dump(meta, f, indent=2, ensure_ascii=False)
+
+    # Promote in root_meta_info.json
+    root_meta_path = os.path.join(draft_root, "root_meta_info.json")
+    if os.path.exists(root_meta_path):
+        shutil.copy2(root_meta_path, root_meta_path + ".bak")
+        with open(root_meta_path, "r", encoding="utf-8") as f:
+            root_meta = json.load(f)
+
+        existing_idx = None
+        for i, item in enumerate(root_meta.get("all_draft_store", [])):
+            if item.get("draft_name") == project_name or item.get("draft_id") == project_id:
+                existing_idx = i
+                break
+
+        if existing_idx is not None:
+            entry = root_meta["all_draft_store"].pop(existing_idx)
+            entry["tm_duration"] = current_target_us
+            entry["tm_draft_modified"] = now_us
+            root_meta["all_draft_store"].insert(0, entry)
+
+        with open(root_meta_path, "w", encoding="utf-8") as f:
+            json.dump(root_meta, f, ensure_ascii=False, indent=2)
+
+    # Remove .locked file if exists
+    locked_file = os.path.join(target_dir, ".locked")
+    if os.path.exists(locked_file):
+        try:
+            os.remove(locked_file)
+        except Exception:
+            pass
+
+    return {
+        "project_name": project_name,
+        "project_id": project_id,
+        "target_dir": target_dir,
+        "cumulative_duration_s": total_edited_s,
+        "clip_count": len(existing_segments),
+        "tab1_name": tab1_name,
+        "tab2_name": tab2_name
+    }
+

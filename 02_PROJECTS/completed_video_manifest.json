@@ -1,0 +1,111 @@
+{
+  "version": "1.0.0",
+  "studio": "Editor of SaN",
+  "lastUpdated": "2026-11-07",
+  "description": "Master register of completed video productions, local file paths, and key lessons learned.",
+  "projects": [
+    {
+      "id": "equitas_microfinance_crisis",
+      "title": "Equitas SFB Microfinance Crisis (Chapter 1)",
+      "format": "16:9 Long-Form Masterclass",
+      "aspectRatio": "1920x1080",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_microfinance_crisis\\FINAL_EQUITAS_MICROFINANCE.mp4",
+        "storyboard": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_microfinance_crisis\\storyboard.md",
+        "qaReport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_microfinance_crisis\\FINAL_QA_REPORT.md",
+        "edl": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_microfinance_crisis\\edit_decision_list.json"
+      },
+      "keyLessons": [
+        "Macro Thought Block Invariant: Do not slice audio across Whisper comma boundaries; preserve natural 0.4s-1.0s breath pauses.",
+        "Acoustic snapping to true vocal resonant envelope (RMS >= 2500) eliminates pre-speech mouth clicks.",
+        "Facecam requires 30-32% screen real estate (580px x 980px) with subtle gold bezel."
+      ]
+    },
+    {
+      "id": "equitas_personal_investment_thesis",
+      "title": "Equitas SFB Personal Investment Thesis",
+      "format": "16:9 Long-Form Masterclass",
+      "aspectRatio": "1920x1080",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_personal_investment_thesis\\FINAL_EQUITAS_PERSONAL_THESIS.mp4",
+        "storyboard": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_personal_investment_thesis\\storyboard.md",
+        "qaReport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_personal_investment_thesis\\FINAL_QA_REPORT.md",
+        "edl": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\equitas_personal_investment_thesis\\edit_decision_list.json"
+      },
+      "keyLessons": [
+        "Happy Investing core ethos: 'No 200 DMA chart = No entry. Okay to miss an opportunity, refuse to be greedy.'",
+        "Dual-timeline CapCut structure: Tab 1 = Master Edit, Tab 2 = Raw Footage for quick reference."
+      ]
+    },
+    {
+      "id": "equitas_sfb_short_30pct_crash",
+      "title": "Equitas SFB Short: 30% Crash Reality & ROA Breakdown",
+      "format": "9:16 Vertical Short",
+      "aspectRatio": "1080x1920",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\exports\\Equitas_SFB_Short_30pct_Crash_Reality_Master.mp4"
+      },
+      "keyLessons": [
+        "9:16 layout seam locked at Y=718px with translateY(-600px) for proper facecam headroom.",
+        "Two-word kinetic subtitles positioned directly below the chin seam bridge (top: 660px)."
+      ]
+    },
+    {
+      "id": "reliance_phase1",
+      "title": "Reliance Industries Masterclass - Phase 1 Intro & Catalyst",
+      "format": "16:9 Long-Form Masterclass",
+      "aspectRatio": "1920x1080",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_phase1\\FINAL_RELIANCE_PHASE1_MASTER.mp4",
+        "storyboard": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_phase1\\storyboard.md",
+        "qaReport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_phase1\\FINAL_QA_REPORT.md",
+        "edl": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_phase1\\edit_decision_list.json"
+      },
+      "keyLessons": [
+        "Single persistent <Video> architecture across the timeline prevents black flashes and decoder thrashing.",
+        "Pre-flight All-Intra proxy generation with +faststart guarantees 0ms DOM seek lag."
+      ]
+    },
+    {
+      "id": "reliance_chapters_2_3",
+      "title": "Reliance Masterclass Chapters 2 & 3 (Overlay Master)",
+      "format": "16:9 Long-Form Overlay",
+      "aspectRatio": "1920x1080",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_chapters_2_3\\FINAL_RELIANCE_CH2_3_OVERLAY_TRANSPARENT.mov",
+        "storyboard": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_chapters_2_3\\storyboard.md",
+        "qaReport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\reliance_chapters_2_3\\FINAL_QA_REPORT.md"
+      },
+      "keyLessons": [
+        "ProRes 4444 lossless transparent overlay workflow allows modular overlay dropping onto CapCut timeline.",
+        "Zero premature docking: presenter stays full screen until the exact frame the visual card reveals."
+      ]
+    },
+    {
+      "id": "happy_investing_reel_1106",
+      "title": "Happy Investing Diwali Market Rally Reel",
+      "format": "9:16 Vertical Reel",
+      "aspectRatio": "1080x1920",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\exports\\Happy_Investing_Diwali_Market_Rally_Master.mp4",
+        "projectFolder": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\happy_investing_reel_1106"
+      },
+      "keyLessons": [
+        "Contrarian Hook velocity: retail panic vs institutional accumulation in the first 2.5 seconds.",
+        "Zero fear, zero greed, grounded in audited financial balance sheets."
+      ]
+    },
+    {
+      "id": "pathfinder_oct22",
+      "title": "Pathfinder Oct 22 Outro & Valuation Deep Dive",
+      "format": "16:9 Long-Form Masterclass",
+      "aspectRatio": "1920x1080",
+      "paths": {
+        "masterExport": "D:\\AI Projects\\Editor_of_SaN\\02_PROJECTS\\_completed\\pathfinder-oct22-engine\\out\\Pathfinder_Oct22_Outro_Master.mp4"
+      },
+      "keyLessons": [
+        "Acoustic alignment of TradingView chart zoom to exact word trigger of price target."
+      ]
+    }
+  ]
+}

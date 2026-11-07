@@ -1,0 +1,61 @@
+{
+  "rss_feeds": [
+    {
+      "name": "Livemint Markets",
+      "url": "https://www.livemint.com/rss/markets",
+      "category": "Markets & Stocks"
+    },
+    {
+      "name": "Livemint Companies",
+      "url": "https://www.livemint.com/rss/companies",
+      "category": "Corporate & Earnings"
+    },
+    {
+      "name": "Economic Times Markets",
+      "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+      "category": "Markets & Trading"
+    },
+    {
+      "name": "Economic Times Stocks",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms",
+      "category": "Company Actions & Stocks"
+    },
+    {
+      "name": "Economic Times Top Stories",
+      "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+      "category": "Macro & Breaking News"
+    },
+    {
+      "name": "Moneycontrol Latest News",
+      "url": "https://www.moneycontrol.com/rss/latestnews.xml",
+      "category": "Breaking News"
+    },
+    {
+      "name": "Moneycontrol Business",
+      "url": "https://www.moneycontrol.com/rss/business.xml",
+      "category": "Corporate & Financial"
+    },
+    {
+      "name": "Moneycontrol Market Reports",
+      "url": "https://www.moneycontrol.com/rss/marketreports.xml",
+      "category": "Brokerage Reports & Targets"
+    },
+    {
+      "name": "Google News Business India",
+      "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Macro & Top Business"
+    }
+  ],
+  "sebi_sources": [
+    {
+      "name": "SEBI Official Circulars",
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&smid=0&ssid=7",
+      "type": "table_scrape"
+    },
+    {
+      "name": "SEBI Press Releases",
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=6&smid=0&ssid=23",
+      "type": "table_scrape"
+    }
+  ]
+}

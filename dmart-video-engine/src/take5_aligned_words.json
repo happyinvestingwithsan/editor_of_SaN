@@ -1,0 +1,1748 @@
+[
+  {
+    "word": " this",
+    "rel_start": 0.13,
+    "f_start": 4,
+    "f_end": 12
+  },
+  {
+    "word": " point",
+    "rel_start": 0.39,
+    "f_start": 12,
+    "f_end": 20
+  },
+  {
+    "word": " of",
+    "rel_start": 0.67,
+    "f_start": 20,
+    "f_end": 25
+  },
+  {
+    "word": " video,",
+    "rel_start": 0.83,
+    "f_start": 25,
+    "f_end": 35
+  },
+  {
+    "word": " most",
+    "rel_start": 1.47,
+    "f_start": 44,
+    "f_end": 51
+  },
+  {
+    "word": " of",
+    "rel_start": 1.69,
+    "f_start": 51,
+    "f_end": 60
+  },
+  {
+    "word": " us",
+    "rel_start": 1.99,
+    "f_start": 60,
+    "f_end": 67
+  },
+  {
+    "word": " will",
+    "rel_start": 2.23,
+    "f_start": 67,
+    "f_end": 77
+  },
+  {
+    "word": " make",
+    "rel_start": 2.57,
+    "f_start": 77,
+    "f_end": 83
+  },
+  {
+    "word": " our",
+    "rel_start": 2.77,
+    "f_start": 83,
+    "f_end": 89
+  },
+  {
+    "word": " mind",
+    "rel_start": 2.95,
+    "f_start": 89,
+    "f_end": 99
+  },
+  {
+    "word": " that",
+    "rel_start": 3.29,
+    "f_start": 99,
+    "f_end": 106
+  },
+  {
+    "word": " 100",
+    "rel_start": 3.53,
+    "f_start": 106,
+    "f_end": 117
+  },
+  {
+    "word": "%",
+    "rel_start": 3.89,
+    "f_start": 117,
+    "f_end": 124
+  },
+  {
+    "word": " of",
+    "rel_start": 4.13,
+    "f_start": 124,
+    "f_end": 133
+  },
+  {
+    "word": " our",
+    "rel_start": 4.45,
+    "f_start": 134,
+    "f_end": 141
+  },
+  {
+    "word": " fairings",
+    "rel_start": 4.69,
+    "f_start": 141,
+    "f_end": 154
+  },
+  {
+    "word": " can",
+    "rel_start": 5.13,
+    "f_start": 154,
+    "f_end": 159
+  },
+  {
+    "word": " be",
+    "rel_start": 5.31,
+    "f_start": 159,
+    "f_end": 164
+  },
+  {
+    "word": " invested",
+    "rel_start": 5.47,
+    "f_start": 164,
+    "f_end": 177
+  },
+  {
+    "word": " or",
+    "rel_start": 5.91,
+    "f_start": 177,
+    "f_end": 194
+  },
+  {
+    "word": " locked",
+    "rel_start": 6.47,
+    "f_start": 194,
+    "f_end": 205
+  },
+  {
+    "word": " into",
+    "rel_start": 6.83,
+    "f_start": 205,
+    "f_end": 218
+  },
+  {
+    "word": " Geo's",
+    "rel_start": 7.25,
+    "f_start": 218,
+    "f_end": 232
+  },
+  {
+    "word": " IPO.",
+    "rel_start": 7.75,
+    "f_start": 232,
+    "f_end": 238
+  },
+  {
+    "word": " But",
+    "rel_start": 8.49,
+    "f_start": 255,
+    "f_end": 260
+  },
+  {
+    "word": " at",
+    "rel_start": 8.65,
+    "f_start": 260,
+    "f_end": 267
+  },
+  {
+    "word": " happy",
+    "rel_start": 8.89,
+    "f_start": 267,
+    "f_end": 274
+  },
+  {
+    "word": " investing,",
+    "rel_start": 9.13,
+    "f_start": 274,
+    "f_end": 283
+  },
+  {
+    "word": " let",
+    "rel_start": 9.95,
+    "f_start": 299,
+    "f_end": 300
+  },
+  {
+    "word": " me",
+    "rel_start": 10.01,
+    "f_start": 300,
+    "f_end": 303
+  },
+  {
+    "word": " be",
+    "rel_start": 10.11,
+    "f_start": 303,
+    "f_end": 308
+  },
+  {
+    "word": " very",
+    "rel_start": 10.25,
+    "f_start": 308,
+    "f_end": 312
+  },
+  {
+    "word": " honest,",
+    "rel_start": 10.39,
+    "f_start": 312,
+    "f_end": 323
+  },
+  {
+    "word": " what",
+    "rel_start": 11.27,
+    "f_start": 338,
+    "f_end": 345
+  },
+  {
+    "word": " are",
+    "rel_start": 11.51,
+    "f_start": 345,
+    "f_end": 356
+  },
+  {
+    "word": " the",
+    "rel_start": 11.87,
+    "f_start": 356,
+    "f_end": 359
+  },
+  {
+    "word": " risks",
+    "rel_start": 11.97,
+    "f_start": 359,
+    "f_end": 370
+  },
+  {
+    "word": " that",
+    "rel_start": 12.33,
+    "f_start": 370,
+    "f_end": 389
+  },
+  {
+    "word": " nobody",
+    "rel_start": 12.97,
+    "f_start": 389,
+    "f_end": 398
+  },
+  {
+    "word": " is",
+    "rel_start": 13.27,
+    "f_start": 398,
+    "f_end": 408
+  },
+  {
+    "word": " telling",
+    "rel_start": 13.59,
+    "f_start": 408,
+    "f_end": 414
+  },
+  {
+    "word": " you",
+    "rel_start": 13.79,
+    "f_start": 414,
+    "f_end": 422
+  },
+  {
+    "word": " is",
+    "rel_start": 14.07,
+    "f_start": 422,
+    "f_end": 429
+  },
+  {
+    "word": " what",
+    "rel_start": 14.29,
+    "f_start": 429,
+    "f_end": 434
+  },
+  {
+    "word": " we",
+    "rel_start": 14.45,
+    "f_start": 434,
+    "f_end": 437
+  },
+  {
+    "word": " are",
+    "rel_start": 14.57,
+    "f_start": 437,
+    "f_end": 440
+  },
+  {
+    "word": " going",
+    "rel_start": 14.65,
+    "f_start": 440,
+    "f_end": 444
+  },
+  {
+    "word": " to",
+    "rel_start": 14.79,
+    "f_start": 444,
+    "f_end": 447
+  },
+  {
+    "word": " cover",
+    "rel_start": 14.91,
+    "f_start": 447,
+    "f_end": 454
+  },
+  {
+    "word": " in",
+    "rel_start": 15.13,
+    "f_start": 454,
+    "f_end": 461
+  },
+  {
+    "word": " this",
+    "rel_start": 15.37,
+    "f_start": 461,
+    "f_end": 466
+  },
+  {
+    "word": " section.",
+    "rel_start": 15.53,
+    "f_start": 466,
+    "f_end": 476
+  },
+  {
+    "word": " First",
+    "rel_start": 16.27,
+    "f_start": 488,
+    "f_end": 497
+  },
+  {
+    "word": " is",
+    "rel_start": 16.57,
+    "f_start": 497,
+    "f_end": 512
+  },
+  {
+    "word": " the",
+    "rel_start": 17.05,
+    "f_start": 512,
+    "f_end": 515
+  },
+  {
+    "word": " law",
+    "rel_start": 17.17,
+    "f_start": 515,
+    "f_end": 522
+  },
+  {
+    "word": " of",
+    "rel_start": 17.41,
+    "f_start": 522,
+    "f_end": 532
+  },
+  {
+    "word": " large",
+    "rel_start": 17.75,
+    "f_start": 532,
+    "f_end": 549
+  },
+  {
+    "word": " numbers.",
+    "rel_start": 18.29,
+    "f_start": 549,
+    "f_end": 567
+  },
+  {
+    "word": " At",
+    "rel_start": 19.09,
+    "f_start": 573,
+    "f_end": 576
+  },
+  {
+    "word": " a",
+    "rel_start": 19.19,
+    "f_start": 576,
+    "f_end": 579
+  },
+  {
+    "word": " valuation",
+    "rel_start": 19.31,
+    "f_start": 579,
+    "f_end": 589
+  },
+  {
+    "word": " of",
+    "rel_start": 19.63,
+    "f_start": 589,
+    "f_end": 600
+  },
+  {
+    "word": " 10",
+    "rel_start": 20.01,
+    "f_start": 600,
+    "f_end": 609
+  },
+  {
+    "word": ".3",
+    "rel_start": 20.31,
+    "f_start": 609,
+    "f_end": 627
+  },
+  {
+    "word": " lakh",
+    "rel_start": 20.91,
+    "f_start": 627,
+    "f_end": 636
+  },
+  {
+    "word": " crore,",
+    "rel_start": 21.19,
+    "f_start": 636,
+    "f_end": 655
+  },
+  {
+    "word": " Geo",
+    "rel_start": 22.01,
+    "f_start": 660,
+    "f_end": 671
+  },
+  {
+    "word": " platform",
+    "rel_start": 22.37,
+    "f_start": 671,
+    "f_end": 682
+  },
+  {
+    "word": " will",
+    "rel_start": 22.75,
+    "f_start": 682,
+    "f_end": 698
+  },
+  {
+    "word": " instantly",
+    "rel_start": 23.27,
+    "f_start": 698,
+    "f_end": 715
+  },
+  {
+    "word": " list",
+    "rel_start": 23.83,
+    "f_start": 715,
+    "f_end": 728
+  },
+  {
+    "word": " as",
+    "rel_start": 24.27,
+    "f_start": 728,
+    "f_end": 734
+  },
+  {
+    "word": " the",
+    "rel_start": 24.45,
+    "f_start": 734,
+    "f_end": 737
+  },
+  {
+    "word": " fourth",
+    "rel_start": 24.57,
+    "f_start": 737,
+    "f_end": 747
+  },
+  {
+    "word": " largest",
+    "rel_start": 24.91,
+    "f_start": 747,
+    "f_end": 762
+  },
+  {
+    "word": " company",
+    "rel_start": 25.39,
+    "f_start": 762,
+    "f_end": 777
+  },
+  {
+    "word": " in",
+    "rel_start": 25.89,
+    "f_start": 777,
+    "f_end": 783
+  },
+  {
+    "word": " entire",
+    "rel_start": 26.09,
+    "f_start": 783,
+    "f_end": 797
+  },
+  {
+    "word": " Indian",
+    "rel_start": 26.55,
+    "f_start": 797,
+    "f_end": 804
+  },
+  {
+    "word": " stock",
+    "rel_start": 26.79,
+    "f_start": 804,
+    "f_end": 812
+  },
+  {
+    "word": " market,",
+    "rel_start": 27.07,
+    "f_start": 812,
+    "f_end": 826
+  },
+  {
+    "word": " right",
+    "rel_start": 27.81,
+    "f_start": 834,
+    "f_end": 843
+  },
+  {
+    "word": " behind",
+    "rel_start": 28.09,
+    "f_start": 843,
+    "f_end": 854
+  },
+  {
+    "word": " Reliance,",
+    "rel_start": 28.45,
+    "f_start": 854,
+    "f_end": 878
+  },
+  {
+    "word": " TCS",
+    "rel_start": 29.71,
+    "f_start": 891,
+    "f_end": 904
+  },
+  {
+    "word": " and",
+    "rel_start": 30.13,
+    "f_start": 904,
+    "f_end": 924
+  },
+  {
+    "word": " HDFC",
+    "rel_start": 30.79,
+    "f_start": 924,
+    "f_end": 940
+  },
+  {
+    "word": " Bank.",
+    "rel_start": 31.33,
+    "f_start": 940,
+    "f_end": 950
+  },
+  {
+    "word": " A",
+    "rel_start": 31.87,
+    "f_start": 956,
+    "f_end": 959
+  },
+  {
+    "word": " 500",
+    "rel_start": 31.97,
+    "f_start": 959,
+    "f_end": 969
+  },
+  {
+    "word": " crore",
+    "rel_start": 32.29,
+    "f_start": 969,
+    "f_end": 977
+  },
+  {
+    "word": " small",
+    "rel_start": 32.57,
+    "f_start": 977,
+    "f_end": 984
+  },
+  {
+    "word": " cap",
+    "rel_start": 32.81,
+    "f_start": 984,
+    "f_end": 992
+  },
+  {
+    "word": " company",
+    "rel_start": 33.07,
+    "f_start": 992,
+    "f_end": 1004
+  },
+  {
+    "word": " can",
+    "rel_start": 33.47,
+    "f_start": 1004,
+    "f_end": 1008
+  },
+  {
+    "word": " easily",
+    "rel_start": 33.61,
+    "f_start": 1008,
+    "f_end": 1023
+  },
+  {
+    "word": " double",
+    "rel_start": 34.11,
+    "f_start": 1023,
+    "f_end": 1035
+  },
+  {
+    "word": " or",
+    "rel_start": 34.49,
+    "f_start": 1035,
+    "f_end": 1042
+  },
+  {
+    "word": " triple",
+    "rel_start": 34.73,
+    "f_start": 1042,
+    "f_end": 1052
+  },
+  {
+    "word": " on",
+    "rel_start": 35.05,
+    "f_start": 1052,
+    "f_end": 1063
+  },
+  {
+    "word": " the",
+    "rel_start": 35.43,
+    "f_start": 1063,
+    "f_end": 1065
+  },
+  {
+    "word": " listing",
+    "rel_start": 35.51,
+    "f_start": 1065,
+    "f_end": 1072
+  },
+  {
+    "word": " day,",
+    "rel_start": 35.73,
+    "f_start": 1072,
+    "f_end": 1080
+  },
+  {
+    "word": " maybe",
+    "rel_start": 36.13,
+    "f_start": 1084,
+    "f_end": 1088
+  },
+  {
+    "word": " 30",
+    "rel_start": 36.25,
+    "f_start": 1088,
+    "f_end": 1097
+  },
+  {
+    "word": "-40",
+    "rel_start": 36.55,
+    "f_start": 1097,
+    "f_end": 1104
+  },
+  {
+    "word": "-60",
+    "rel_start": 36.79,
+    "f_start": 1104,
+    "f_end": 1112
+  },
+  {
+    "word": " percentage",
+    "rel_start": 37.05,
+    "f_start": 1112,
+    "f_end": 1126
+  },
+  {
+    "word": " also",
+    "rel_start": 37.53,
+    "f_start": 1126,
+    "f_end": 1132
+  },
+  {
+    "word": " gain",
+    "rel_start": 37.75,
+    "f_start": 1132,
+    "f_end": 1141
+  },
+  {
+    "word": " can",
+    "rel_start": 38.03,
+    "f_start": 1141,
+    "f_end": 1146
+  },
+  {
+    "word": " come.",
+    "rel_start": 38.21,
+    "f_start": 1146,
+    "f_end": 1154
+  },
+  {
+    "word": " Because",
+    "rel_start": 38.61,
+    "f_start": 1158,
+    "f_end": 1165
+  },
+  {
+    "word": " moving",
+    "rel_start": 38.83,
+    "f_start": 1165,
+    "f_end": 1179
+  },
+  {
+    "word": " a",
+    "rel_start": 39.31,
+    "f_start": 1179,
+    "f_end": 1185
+  },
+  {
+    "word": " small",
+    "rel_start": 39.51,
+    "f_start": 1185,
+    "f_end": 1196
+  },
+  {
+    "word": " market",
+    "rel_start": 39.85,
+    "f_start": 1196,
+    "f_end": 1210
+  },
+  {
+    "word": " cap",
+    "rel_start": 40.33,
+    "f_start": 1210,
+    "f_end": 1216
+  },
+  {
+    "word": " company",
+    "rel_start": 40.53,
+    "f_start": 1216,
+    "f_end": 1233
+  },
+  {
+    "word": " requires",
+    "rel_start": 41.11,
+    "f_start": 1233,
+    "f_end": 1248
+  },
+  {
+    "word": " very",
+    "rel_start": 41.59,
+    "f_start": 1248,
+    "f_end": 1263
+  },
+  {
+    "word": " little",
+    "rel_start": 42.09,
+    "f_start": 1263,
+    "f_end": 1272
+  },
+  {
+    "word": " liquidity.",
+    "rel_start": 42.41,
+    "f_start": 1272,
+    "f_end": 1286
+  },
+  {
+    "word": " But",
+    "rel_start": 43.45,
+    "f_start": 1304,
+    "f_end": 1311
+  },
+  {
+    "word": " to",
+    "rel_start": 43.69,
+    "f_start": 1311,
+    "f_end": 1326
+  },
+  {
+    "word": " double",
+    "rel_start": 44.19,
+    "f_start": 1326,
+    "f_end": 1337
+  },
+  {
+    "word": " a",
+    "rel_start": 44.55,
+    "f_start": 1337,
+    "f_end": 1343
+  },
+  {
+    "word": " 10",
+    "rel_start": 44.77,
+    "f_start": 1343,
+    "f_end": 1349
+  },
+  {
+    "word": " lakh",
+    "rel_start": 44.97,
+    "f_start": 1349,
+    "f_end": 1355
+  },
+  {
+    "word": " crore",
+    "rel_start": 45.17,
+    "f_start": 1355,
+    "f_end": 1370
+  },
+  {
+    "word": " company,",
+    "rel_start": 45.65,
+    "f_start": 1370,
+    "f_end": 1382
+  },
+  {
+    "word": " you",
+    "rel_start": 46.51,
+    "f_start": 1395,
+    "f_end": 1399
+  },
+  {
+    "word": " need",
+    "rel_start": 46.63,
+    "f_start": 1399,
+    "f_end": 1406
+  },
+  {
+    "word": " another",
+    "rel_start": 46.85,
+    "f_start": 1406,
+    "f_end": 1418
+  },
+  {
+    "word": " 10",
+    "rel_start": 47.27,
+    "f_start": 1418,
+    "f_end": 1430
+  },
+  {
+    "word": " lakh",
+    "rel_start": 47.65,
+    "f_start": 1430,
+    "f_end": 1436
+  },
+  {
+    "word": " crore",
+    "rel_start": 47.85,
+    "f_start": 1436,
+    "f_end": 1454
+  },
+  {
+    "word": " of",
+    "rel_start": 48.45,
+    "f_start": 1454,
+    "f_end": 1458
+  },
+  {
+    "word": " a",
+    "rel_start": 48.61,
+    "f_start": 1458,
+    "f_end": 1463
+  },
+  {
+    "word": " fresh",
+    "rel_start": 48.77,
+    "f_start": 1463,
+    "f_end": 1469
+  },
+  {
+    "word": " institutional",
+    "rel_start": 48.95,
+    "f_start": 1469,
+    "f_end": 1488
+  },
+  {
+    "word": " capital",
+    "rel_start": 49.61,
+    "f_start": 1488,
+    "f_end": 1505
+  },
+  {
+    "word": " that",
+    "rel_start": 50.17,
+    "f_start": 1505,
+    "f_end": 1520
+  },
+  {
+    "word": " will",
+    "rel_start": 50.67,
+    "f_start": 1520,
+    "f_end": 1524
+  },
+  {
+    "word": " not",
+    "rel_start": 50.81,
+    "f_start": 1524,
+    "f_end": 1534
+  },
+  {
+    "word": " happen",
+    "rel_start": 51.15,
+    "f_start": 1535,
+    "f_end": 1552
+  },
+  {
+    "word": " on",
+    "rel_start": 51.73,
+    "f_start": 1552,
+    "f_end": 1562
+  },
+  {
+    "word": " the",
+    "rel_start": 52.07,
+    "f_start": 1562,
+    "f_end": 1565
+  },
+  {
+    "word": " listing",
+    "rel_start": 52.17,
+    "f_start": 1565,
+    "f_end": 1573
+  },
+  {
+    "word": " day.",
+    "rel_start": 52.43,
+    "f_start": 1573,
+    "f_end": 1581
+  },
+  {
+    "word": " Realistic",
+    "rel_start": 52.71,
+    "f_start": 1581,
+    "f_end": 1601
+  },
+  {
+    "word": " listing",
+    "rel_start": 53.37,
+    "f_start": 1601,
+    "f_end": 1612
+  },
+  {
+    "word": " gains",
+    "rel_start": 53.73,
+    "f_start": 1612,
+    "f_end": 1623
+  },
+  {
+    "word": " of",
+    "rel_start": 54.11,
+    "f_start": 1623,
+    "f_end": 1633
+  },
+  {
+    "word": " issue",
+    "rel_start": 54.43,
+    "f_start": 1633,
+    "f_end": 1648
+  },
+  {
+    "word": " of",
+    "rel_start": 54.95,
+    "f_start": 1649,
+    "f_end": 1656
+  },
+  {
+    "word": " this",
+    "rel_start": 55.19,
+    "f_start": 1656,
+    "f_end": 1665
+  },
+  {
+    "word": " size",
+    "rel_start": 55.51,
+    "f_start": 1665,
+    "f_end": 1677
+  },
+  {
+    "word": " are",
+    "rel_start": 55.89,
+    "f_start": 1677,
+    "f_end": 1691
+  },
+  {
+    "word": " historically",
+    "rel_start": 56.35,
+    "f_start": 1691,
+    "f_end": 1707
+  },
+  {
+    "word": " between",
+    "rel_start": 56.89,
+    "f_start": 1707,
+    "f_end": 1718
+  },
+  {
+    "word": " 5",
+    "rel_start": 57.25,
+    "f_start": 1718,
+    "f_end": 1729
+  },
+  {
+    "word": "-15",
+    "rel_start": 57.63,
+    "f_start": 1729,
+    "f_end": 1746
+  },
+  {
+    "word": "%",
+    "rel_start": 58.19,
+    "f_start": 1746,
+    "f_end": 1754
+  },
+  {
+    "word": " at",
+    "rel_start": 58.47,
+    "f_start": 1754,
+    "f_end": 1766
+  },
+  {
+    "word": " best.",
+    "rel_start": 58.85,
+    "f_start": 1766,
+    "f_end": 1776
+  },
+  {
+    "word": " Maybe",
+    "rel_start": 59.55,
+    "f_start": 1787,
+    "f_end": 1791
+  },
+  {
+    "word": " it",
+    "rel_start": 59.69,
+    "f_start": 1791,
+    "f_end": 1796
+  },
+  {
+    "word": " can",
+    "rel_start": 59.87,
+    "f_start": 1796,
+    "f_end": 1800
+  },
+  {
+    "word": " go",
+    "rel_start": 60.01,
+    "f_start": 1800,
+    "f_end": 1805
+  },
+  {
+    "word": " to",
+    "rel_start": 60.17,
+    "f_start": 1805,
+    "f_end": 1808
+  },
+  {
+    "word": " 20",
+    "rel_start": 60.25,
+    "f_start": 1808,
+    "f_end": 1813
+  },
+  {
+    "word": "-25",
+    "rel_start": 60.43,
+    "f_start": 1813,
+    "f_end": 1823
+  },
+  {
+    "word": "%",
+    "rel_start": 60.77,
+    "f_start": 1823,
+    "f_end": 1832
+  },
+  {
+    "word": " also.",
+    "rel_start": 61.07,
+    "f_start": 1832,
+    "f_end": 1851
+  },
+  {
+    "word": " Second",
+    "rel_start": 62.03,
+    "f_start": 1861,
+    "f_end": 1870
+  },
+  {
+    "word": " is",
+    "rel_start": 62.33,
+    "f_start": 1870,
+    "f_end": 1880
+  },
+  {
+    "word": " the",
+    "rel_start": 62.67,
+    "f_start": 1880,
+    "f_end": 1883
+  },
+  {
+    "word": " structural",
+    "rel_start": 62.77,
+    "f_start": 1883,
+    "f_end": 1892
+  },
+  {
+    "word": " risk",
+    "rel_start": 63.05,
+    "f_start": 1892,
+    "f_end": 1907
+  },
+  {
+    "word": " outlined",
+    "rel_start": 63.57,
+    "f_start": 1907,
+    "f_end": 1923
+  },
+  {
+    "word": " in",
+    "rel_start": 64.11,
+    "f_start": 1923,
+    "f_end": 1932
+  },
+  {
+    "word": " the",
+    "rel_start": 64.41,
+    "f_start": 1932,
+    "f_end": 1935
+  },
+  {
+    "word": " DRHP.",
+    "rel_start": 64.49,
+    "f_start": 1935,
+    "f_end": 1950
+  },
+  {
+    "word": " While",
+    "rel_start": 65.31,
+    "f_start": 1959,
+    "f_end": 1964
+  },
+  {
+    "word": " bank",
+    "rel_start": 65.47,
+    "f_start": 1964,
+    "f_end": 1977
+  },
+  {
+    "word": " borrowings",
+    "rel_start": 65.91,
+    "f_start": 1977,
+    "f_end": 1997
+  },
+  {
+    "word": " are",
+    "rel_start": 66.57,
+    "f_start": 1997,
+    "f_end": 2001
+  },
+  {
+    "word": " being",
+    "rel_start": 66.71,
+    "f_start": 2001,
+    "f_end": 2008
+  },
+  {
+    "word": " cleared,",
+    "rel_start": 66.93,
+    "f_start": 2008,
+    "f_end": 2021
+  },
+  {
+    "word": " Geo",
+    "rel_start": 67.81,
+    "f_start": 2034,
+    "f_end": 2041
+  },
+  {
+    "word": " still",
+    "rel_start": 68.03,
+    "f_start": 2041,
+    "f_end": 2049
+  },
+  {
+    "word": " carries",
+    "rel_start": 68.29,
+    "f_start": 2049,
+    "f_end": 2062
+  },
+  {
+    "word": " a",
+    "rel_start": 68.75,
+    "f_start": 2062,
+    "f_end": 2068
+  },
+  {
+    "word": " long",
+    "rel_start": 68.93,
+    "f_start": 2068,
+    "f_end": 2079
+  },
+  {
+    "word": " term",
+    "rel_start": 69.29,
+    "f_start": 2079,
+    "f_end": 2086
+  },
+  {
+    "word": " deferred",
+    "rel_start": 69.53,
+    "f_start": 2086,
+    "f_end": 2103
+  },
+  {
+    "word": " spectrum",
+    "rel_start": 70.11,
+    "f_start": 2103,
+    "f_end": 2113
+  },
+  {
+    "word": " reliability",
+    "rel_start": 70.45,
+    "f_start": 2114,
+    "f_end": 2130
+  },
+  {
+    "word": " payable",
+    "rel_start": 71.01,
+    "f_start": 2130,
+    "f_end": 2148
+  },
+  {
+    "word": " to",
+    "rel_start": 71.59,
+    "f_start": 2148,
+    "f_end": 2152
+  },
+  {
+    "word": " the",
+    "rel_start": 71.73,
+    "f_start": 2152,
+    "f_end": 2154
+  },
+  {
+    "word": " Department",
+    "rel_start": 71.81,
+    "f_start": 2154,
+    "f_end": 2166
+  },
+  {
+    "word": " of",
+    "rel_start": 72.19,
+    "f_start": 2166,
+    "f_end": 2174
+  },
+  {
+    "word": " Telecommunication.",
+    "rel_start": 72.47,
+    "f_start": 2174,
+    "f_end": 2196
+  },
+  {
+    "word": " Third",
+    "rel_start": 73.39,
+    "f_start": 2202,
+    "f_end": 2210
+  },
+  {
+    "word": " is",
+    "rel_start": 73.65,
+    "f_start": 2210,
+    "f_end": 2218
+  },
+  {
+    "word": " the",
+    "rel_start": 73.93,
+    "f_start": 2218,
+    "f_end": 2221
+  },
+  {
+    "word": " future",
+    "rel_start": 74.03,
+    "f_start": 2221,
+    "f_end": 2228
+  },
+  {
+    "word": " competition.",
+    "rel_start": 74.27,
+    "f_start": 2228,
+    "f_end": 2249
+  },
+  {
+    "word": " With",
+    "rel_start": 75.33,
+    "f_start": 2260,
+    "f_end": 2262
+  },
+  {
+    "word": " Alan",
+    "rel_start": 75.39,
+    "f_start": 2262,
+    "f_end": 2268
+  },
+  {
+    "word": " McStarlink",
+    "rel_start": 75.61,
+    "f_start": 2268,
+    "f_end": 2294
+  },
+  {
+    "word": " and",
+    "rel_start": 76.47,
+    "f_start": 2294,
+    "f_end": 2302
+  },
+  {
+    "word": " Amazon's",
+    "rel_start": 76.73,
+    "f_start": 2302,
+    "f_end": 2320
+  },
+  {
+    "word": " project",
+    "rel_start": 77.33,
+    "f_start": 2320,
+    "f_end": 2330
+  },
+  {
+    "word": " called",
+    "rel_start": 77.67,
+    "f_start": 2330,
+    "f_end": 2337
+  },
+  {
+    "word": " the",
+    "rel_start": 77.89,
+    "f_start": 2337,
+    "f_end": 2344
+  },
+  {
+    "word": " Cuper,",
+    "rel_start": 78.13,
+    "f_start": 2344,
+    "f_end": 2353
+  },
+  {
+    "word": " actively",
+    "rel_start": 79.07,
+    "f_start": 2372,
+    "f_end": 2385
+  },
+  {
+    "word": " pushing",
+    "rel_start": 79.51,
+    "f_start": 2385,
+    "f_end": 2396
+  },
+  {
+    "word": " for",
+    "rel_start": 79.87,
+    "f_start": 2396,
+    "f_end": 2403
+  },
+  {
+    "word": " satellite",
+    "rel_start": 80.11,
+    "f_start": 2403,
+    "f_end": 2414
+  },
+  {
+    "word": " spectrum",
+    "rel_start": 80.47,
+    "f_start": 2414,
+    "f_end": 2426
+  },
+  {
+    "word": " in",
+    "rel_start": 80.85,
+    "f_start": 2426,
+    "f_end": 2432
+  },
+  {
+    "word": " India,",
+    "rel_start": 81.07,
+    "f_start": 2432,
+    "f_end": 2442
+  },
+  {
+    "word": " high",
+    "rel_start": 81.83,
+    "f_start": 2455,
+    "f_end": 2462
+  },
+  {
+    "word": "-end",
+    "rel_start": 82.07,
+    "f_start": 2462,
+    "f_end": 2467
+  },
+  {
+    "word": " enterprise",
+    "rel_start": 82.23,
+    "f_start": 2467,
+    "f_end": 2480
+  },
+  {
+    "word": " broadband",
+    "rel_start": 82.67,
+    "f_start": 2480,
+    "f_end": 2498
+  },
+  {
+    "word": " will",
+    "rel_start": 83.27,
+    "f_start": 2498,
+    "f_end": 2508
+  },
+  {
+    "word": " see",
+    "rel_start": 83.59,
+    "f_start": 2508,
+    "f_end": 2514
+  },
+  {
+    "word": " new",
+    "rel_start": 83.81,
+    "f_start": 2514,
+    "f_end": 2524
+  },
+  {
+    "word": " pricing",
+    "rel_start": 84.13,
+    "f_start": 2524,
+    "f_end": 2535
+  },
+  {
+    "word": " battles",
+    "rel_start": 84.49,
+    "f_start": 2535,
+    "f_end": 2547
+  },
+  {
+    "word": " over",
+    "rel_start": 84.91,
+    "f_start": 2547,
+    "f_end": 2558
+  },
+  {
+    "word": " the",
+    "rel_start": 85.27,
+    "f_start": 2558,
+    "f_end": 2562
+  },
+  {
+    "word": " next",
+    "rel_start": 85.39,
+    "f_start": 2562,
+    "f_end": 2567
+  },
+  {
+    "word": " 5",
+    "rel_start": 85.55,
+    "f_start": 2567,
+    "f_end": 2574
+  },
+  {
+    "word": " years.",
+    "rel_start": 85.79,
+    "f_start": 2574,
+    "f_end": 2581
+  },
+  {
+    "word": " But",
+    "rel_start": 86.27,
+    "f_start": 2588,
+    "f_end": 2588
+  },
+  {
+    "word": " still,",
+    "rel_start": 86.27,
+    "f_start": 2588,
+    "f_end": 2597
+  },
+  {
+    "word": " Geo",
+    "rel_start": 86.97,
+    "f_start": 2609,
+    "f_end": 2615
+  },
+  {
+    "word": " can",
+    "rel_start": 87.17,
+    "f_start": 2615,
+    "f_end": 2620
+  },
+  {
+    "word": " win",
+    "rel_start": 87.33,
+    "f_start": 2620,
+    "f_end": 2625
+  },
+  {
+    "word": " it.",
+    "rel_start": 87.49,
+    "f_start": 2625,
+    "f_end": 2630
+  },
+  {
+    "word": " I",
+    "rel_start": 88.01,
+    "f_start": 2640,
+    "f_end": 2642
+  },
+  {
+    "word": " have",
+    "rel_start": 88.05,
+    "f_start": 2642,
+    "f_end": 2646
+  },
+  {
+    "word": " a",
+    "rel_start": 88.19,
+    "f_start": 2646,
+    "f_end": 2648
+  },
+  {
+    "word": " confidence",
+    "rel_start": 88.27,
+    "f_start": 2648,
+    "f_end": 2657
+  },
+  {
+    "word": " on",
+    "rel_start": 88.57,
+    "f_start": 2657,
+    "f_end": 2666
+  },
+  {
+    "word": " that.",
+    "rel_start": 88.87,
+    "f_start": 2666,
+    "f_end": 2672
+  },
+  {
+    "word": " And",
+    "rel_start": 89.57,
+    "f_start": 2687,
+    "f_end": 2694
+  },
+  {
+    "word": " fourth",
+    "rel_start": 89.81,
+    "f_start": 2694,
+    "f_end": 2705
+  },
+  {
+    "word": " is",
+    "rel_start": 90.17,
+    "f_start": 2705,
+    "f_end": 2713
+  },
+  {
+    "word": " fundamental",
+    "rel_start": 90.43,
+    "f_start": 2713,
+    "f_end": 2724
+  },
+  {
+    "word": " reality",
+    "rel_start": 90.81,
+    "f_start": 2724,
+    "f_end": 2743
+  },
+  {
+    "word": " of",
+    "rel_start": 91.43,
+    "f_start": 2743,
+    "f_end": 2754
+  },
+  {
+    "word": " day",
+    "rel_start": 91.81,
+    "f_start": 2754,
+    "f_end": 2765
+  },
+  {
+    "word": " 1",
+    "rel_start": 92.17,
+    "f_start": 2765,
+    "f_end": 2775
+  },
+  {
+    "word": " hypo",
+    "rel_start": 92.49,
+    "f_start": 2775,
+    "f_end": 2789
+  },
+  {
+    "word": "-investing.",
+    "rel_start": 92.97,
+    "f_start": 2789,
+    "f_end": 2803
+  },
+  {
+    "word": " It's",
+    "rel_start": 93.81,
+    "f_start": 2814,
+    "f_end": 2820
+  },
+  {
+    "word": " always",
+    "rel_start": 93.99,
+    "f_start": 2820,
+    "f_end": 2830
+  },
+  {
+    "word": " an",
+    "rel_start": 94.33,
+    "f_start": 2830,
+    "f_end": 2850
+  },
+  {
+    "word": " unhedged",
+    "rel_start": 94.99,
+    "f_start": 2850,
+    "f_end": 2875
+  },
+  {
+    "word": " gamble",
+    "rel_start": 95.83,
+    "f_start": 2875,
+    "f_end": 2893
+  },
+  {
+    "word": " onto",
+    "rel_start": 96.43,
+    "f_start": 2893,
+    "f_end": 2908
+  },
+  {
+    "word": " two",
+    "rel_start": 96.93,
+    "f_start": 2908,
+    "f_end": 2919
+  },
+  {
+    "word": " unknown",
+    "rel_start": 97.29,
+    "f_start": 2919,
+    "f_end": 2940
+  },
+  {
+    "word": " variables,",
+    "rel_start": 98.01,
+    "f_start": 2940,
+    "f_end": 2955
+  },
+  {
+    "word": " your",
+    "rel_start": 99.29,
+    "f_start": 2979,
+    "f_end": 2981
+  },
+  {
+    "word": " allotment",
+    "rel_start": 99.37,
+    "f_start": 2981,
+    "f_end": 2997
+  },
+  {
+    "word": " lottery",
+    "rel_start": 99.91,
+    "f_start": 2997,
+    "f_end": 3008
+  },
+  {
+    "word": " luck",
+    "rel_start": 100.27,
+    "f_start": 3008,
+    "f_end": 3015
+  },
+  {
+    "word": " and",
+    "rel_start": 100.51,
+    "f_start": 3015,
+    "f_end": 3032
+  },
+  {
+    "word": " the",
+    "rel_start": 101.07,
+    "f_start": 3032,
+    "f_end": 3043
+  },
+  {
+    "word": " emotional",
+    "rel_start": 101.43,
+    "f_start": 3043,
+    "f_end": 3054
+  },
+  {
+    "word": " mood",
+    "rel_start": 101.79,
+    "f_start": 3054,
+    "f_end": 3063
+  },
+  {
+    "word": " of",
+    "rel_start": 102.11,
+    "f_start": 3063,
+    "f_end": 3068
+  },
+  {
+    "word": " the",
+    "rel_start": 102.27,
+    "f_start": 3068,
+    "f_end": 3073
+  },
+  {
+    "word": " foreign",
+    "rel_start": 102.43,
+    "f_start": 3073,
+    "f_end": 3082
+  },
+  {
+    "word": " institutional",
+    "rel_start": 102.73,
+    "f_start": 3082,
+    "f_end": 3096
+  },
+  {
+    "word": " investor",
+    "rel_start": 103.21,
+    "f_start": 3096,
+    "f_end": 3115
+  },
+  {
+    "word": " on",
+    "rel_start": 103.83,
+    "f_start": 3115,
+    "f_end": 3124
+  },
+  {
+    "word": " the",
+    "rel_start": 104.15,
+    "f_start": 3124,
+    "f_end": 3128
+  },
+  {
+    "word": " listing",
+    "rel_start": 104.25,
+    "f_start": 3128,
+    "f_end": 3133
+  },
+  {
+    "word": " morning.",
+    "rel_start": 104.45,
+    "f_start": 3134,
+    "f_end": 3144
+  },
+  {
+    "word": " And",
+    "rel_start": 104.81,
+    "f_start": 3144,
+    "f_end": 3155
+  }
+]

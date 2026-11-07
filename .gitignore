@@ -1,37 +1,82 @@
-# Python
+# ==========================================
+# SaN Studio - Git Ignore Rules
+# ==========================================
+
+# 1. Video & Audio Binaries (Never track multi-gigabyte media in Git)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.flac
+*.m4a
+*.mp3
+*.part
+
+# 2. Node & Package Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# 3. Build Outputs & Bundler Caches
+.remotion/
+.cache/
+build/
+dist/
+out/
+contact_frames/
+dmart-video-engine/build/
+dmart-video-engine/out/
+dmart-video-engine/contact_frames/
+dmart-video-engine/contact_sheet.png
+dmart-video-engine/node_modules/
+pathfinder-oct22-engine/node_modules/
+pathfinder-oct22-engine/out/
+
+# 4. Large Intermediate Media in Engine / Public
+dmart-video-engine/public/video/
+dmart-video-engine/public/audio/
+
+# 5. Work, Scratch & Legacy Archives
+archive/
+scratch/
+work/
+temp/
+tmp/
+*.tmp
+
+# 6. Python Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
 env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-.venv
+.venv/
 venv/
 ENV/
+.pytest_cache/
 
-# Work / scratch render artifacts
-work/
-temp/
-tmp/
-*.tmp
-
-# OS / Editor
+# 7. OS & Editor Artifacts
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# 8. Large Master Video Deliverables in exports (Paths preserved in completed_video_manifest.json)
+exports/*.mp4
+exports/*.mov
+
+# 9. Whitelist essential documentation, code & manifests inside 01_VAULT & 02_PROJECTS
+!01_VAULT/brand_kits/**/*.json
+!01_VAULT/brand_kits/**/*.ts
+!01_VAULT/vault_index.json
+!02_PROJECTS/completed_video_manifest.json
+!02_PROJECTS/_completed/**/*.md
+!02_PROJECTS/_completed/**/*.json
+!02_PROJECTS/_completed/**/*.txt

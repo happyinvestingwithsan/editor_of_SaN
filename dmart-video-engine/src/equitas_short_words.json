@@ -1,0 +1,2342 @@
+[
+  {
+    "word": "Equitas",
+    "raw_word": "Equitas",
+    "start": 0.0,
+    "end": 0.58,
+    "startFrame": 0,
+    "endFrame": 17,
+    "probability": 0.464
+  },
+  {
+    "word": "small",
+    "raw_word": "small",
+    "start": 0.58,
+    "end": 0.78,
+    "startFrame": 17,
+    "endFrame": 23,
+    "probability": 0.723
+  },
+  {
+    "word": "finance",
+    "raw_word": "finance",
+    "start": 0.78,
+    "end": 1.12,
+    "startFrame": 23,
+    "endFrame": 34,
+    "probability": 0.984
+  },
+  {
+    "word": "bank",
+    "raw_word": "bank",
+    "start": 1.12,
+    "end": 1.7,
+    "startFrame": 34,
+    "endFrame": 51,
+    "probability": 0.994
+  },
+  {
+    "word": "just",
+    "raw_word": "just",
+    "start": 1.7,
+    "end": 2.14,
+    "startFrame": 51,
+    "endFrame": 64,
+    "probability": 0.958
+  },
+  {
+    "word": "crashed",
+    "raw_word": "crashed",
+    "start": 2.14,
+    "end": 2.6,
+    "startFrame": 64,
+    "endFrame": 78,
+    "probability": 0.952
+  },
+  {
+    "word": "30",
+    "raw_word": "30",
+    "start": 2.6,
+    "end": 3.22,
+    "startFrame": 78,
+    "endFrame": 97,
+    "probability": 0.883
+  },
+  {
+    "word": "%",
+    "raw_word": "%",
+    "start": 3.22,
+    "end": 3.56,
+    "startFrame": 97,
+    "endFrame": 107,
+    "probability": 0.861
+  },
+  {
+    "word": "in",
+    "raw_word": "in",
+    "start": 3.56,
+    "end": 3.94,
+    "startFrame": 107,
+    "endFrame": 118,
+    "probability": 0.789
+  },
+  {
+    "word": "last",
+    "raw_word": "last",
+    "start": 3.94,
+    "end": 4.18,
+    "startFrame": 118,
+    "endFrame": 125,
+    "probability": 0.756
+  },
+  {
+    "word": "48",
+    "raw_word": "48",
+    "start": 4.18,
+    "end": 4.76,
+    "startFrame": 125,
+    "endFrame": 143,
+    "probability": 0.987
+  },
+  {
+    "word": "hours.",
+    "raw_word": "hours.",
+    "start": 4.76,
+    "end": 5.16,
+    "startFrame": 143,
+    "endFrame": 155,
+    "probability": 0.99
+  },
+  {
+    "word": "Every",
+    "raw_word": "Every",
+    "start": 5.88,
+    "end": 6.32,
+    "startFrame": 176,
+    "endFrame": 190,
+    "probability": 0.98
+  },
+  {
+    "word": "headline",
+    "raw_word": "headline",
+    "start": 6.32,
+    "end": 6.78,
+    "startFrame": 190,
+    "endFrame": 203,
+    "probability": 0.55
+  },
+  {
+    "word": "is",
+    "raw_word": "is",
+    "start": 6.78,
+    "end": 7.24,
+    "startFrame": 203,
+    "endFrame": 217,
+    "probability": 0.986
+  },
+  {
+    "word": "screaming",
+    "raw_word": "screaming",
+    "start": 7.24,
+    "end": 8.02,
+    "startFrame": 217,
+    "endFrame": 241,
+    "probability": 0.527
+  },
+  {
+    "word": "CEO",
+    "raw_word": "CEO",
+    "start": 8.02,
+    "end": 8.86,
+    "startFrame": 241,
+    "endFrame": 266,
+    "probability": 0.4
+  },
+  {
+    "word": "resigns",
+    "raw_word": "resigns",
+    "start": 8.86,
+    "end": 9.78,
+    "startFrame": 266,
+    "endFrame": 293,
+    "probability": 0.887
+  },
+  {
+    "word": "panic",
+    "raw_word": "panic",
+    "start": 9.78,
+    "end": 10.32,
+    "startFrame": 293,
+    "endFrame": 310,
+    "probability": 0.502
+  },
+  {
+    "word": "selling",
+    "raw_word": "selling",
+    "start": 10.32,
+    "end": 10.72,
+    "startFrame": 310,
+    "endFrame": 322,
+    "probability": 0.792
+  },
+  {
+    "word": "at",
+    "raw_word": "at",
+    "start": 10.72,
+    "end": 11.02,
+    "startFrame": 322,
+    "endFrame": 331,
+    "probability": 0.984
+  },
+  {
+    "word": "52",
+    "raw_word": "52",
+    "start": 11.02,
+    "end": 11.38,
+    "startFrame": 331,
+    "endFrame": 341,
+    "probability": 0.947
+  },
+  {
+    "word": "weeks",
+    "raw_word": "weeks",
+    "start": 11.38,
+    "end": 11.72,
+    "startFrame": 341,
+    "endFrame": 352,
+    "probability": 0.379
+  },
+  {
+    "word": "low.",
+    "raw_word": "low.",
+    "start": 11.72,
+    "end": 12.24,
+    "startFrame": 352,
+    "endFrame": 367,
+    "probability": 0.982
+  },
+  {
+    "word": "Retail",
+    "raw_word": "Retail",
+    "start": 12.64,
+    "end": 12.88,
+    "startFrame": 379,
+    "endFrame": 386,
+    "probability": 0.449
+  },
+  {
+    "word": "investors",
+    "raw_word": "investors",
+    "start": 12.88,
+    "end": 13.22,
+    "startFrame": 386,
+    "endFrame": 397,
+    "probability": 0.991
+  },
+  {
+    "word": "are",
+    "raw_word": "are",
+    "start": 13.22,
+    "end": 13.56,
+    "startFrame": 397,
+    "endFrame": 407,
+    "probability": 0.979
+  },
+  {
+    "word": "just",
+    "raw_word": "just",
+    "start": 13.56,
+    "end": 13.88,
+    "startFrame": 407,
+    "endFrame": 416,
+    "probability": 0.982
+  },
+  {
+    "word": "panicking.",
+    "raw_word": "panicking.",
+    "start": 13.88,
+    "end": 14.42,
+    "startFrame": 416,
+    "endFrame": 433,
+    "probability": 0.979
+  },
+  {
+    "word": "And",
+    "raw_word": "And",
+    "start": 14.74,
+    "end": 14.8,
+    "startFrame": 442,
+    "endFrame": 444,
+    "probability": 0.912
+  },
+  {
+    "word": "also",
+    "raw_word": "also",
+    "start": 14.8,
+    "end": 15.2,
+    "startFrame": 444,
+    "endFrame": 456,
+    "probability": 0.99
+  },
+  {
+    "word": "whispering",
+    "raw_word": "whispering",
+    "start": 15.2,
+    "end": 15.92,
+    "startFrame": 456,
+    "endFrame": 478,
+    "probability": 0.538
+  },
+  {
+    "word": "is",
+    "raw_word": "is",
+    "start": 15.92,
+    "end": 16.46,
+    "startFrame": 478,
+    "endFrame": 494,
+    "probability": 0.684
+  },
+  {
+    "word": "this",
+    "raw_word": "this",
+    "start": 16.46,
+    "end": 16.72,
+    "startFrame": 494,
+    "endFrame": 502,
+    "probability": 0.935
+  },
+  {
+    "word": "another",
+    "raw_word": "another",
+    "start": 16.72,
+    "end": 17.38,
+    "startFrame": 502,
+    "endFrame": 521,
+    "probability": 0.908
+  },
+  {
+    "word": "S",
+    "raw_word": "S",
+    "start": 17.38,
+    "end": 17.82,
+    "startFrame": 521,
+    "endFrame": 535,
+    "probability": 0.254
+  },
+  {
+    "word": "-Bang",
+    "raw_word": "-Bang",
+    "start": 17.82,
+    "end": 18.02,
+    "startFrame": 535,
+    "endFrame": 541,
+    "probability": 0.494
+  },
+  {
+    "word": "story.",
+    "raw_word": "story.",
+    "start": 18.02,
+    "end": 18.42,
+    "startFrame": 541,
+    "endFrame": 553,
+    "probability": 0.949
+  },
+  {
+    "word": "Let",
+    "raw_word": "Let",
+    "start": 18.88,
+    "end": 18.96,
+    "startFrame": 566,
+    "endFrame": 569,
+    "probability": 0.987
+  },
+  {
+    "word": "us",
+    "raw_word": "us",
+    "start": 18.96,
+    "end": 19.08,
+    "startFrame": 569,
+    "endFrame": 572,
+    "probability": 0.977
+  },
+  {
+    "word": "pause",
+    "raw_word": "pause",
+    "start": 19.08,
+    "end": 19.44,
+    "startFrame": 572,
+    "endFrame": 583,
+    "probability": 0.998
+  },
+  {
+    "word": "and",
+    "raw_word": "and",
+    "start": 19.44,
+    "end": 19.68,
+    "startFrame": 583,
+    "endFrame": 590,
+    "probability": 0.98
+  },
+  {
+    "word": "take",
+    "raw_word": "take",
+    "start": 19.68,
+    "end": 19.88,
+    "startFrame": 590,
+    "endFrame": 596,
+    "probability": 0.991
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 19.88,
+    "end": 20.04,
+    "startFrame": 596,
+    "endFrame": 601,
+    "probability": 0.994
+  },
+  {
+    "word": "breath",
+    "raw_word": "breath",
+    "start": 20.04,
+    "end": 20.3,
+    "startFrame": 601,
+    "endFrame": 609,
+    "probability": 0.645
+  },
+  {
+    "word": "and",
+    "raw_word": "and",
+    "start": 20.3,
+    "end": 21.06,
+    "startFrame": 609,
+    "endFrame": 632,
+    "probability": 0.949
+  },
+  {
+    "word": "understand",
+    "raw_word": "understand",
+    "start": 21.06,
+    "end": 21.62,
+    "startFrame": 632,
+    "endFrame": 649,
+    "probability": 0.991
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 21.62,
+    "end": 21.82,
+    "startFrame": 649,
+    "endFrame": 655,
+    "probability": 0.984
+  },
+  {
+    "word": "facts",
+    "raw_word": "facts",
+    "start": 21.82,
+    "end": 22.06,
+    "startFrame": 655,
+    "endFrame": 662,
+    "probability": 0.996
+  },
+  {
+    "word": "with",
+    "raw_word": "with",
+    "start": 22.06,
+    "end": 22.38,
+    "startFrame": 662,
+    "endFrame": 671,
+    "probability": 0.987
+  },
+  {
+    "word": "happy",
+    "raw_word": "happy",
+    "start": 22.38,
+    "end": 22.62,
+    "startFrame": 671,
+    "endFrame": 679,
+    "probability": 0.631
+  },
+  {
+    "word": "investing.",
+    "raw_word": "investing.",
+    "start": 22.62,
+    "end": 22.94,
+    "startFrame": 679,
+    "endFrame": 688,
+    "probability": 0.997
+  },
+  {
+    "word": "Fact",
+    "raw_word": "Fact",
+    "start": 23.68,
+    "end": 23.84,
+    "startFrame": 710,
+    "endFrame": 715,
+    "probability": 0.937
+  },
+  {
+    "word": "number",
+    "raw_word": "number",
+    "start": 23.84,
+    "end": 24.1,
+    "startFrame": 715,
+    "endFrame": 723,
+    "probability": 0.849
+  },
+  {
+    "word": "1",
+    "raw_word": "1",
+    "start": 24.1,
+    "end": 24.38,
+    "startFrame": 723,
+    "endFrame": 731,
+    "probability": 0.352
+  },
+  {
+    "word": "Why",
+    "raw_word": "Why",
+    "start": 24.38,
+    "end": 25.28,
+    "startFrame": 731,
+    "endFrame": 758,
+    "probability": 0.362
+  },
+  {
+    "word": "did",
+    "raw_word": "did",
+    "start": 25.28,
+    "end": 25.44,
+    "startFrame": 758,
+    "endFrame": 763,
+    "probability": 0.962
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 25.44,
+    "end": 25.6,
+    "startFrame": 763,
+    "endFrame": 768,
+    "probability": 0.981
+  },
+  {
+    "word": "CEO",
+    "raw_word": "CEO",
+    "start": 25.6,
+    "end": 25.88,
+    "startFrame": 768,
+    "endFrame": 776,
+    "probability": 0.947
+  },
+  {
+    "word": "resign?",
+    "raw_word": "resign?",
+    "start": 25.88,
+    "end": 26.2,
+    "startFrame": 776,
+    "endFrame": 786,
+    "probability": 0.994
+  },
+  {
+    "word": "Because",
+    "raw_word": "Because",
+    "start": 26.66,
+    "end": 27.0,
+    "startFrame": 800,
+    "endFrame": 810,
+    "probability": 0.128
+  },
+  {
+    "word": "his",
+    "raw_word": "his",
+    "start": 27.0,
+    "end": 27.38,
+    "startFrame": 810,
+    "endFrame": 821,
+    "probability": 0.881
+  },
+  {
+    "word": "daughter",
+    "raw_word": "daughter",
+    "start": 27.38,
+    "end": 27.68,
+    "startFrame": 821,
+    "endFrame": 830,
+    "probability": 0.927
+  },
+  {
+    "word": "co",
+    "raw_word": "co",
+    "start": 27.68,
+    "end": 28.0,
+    "startFrame": 830,
+    "endFrame": 840,
+    "probability": 0.938
+  },
+  {
+    "word": "-founded",
+    "raw_word": "-founded",
+    "start": 28.0,
+    "end": 28.24,
+    "startFrame": 840,
+    "endFrame": 847,
+    "probability": 0.8
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 28.24,
+    "end": 28.5,
+    "startFrame": 847,
+    "endFrame": 855,
+    "probability": 0.977
+  },
+  {
+    "word": "housing",
+    "raw_word": "housing",
+    "start": 28.5,
+    "end": 28.86,
+    "startFrame": 855,
+    "endFrame": 866,
+    "probability": 0.881
+  },
+  {
+    "word": "finance",
+    "raw_word": "finance",
+    "start": 28.86,
+    "end": 29.26,
+    "startFrame": 866,
+    "endFrame": 878,
+    "probability": 0.984
+  },
+  {
+    "word": "company.",
+    "raw_word": "company.",
+    "start": 29.26,
+    "end": 29.9,
+    "startFrame": 878,
+    "endFrame": 897,
+    "probability": 0.994
+  },
+  {
+    "word": "Was",
+    "raw_word": "Was",
+    "start": 30.24,
+    "end": 30.58,
+    "startFrame": 907,
+    "endFrame": 917,
+    "probability": 0.948
+  },
+  {
+    "word": "there",
+    "raw_word": "there",
+    "start": 30.58,
+    "end": 30.78,
+    "startFrame": 917,
+    "endFrame": 923,
+    "probability": 0.995
+  },
+  {
+    "word": "any",
+    "raw_word": "any",
+    "start": 30.78,
+    "end": 30.98,
+    "startFrame": 923,
+    "endFrame": 929,
+    "probability": 0.975
+  },
+  {
+    "word": "fraud?",
+    "raw_word": "fraud?",
+    "start": 30.98,
+    "end": 31.3,
+    "startFrame": 929,
+    "endFrame": 939,
+    "probability": 0.983
+  },
+  {
+    "word": "No.",
+    "raw_word": "No.",
+    "start": 31.96,
+    "end": 32.3,
+    "startFrame": 959,
+    "endFrame": 969,
+    "probability": 0.953
+  },
+  {
+    "word": "There",
+    "raw_word": "There",
+    "start": 32.92,
+    "end": 33.14,
+    "startFrame": 988,
+    "endFrame": 994,
+    "probability": 0.973
+  },
+  {
+    "word": "were",
+    "raw_word": "were",
+    "start": 33.14,
+    "end": 33.26,
+    "startFrame": 994,
+    "endFrame": 998,
+    "probability": 0.537
+  },
+  {
+    "word": "zero",
+    "raw_word": "zero",
+    "start": 33.26,
+    "end": 33.68,
+    "startFrame": 998,
+    "endFrame": 1010,
+    "probability": 0.812
+  },
+  {
+    "word": "loans,",
+    "raw_word": "loans,",
+    "start": 33.68,
+    "end": 34.04,
+    "startFrame": 1010,
+    "endFrame": 1021,
+    "probability": 0.995
+  },
+  {
+    "word": "zero",
+    "raw_word": "zero",
+    "start": 34.52,
+    "end": 34.8,
+    "startFrame": 1036,
+    "endFrame": 1044,
+    "probability": 0.943
+  },
+  {
+    "word": "fund",
+    "raw_word": "fund",
+    "start": 34.8,
+    "end": 35.02,
+    "startFrame": 1044,
+    "endFrame": 1051,
+    "probability": 0.953
+  },
+  {
+    "word": "transfers",
+    "raw_word": "transfers",
+    "start": 35.02,
+    "end": 35.5,
+    "startFrame": 1051,
+    "endFrame": 1065,
+    "probability": 0.993
+  },
+  {
+    "word": "and",
+    "raw_word": "and",
+    "start": 35.5,
+    "end": 35.86,
+    "startFrame": 1065,
+    "endFrame": 1076,
+    "probability": 0.698
+  },
+  {
+    "word": "100",
+    "raw_word": "100",
+    "start": 35.86,
+    "end": 36.26,
+    "startFrame": 1076,
+    "endFrame": 1088,
+    "probability": 0.711
+  },
+  {
+    "word": "%",
+    "raw_word": "%",
+    "start": 36.26,
+    "end": 36.66,
+    "startFrame": 1088,
+    "endFrame": 1100,
+    "probability": 0.647
+  },
+  {
+    "word": "it",
+    "raw_word": "it",
+    "start": 36.66,
+    "end": 36.9,
+    "startFrame": 1100,
+    "endFrame": 1107,
+    "probability": 0.341
+  },
+  {
+    "word": "disclosed",
+    "raw_word": "disclosed",
+    "start": 36.9,
+    "end": 37.42,
+    "startFrame": 1107,
+    "endFrame": 1123,
+    "probability": 0.979
+  },
+  {
+    "word": "to",
+    "raw_word": "to",
+    "start": 37.42,
+    "end": 37.58,
+    "startFrame": 1123,
+    "endFrame": 1127,
+    "probability": 0.995
+  },
+  {
+    "word": "RBI",
+    "raw_word": "RBI",
+    "start": 37.58,
+    "end": 38.04,
+    "startFrame": 1127,
+    "endFrame": 1141,
+    "probability": 0.844
+  },
+  {
+    "word": "and",
+    "raw_word": "and",
+    "start": 38.04,
+    "end": 38.42,
+    "startFrame": 1141,
+    "endFrame": 1153,
+    "probability": 0.907
+  },
+  {
+    "word": "also",
+    "raw_word": "also",
+    "start": 38.42,
+    "end": 38.72,
+    "startFrame": 1153,
+    "endFrame": 1162,
+    "probability": 0.98
+  },
+  {
+    "word": "to",
+    "raw_word": "to",
+    "start": 38.72,
+    "end": 38.9,
+    "startFrame": 1162,
+    "endFrame": 1167,
+    "probability": 0.947
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 38.9,
+    "end": 39.0,
+    "startFrame": 1167,
+    "endFrame": 1170,
+    "probability": 0.993
+  },
+  {
+    "word": "board.",
+    "raw_word": "board.",
+    "start": 39.0,
+    "end": 39.2,
+    "startFrame": 1170,
+    "endFrame": 1176,
+    "probability": 0.935
+  },
+  {
+    "word": "Fact",
+    "raw_word": "Fact",
+    "start": 39.9,
+    "end": 40.08,
+    "startFrame": 1197,
+    "endFrame": 1202,
+    "probability": 0.974
+  },
+  {
+    "word": "number",
+    "raw_word": "number",
+    "start": 40.08,
+    "end": 40.36,
+    "startFrame": 1202,
+    "endFrame": 1211,
+    "probability": 0.503
+  },
+  {
+    "word": "2",
+    "raw_word": "2",
+    "start": 40.36,
+    "end": 40.64,
+    "startFrame": 1211,
+    "endFrame": 1219,
+    "probability": 0.539
+  },
+  {
+    "word": "Is",
+    "raw_word": "Is",
+    "start": 40.64,
+    "end": 41.46,
+    "startFrame": 1219,
+    "endFrame": 1244,
+    "probability": 0.336
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 41.46,
+    "end": 41.8,
+    "startFrame": 1244,
+    "endFrame": 1254,
+    "probability": 0.923
+  },
+  {
+    "word": "bank",
+    "raw_word": "bank",
+    "start": 41.8,
+    "end": 42.1,
+    "startFrame": 1254,
+    "endFrame": 1263,
+    "probability": 0.896
+  },
+  {
+    "word": "failing",
+    "raw_word": "failing",
+    "start": 42.1,
+    "end": 42.52,
+    "startFrame": 1263,
+    "endFrame": 1276,
+    "probability": 0.996
+  },
+  {
+    "word": "fundamentally?",
+    "raw_word": "fundamentally?",
+    "start": 42.52,
+    "end": 43.06,
+    "startFrame": 1276,
+    "endFrame": 1292,
+    "probability": 0.965
+  },
+  {
+    "word": "Look",
+    "raw_word": "Look",
+    "start": 43.86,
+    "end": 44.08,
+    "startFrame": 1316,
+    "endFrame": 1322,
+    "probability": 0.977
+  },
+  {
+    "word": "at",
+    "raw_word": "at",
+    "start": 44.08,
+    "end": 44.24,
+    "startFrame": 1322,
+    "endFrame": 1327,
+    "probability": 0.993
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 44.24,
+    "end": 44.34,
+    "startFrame": 1327,
+    "endFrame": 1330,
+    "probability": 0.961
+  },
+  {
+    "word": "numbers.",
+    "raw_word": "numbers.",
+    "start": 44.34,
+    "end": 44.56,
+    "startFrame": 1330,
+    "endFrame": 1337,
+    "probability": 0.995
+  },
+  {
+    "word": "In",
+    "raw_word": "In",
+    "start": 45.32,
+    "end": 45.42,
+    "startFrame": 1360,
+    "endFrame": 1363,
+    "probability": 0.968
+  },
+  {
+    "word": "last",
+    "raw_word": "last",
+    "start": 45.42,
+    "end": 45.76,
+    "startFrame": 1363,
+    "endFrame": 1373,
+    "probability": 0.906
+  },
+  {
+    "word": "quarter,",
+    "raw_word": "quarter,",
+    "start": 45.76,
+    "end": 46.38,
+    "startFrame": 1373,
+    "endFrame": 1391,
+    "probability": 0.99
+  },
+  {
+    "word": "Equitas",
+    "raw_word": "Equitas",
+    "start": 46.68,
+    "end": 46.98,
+    "startFrame": 1400,
+    "endFrame": 1409,
+    "probability": 0.254
+  },
+  {
+    "word": "printed",
+    "raw_word": "printed",
+    "start": 46.98,
+    "end": 47.42,
+    "startFrame": 1409,
+    "endFrame": 1423,
+    "probability": 0.924
+  },
+  {
+    "word": "218",
+    "raw_word": "218",
+    "start": 47.42,
+    "end": 48.32,
+    "startFrame": 1423,
+    "endFrame": 1450,
+    "probability": 0.718
+  },
+  {
+    "word": "crores",
+    "raw_word": "crores",
+    "start": 48.32,
+    "end": 48.96,
+    "startFrame": 1450,
+    "endFrame": 1469,
+    "probability": 0.711
+  },
+  {
+    "word": "net",
+    "raw_word": "net",
+    "start": 48.96,
+    "end": 49.18,
+    "startFrame": 1469,
+    "endFrame": 1475,
+    "probability": 0.979
+  },
+  {
+    "word": "profit.",
+    "raw_word": "profit.",
+    "start": 49.18,
+    "end": 49.68,
+    "startFrame": 1475,
+    "endFrame": 1490,
+    "probability": 0.995
+  },
+  {
+    "word": "That",
+    "raw_word": "That",
+    "start": 50.44,
+    "end": 50.74,
+    "startFrame": 1513,
+    "endFrame": 1522,
+    "probability": 0.964
+  },
+  {
+    "word": "is",
+    "raw_word": "is",
+    "start": 50.74,
+    "end": 50.88,
+    "startFrame": 1522,
+    "endFrame": 1526,
+    "probability": 0.956
+  },
+  {
+    "word": "highest",
+    "raw_word": "highest",
+    "start": 50.88,
+    "end": 51.36,
+    "startFrame": 1526,
+    "endFrame": 1541,
+    "probability": 0.889
+  },
+  {
+    "word": "profit",
+    "raw_word": "profit",
+    "start": 51.36,
+    "end": 51.84,
+    "startFrame": 1541,
+    "endFrame": 1555,
+    "probability": 0.987
+  },
+  {
+    "word": "in",
+    "raw_word": "in",
+    "start": 51.84,
+    "end": 52.06,
+    "startFrame": 1555,
+    "endFrame": 1562,
+    "probability": 0.99
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 52.06,
+    "end": 52.14,
+    "startFrame": 1562,
+    "endFrame": 1564,
+    "probability": 0.966
+  },
+  {
+    "word": "bank's",
+    "raw_word": "bank's",
+    "start": 52.14,
+    "end": 52.7,
+    "startFrame": 1564,
+    "endFrame": 1581,
+    "probability": 0.851
+  },
+  {
+    "word": "entire",
+    "raw_word": "entire",
+    "start": 52.7,
+    "end": 53.08,
+    "startFrame": 1581,
+    "endFrame": 1592,
+    "probability": 0.997
+  },
+  {
+    "word": "history.",
+    "raw_word": "history.",
+    "start": 53.08,
+    "end": 53.52,
+    "startFrame": 1592,
+    "endFrame": 1606,
+    "probability": 0.997
+  },
+  {
+    "word": "And",
+    "raw_word": "And",
+    "start": 53.52,
+    "end": 53.82,
+    "startFrame": 1606,
+    "endFrame": 1615,
+    "probability": 0.407
+  },
+  {
+    "word": "look",
+    "raw_word": "look",
+    "start": 53.82,
+    "end": 53.94,
+    "startFrame": 1615,
+    "endFrame": 1618,
+    "probability": 0.943
+  },
+  {
+    "word": "at",
+    "raw_word": "at",
+    "start": 53.94,
+    "end": 54.04,
+    "startFrame": 1618,
+    "endFrame": 1621,
+    "probability": 0.993
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 54.04,
+    "end": 54.14,
+    "startFrame": 1621,
+    "endFrame": 1624,
+    "probability": 0.976
+  },
+  {
+    "word": "bad",
+    "raw_word": "bad",
+    "start": 54.14,
+    "end": 54.36,
+    "startFrame": 1624,
+    "endFrame": 1631,
+    "probability": 0.875
+  },
+  {
+    "word": "loans.",
+    "raw_word": "loans.",
+    "start": 54.36,
+    "end": 54.68,
+    "startFrame": 1631,
+    "endFrame": 1640,
+    "probability": 0.979
+  },
+  {
+    "word": "Just",
+    "raw_word": "Just",
+    "start": 55.04,
+    "end": 55.16,
+    "startFrame": 1651,
+    "endFrame": 1655,
+    "probability": 0.926
+  },
+  {
+    "word": "dropped",
+    "raw_word": "dropped",
+    "start": 55.16,
+    "end": 55.72,
+    "startFrame": 1655,
+    "endFrame": 1672,
+    "probability": 0.845
+  },
+  {
+    "word": "to",
+    "raw_word": "to",
+    "start": 55.72,
+    "end": 55.94,
+    "startFrame": 1672,
+    "endFrame": 1678,
+    "probability": 0.956
+  },
+  {
+    "word": "0",
+    "raw_word": "0",
+    "start": 55.94,
+    "end": 56.2,
+    "startFrame": 1678,
+    "endFrame": 1686,
+    "probability": 0.948
+  },
+  {
+    "word": ".7",
+    "raw_word": ".7",
+    "start": 56.2,
+    "end": 56.82,
+    "startFrame": 1686,
+    "endFrame": 1705,
+    "probability": 0.992
+  },
+  {
+    "word": "%",
+    "raw_word": "%",
+    "start": 56.82,
+    "end": 57.32,
+    "startFrame": 1705,
+    "endFrame": 1720,
+    "probability": 0.621
+  },
+  {
+    "word": "right",
+    "raw_word": "right",
+    "start": 57.32,
+    "end": 58.44,
+    "startFrame": 1720,
+    "endFrame": 1753,
+    "probability": 0.251
+  },
+  {
+    "word": "now.",
+    "raw_word": "now.",
+    "start": 58.44,
+    "end": 58.78,
+    "startFrame": 1753,
+    "endFrame": 1763,
+    "probability": 0.931
+  },
+  {
+    "word": "The",
+    "raw_word": "The",
+    "start": 59.26,
+    "end": 59.32,
+    "startFrame": 1778,
+    "endFrame": 1780,
+    "probability": 0.883
+  },
+  {
+    "word": "stock",
+    "raw_word": "stock",
+    "start": 59.32,
+    "end": 59.62,
+    "startFrame": 1780,
+    "endFrame": 1789,
+    "probability": 0.981
+  },
+  {
+    "word": "is",
+    "raw_word": "is",
+    "start": 59.62,
+    "end": 59.9,
+    "startFrame": 1789,
+    "endFrame": 1797,
+    "probability": 0.984
+  },
+  {
+    "word": "selling",
+    "raw_word": "selling",
+    "start": 59.9,
+    "end": 60.2,
+    "startFrame": 1797,
+    "endFrame": 1806,
+    "probability": 0.98
+  },
+  {
+    "word": "at",
+    "raw_word": "at",
+    "start": 60.2,
+    "end": 60.44,
+    "startFrame": 1806,
+    "endFrame": 1813,
+    "probability": 0.982
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 60.44,
+    "end": 60.58,
+    "startFrame": 1813,
+    "endFrame": 1817,
+    "probability": 0.891
+  },
+  {
+    "word": "15",
+    "raw_word": "15",
+    "start": 60.58,
+    "end": 60.92,
+    "startFrame": 1817,
+    "endFrame": 1828,
+    "probability": 0.941
+  },
+  {
+    "word": "%",
+    "raw_word": "%",
+    "start": 60.92,
+    "end": 61.32,
+    "startFrame": 1828,
+    "endFrame": 1840,
+    "probability": 0.912
+  },
+  {
+    "word": "discount",
+    "raw_word": "discount",
+    "start": 61.32,
+    "end": 62.02,
+    "startFrame": 1840,
+    "endFrame": 1861,
+    "probability": 0.981
+  },
+  {
+    "word": "to",
+    "raw_word": "to",
+    "start": 62.02,
+    "end": 62.32,
+    "startFrame": 1861,
+    "endFrame": 1870,
+    "probability": 0.89
+  },
+  {
+    "word": "its",
+    "raw_word": "its",
+    "start": 62.32,
+    "end": 62.5,
+    "startFrame": 1870,
+    "endFrame": 1875,
+    "probability": 0.915
+  },
+  {
+    "word": "actual",
+    "raw_word": "actual",
+    "start": 62.5,
+    "end": 63.0,
+    "startFrame": 1875,
+    "endFrame": 1890,
+    "probability": 0.921
+  },
+  {
+    "word": "net",
+    "raw_word": "net",
+    "start": 63.0,
+    "end": 63.28,
+    "startFrame": 1890,
+    "endFrame": 1898,
+    "probability": 0.856
+  },
+  {
+    "word": "worth",
+    "raw_word": "worth",
+    "start": 63.28,
+    "end": 63.48,
+    "startFrame": 1898,
+    "endFrame": 1904,
+    "probability": 0.996
+  },
+  {
+    "word": "of",
+    "raw_word": "of",
+    "start": 63.48,
+    "end": 63.7,
+    "startFrame": 1904,
+    "endFrame": 1911,
+    "probability": 0.98
+  },
+  {
+    "word": "book",
+    "raw_word": "book",
+    "start": 63.7,
+    "end": 63.96,
+    "startFrame": 1911,
+    "endFrame": 1919,
+    "probability": 0.177
+  },
+  {
+    "word": "value.",
+    "raw_word": "value.",
+    "start": 63.96,
+    "end": 64.3,
+    "startFrame": 1919,
+    "endFrame": 1929,
+    "probability": 0.934
+  },
+  {
+    "word": "Yes,",
+    "raw_word": "Yes,",
+    "start": 64.6,
+    "end": 64.86,
+    "startFrame": 1938,
+    "endFrame": 1946,
+    "probability": 0.843
+  },
+  {
+    "word": "I",
+    "raw_word": "I",
+    "start": 65.14,
+    "end": 65.28,
+    "startFrame": 1954,
+    "endFrame": 1958,
+    "probability": 0.981
+  },
+  {
+    "word": "have",
+    "raw_word": "have",
+    "start": 65.28,
+    "end": 65.42,
+    "startFrame": 1958,
+    "endFrame": 1963,
+    "probability": 0.974
+  },
+  {
+    "word": "got",
+    "raw_word": "got",
+    "start": 65.42,
+    "end": 65.52,
+    "startFrame": 1963,
+    "endFrame": 1966,
+    "probability": 0.742
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 65.52,
+    "end": 65.66,
+    "startFrame": 1966,
+    "endFrame": 1970,
+    "probability": 0.991
+  },
+  {
+    "word": "small",
+    "raw_word": "small",
+    "start": 65.66,
+    "end": 65.96,
+    "startFrame": 1970,
+    "endFrame": 1979,
+    "probability": 0.994
+  },
+  {
+    "word": "portion",
+    "raw_word": "portion",
+    "start": 65.96,
+    "end": 66.44,
+    "startFrame": 1979,
+    "endFrame": 1993,
+    "probability": 0.923
+  },
+  {
+    "word": "today,",
+    "raw_word": "today,",
+    "start": 66.44,
+    "end": 66.82,
+    "startFrame": 1993,
+    "endFrame": 2005,
+    "probability": 0.98
+  },
+  {
+    "word": "but",
+    "raw_word": "but",
+    "start": 67.18,
+    "end": 67.3,
+    "startFrame": 2015,
+    "endFrame": 2019,
+    "probability": 0.952
+  },
+  {
+    "word": "I",
+    "raw_word": "I",
+    "start": 67.3,
+    "end": 67.46,
+    "startFrame": 2019,
+    "endFrame": 2024,
+    "probability": 0.982
+  },
+  {
+    "word": "have",
+    "raw_word": "have",
+    "start": 67.46,
+    "end": 67.6,
+    "startFrame": 2024,
+    "endFrame": 2028,
+    "probability": 0.981
+  },
+  {
+    "word": "not",
+    "raw_word": "not",
+    "start": 67.6,
+    "end": 67.76,
+    "startFrame": 2028,
+    "endFrame": 2033,
+    "probability": 0.991
+  },
+  {
+    "word": "put",
+    "raw_word": "put",
+    "start": 67.76,
+    "end": 68.02,
+    "startFrame": 2033,
+    "endFrame": 2041,
+    "probability": 0.996
+  },
+  {
+    "word": "my",
+    "raw_word": "my",
+    "start": 68.02,
+    "end": 68.26,
+    "startFrame": 2041,
+    "endFrame": 2048,
+    "probability": 0.838
+  },
+  {
+    "word": "all",
+    "raw_word": "all",
+    "start": 68.26,
+    "end": 68.54,
+    "startFrame": 2048,
+    "endFrame": 2056,
+    "probability": 0.96
+  },
+  {
+    "word": "money",
+    "raw_word": "money",
+    "start": 68.54,
+    "end": 68.82,
+    "startFrame": 2056,
+    "endFrame": 2065,
+    "probability": 0.854
+  },
+  {
+    "word": "in",
+    "raw_word": "in",
+    "start": 68.82,
+    "end": 69.06,
+    "startFrame": 2065,
+    "endFrame": 2072,
+    "probability": 0.983
+  },
+  {
+    "word": "one",
+    "raw_word": "one",
+    "start": 69.06,
+    "end": 69.22,
+    "startFrame": 2072,
+    "endFrame": 2077,
+    "probability": 0.944
+  },
+  {
+    "word": "go.",
+    "raw_word": "go.",
+    "start": 69.22,
+    "end": 69.44,
+    "startFrame": 2077,
+    "endFrame": 2083,
+    "probability": 0.962
+  },
+  {
+    "word": "This",
+    "raw_word": "This",
+    "start": 69.66,
+    "end": 69.74,
+    "startFrame": 2090,
+    "endFrame": 2092,
+    "probability": 0.961
+  },
+  {
+    "word": "is",
+    "raw_word": "is",
+    "start": 69.74,
+    "end": 69.86,
+    "startFrame": 2092,
+    "endFrame": 2096,
+    "probability": 0.991
+  },
+  {
+    "word": "not",
+    "raw_word": "not",
+    "start": 69.86,
+    "end": 70.0,
+    "startFrame": 2096,
+    "endFrame": 2100,
+    "probability": 0.997
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 70.0,
+    "end": 70.1,
+    "startFrame": 2100,
+    "endFrame": 2103,
+    "probability": 0.901
+  },
+  {
+    "word": "buy",
+    "raw_word": "buy",
+    "start": 70.1,
+    "end": 70.22,
+    "startFrame": 2103,
+    "endFrame": 2107,
+    "probability": 0.544
+  },
+  {
+    "word": "or",
+    "raw_word": "or",
+    "start": 70.22,
+    "end": 70.38,
+    "startFrame": 2107,
+    "endFrame": 2111,
+    "probability": 0.615
+  },
+  {
+    "word": "sell",
+    "raw_word": "sell",
+    "start": 70.38,
+    "end": 70.56,
+    "startFrame": 2111,
+    "endFrame": 2117,
+    "probability": 0.989
+  },
+  {
+    "word": "recommendation,",
+    "raw_word": "recommendation,",
+    "start": 70.56,
+    "end": 71.08,
+    "startFrame": 2117,
+    "endFrame": 2132,
+    "probability": 0.97
+  },
+  {
+    "word": "but",
+    "raw_word": "but",
+    "start": 71.52,
+    "end": 71.66,
+    "startFrame": 2146,
+    "endFrame": 2150,
+    "probability": 0.975
+  },
+  {
+    "word": "is",
+    "raw_word": "is",
+    "start": 71.66,
+    "end": 71.98,
+    "startFrame": 2150,
+    "endFrame": 2159,
+    "probability": 0.938
+  },
+  {
+    "word": "this",
+    "raw_word": "this",
+    "start": 71.98,
+    "end": 72.14,
+    "startFrame": 2159,
+    "endFrame": 2164,
+    "probability": 0.988
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 72.14,
+    "end": 72.38,
+    "startFrame": 2164,
+    "endFrame": 2171,
+    "probability": 0.911
+  },
+  {
+    "word": "opportunity",
+    "raw_word": "opportunity",
+    "start": 72.38,
+    "end": 73.02,
+    "startFrame": 2171,
+    "endFrame": 2191,
+    "probability": 0.966
+  },
+  {
+    "word": "to",
+    "raw_word": "to",
+    "start": 73.02,
+    "end": 73.68,
+    "startFrame": 2191,
+    "endFrame": 2210,
+    "probability": 0.98
+  },
+  {
+    "word": "analyze?",
+    "raw_word": "analyze?",
+    "start": 73.68,
+    "end": 74.24,
+    "startFrame": 2210,
+    "endFrame": 2227,
+    "probability": 0.807
+  },
+  {
+    "word": "Is",
+    "raw_word": "Is",
+    "start": 74.64,
+    "end": 74.74,
+    "startFrame": 2239,
+    "endFrame": 2242,
+    "probability": 0.966
+  },
+  {
+    "word": "this",
+    "raw_word": "this",
+    "start": 74.74,
+    "end": 74.96,
+    "startFrame": 2242,
+    "endFrame": 2249,
+    "probability": 0.991
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 74.96,
+    "end": 75.22,
+    "startFrame": 2249,
+    "endFrame": 2257,
+    "probability": 0.904
+  },
+  {
+    "word": "falling",
+    "raw_word": "falling",
+    "start": 75.22,
+    "end": 75.54,
+    "startFrame": 2257,
+    "endFrame": 2266,
+    "probability": 0.964
+  },
+  {
+    "word": "knife",
+    "raw_word": "knife",
+    "start": 75.54,
+    "end": 75.82,
+    "startFrame": 2266,
+    "endFrame": 2275,
+    "probability": 0.99
+  },
+  {
+    "word": "or",
+    "raw_word": "or",
+    "start": 75.82,
+    "end": 76.24,
+    "startFrame": 2275,
+    "endFrame": 2287,
+    "probability": 0.906
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 76.24,
+    "end": 76.34,
+    "startFrame": 2287,
+    "endFrame": 2290,
+    "probability": 0.984
+  },
+  {
+    "word": "massive",
+    "raw_word": "massive",
+    "start": 76.34,
+    "end": 76.6,
+    "startFrame": 2290,
+    "endFrame": 2298,
+    "probability": 0.953
+  },
+  {
+    "word": "opportunity?",
+    "raw_word": "opportunity?",
+    "start": 76.6,
+    "end": 77.1,
+    "startFrame": 2298,
+    "endFrame": 2313,
+    "probability": 0.988
+  },
+  {
+    "word": "I",
+    "raw_word": "I",
+    "start": 77.24,
+    "end": 77.3,
+    "startFrame": 2317,
+    "endFrame": 2319,
+    "probability": 0.969
+  },
+  {
+    "word": "just",
+    "raw_word": "just",
+    "start": 77.3,
+    "end": 77.42,
+    "startFrame": 2319,
+    "endFrame": 2323,
+    "probability": 0.993
+  },
+  {
+    "word": "released",
+    "raw_word": "released",
+    "start": 77.42,
+    "end": 77.7,
+    "startFrame": 2323,
+    "endFrame": 2331,
+    "probability": 0.929
+  },
+  {
+    "word": "a",
+    "raw_word": "a",
+    "start": 77.7,
+    "end": 77.9,
+    "startFrame": 2331,
+    "endFrame": 2337,
+    "probability": 0.979
+  },
+  {
+    "word": "complete",
+    "raw_word": "complete",
+    "start": 77.9,
+    "end": 78.18,
+    "startFrame": 2337,
+    "endFrame": 2345,
+    "probability": 0.984
+  },
+  {
+    "word": "step",
+    "raw_word": "step",
+    "start": 78.18,
+    "end": 78.44,
+    "startFrame": 2345,
+    "endFrame": 2353,
+    "probability": 0.961
+  },
+  {
+    "word": "-by",
+    "raw_word": "-by",
+    "start": 78.44,
+    "end": 78.62,
+    "startFrame": 2353,
+    "endFrame": 2359,
+    "probability": 0.77
+  },
+  {
+    "word": "-step",
+    "raw_word": "-step",
+    "start": 78.62,
+    "end": 78.86,
+    "startFrame": 2359,
+    "endFrame": 2366,
+    "probability": 0.996
+  },
+  {
+    "word": "deep",
+    "raw_word": "deep",
+    "start": 78.86,
+    "end": 79.22,
+    "startFrame": 2366,
+    "endFrame": 2377,
+    "probability": 0.601
+  },
+  {
+    "word": "dive",
+    "raw_word": "dive",
+    "start": 79.22,
+    "end": 79.46,
+    "startFrame": 2377,
+    "endFrame": 2384,
+    "probability": 0.606
+  },
+  {
+    "word": "video",
+    "raw_word": "video",
+    "start": 79.46,
+    "end": 79.78,
+    "startFrame": 2384,
+    "endFrame": 2393,
+    "probability": 0.976
+  },
+  {
+    "word": "on",
+    "raw_word": "on",
+    "start": 79.78,
+    "end": 79.96,
+    "startFrame": 2393,
+    "endFrame": 2399,
+    "probability": 0.996
+  },
+  {
+    "word": "my",
+    "raw_word": "my",
+    "start": 79.96,
+    "end": 80.06,
+    "startFrame": 2399,
+    "endFrame": 2402,
+    "probability": 0.968
+  },
+  {
+    "word": "YouTube",
+    "raw_word": "YouTube",
+    "start": 80.06,
+    "end": 80.26,
+    "startFrame": 2402,
+    "endFrame": 2408,
+    "probability": 0.658
+  },
+  {
+    "word": "channel.",
+    "raw_word": "channel.",
+    "start": 80.26,
+    "end": 80.7,
+    "startFrame": 2408,
+    "endFrame": 2421,
+    "probability": 0.983
+  },
+  {
+    "word": "We",
+    "raw_word": "We",
+    "start": 80.7,
+    "end": 81.0,
+    "startFrame": 2421,
+    "endFrame": 2430,
+    "probability": 0.3
+  },
+  {
+    "word": "analyze",
+    "raw_word": "analyze",
+    "start": 81.0,
+    "end": 81.32,
+    "startFrame": 2430,
+    "endFrame": 2440,
+    "probability": 0.73
+  },
+  {
+    "word": "balance",
+    "raw_word": "balance",
+    "start": 81.32,
+    "end": 81.72,
+    "startFrame": 2440,
+    "endFrame": 2452,
+    "probability": 0.921
+  },
+  {
+    "word": "sheet,",
+    "raw_word": "sheet,",
+    "start": 81.72,
+    "end": 82.02,
+    "startFrame": 2452,
+    "endFrame": 2461,
+    "probability": 0.993
+  },
+  {
+    "word": "understand",
+    "raw_word": "understand",
+    "start": 82.48,
+    "end": 82.84,
+    "startFrame": 2474,
+    "endFrame": 2485,
+    "probability": 0.965
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 82.84,
+    "end": 83.02,
+    "startFrame": 2485,
+    "endFrame": 2491,
+    "probability": 0.919
+  },
+  {
+    "word": "chart",
+    "raw_word": "chart",
+    "start": 83.02,
+    "end": 83.18,
+    "startFrame": 2491,
+    "endFrame": 2495,
+    "probability": 0.844
+  },
+  {
+    "word": "pattern",
+    "raw_word": "pattern",
+    "start": 83.18,
+    "end": 83.54,
+    "startFrame": 2495,
+    "endFrame": 2506,
+    "probability": 0.98
+  },
+  {
+    "word": "and",
+    "raw_word": "and",
+    "start": 83.54,
+    "end": 83.9,
+    "startFrame": 2506,
+    "endFrame": 2517,
+    "probability": 0.762
+  },
+  {
+    "word": "exact",
+    "raw_word": "exact",
+    "start": 83.9,
+    "end": 84.36,
+    "startFrame": 2517,
+    "endFrame": 2531,
+    "probability": 0.689
+  },
+  {
+    "word": "risk",
+    "raw_word": "risk",
+    "start": 84.36,
+    "end": 84.6,
+    "startFrame": 2531,
+    "endFrame": 2538,
+    "probability": 0.949
+  },
+  {
+    "word": "management",
+    "raw_word": "management",
+    "start": 84.6,
+    "end": 84.82,
+    "startFrame": 2538,
+    "endFrame": 2545,
+    "probability": 0.904
+  },
+  {
+    "word": "strategy",
+    "raw_word": "strategy",
+    "start": 84.82,
+    "end": 85.26,
+    "startFrame": 2545,
+    "endFrame": 2558,
+    "probability": 0.98
+  },
+  {
+    "word": "that",
+    "raw_word": "that",
+    "start": 85.26,
+    "end": 85.46,
+    "startFrame": 2558,
+    "endFrame": 2564,
+    "probability": 0.958
+  },
+  {
+    "word": "I",
+    "raw_word": "I",
+    "start": 85.46,
+    "end": 85.7,
+    "startFrame": 2564,
+    "endFrame": 2571,
+    "probability": 0.941
+  },
+  {
+    "word": "follow",
+    "raw_word": "follow",
+    "start": 85.7,
+    "end": 86.04,
+    "startFrame": 2571,
+    "endFrame": 2581,
+    "probability": 0.972
+  },
+  {
+    "word": "and",
+    "raw_word": "and",
+    "start": 86.04,
+    "end": 86.3,
+    "startFrame": 2581,
+    "endFrame": 2589,
+    "probability": 0.825
+  },
+  {
+    "word": "I",
+    "raw_word": "I",
+    "start": 86.3,
+    "end": 86.44,
+    "startFrame": 2589,
+    "endFrame": 2593,
+    "probability": 0.941
+  },
+  {
+    "word": "teach",
+    "raw_word": "teach",
+    "start": 86.44,
+    "end": 86.62,
+    "startFrame": 2593,
+    "endFrame": 2599,
+    "probability": 0.992
+  },
+  {
+    "word": "community.",
+    "raw_word": "community.",
+    "start": 86.62,
+    "end": 87.12,
+    "startFrame": 2599,
+    "endFrame": 2614,
+    "probability": 0.948
+  },
+  {
+    "word": "For",
+    "raw_word": "For",
+    "start": 87.5,
+    "end": 87.7,
+    "startFrame": 2625,
+    "endFrame": 2631,
+    "probability": 0.976
+  },
+  {
+    "word": "that",
+    "raw_word": "that",
+    "start": 87.7,
+    "end": 87.82,
+    "startFrame": 2631,
+    "endFrame": 2635,
+    "probability": 0.91
+  },
+  {
+    "word": "full",
+    "raw_word": "full",
+    "start": 87.82,
+    "end": 88.1,
+    "startFrame": 2635,
+    "endFrame": 2643,
+    "probability": 0.982
+  },
+  {
+    "word": "video,",
+    "raw_word": "video,",
+    "start": 88.1,
+    "end": 88.46,
+    "startFrame": 2643,
+    "endFrame": 2654,
+    "probability": 0.989
+  },
+  {
+    "word": "click",
+    "raw_word": "click",
+    "start": 88.74,
+    "end": 88.86,
+    "startFrame": 2662,
+    "endFrame": 2666,
+    "probability": 0.954
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 88.86,
+    "end": 89.02,
+    "startFrame": 2666,
+    "endFrame": 2671,
+    "probability": 0.986
+  },
+  {
+    "word": "link",
+    "raw_word": "link",
+    "start": 89.02,
+    "end": 89.16,
+    "startFrame": 2671,
+    "endFrame": 2675,
+    "probability": 0.991
+  },
+  {
+    "word": "in",
+    "raw_word": "in",
+    "start": 89.16,
+    "end": 89.32,
+    "startFrame": 2675,
+    "endFrame": 2680,
+    "probability": 0.973
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 89.32,
+    "end": 89.4,
+    "startFrame": 2680,
+    "endFrame": 2682,
+    "probability": 0.986
+  },
+  {
+    "word": "bio",
+    "raw_word": "bio",
+    "start": 89.4,
+    "end": 89.56,
+    "startFrame": 2682,
+    "endFrame": 2687,
+    "probability": 0.913
+  },
+  {
+    "word": "or",
+    "raw_word": "or",
+    "start": 89.56,
+    "end": 90.06,
+    "startFrame": 2687,
+    "endFrame": 2702,
+    "probability": 0.889
+  },
+  {
+    "word": "check",
+    "raw_word": "check",
+    "start": 90.06,
+    "end": 90.34,
+    "startFrame": 2702,
+    "endFrame": 2710,
+    "probability": 0.969
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 90.34,
+    "end": 90.6,
+    "startFrame": 2710,
+    "endFrame": 2718,
+    "probability": 0.97
+  },
+  {
+    "word": "ping",
+    "raw_word": "ping",
+    "start": 90.6,
+    "end": 90.76,
+    "startFrame": 2718,
+    "endFrame": 2723,
+    "probability": 0.479
+  },
+  {
+    "word": "comment",
+    "raw_word": "comment",
+    "start": 90.76,
+    "end": 91.26,
+    "startFrame": 2723,
+    "endFrame": 2738,
+    "probability": 0.869
+  },
+  {
+    "word": "to",
+    "raw_word": "to",
+    "start": 91.26,
+    "end": 91.52,
+    "startFrame": 2738,
+    "endFrame": 2746,
+    "probability": 0.704
+  },
+  {
+    "word": "watch",
+    "raw_word": "watch",
+    "start": 91.52,
+    "end": 91.68,
+    "startFrame": 2746,
+    "endFrame": 2750,
+    "probability": 0.99
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 91.68,
+    "end": 91.82,
+    "startFrame": 2750,
+    "endFrame": 2755,
+    "probability": 0.987
+  },
+  {
+    "word": "full",
+    "raw_word": "full",
+    "start": 91.82,
+    "end": 91.98,
+    "startFrame": 2755,
+    "endFrame": 2759,
+    "probability": 0.994
+  },
+  {
+    "word": "video",
+    "raw_word": "video",
+    "start": 91.98,
+    "end": 92.32,
+    "startFrame": 2759,
+    "endFrame": 2770,
+    "probability": 0.995
+  },
+  {
+    "word": "right",
+    "raw_word": "right",
+    "start": 92.32,
+    "end": 92.68,
+    "startFrame": 2770,
+    "endFrame": 2780,
+    "probability": 0.962
+  },
+  {
+    "word": "now.",
+    "raw_word": "now.",
+    "start": 92.68,
+    "end": 92.94,
+    "startFrame": 2780,
+    "endFrame": 2788,
+    "probability": 0.994
+  },
+  {
+    "word": "See",
+    "raw_word": "See",
+    "start": 93.38,
+    "end": 93.58,
+    "startFrame": 2801,
+    "endFrame": 2807,
+    "probability": 0.983
+  },
+  {
+    "word": "you",
+    "raw_word": "you",
+    "start": 93.58,
+    "end": 93.68,
+    "startFrame": 2807,
+    "endFrame": 2810,
+    "probability": 0.996
+  },
+  {
+    "word": "in",
+    "raw_word": "in",
+    "start": 93.68,
+    "end": 93.76,
+    "startFrame": 2810,
+    "endFrame": 2813,
+    "probability": 0.902
+  },
+  {
+    "word": "the",
+    "raw_word": "the",
+    "start": 93.76,
+    "end": 93.8,
+    "startFrame": 2813,
+    "endFrame": 2814,
+    "probability": 0.993
+  },
+  {
+    "word": "next",
+    "raw_word": "next",
+    "start": 93.8,
+    "end": 94.0,
+    "startFrame": 2814,
+    "endFrame": 2820,
+    "probability": 0.999
+  },
+  {
+    "word": "one.",
+    "raw_word": "one.",
+    "start": 94.0,
+    "end": 94.14,
+    "startFrame": 2820,
+    "endFrame": 2824,
+    "probability": 0.988
+  }
+]

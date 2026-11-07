@@ -1,0 +1,58 @@
+{
+  "brand_name": "Happy Investing",
+  "mission": "Cut through the market noise, tell only what is fact, zero fear, zero greed, and empower retail investors with actionable clarity.",
+  "creator_persona": {
+    "name": "SaN",
+    "tone": "Authentic, relatable peer, direct, pragmatic, respectful",
+    "delivery_style": "Fast-paced, conversational, non-academic, zero fluff, straight to the point",
+    "target_short_duration_seconds": 35,
+    "banned_intro_phrases": [
+      "Without wasting any time let us get into the video",
+      "Welcome back to my channel",
+      "Make sure to like and subscribe before we start",
+      "I am opening the screener website right now"
+    ]
+  },
+  "emotional_guardrails": {
+    "zero_fear_policy": {
+      "banned_words": [
+        "crash", "bloodbath", "panic", "meltdown", "collapse",
+        "ruined", "disaster", "freefall", "carnage", "doomsday"
+      ],
+      "transformation_rule": "Replace panic with structural explanation: Why did prices move? What was the liquidity or valuation driver?"
+    },
+    "zero_greed_policy": {
+      "banned_words": [
+        "100x", "multibagger", "guaranteed profit", "double your money",
+        "secret stock", "next big thing", "jackpot", "rocket"
+      ],
+      "transformation_rule": "Replace speculative greed with risk-adjusted reality: What are the fundamentals, debt levels, and valuation multiples?"
+    }
+  },
+  "visual_motion_elements": {
+    "evidence_paper": {
+      "component": "NewspaperHeadline.tsx",
+      "description": "3D tilted card with simulated yellow highlighter over key fact or headline"
+    },
+    "stock_pills": {
+      "component": "StockTickerBadge.tsx / USBluechipTickerBar.tsx",
+      "description": "Floating ticker pills with company logo and clean metrics"
+    },
+    "ui_walkthrough": {
+      "component": "UIRippleHighlight.tsx / StepCalloutBadge.tsx",
+      "description": "Step 1, Step 2, Step 3 badges and pulsing ripple pointer for app walkthroughs"
+    },
+    "comparison_card": {
+      "component": "ComparisonVersus.tsx",
+      "description": "Split screen or side-by-side battle with green checks and red Xs"
+    },
+    "financial_chart": {
+      "component": "FinancialLineChart.tsx",
+      "description": "Animated cubic bezier line chart with glow dot and milestone callouts"
+    },
+    "kinetic_captions": {
+      "component": "KineticWordCaptions.tsx",
+      "description": "3-5 words at a time with mint green / electric blue word highlights"
+    }
+  }
+}

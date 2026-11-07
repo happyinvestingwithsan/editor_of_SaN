@@ -1,0 +1,334 @@
+{
+  "project": "EQUITAS SMALL FINANCE BANK — PERSONAL INVESTMENT THESIS & RISK MANAGEMENT",
+  "masterCutDurationFrames": 4893,
+  "fps": 30,
+  "totalDurationSec": 163.1,
+  "scenes": [
+    {
+      "sceneId": "SCENE_01",
+      "title": "What Am I Doing With My Own Money? / Simple Valuation",
+      "startFrame": 0,
+      "endFrame": 219,
+      "durationFrames": 220,
+      "startTime": "00:00:00.000",
+      "endTime": "00:00:07.300",
+      "narration": "What is my personal view and what am I doing with my own money in this stock? Let's look at a simple valuation.",
+      "camera": {
+        "framing": "Center Face-Cam (0-145) -> Smooth Glide to Left (145-219)",
+        "scale": "1.00 -> 1.04 -> 1.18",
+        "panX": "0px -> -280px"
+      },
+      "graphics": {
+        "component": "OpeningHeading (15-145) & ValuationComparisonCard entrance (150+)",
+        "badge": "MY PERSONAL INVESTMENT THESIS",
+        "title": "EQUITAS — SIMPLE VALUATION"
+      },
+      "sfx": [
+        { "frame": 152, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_02",
+      "title": "Book Value versus Market Price (12-14% Discount)",
+      "startFrame": 220,
+      "endFrame": 698,
+      "durationFrames": 479,
+      "startTime": "00:00:07.333",
+      "endTime": "00:00:23.267",
+      "narration": "The book value of this equidaz is around 57 rupees. And the stock, when I was seeing it, was trading around somewhere around 49 or 50 rupees. That means you are buying this bank at a discount of 50% already with respect to the actual network.",
+      "camera": {
+        "framing": "Left Side Framing (Presenter anchored at left X: 250px)",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "ValuationComparisonCard",
+        "metrics": {
+          "bookValue": "₹57",
+          "marketPrice": "₹49–50",
+          "verifiedDiscount": "APPROX. 12% – 14% BELOW BOOK VALUE",
+          "pbRatio": "P/B < 0.88x"
+        },
+        "criticalCorrection": "Visual displays true 12-14% discount; audio 50% error preserved and noted in QA report"
+      },
+      "sfx": [
+        { "frame": 232, "file": "metallic_counter_tick.wav" },
+        { "frame": 358, "file": "metallic_counter_tick.wav" },
+        { "frame": 508, "file": "metallic_counter_tick.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_03",
+      "title": "The Bank's Profitability (₹200+ Cr/Qtr & ₹800+ Cr Run Rate)",
+      "startFrame": 700,
+      "endFrame": 956,
+      "durationFrames": 257,
+      "startTime": "00:00:23.333",
+      "endTime": "00:00:31.867",
+      "narration": "On top of that, the bank is making over 200 crores of profit every single quarter. This is more than 800 crores in a single year.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "ProfitAnnualisationCard",
+        "blocks": ["Q1: ₹200+ Cr", "Q2: ₹200+ Cr", "Q3: ₹200+ Cr", "Q4: ₹200+ Cr"],
+        "annualized": "₹800+ CRORE",
+        "label": "ILLUSTRATIVE ANNUALISED RUN RATE"
+      },
+      "sfx": [
+        { "frame": 702, "file": "clean_transition_whoosh.wav" },
+        { "frame": 838, "file": "metallic_counter_tick.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_04",
+      "title": "The 3-Pillar Investment Thesis & Temporary Pain",
+      "startFrame": 960,
+      "endFrame": 1275,
+      "durationFrames": 316,
+      "startTime": "00:00:32.000",
+      "endTime": "00:00:42.500",
+      "narration": "So, the bank is profitable and bad loans are down and the stock is selling at a big discount. Because of a small issue, maybe the big issue, but temporary pain.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "InvestmentThesisCard",
+        "pillars": ["PROFITABLE BANK", "BAD-LOAN TREND DOWN", "VALUATION DISCOUNT"],
+        "synthesis": "VALUATION + PROFITABILITY + RISK ASSESSMENT",
+        "highlight": "TEMPORARY PAIN (ISSUE UNDER ASSESSMENT)"
+      },
+      "sfx": [
+        { "frame": 962, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_05",
+      "title": "My Actual Investment (Small Initial Entry & Reserved Cash)",
+      "startFrame": 1276,
+      "endFrame": 1820,
+      "durationFrames": 545,
+      "startTime": "00:00:42.533",
+      "endTime": "00:01:00.667",
+      "narration": "Now to be completely honest and transparent with you, I have taken a little question in this today because of the said reason. I bought a small quantity to participate in this deep discount, but not put my all money. Not even all my capital that is allocated for this bank.",
+      "camera": {
+        "framing": "Center Address (1270-1380) -> Ease to Left (1380-1820)",
+        "scale": "1.06 -> 1.18",
+        "panX": "0px -> -280px"
+      },
+      "graphics": {
+        "component": "PersonalPositionAllocation",
+        "capitalBar": {
+          "deployed": "SMALL INITIAL ENTRY (~25%)",
+          "reserved": "CASH RESERVED (~75%)"
+        },
+        "principle": "Capital budgeted for Equitas SFB, not total portfolio"
+      },
+      "sfx": [
+        { "frame": 1382, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_06",
+      "title": "Why Not Invest Everything? (Succession & Market Settlement)",
+      "startFrame": 1825,
+      "endFrame": 2155,
+      "durationFrames": 331,
+      "startTime": "00:01:00.833",
+      "endTime": "00:01:11.833",
+      "narration": "Why? Because the CEO change will take few months. Because last time also they did not find and this time also they will take time. And the price will take few days to settle down.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "SuccessionAndMarketCard",
+        "rationales": [
+          "SUCCESSION PROCESS: TIME REQUIRED (4-6 Months)",
+          "PRICE DISCOVERY: MARKET SETTLEMENT (Base Formation)"
+        ]
+      },
+      "sfx": [
+        { "frame": 1838, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_07",
+      "title": "Staged Entry Strategy (10–20% Decline Reserve Plan)",
+      "startFrame": 2160,
+      "endFrame": 2490,
+      "durationFrames": 331,
+      "startTime": "00:01:12.000",
+      "endTime": "00:01:23.000",
+      "narration": "Again, you will get an opportunity at the same price band. So, I have kept the cash ready to add a second portion and third portion when the stock falls again 10 to 20% from here.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "StagedEntryDiagram",
+        "stages": [
+          "STAGE 1: INITIAL POSITION (ACTIVE)",
+          "STAGE 2: POTENTIAL ADDITION (-10%)",
+          "STAGE 3: FINAL POSITION (-20%)"
+        ],
+        "disclaimer": "MY PERSONAL PLAN — NOT A BUY RECOMMENDATION"
+      },
+      "sfx": [
+        { "frame": 2162, "file": "clean_transition_whoosh.wav" },
+        { "frame": 2262, "file": "metallic_counter_tick.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_08",
+      "title": "Do Not Blindly Copy My Trade",
+      "startFrame": 2492,
+      "endFrame": 2910,
+      "durationFrames": 419,
+      "startTime": "00:01:23.067",
+      "endTime": "00:01:37.000",
+      "narration": "Please do not blindly buy this stock just because I bought a little and or just because you are seeing this video and just because 30% of the crash. My risk tolerance and my financial situation might be completely different.",
+      "camera": {
+        "framing": "Full Center Direct Address (Maximum Authenticity & Eye Contact)",
+        "scale": "1.08",
+        "panX": "0px"
+      },
+      "graphics": {
+        "component": "DoNotCopyCard (2505-2660)",
+        "banner": "DO NOT BLINDLY COPY MY TRADE (Amber Accent)",
+        "breathing": "Frames 2661-2910 completely free of graphics for direct delivery"
+      },
+      "sfx": [
+        { "frame": 2506, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_09",
+      "title": "Personal Portfolio Allocation Rules (1.5%, 3%, 5%)",
+      "startFrame": 2915,
+      "endFrame": 3215,
+      "durationFrames": 301,
+      "startTime": "00:01:37.167",
+      "endTime": "00:01:47.167",
+      "narration": "For example, in my own portfolio, I never put more than 1.5% for a small cap, 3% for a mid cap and 5% for a large cap. That's the way I manage my risk.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "PositionSizingCards",
+        "tiers": [
+          { "name": "SMALL CAP", "limit": "1.5%" },
+          { "name": "MID CAP", "limit": "3.0%" },
+          { "name": "LARGE CAP", "limit": "5.0%" }
+        ],
+        "subline": "DISCIPLINED RISK MANAGEMENT FRAMEWORK"
+      },
+      "sfx": [
+        { "frame": 2918, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_10",
+      "title": "Protecting The Overall Portfolio & Peaceful Sleep",
+      "startFrame": 3220,
+      "endFrame": 3675,
+      "durationFrames": 456,
+      "startTime": "00:01:47.333",
+      "endTime": "00:02:02.500",
+      "narration": "That way even something unexpected happens. My overall portfolio is at least safe where it can avoid the bleeding in overall portfolio. My overall portfolio is somewhat safe so that I can have a peaceful sleep at night, which I actually value more than anything.",
+      "camera": {
+        "framing": "Left Side Framing (3220-3465) -> Center Emotional Core (3465-3675)",
+        "scale": "1.18 -> 1.05",
+        "panX": "-280px -> 0px"
+      },
+      "graphics": {
+        "component": "PortfolioRiskIllustration (3220-3470)",
+        "headline": "LIMIT CONCENTRATION RISK",
+        "arithmetic": "Single stock -20% drop = -0.30% total portfolio impact",
+        "breathing": "Frames 3470-3675 100% graphic-free for emotional connection"
+      },
+      "sfx": [
+        { "frame": 3222, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_11",
+      "title": "Final Investor Responsibility & Due Diligence",
+      "startFrame": 3680,
+      "endFrame": 4190,
+      "durationFrames": 511,
+      "startTime": "00:02:02.667",
+      "endTime": "00:02:19.667",
+      "narration": "So, please take the knowledge and the framework that we have discussed today. Check the numbers yourself through your own due diligence. And always consult with a certified financial advisor before making any decisions. If you have someone like that, otherwise you do the due diligence.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "InvestorResponsibilityCard",
+        "steps": [
+          "1. VERIFY THE NUMBERS",
+          "2. DO YOUR OWN DUE DILIGENCE",
+          "3. CONSULT A CERTIFIED ADVISOR"
+        ]
+      },
+      "sfx": [
+        { "frame": 3682, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_12",
+      "title": "Community Discussion & Engagement CTA",
+      "startFrame": 4195,
+      "endFrame": 4650,
+      "durationFrames": 456,
+      "startTime": "00:02:19.833",
+      "endTime": "00:02:35.000",
+      "narration": "With this video, help you to cut through the panic, fear and see the real facts behind the screen. Please hit the like button. Share this with your investor friends and tell me in the comments if you have any questions and what is your view on equity finance right now.",
+      "camera": {
+        "framing": "Left Side Framing",
+        "scale": "1.18",
+        "panX": "-280px"
+      },
+      "graphics": {
+        "component": "EngagementCTA",
+        "actions": ["HIT LIKE", "SHARE WITH FRIENDS"],
+        "prompt": "WHAT IS YOUR VIEW ON EQUITAS FINANCE RIGHT NOW?"
+      },
+      "sfx": [
+        { "frame": 4368, "file": "clean_transition_whoosh.wav" }
+      ]
+    },
+    {
+      "sceneId": "SCENE_13",
+      "title": "Happy Investing Sign-off",
+      "startFrame": 4655,
+      "endFrame": 4893,
+      "durationFrames": 239,
+      "startTime": "00:02:35.167",
+      "endTime": "00:02:43.100",
+      "narration": "With that said, in this market, stay calm, stay disciplined and as usual. Thanks for your time, thanks for your patience, happy investing.",
+      "camera": {
+        "framing": "Center Full Face-Camera",
+        "scale": "1.00",
+        "panX": "0px"
+      },
+      "graphics": {
+        "component": "HappyInvestingOutro",
+        "reveals": ["STAY CALM.", "STAY DISCIPLINED.", "HAPPY INVESTING"]
+      },
+      "sfx": [
+        { "frame": 4810, "file": "soft_bell.wav" }
+      ]
+    }
+  ]
+}

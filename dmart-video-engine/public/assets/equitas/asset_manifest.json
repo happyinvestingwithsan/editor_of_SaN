@@ -1,0 +1,316 @@
+{
+  "project": "Equitas Small Finance Bank CEO Resignation Investigation",
+  "version": "1.0.0",
+  "total_assets": 17,
+  "directories": {
+    "production_root": "D:\\QuickShare\\Pathfinder Oc 22nd\\equitas_ceo_investigation\\03_assets",
+    "remotion_public_root": "D:\\AI Projects\\Editor_of_SaN\\dmart-video-engine\\public\\assets\\equitas",
+    "remotion_audio_root": "D:\\AI Projects\\Editor_of_SaN\\dmart-video-engine\\public\\audio"
+  },
+  "categories": {
+    "authentic_logos": [
+      {
+        "id": "equitas_logo_svg",
+        "filename": "equitas_small_finance_bank_logo.svg",
+        "local_path": "company_logos/equitas_small_finance_bank_logo.svg",
+        "remotion_path": "assets/equitas/company_logos/equitas_small_finance_bank_logo.svg",
+        "source_type": "authentic",
+        "source_url": "https://raw.githubusercontent.com/praveenpuglia/indian-banks/master/assets/logos/esfb/logo.svg (Matching equitas.bank.in Group_2_cad9c29024.svg)",
+        "resolution": "Vector SVG (viewBox 0 0 235.546 55.205)",
+        "brand_colors": [
+          "#005953 (Teal)",
+          "#F58220 (Orange)"
+        ],
+        "licensing": "Corporate Identity & Trademark of Equitas Small Finance Bank Ltd. Editorial / Fair Dealing.",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 03",
+          "Scene 06",
+          "Scene 07"
+        ]
+      },
+      {
+        "id": "equitas_logo_png",
+        "filename": "equitas_small_finance_bank_logo.png",
+        "local_path": "company_logos/equitas_small_finance_bank_logo.png",
+        "remotion_path": "assets/equitas/company_logos/equitas_small_finance_bank_logo.png",
+        "source_type": "authentic",
+        "source_url": "https://raw.githubusercontent.com/praveenpuglia/indian-banks/master/assets/logos/esfb/logo.png",
+        "resolution": "236 x 55 px (Transparent PNG)",
+        "brand_colors": [
+          "#005953 (Teal)",
+          "#F58220 (Orange)"
+        ],
+        "licensing": "Corporate Identity & Trademark of Equitas Small Finance Bank Ltd.",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 03",
+          "Scene 06",
+          "Scene 07"
+        ]
+      },
+      {
+        "id": "equitas_symbol_svg",
+        "filename": "equitas_small_finance_bank_symbol.svg",
+        "local_path": "company_logos/equitas_small_finance_bank_symbol.svg",
+        "remotion_path": "assets/equitas/company_logos/equitas_small_finance_bank_symbol.svg",
+        "source_type": "authentic",
+        "source_url": "https://raw.githubusercontent.com/praveenpuglia/indian-banks/master/assets/logos/esfb/symbol.svg",
+        "resolution": "Vector SVG (viewBox 0 0 54.346 55.205)",
+        "brand_colors": [
+          "#005953 (Teal)",
+          "#F58220 (Orange)"
+        ],
+        "licensing": "Brand Mark / Trademark of Equitas Small Finance Bank Ltd.",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 03",
+          "Scene 07"
+        ]
+      },
+      {
+        "id": "unico_logo_svg",
+        "filename": "unico_housing_finance_logo.svg",
+        "local_path": "company_logos/unico_housing_finance_logo.svg",
+        "remotion_path": "assets/equitas/company_logos/unico_housing_finance_logo.svg",
+        "source_type": "authentic",
+        "source_url": "https://unicowebsite.s3.ap-south-1.amazonaws.com/foter_logo.svg (unicohousingfinance.com)",
+        "resolution": "Vector SVG (viewBox 0 0 203 109)",
+        "brand_colors": [
+          "#1A365D (Navy)",
+          "#00B4D8 (Cyan)"
+        ],
+        "licensing": "Corporate Identity of Unico Housing Finance Private Limited. Editorial / Fair Dealing.",
+        "target_scenes": [
+          "Scene 03",
+          "Scene 04",
+          "Scene 05"
+        ]
+      },
+      {
+        "id": "rbi_seal_svg",
+        "filename": "rbi_seal.svg",
+        "local_path": "company_logos/rbi_seal.svg",
+        "remotion_path": "assets/equitas/company_logos/rbi_seal.svg",
+        "source_type": "authentic",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Reserve_Bank_of_India.svg",
+        "resolution": "Vector SVG (viewBox 0 0 400 400)",
+        "brand_colors": [
+          "#FFD700 (Gold)",
+          "#000000 (Black)",
+          "#8B4513 (Seal Brown)"
+        ],
+        "licensing": "Public Domain in India / Official Emblem of Reserve Bank of India",
+        "target_scenes": [
+          "Scene 03",
+          "Scene 05",
+          "Scene 07"
+        ]
+      }
+    ],
+    "authentic_portraits_and_photographs": [
+      {
+        "id": "pn_vasudevan_authentic_highres",
+        "filename": "pn_vasudevan_founder_ceo_authentic.jpg",
+        "local_path": "portraits/pn_vasudevan_founder_ceo_authentic.jpg",
+        "remotion_path": "assets/equitas/portraits/pn_vasudevan_founder_ceo_authentic.jpg",
+        "source_type": "authentic",
+        "source_url": "https://www.livemint.com/lm-img/img/2026/10/29/original/3-0-110089113-pnvasudevan3-0.JPG",
+        "resolution": "3680 x 2456 px",
+        "licensing": "Editorial Press Photography / Fair Dealing for News & Educational Commentary",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 03",
+          "Scene 06",
+          "Scene 07"
+        ],
+        "compliance_note": "100% authentic photograph of P.N. Vasudevan. Strict compliance with anti-AI human mandate."
+      },
+      {
+        "id": "pn_vasudevan_cutout",
+        "filename": "pn_vasudevan_founder_ceo_cutout.png",
+        "local_path": "portraits/pn_vasudevan_founder_ceo_cutout.png",
+        "remotion_path": "assets/equitas/portraits/pn_vasudevan_founder_ceo_cutout.png",
+        "source_type": "authentic",
+        "source_url": "RemBg alpha cutout from 3680x2456 authentic photograph",
+        "resolution": "1920 x 1281 px (RGBA Transparent PNG)",
+        "licensing": "Editorial Press Photography / Fair Dealing",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 03",
+          "Scene 06",
+          "Scene 07"
+        ],
+        "compliance_note": "Alpha cutout derived directly from authentic photo."
+      },
+      {
+        "id": "pn_vasudevan_annual_report",
+        "filename": "pn_vasudevan_annual_report_official.jpg",
+        "local_path": "portraits/pn_vasudevan_annual_report_official.jpg",
+        "remotion_path": "assets/equitas/portraits/pn_vasudevan_annual_report_official.jpg",
+        "source_type": "authentic",
+        "source_url": "https://archives.nseindia.com/corporate/EQUITASBNK_19072021213456_ESFBLReg34NoticeandAnnualReport2021.pdf (Page 28)",
+        "resolution": "259 x 428 px",
+        "licensing": "Equitas SFB Public Regulatory Filing (NSE/BSE). Public Record.",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 07"
+        ]
+      },
+      {
+        "id": "rbi_headquarters_mumbai",
+        "filename": "rbi_headquarters_mumbai.jpg",
+        "local_path": "photographs/rbi_headquarters_mumbai.jpg",
+        "remotion_path": "assets/equitas/photographs/rbi_headquarters_mumbai.jpg",
+        "source_type": "authentic",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tower_and_building_of_Reserve_Bank_of_India,_Mumbai_01.jpg",
+        "resolution": "3096 x 4128 px",
+        "licensing": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "target_scenes": [
+          "Scene 03",
+          "Scene 05",
+          "Scene 07"
+        ]
+      }
+    ],
+    "cinematic_ai_generated_assets": [
+      {
+        "id": "elephant_in_the_room",
+        "filename": "elephant_in_the_room.jpg",
+        "local_path": "generated_images/elephant_in_the_room.jpg",
+        "remotion_path": "assets/equitas/generated_images/elephant_in_the_room.jpg",
+        "source_type": "ai_generated",
+        "generator_method": "Imagen 3 / High-Precision Prompt Art Direction",
+        "resolution": "1920 x 1080 px (16:9 Full HD)",
+        "visual_description": "Dramatic elephant silhouette standing inside a dark moody concrete room with a single overhead spotlight cone and volumetric haze.",
+        "licensing": "Custom generated asset for this production.",
+        "target_scenes": [
+          "Scene 01"
+        ]
+      },
+      {
+        "id": "empty_executive_chair",
+        "filename": "empty_executive_chair.jpg",
+        "local_path": "generated_images/empty_executive_chair.jpg",
+        "remotion_path": "assets/equitas/generated_images/empty_executive_chair.jpg",
+        "source_type": "ai_generated",
+        "generator_method": "Imagen 3 / High-Precision Prompt Art Direction",
+        "resolution": "1920 x 1080 px (16:9 Full HD)",
+        "visual_description": "Moody executive CEO leather armchair at the head of a mahogany boardroom conference table overlooking nighttime skyline bokeh.",
+        "licensing": "Custom generated asset for this production.",
+        "target_scenes": [
+          "Scene 01",
+          "Scene 08"
+        ]
+      },
+      {
+        "id": "investigation_desk_dossier",
+        "filename": "investigation_desk_dossier.jpg",
+        "local_path": "generated_images/investigation_desk_dossier.jpg",
+        "remotion_path": "assets/equitas/generated_images/investigation_desk_dossier.jpg",
+        "source_type": "ai_generated",
+        "generator_method": "Imagen 3 / High-Precision Prompt Art Direction",
+        "resolution": "1920 x 1080 px (16:9 Full HD)",
+        "visual_description": "Forensic financial investigation desk with audited balance sheets, red checkmarks, subtle redactions, and brass magnifying glass.",
+        "licensing": "Custom generated asset for this production.",
+        "target_scenes": [
+          "Scene 04",
+          "Scene 05"
+        ]
+      },
+      {
+        "id": "market_uncertainty_volatility",
+        "filename": "market_uncertainty_volatility.jpg",
+        "local_path": "generated_images/market_uncertainty_volatility.jpg",
+        "remotion_path": "assets/equitas/generated_images/market_uncertainty_volatility.jpg",
+        "source_type": "ai_generated",
+        "generator_method": "Imagen 3 / High-Precision Prompt Art Direction",
+        "resolution": "1920 x 1080 px (16:9 Full HD)",
+        "visual_description": "Dark abstract financial market volatility backdrop with a glowing amber trendline cutting through atmospheric smoke and particle bokeh.",
+        "licensing": "Custom generated asset for this production.",
+        "target_scenes": [
+          "Scene 06"
+        ]
+      }
+    ],
+    "sound_design_assets": [
+      {
+        "id": "sfx_cinematic_sub_rumble_drone",
+        "filename": "cinematic_sub_rumble_drone.wav",
+        "local_path": "audio/cinematic_sub_rumble_drone.wav",
+        "remotion_path": "audio/cinematic_sub_rumble_drone.wav",
+        "source_type": "procedural_synthesis",
+        "generator_method": "SciPy/NumPy 48kHz Acoustic Sub-Bass Generator (45Hz/58Hz dual sine + low-pass brown noise + saturation)",
+        "sample_rate": 48000,
+        "bit_depth": 16,
+        "duration_seconds": 5.0,
+        "licensing": "Royalty-free / Original Production Audio",
+        "target_scenes": [
+          "Scene 01"
+        ]
+      },
+      {
+        "id": "sfx_cinematic_impact_hit",
+        "filename": "cinematic_impact_hit.wav",
+        "local_path": "audio/cinematic_impact_hit.wav",
+        "remotion_path": "audio/cinematic_impact_hit.wav",
+        "source_type": "procedural_synthesis",
+        "generator_method": "SciPy/NumPy 48kHz Pitch-Dive Transient + Sub Boom (135Hz->44Hz dive + punch)",
+        "sample_rate": 48000,
+        "bit_depth": 16,
+        "duration_seconds": 2.5,
+        "licensing": "Royalty-free / Original Production Audio",
+        "target_scenes": [
+          "Scene 02",
+          "Scene 03"
+        ]
+      },
+      {
+        "id": "sfx_paper_document_shuffle",
+        "filename": "paper_document_shuffle.wav",
+        "local_path": "audio/paper_document_shuffle.wav",
+        "remotion_path": "audio/paper_document_shuffle.wav",
+        "source_type": "procedural_synthesis",
+        "generator_method": "SciPy/NumPy 48kHz Granular Paper Rustle (1.6kHz-7.2kHz bandpass noise burst envelope with micro-flutter)",
+        "sample_rate": 48000,
+        "bit_depth": 16,
+        "duration_seconds": 1.2,
+        "licensing": "Royalty-free / Original Production Audio",
+        "target_scenes": [
+          "Scene 04",
+          "Scene 05"
+        ]
+      },
+      {
+        "id": "sfx_metallic_counter_tick",
+        "filename": "metallic_counter_tick.wav",
+        "local_path": "audio/metallic_counter_tick.wav",
+        "remotion_path": "audio/metallic_counter_tick.wav",
+        "source_type": "procedural_synthesis",
+        "generator_method": "SciPy/NumPy 48kHz Resonant Click (3.6kHz & 5.4kHz dual resonant ring + 20ms steep decay)",
+        "sample_rate": 48000,
+        "bit_depth": 16,
+        "duration_seconds": 0.25,
+        "licensing": "Royalty-free / Original Production Audio",
+        "target_scenes": [
+          "Scene 04"
+        ]
+      },
+      {
+        "id": "sfx_clean_transition_whoosh",
+        "filename": "clean_transition_whoosh.wav",
+        "local_path": "audio/clean_transition_whoosh.wav",
+        "remotion_path": "audio/clean_transition_whoosh.wav",
+        "source_type": "procedural_synthesis",
+        "generator_method": "SciPy/NumPy 48kHz Modulated Bandpass Filter Sweep (220Hz -> 2800Hz -> 180Hz)",
+        "sample_rate": 48000,
+        "bit_depth": 16,
+        "duration_seconds": 0.85,
+        "licensing": "Royalty-free / Original Production Audio",
+        "target_scenes": [
+          "Scene Transitions (Scene 01-02, 03-04, 06-07, 08-09)"
+        ]
+      }
+    ]
+  }
+}

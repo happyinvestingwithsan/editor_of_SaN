@@ -1,0 +1,165 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-07",
+  "categories": {
+    "sfx": {
+      "micro_haptics": [
+        {
+          "name": "pop.wav",
+          "path": "01_VAULT/sfx/micro_haptics/pop.wav",
+          "tags": ["pop", "bubble", "snappy", "teal_white", "short", "badge_reveal"],
+          "durationMs": 150
+        },
+        {
+          "name": "key_click.wav",
+          "path": "01_VAULT/sfx/micro_haptics/key_click.wav",
+          "tags": ["click", "keyboard", "subtle", "ui", "clean"],
+          "durationMs": 80
+        },
+        {
+          "name": "metallic_counter_tick.wav",
+          "path": "01_VAULT/sfx/micro_haptics/metallic_counter_tick.wav",
+          "tags": ["tick", "counter", "odometer", "gold_black", "ticker", "numbers"],
+          "durationMs": 120
+        },
+        {
+          "name": "cash_chime.wav",
+          "path": "01_VAULT/sfx/micro_haptics/cash_chime.wav",
+          "tags": ["money", "profit", "chime", "success", "sip", "groww"],
+          "durationMs": 650
+        },
+        {
+          "name": "soft_bell.wav",
+          "path": "01_VAULT/sfx/micro_haptics/soft_bell.wav",
+          "tags": ["bell", "notification", "alert", "clean"],
+          "durationMs": 400
+        }
+      ],
+      "kinetic_foley": [
+        {
+          "name": "paper_document_shuffle.wav",
+          "path": "01_VAULT/sfx/kinetic_foley/paper_document_shuffle.wav",
+          "tags": ["paper", "rhp", "document", "newspaper", "audit", "forensic"],
+          "durationMs": 800
+        },
+        {
+          "name": "stamp.wav",
+          "path": "01_VAULT/sfx/kinetic_foley/stamp.wav",
+          "tags": ["stamp", "verified", "rejected", "sebi", "rule", "impact"],
+          "durationMs": 350
+        },
+        {
+          "name": "padlock.wav",
+          "path": "01_VAULT/sfx/kinetic_foley/padlock.wav",
+          "tags": ["lock", "lockin", "security", "promoter_holding"],
+          "durationMs": 300
+        }
+      ],
+      "impacts_transitions": [
+        {
+          "name": "cinematic_impact_hit.wav",
+          "path": "01_VAULT/sfx/impacts_transitions/cinematic_impact_hit.wav",
+          "tags": ["impact", "heavy", "808", "cinematic", "chapter_start", "gold_black"],
+          "durationMs": 1200
+        },
+        {
+          "name": "cinematic_sub_rumble_drone.wav",
+          "path": "01_VAULT/sfx/impacts_transitions/cinematic_sub_rumble_drone.wav",
+          "tags": ["drone", "tension", "sub_bass", "crisis", "fear", "forensic"],
+          "durationMs": 2500
+        },
+        {
+          "name": "clean_transition_whoosh.wav",
+          "path": "01_VAULT/sfx/impacts_transitions/clean_transition_whoosh.wav",
+          "tags": ["whoosh", "transition", "swipe", "smooth", "card_dock"],
+          "durationMs": 500
+        },
+        {
+          "name": "whoosh.wav",
+          "path": "01_VAULT/sfx/impacts_transitions/whoosh.wav",
+          "tags": ["whoosh", "fast", "snappy", "reel", "teal_white"],
+          "durationMs": 350
+        },
+        {
+          "name": "boom.wav",
+          "path": "01_VAULT/sfx/impacts_transitions/boom.wav",
+          "tags": ["boom", "bass", "revelation", "truth"],
+          "durationMs": 800
+        },
+        {
+          "name": "fracture.wav",
+          "path": "01_VAULT/sfx/impacts_transitions/fracture.wav",
+          "tags": ["fracture", "crash", "fall", "crack", "drawdown"],
+          "durationMs": 300
+        }
+      ]
+    },
+    "broll": {
+      "market_panic": [
+        {
+          "name": "fall_in_tradingview.mp4",
+          "path": "01_VAULT/broll/market_panic/fall_in_tradingview.mp4",
+          "tags": ["tradingview", "chart_crash", "red_candles", "stock_fall"],
+          "resolution": "1920x1080"
+        }
+      ],
+      "corporate_forensic": [
+        {
+          "name": "broll_screener_pe81.mp4",
+          "path": "01_VAULT/broll/corporate_forensic/broll_screener_pe81.mp4",
+          "tags": ["screener", "valuation", "pe_ratio", "balance_sheet"],
+          "resolution": "1920x1080"
+        },
+        {
+          "name": "broll_fundamental.mp4",
+          "path": "01_VAULT/broll/corporate_forensic/broll_fundamental.mp4",
+          "tags": ["fundamental_analysis", "screener", "margins", "profit"],
+          "resolution": "1920x1080"
+        },
+        {
+          "name": "broll_technical.mp4",
+          "path": "01_VAULT/broll/corporate_forensic/broll_technical.mp4",
+          "tags": ["technical_analysis", "200_dma", "moving_average", "breakout"],
+          "resolution": "1920x1080"
+        },
+        {
+          "name": "broll_dixon_pli.mp4",
+          "path": "01_VAULT/broll/corporate_forensic/broll_dixon_pli.mp4",
+          "tags": ["pli_scheme", "manufacturing", "electronics", "capex"],
+          "resolution": "1920x1080"
+        }
+      ]
+    },
+    "reactions_emotions": {
+      "shock_disbelief": [
+        {
+          "name": "panicked_retailer.jpg",
+          "path": "01_VAULT/reactions_emotions/shock_disbelief/panicked_retailer.jpg",
+          "tags": ["panic", "shock", "retail_investor", "loss"]
+        },
+        {
+          "name": "whisper_yes_bank.png",
+          "path": "01_VAULT/reactions_emotions/shock_disbelief/whisper_yes_bank.png",
+          "tags": ["whisper", "rumor", "yes_bank", "crash"]
+        },
+        {
+          "name": "whisper_yes_bank_paranoia.jpg",
+          "path": "01_VAULT/reactions_emotions/shock_disbelief/whisper_yes_bank_paranoia.jpg",
+          "tags": ["paranoia", "fear", "uncertainty"]
+        }
+      ],
+      "skepticism_doubt": [
+        {
+          "name": "investor_due_diligence.jpg",
+          "path": "01_VAULT/reactions_emotions/skepticism_doubt/investor_due_diligence.jpg",
+          "tags": ["due_diligence", "analyst", "investigation", "forensic"]
+        },
+        {
+          "name": "investor_pushing_noise.jpg",
+          "path": "01_VAULT/reactions_emotions/skepticism_doubt/investor_pushing_noise.jpg",
+          "tags": ["push_noise", "discipline", "happy_investing", "calm"]
+        }
+      ]
+    }
+  }
+}

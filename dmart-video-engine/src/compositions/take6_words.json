@@ -1,0 +1,6220 @@
+{
+  "duration_sec": 139.906,
+  "duration_frames": 4197,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "start_frame": 0,
+      "end_frame": 173,
+      "text": "And that brings us to the final verdict. Will I personally apply for Reliance Geo IPO?",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 0.22,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "word": "that",
+          "start": 0.22,
+          "end": 0.6,
+          "start_frame": 7,
+          "end_frame": 18
+        },
+        {
+          "word": "brings",
+          "start": 0.6,
+          "end": 0.98,
+          "start_frame": 18,
+          "end_frame": 29
+        },
+        {
+          "word": "us",
+          "start": 0.98,
+          "end": 1.32,
+          "start_frame": 29,
+          "end_frame": 40
+        },
+        {
+          "word": "to",
+          "start": 1.32,
+          "end": 1.56,
+          "start_frame": 40,
+          "end_frame": 47
+        },
+        {
+          "word": "the",
+          "start": 1.56,
+          "end": 1.66,
+          "start_frame": 47,
+          "end_frame": 50
+        },
+        {
+          "word": "final",
+          "start": 1.66,
+          "end": 1.96,
+          "start_frame": 50,
+          "end_frame": 59
+        },
+        {
+          "word": "verdict.",
+          "start": 1.96,
+          "end": 2.42,
+          "start_frame": 59,
+          "end_frame": 73
+        },
+        {
+          "word": "Will",
+          "start": 2.92,
+          "end": 3.12,
+          "start_frame": 88,
+          "end_frame": 94
+        },
+        {
+          "word": "I",
+          "start": 3.12,
+          "end": 3.22,
+          "start_frame": 94,
+          "end_frame": 97
+        },
+        {
+          "word": "personally",
+          "start": 3.22,
+          "end": 3.84,
+          "start_frame": 97,
+          "end_frame": 115
+        },
+        {
+          "word": "apply",
+          "start": 3.84,
+          "end": 4.44,
+          "start_frame": 115,
+          "end_frame": 133
+        },
+        {
+          "word": "for",
+          "start": 4.44,
+          "end": 4.68,
+          "start_frame": 133,
+          "end_frame": 140
+        },
+        {
+          "word": "Reliance",
+          "start": 4.68,
+          "end": 5.08,
+          "start_frame": 140,
+          "end_frame": 152
+        },
+        {
+          "word": "Geo",
+          "start": 5.08,
+          "end": 5.5,
+          "start_frame": 152,
+          "end_frame": 165
+        },
+        {
+          "word": "IPO?",
+          "start": 5.5,
+          "end": 5.76,
+          "start_frame": 165,
+          "end_frame": 173
+        }
+      ]
+    },
+    {
+      "start": 6.74,
+      "end": 10.9,
+      "start_frame": 202,
+      "end_frame": 327,
+      "text": "The answer is a simple no. Let me be 100% clear and also honest.",
+      "words": [
+        {
+          "word": "The",
+          "start": 6.74,
+          "end": 6.86,
+          "start_frame": 202,
+          "end_frame": 206
+        },
+        {
+          "word": "answer",
+          "start": 6.86,
+          "end": 7.2,
+          "start_frame": 206,
+          "end_frame": 216
+        },
+        {
+          "word": "is",
+          "start": 7.2,
+          "end": 7.46,
+          "start_frame": 216,
+          "end_frame": 224
+        },
+        {
+          "word": "a",
+          "start": 7.46,
+          "end": 7.74,
+          "start_frame": 224,
+          "end_frame": 232
+        },
+        {
+          "word": "simple",
+          "start": 7.74,
+          "end": 8.04,
+          "start_frame": 232,
+          "end_frame": 241
+        },
+        {
+          "word": "no.",
+          "start": 8.04,
+          "end": 8.38,
+          "start_frame": 241,
+          "end_frame": 251
+        },
+        {
+          "word": "Let",
+          "start": 8.64,
+          "end": 8.72,
+          "start_frame": 259,
+          "end_frame": 262
+        },
+        {
+          "word": "me",
+          "start": 8.72,
+          "end": 8.84,
+          "start_frame": 262,
+          "end_frame": 265
+        },
+        {
+          "word": "be",
+          "start": 8.84,
+          "end": 8.96,
+          "start_frame": 265,
+          "end_frame": 269
+        },
+        {
+          "word": "100",
+          "start": 8.96,
+          "end": 9.18,
+          "start_frame": 269,
+          "end_frame": 275
+        },
+        {
+          "word": "%",
+          "start": 9.18,
+          "end": 9.42,
+          "start_frame": 275,
+          "end_frame": 283
+        },
+        {
+          "word": "clear",
+          "start": 9.42,
+          "end": 9.84,
+          "start_frame": 283,
+          "end_frame": 295
+        },
+        {
+          "word": "and",
+          "start": 9.84,
+          "end": 10.22,
+          "start_frame": 295,
+          "end_frame": 307
+        },
+        {
+          "word": "also",
+          "start": 10.22,
+          "end": 10.5,
+          "start_frame": 307,
+          "end_frame": 315
+        },
+        {
+          "word": "honest.",
+          "start": 10.5,
+          "end": 10.9,
+          "start_frame": 315,
+          "end_frame": 327
+        }
+      ]
+    },
+    {
+      "start": 11.4,
+      "end": 15.5,
+      "start_frame": 342,
+      "end_frame": 465,
+      "text": "My decision not to apply has nothing to do with the quality of Geo's business.",
+      "words": [
+        {
+          "word": "My",
+          "start": 11.4,
+          "end": 11.54,
+          "start_frame": 342,
+          "end_frame": 346
+        },
+        {
+          "word": "decision",
+          "start": 11.54,
+          "end": 11.84,
+          "start_frame": 346,
+          "end_frame": 355
+        },
+        {
+          "word": "not",
+          "start": 11.84,
+          "end": 12.18,
+          "start_frame": 355,
+          "end_frame": 365
+        },
+        {
+          "word": "to",
+          "start": 12.18,
+          "end": 12.38,
+          "start_frame": 365,
+          "end_frame": 371
+        },
+        {
+          "word": "apply",
+          "start": 12.38,
+          "end": 12.68,
+          "start_frame": 371,
+          "end_frame": 380
+        },
+        {
+          "word": "has",
+          "start": 12.68,
+          "end": 12.98,
+          "start_frame": 380,
+          "end_frame": 389
+        },
+        {
+          "word": "nothing",
+          "start": 12.98,
+          "end": 13.48,
+          "start_frame": 389,
+          "end_frame": 404
+        },
+        {
+          "word": "to",
+          "start": 13.48,
+          "end": 13.7,
+          "start_frame": 404,
+          "end_frame": 411
+        },
+        {
+          "word": "do",
+          "start": 13.7,
+          "end": 13.84,
+          "start_frame": 411,
+          "end_frame": 415
+        },
+        {
+          "word": "with",
+          "start": 13.84,
+          "end": 13.98,
+          "start_frame": 415,
+          "end_frame": 419
+        },
+        {
+          "word": "the",
+          "start": 13.98,
+          "end": 14.06,
+          "start_frame": 419,
+          "end_frame": 422
+        },
+        {
+          "word": "quality",
+          "start": 14.06,
+          "end": 14.48,
+          "start_frame": 422,
+          "end_frame": 434
+        },
+        {
+          "word": "of",
+          "start": 14.48,
+          "end": 14.78,
+          "start_frame": 434,
+          "end_frame": 443
+        },
+        {
+          "word": "Geo's",
+          "start": 14.78,
+          "end": 15.18,
+          "start_frame": 443,
+          "end_frame": 455
+        },
+        {
+          "word": "business.",
+          "start": 15.18,
+          "end": 15.5,
+          "start_frame": 455,
+          "end_frame": 465
+        }
+      ]
+    },
+    {
+      "start": 15.84,
+      "end": 20.32,
+      "start_frame": 475,
+      "end_frame": 610,
+      "text": "Geo is arguably the most dominant, cash rich and fairly valued",
+      "words": [
+        {
+          "word": "Geo",
+          "start": 15.84,
+          "end": 16.26,
+          "start_frame": 475,
+          "end_frame": 488
+        },
+        {
+          "word": "is",
+          "start": 16.26,
+          "end": 16.42,
+          "start_frame": 488,
+          "end_frame": 493
+        },
+        {
+          "word": "arguably",
+          "start": 16.42,
+          "end": 16.96,
+          "start_frame": 493,
+          "end_frame": 509
+        },
+        {
+          "word": "the",
+          "start": 16.96,
+          "end": 17.18,
+          "start_frame": 509,
+          "end_frame": 515
+        },
+        {
+          "word": "most",
+          "start": 17.18,
+          "end": 17.52,
+          "start_frame": 515,
+          "end_frame": 526
+        },
+        {
+          "word": "dominant,",
+          "start": 17.52,
+          "end": 18.12,
+          "start_frame": 526,
+          "end_frame": 544
+        },
+        {
+          "word": "cash",
+          "start": 18.5,
+          "end": 18.78,
+          "start_frame": 555,
+          "end_frame": 563
+        },
+        {
+          "word": "rich",
+          "start": 18.78,
+          "end": 19.02,
+          "start_frame": 563,
+          "end_frame": 571
+        },
+        {
+          "word": "and",
+          "start": 19.02,
+          "end": 19.24,
+          "start_frame": 571,
+          "end_frame": 577
+        },
+        {
+          "word": "fairly",
+          "start": 19.24,
+          "end": 19.72,
+          "start_frame": 577,
+          "end_frame": 592
+        },
+        {
+          "word": "valued",
+          "start": 19.72,
+          "end": 20.32,
+          "start_frame": 592,
+          "end_frame": 610
+        }
+      ]
+    },
+    {
+      "start": 20.32,
+      "end": 23.82,
+      "start_frame": 610,
+      "end_frame": 715,
+      "text": "mega cap asset to list in the Indian stock market in last decade.",
+      "words": [
+        {
+          "word": "mega",
+          "start": 20.32,
+          "end": 20.6,
+          "start_frame": 610,
+          "end_frame": 618
+        },
+        {
+          "word": "cap",
+          "start": 20.6,
+          "end": 21.02,
+          "start_frame": 618,
+          "end_frame": 631
+        },
+        {
+          "word": "asset",
+          "start": 21.02,
+          "end": 21.28,
+          "start_frame": 631,
+          "end_frame": 638
+        },
+        {
+          "word": "to",
+          "start": 21.28,
+          "end": 21.68,
+          "start_frame": 638,
+          "end_frame": 650
+        },
+        {
+          "word": "list",
+          "start": 21.68,
+          "end": 21.9,
+          "start_frame": 650,
+          "end_frame": 657
+        },
+        {
+          "word": "in",
+          "start": 21.9,
+          "end": 22.1,
+          "start_frame": 657,
+          "end_frame": 663
+        },
+        {
+          "word": "the",
+          "start": 22.1,
+          "end": 22.2,
+          "start_frame": 663,
+          "end_frame": 666
+        },
+        {
+          "word": "Indian",
+          "start": 22.2,
+          "end": 22.36,
+          "start_frame": 666,
+          "end_frame": 671
+        },
+        {
+          "word": "stock",
+          "start": 22.36,
+          "end": 22.58,
+          "start_frame": 671,
+          "end_frame": 677
+        },
+        {
+          "word": "market",
+          "start": 22.58,
+          "end": 22.98,
+          "start_frame": 677,
+          "end_frame": 689
+        },
+        {
+          "word": "in",
+          "start": 22.98,
+          "end": 23.2,
+          "start_frame": 689,
+          "end_frame": 696
+        },
+        {
+          "word": "last",
+          "start": 23.2,
+          "end": 23.48,
+          "start_frame": 696,
+          "end_frame": 704
+        },
+        {
+          "word": "decade.",
+          "start": 23.48,
+          "end": 23.82,
+          "start_frame": 704,
+          "end_frame": 715
+        }
+      ]
+    },
+    {
+      "start": 24.04,
+      "end": 29.72,
+      "start_frame": 721,
+      "end_frame": 892,
+      "text": "If you are an IPO investor who receives allotment through regular or Reliance shareholder quota,",
+      "words": [
+        {
+          "word": "If",
+          "start": 24.04,
+          "end": 24.28,
+          "start_frame": 721,
+          "end_frame": 728
+        },
+        {
+          "word": "you",
+          "start": 24.28,
+          "end": 24.58,
+          "start_frame": 728,
+          "end_frame": 737
+        },
+        {
+          "word": "are",
+          "start": 24.58,
+          "end": 24.68,
+          "start_frame": 737,
+          "end_frame": 740
+        },
+        {
+          "word": "an",
+          "start": 24.68,
+          "end": 24.8,
+          "start_frame": 740,
+          "end_frame": 744
+        },
+        {
+          "word": "IPO",
+          "start": 24.8,
+          "end": 25.0,
+          "start_frame": 744,
+          "end_frame": 750
+        },
+        {
+          "word": "investor",
+          "start": 25.0,
+          "end": 25.46,
+          "start_frame": 750,
+          "end_frame": 764
+        },
+        {
+          "word": "who",
+          "start": 25.46,
+          "end": 25.82,
+          "start_frame": 764,
+          "end_frame": 775
+        },
+        {
+          "word": "receives",
+          "start": 25.82,
+          "end": 26.2,
+          "start_frame": 775,
+          "end_frame": 786
+        },
+        {
+          "word": "allotment",
+          "start": 26.2,
+          "end": 26.92,
+          "start_frame": 786,
+          "end_frame": 808
+        },
+        {
+          "word": "through",
+          "start": 26.92,
+          "end": 27.3,
+          "start_frame": 808,
+          "end_frame": 819
+        },
+        {
+          "word": "regular",
+          "start": 27.3,
+          "end": 27.78,
+          "start_frame": 819,
+          "end_frame": 833
+        },
+        {
+          "word": "or",
+          "start": 27.78,
+          "end": 28.22,
+          "start_frame": 833,
+          "end_frame": 847
+        },
+        {
+          "word": "Reliance",
+          "start": 28.22,
+          "end": 28.8,
+          "start_frame": 847,
+          "end_frame": 864
+        },
+        {
+          "word": "shareholder",
+          "start": 28.8,
+          "end": 29.36,
+          "start_frame": 864,
+          "end_frame": 881
+        },
+        {
+          "word": "quota,",
+          "start": 29.36,
+          "end": 29.72,
+          "start_frame": 881,
+          "end_frame": 892
+        }
+      ]
+    },
+    {
+      "start": 29.72,
+      "end": 36.18,
+      "start_frame": 892,
+      "end_frame": 1085,
+      "text": "holding this company for next 5-10 years as an anchor compounding asset is entirely a rational",
+      "words": [
+        {
+          "word": "holding",
+          "start": 29.72,
+          "end": 30.5,
+          "start_frame": 892,
+          "end_frame": 915
+        },
+        {
+          "word": "this",
+          "start": 30.5,
+          "end": 30.76,
+          "start_frame": 915,
+          "end_frame": 923
+        },
+        {
+          "word": "company",
+          "start": 30.76,
+          "end": 31.16,
+          "start_frame": 923,
+          "end_frame": 935
+        },
+        {
+          "word": "for",
+          "start": 31.16,
+          "end": 31.6,
+          "start_frame": 935,
+          "end_frame": 948
+        },
+        {
+          "word": "next",
+          "start": 31.6,
+          "end": 31.82,
+          "start_frame": 948,
+          "end_frame": 955
+        },
+        {
+          "word": "5",
+          "start": 31.82,
+          "end": 32.14,
+          "start_frame": 955,
+          "end_frame": 964
+        },
+        {
+          "word": "-10",
+          "start": 32.14,
+          "end": 32.56,
+          "start_frame": 964,
+          "end_frame": 977
+        },
+        {
+          "word": "years",
+          "start": 32.56,
+          "end": 32.82,
+          "start_frame": 977,
+          "end_frame": 985
+        },
+        {
+          "word": "as",
+          "start": 32.82,
+          "end": 33.08,
+          "start_frame": 985,
+          "end_frame": 992
+        },
+        {
+          "word": "an",
+          "start": 33.08,
+          "end": 33.22,
+          "start_frame": 992,
+          "end_frame": 997
+        },
+        {
+          "word": "anchor",
+          "start": 33.22,
+          "end": 33.58,
+          "start_frame": 997,
+          "end_frame": 1007
+        },
+        {
+          "word": "compounding",
+          "start": 33.58,
+          "end": 34.28,
+          "start_frame": 1007,
+          "end_frame": 1028
+        },
+        {
+          "word": "asset",
+          "start": 34.28,
+          "end": 34.64,
+          "start_frame": 1028,
+          "end_frame": 1039
+        },
+        {
+          "word": "is",
+          "start": 34.64,
+          "end": 34.94,
+          "start_frame": 1039,
+          "end_frame": 1048
+        },
+        {
+          "word": "entirely",
+          "start": 34.94,
+          "end": 35.6,
+          "start_frame": 1048,
+          "end_frame": 1068
+        },
+        {
+          "word": "a",
+          "start": 35.6,
+          "end": 35.94,
+          "start_frame": 1068,
+          "end_frame": 1078
+        },
+        {
+          "word": "rational",
+          "start": 35.94,
+          "end": 36.18,
+          "start_frame": 1078,
+          "end_frame": 1085
+        }
+      ]
+    },
+    {
+      "start": 36.18,
+      "end": 41.48,
+      "start_frame": 1085,
+      "end_frame": 1244,
+      "text": "choice. However, my personal wealth building framework as always on being not long term,",
+      "words": [
+        {
+          "word": "choice.",
+          "start": 36.18,
+          "end": 36.72,
+          "start_frame": 1085,
+          "end_frame": 1102
+        },
+        {
+          "word": "However,",
+          "start": 36.94,
+          "end": 37.32,
+          "start_frame": 1108,
+          "end_frame": 1120
+        },
+        {
+          "word": "my",
+          "start": 37.74,
+          "end": 37.86,
+          "start_frame": 1132,
+          "end_frame": 1136
+        },
+        {
+          "word": "personal",
+          "start": 37.86,
+          "end": 38.2,
+          "start_frame": 1136,
+          "end_frame": 1146
+        },
+        {
+          "word": "wealth",
+          "start": 38.2,
+          "end": 38.42,
+          "start_frame": 1146,
+          "end_frame": 1153
+        },
+        {
+          "word": "building",
+          "start": 38.42,
+          "end": 38.7,
+          "start_frame": 1153,
+          "end_frame": 1161
+        },
+        {
+          "word": "framework",
+          "start": 38.7,
+          "end": 39.28,
+          "start_frame": 1161,
+          "end_frame": 1178
+        },
+        {
+          "word": "as",
+          "start": 39.28,
+          "end": 39.5,
+          "start_frame": 1178,
+          "end_frame": 1185
+        },
+        {
+          "word": "always",
+          "start": 39.5,
+          "end": 40.04,
+          "start_frame": 1185,
+          "end_frame": 1201
+        },
+        {
+          "word": "on",
+          "start": 40.04,
+          "end": 40.32,
+          "start_frame": 1201,
+          "end_frame": 1210
+        },
+        {
+          "word": "being",
+          "start": 40.32,
+          "end": 40.54,
+          "start_frame": 1210,
+          "end_frame": 1216
+        },
+        {
+          "word": "not",
+          "start": 40.54,
+          "end": 40.9,
+          "start_frame": 1216,
+          "end_frame": 1227
+        },
+        {
+          "word": "long",
+          "start": 40.9,
+          "end": 41.3,
+          "start_frame": 1227,
+          "end_frame": 1239
+        },
+        {
+          "word": "term,",
+          "start": 41.3,
+          "end": 41.48,
+          "start_frame": 1239,
+          "end_frame": 1244
+        }
+      ]
+    },
+    {
+      "start": 41.7,
+      "end": 47.9,
+      "start_frame": 1251,
+      "end_frame": 1437,
+      "text": "it's a swing trading built on one important condition which is called 200DMA. Without seeing 200DMA",
+      "words": [
+        {
+          "word": "it's",
+          "start": 41.7,
+          "end": 41.76,
+          "start_frame": 1251,
+          "end_frame": 1253
+        },
+        {
+          "word": "a",
+          "start": 41.76,
+          "end": 41.82,
+          "start_frame": 1253,
+          "end_frame": 1255
+        },
+        {
+          "word": "swing",
+          "start": 41.82,
+          "end": 42.02,
+          "start_frame": 1255,
+          "end_frame": 1261
+        },
+        {
+          "word": "trading",
+          "start": 42.02,
+          "end": 42.36,
+          "start_frame": 1261,
+          "end_frame": 1271
+        },
+        {
+          "word": "built",
+          "start": 42.36,
+          "end": 42.94,
+          "start_frame": 1271,
+          "end_frame": 1288
+        },
+        {
+          "word": "on",
+          "start": 42.94,
+          "end": 43.22,
+          "start_frame": 1288,
+          "end_frame": 1297
+        },
+        {
+          "word": "one",
+          "start": 43.22,
+          "end": 43.64,
+          "start_frame": 1297,
+          "end_frame": 1309
+        },
+        {
+          "word": "important",
+          "start": 43.64,
+          "end": 44.22,
+          "start_frame": 1309,
+          "end_frame": 1327
+        },
+        {
+          "word": "condition",
+          "start": 44.22,
+          "end": 44.78,
+          "start_frame": 1327,
+          "end_frame": 1343
+        },
+        {
+          "word": "which",
+          "start": 44.78,
+          "end": 45.0,
+          "start_frame": 1343,
+          "end_frame": 1350
+        },
+        {
+          "word": "is",
+          "start": 45.0,
+          "end": 45.12,
+          "start_frame": 1350,
+          "end_frame": 1354
+        },
+        {
+          "word": "called",
+          "start": 45.12,
+          "end": 45.4,
+          "start_frame": 1354,
+          "end_frame": 1362
+        },
+        {
+          "word": "200DMA.",
+          "start": 45.4,
+          "end": 46.34,
+          "start_frame": 1362,
+          "end_frame": 1390
+        },
+        {
+          "word": "Without",
+          "start": 46.48,
+          "end": 46.64,
+          "start_frame": 1394,
+          "end_frame": 1399
+        },
+        {
+          "word": "seeing",
+          "start": 46.64,
+          "end": 46.96,
+          "start_frame": 1399,
+          "end_frame": 1409
+        },
+        {
+          "word": "200DMA",
+          "start": 46.96,
+          "end": 47.9,
+          "start_frame": 1409,
+          "end_frame": 1437
+        }
+      ]
+    },
+    {
+      "start": 47.9,
+      "end": 52.58,
+      "start_frame": 1437,
+      "end_frame": 1577,
+      "text": "on the chart, I will never take a decision. Let me show you why this rule exists through",
+      "words": [
+        {
+          "word": "on",
+          "start": 47.9,
+          "end": 48.16,
+          "start_frame": 1437,
+          "end_frame": 1445
+        },
+        {
+          "word": "the",
+          "start": 48.16,
+          "end": 48.28,
+          "start_frame": 1445,
+          "end_frame": 1448
+        },
+        {
+          "word": "chart,",
+          "start": 48.28,
+          "end": 48.6,
+          "start_frame": 1448,
+          "end_frame": 1458
+        },
+        {
+          "word": "I",
+          "start": 48.9,
+          "end": 49.0,
+          "start_frame": 1467,
+          "end_frame": 1470
+        },
+        {
+          "word": "will",
+          "start": 49.0,
+          "end": 49.14,
+          "start_frame": 1470,
+          "end_frame": 1474
+        },
+        {
+          "word": "never",
+          "start": 49.14,
+          "end": 49.4,
+          "start_frame": 1474,
+          "end_frame": 1482
+        },
+        {
+          "word": "take",
+          "start": 49.4,
+          "end": 49.6,
+          "start_frame": 1482,
+          "end_frame": 1488
+        },
+        {
+          "word": "a",
+          "start": 49.6,
+          "end": 49.7,
+          "start_frame": 1488,
+          "end_frame": 1491
+        },
+        {
+          "word": "decision.",
+          "start": 49.7,
+          "end": 49.96,
+          "start_frame": 1491,
+          "end_frame": 1499
+        },
+        {
+          "word": "Let",
+          "start": 50.14,
+          "end": 50.26,
+          "start_frame": 1504,
+          "end_frame": 1508
+        },
+        {
+          "word": "me",
+          "start": 50.26,
+          "end": 50.4,
+          "start_frame": 1508,
+          "end_frame": 1512
+        },
+        {
+          "word": "show",
+          "start": 50.4,
+          "end": 50.58,
+          "start_frame": 1512,
+          "end_frame": 1517
+        },
+        {
+          "word": "you",
+          "start": 50.58,
+          "end": 50.78,
+          "start_frame": 1517,
+          "end_frame": 1523
+        },
+        {
+          "word": "why",
+          "start": 50.78,
+          "end": 51.1,
+          "start_frame": 1523,
+          "end_frame": 1533
+        },
+        {
+          "word": "this",
+          "start": 51.1,
+          "end": 51.38,
+          "start_frame": 1533,
+          "end_frame": 1541
+        },
+        {
+          "word": "rule",
+          "start": 51.38,
+          "end": 51.68,
+          "start_frame": 1541,
+          "end_frame": 1550
+        },
+        {
+          "word": "exists",
+          "start": 51.68,
+          "end": 52.1,
+          "start_frame": 1550,
+          "end_frame": 1563
+        },
+        {
+          "word": "through",
+          "start": 52.1,
+          "end": 52.58,
+          "start_frame": 1563,
+          "end_frame": 1577
+        }
+      ]
+    },
+    {
+      "start": 52.58,
+      "end": 58.4,
+      "start_frame": 1577,
+      "end_frame": 1752,
+      "text": "the real world case study of Zomato. When Zomato launched its IPO in July 2021,",
+      "words": [
+        {
+          "word": "the",
+          "start": 52.58,
+          "end": 52.86,
+          "start_frame": 1577,
+          "end_frame": 1586
+        },
+        {
+          "word": "real",
+          "start": 52.86,
+          "end": 53.06,
+          "start_frame": 1586,
+          "end_frame": 1592
+        },
+        {
+          "word": "world",
+          "start": 53.06,
+          "end": 53.32,
+          "start_frame": 1592,
+          "end_frame": 1600
+        },
+        {
+          "word": "case",
+          "start": 53.32,
+          "end": 53.62,
+          "start_frame": 1600,
+          "end_frame": 1609
+        },
+        {
+          "word": "study",
+          "start": 53.62,
+          "end": 53.9,
+          "start_frame": 1609,
+          "end_frame": 1617
+        },
+        {
+          "word": "of",
+          "start": 53.9,
+          "end": 54.26,
+          "start_frame": 1617,
+          "end_frame": 1628
+        },
+        {
+          "word": "Zomato.",
+          "start": 54.26,
+          "end": 54.72,
+          "start_frame": 1628,
+          "end_frame": 1642
+        },
+        {
+          "word": "When",
+          "start": 55.0,
+          "end": 55.18,
+          "start_frame": 1650,
+          "end_frame": 1655
+        },
+        {
+          "word": "Zomato",
+          "start": 55.18,
+          "end": 55.64,
+          "start_frame": 1655,
+          "end_frame": 1669
+        },
+        {
+          "word": "launched",
+          "start": 55.64,
+          "end": 56.36,
+          "start_frame": 1669,
+          "end_frame": 1691
+        },
+        {
+          "word": "its",
+          "start": 56.36,
+          "end": 56.56,
+          "start_frame": 1691,
+          "end_frame": 1697
+        },
+        {
+          "word": "IPO",
+          "start": 56.56,
+          "end": 56.92,
+          "start_frame": 1697,
+          "end_frame": 1708
+        },
+        {
+          "word": "in",
+          "start": 56.92,
+          "end": 57.36,
+          "start_frame": 1708,
+          "end_frame": 1721
+        },
+        {
+          "word": "July",
+          "start": 57.36,
+          "end": 57.74,
+          "start_frame": 1721,
+          "end_frame": 1732
+        },
+        {
+          "word": "2021,",
+          "start": 57.74,
+          "end": 58.4,
+          "start_frame": 1732,
+          "end_frame": 1752
+        }
+      ]
+    },
+    {
+      "start": 58.4,
+      "end": 65.34,
+      "start_frame": 1752,
+      "end_frame": 1960,
+      "text": "the exact same media frenzy took place, the stock listed at 115 and shot up to 169,",
+      "words": [
+        {
+          "word": "the",
+          "start": 58.4,
+          "end": 59.02,
+          "start_frame": 1752,
+          "end_frame": 1771
+        },
+        {
+          "word": "exact",
+          "start": 59.02,
+          "end": 59.4,
+          "start_frame": 1771,
+          "end_frame": 1782
+        },
+        {
+          "word": "same",
+          "start": 59.4,
+          "end": 59.74,
+          "start_frame": 1782,
+          "end_frame": 1792
+        },
+        {
+          "word": "media",
+          "start": 59.74,
+          "end": 60.18,
+          "start_frame": 1792,
+          "end_frame": 1805
+        },
+        {
+          "word": "frenzy",
+          "start": 60.18,
+          "end": 60.82,
+          "start_frame": 1805,
+          "end_frame": 1825
+        },
+        {
+          "word": "took",
+          "start": 60.82,
+          "end": 61.0,
+          "start_frame": 1825,
+          "end_frame": 1830
+        },
+        {
+          "word": "place,",
+          "start": 61.0,
+          "end": 61.42,
+          "start_frame": 1830,
+          "end_frame": 1843
+        },
+        {
+          "word": "the",
+          "start": 61.9,
+          "end": 61.92,
+          "start_frame": 1857,
+          "end_frame": 1858
+        },
+        {
+          "word": "stock",
+          "start": 61.92,
+          "end": 62.2,
+          "start_frame": 1858,
+          "end_frame": 1866
+        },
+        {
+          "word": "listed",
+          "start": 62.2,
+          "end": 62.54,
+          "start_frame": 1866,
+          "end_frame": 1876
+        },
+        {
+          "word": "at",
+          "start": 62.54,
+          "end": 62.76,
+          "start_frame": 1876,
+          "end_frame": 1883
+        },
+        {
+          "word": "115",
+          "start": 62.76,
+          "end": 63.18,
+          "start_frame": 1883,
+          "end_frame": 1895
+        },
+        {
+          "word": "and",
+          "start": 63.18,
+          "end": 63.8,
+          "start_frame": 1895,
+          "end_frame": 1914
+        },
+        {
+          "word": "shot",
+          "start": 63.8,
+          "end": 64.2,
+          "start_frame": 1914,
+          "end_frame": 1926
+        },
+        {
+          "word": "up",
+          "start": 64.2,
+          "end": 64.44,
+          "start_frame": 1926,
+          "end_frame": 1933
+        },
+        {
+          "word": "to",
+          "start": 64.44,
+          "end": 64.6,
+          "start_frame": 1933,
+          "end_frame": 1938
+        },
+        {
+          "word": "169,",
+          "start": 64.6,
+          "end": 65.34,
+          "start_frame": 1938,
+          "end_frame": 1960
+        }
+      ]
+    },
+    {
+      "start": 65.64,
+      "end": 69.7,
+      "start_frame": 1969,
+      "end_frame": 2091,
+      "text": "millions of retail investors experienced intense FOMO and bought at the top.",
+      "words": [
+        {
+          "word": "millions",
+          "start": 65.64,
+          "end": 66.04,
+          "start_frame": 1969,
+          "end_frame": 1981
+        },
+        {
+          "word": "of",
+          "start": 66.04,
+          "end": 66.26,
+          "start_frame": 1981,
+          "end_frame": 1988
+        },
+        {
+          "word": "retail",
+          "start": 66.26,
+          "end": 66.44,
+          "start_frame": 1988,
+          "end_frame": 1993
+        },
+        {
+          "word": "investors",
+          "start": 66.44,
+          "end": 66.84,
+          "start_frame": 1993,
+          "end_frame": 2005
+        },
+        {
+          "word": "experienced",
+          "start": 66.84,
+          "end": 67.36,
+          "start_frame": 2005,
+          "end_frame": 2021
+        },
+        {
+          "word": "intense",
+          "start": 67.36,
+          "end": 68.06,
+          "start_frame": 2021,
+          "end_frame": 2042
+        },
+        {
+          "word": "FOMO",
+          "start": 68.06,
+          "end": 68.6,
+          "start_frame": 2042,
+          "end_frame": 2058
+        },
+        {
+          "word": "and",
+          "start": 68.6,
+          "end": 68.82,
+          "start_frame": 2058,
+          "end_frame": 2065
+        },
+        {
+          "word": "bought",
+          "start": 68.82,
+          "end": 69.08,
+          "start_frame": 2065,
+          "end_frame": 2072
+        },
+        {
+          "word": "at",
+          "start": 69.08,
+          "end": 69.32,
+          "start_frame": 2072,
+          "end_frame": 2080
+        },
+        {
+          "word": "the",
+          "start": 69.32,
+          "end": 69.42,
+          "start_frame": 2080,
+          "end_frame": 2083
+        },
+        {
+          "word": "top.",
+          "start": 69.42,
+          "end": 69.7,
+          "start_frame": 2083,
+          "end_frame": 2091
+        }
+      ]
+    },
+    {
+      "start": 69.9,
+      "end": 76.66,
+      "start_frame": 2097,
+      "end_frame": 2300,
+      "text": "Over the next 12 months, as pre-IPO anchor Loxin expired, the stock violently crashed 76%",
+      "words": [
+        {
+          "word": "Over",
+          "start": 69.9,
+          "end": 70.04,
+          "start_frame": 2097,
+          "end_frame": 2101
+        },
+        {
+          "word": "the",
+          "start": 70.04,
+          "end": 70.14,
+          "start_frame": 2101,
+          "end_frame": 2104
+        },
+        {
+          "word": "next",
+          "start": 70.14,
+          "end": 70.32,
+          "start_frame": 2104,
+          "end_frame": 2110
+        },
+        {
+          "word": "12",
+          "start": 70.32,
+          "end": 70.56,
+          "start_frame": 2110,
+          "end_frame": 2117
+        },
+        {
+          "word": "months,",
+          "start": 70.56,
+          "end": 70.9,
+          "start_frame": 2117,
+          "end_frame": 2127
+        },
+        {
+          "word": "as",
+          "start": 71.24,
+          "end": 71.4,
+          "start_frame": 2137,
+          "end_frame": 2142
+        },
+        {
+          "word": "pre",
+          "start": 71.4,
+          "end": 71.7,
+          "start_frame": 2142,
+          "end_frame": 2151
+        },
+        {
+          "word": "-IPO",
+          "start": 71.7,
+          "end": 72.12,
+          "start_frame": 2151,
+          "end_frame": 2164
+        },
+        {
+          "word": "anchor",
+          "start": 72.12,
+          "end": 72.42,
+          "start_frame": 2164,
+          "end_frame": 2173
+        },
+        {
+          "word": "Loxin",
+          "start": 72.42,
+          "end": 73.02,
+          "start_frame": 2173,
+          "end_frame": 2191
+        },
+        {
+          "word": "expired,",
+          "start": 73.02,
+          "end": 73.52,
+          "start_frame": 2191,
+          "end_frame": 2206
+        },
+        {
+          "word": "the",
+          "start": 74.16,
+          "end": 74.2,
+          "start_frame": 2225,
+          "end_frame": 2226
+        },
+        {
+          "word": "stock",
+          "start": 74.2,
+          "end": 74.48,
+          "start_frame": 2226,
+          "end_frame": 2234
+        },
+        {
+          "word": "violently",
+          "start": 74.48,
+          "end": 75.02,
+          "start_frame": 2234,
+          "end_frame": 2251
+        },
+        {
+          "word": "crashed",
+          "start": 75.02,
+          "end": 75.54,
+          "start_frame": 2251,
+          "end_frame": 2266
+        },
+        {
+          "word": "76",
+          "start": 75.54,
+          "end": 76.24,
+          "start_frame": 2266,
+          "end_frame": 2287
+        },
+        {
+          "word": "%",
+          "start": 76.24,
+          "end": 76.66,
+          "start_frame": 2287,
+          "end_frame": 2300
+        }
+      ]
+    },
+    {
+      "start": 76.66,
+      "end": 83.58,
+      "start_frame": 2300,
+      "end_frame": 2507,
+      "text": "hitting a devastating low of Rs 40. Investor who bought at the hype spent a year in sheer panic.",
+      "words": [
+        {
+          "word": "hitting",
+          "start": 76.66,
+          "end": 77.28,
+          "start_frame": 2300,
+          "end_frame": 2318
+        },
+        {
+          "word": "a",
+          "start": 77.28,
+          "end": 77.48,
+          "start_frame": 2318,
+          "end_frame": 2324
+        },
+        {
+          "word": "devastating",
+          "start": 77.48,
+          "end": 77.98,
+          "start_frame": 2324,
+          "end_frame": 2339
+        },
+        {
+          "word": "low",
+          "start": 77.98,
+          "end": 78.4,
+          "start_frame": 2339,
+          "end_frame": 2352
+        },
+        {
+          "word": "of",
+          "start": 78.4,
+          "end": 78.62,
+          "start_frame": 2352,
+          "end_frame": 2359
+        },
+        {
+          "word": "Rs",
+          "start": 78.62,
+          "end": 78.74,
+          "start_frame": 2359,
+          "end_frame": 2362
+        },
+        {
+          "word": "40.",
+          "start": 78.74,
+          "end": 79.0,
+          "start_frame": 2362,
+          "end_frame": 2370
+        },
+        {
+          "word": "Investor",
+          "start": 79.62,
+          "end": 80.28,
+          "start_frame": 2389,
+          "end_frame": 2408
+        },
+        {
+          "word": "who",
+          "start": 80.28,
+          "end": 80.54,
+          "start_frame": 2408,
+          "end_frame": 2416
+        },
+        {
+          "word": "bought",
+          "start": 80.54,
+          "end": 80.78,
+          "start_frame": 2416,
+          "end_frame": 2423
+        },
+        {
+          "word": "at",
+          "start": 80.78,
+          "end": 80.92,
+          "start_frame": 2423,
+          "end_frame": 2428
+        },
+        {
+          "word": "the",
+          "start": 80.92,
+          "end": 81.04,
+          "start_frame": 2428,
+          "end_frame": 2431
+        },
+        {
+          "word": "hype",
+          "start": 81.04,
+          "end": 81.34,
+          "start_frame": 2431,
+          "end_frame": 2440
+        },
+        {
+          "word": "spent",
+          "start": 81.34,
+          "end": 81.76,
+          "start_frame": 2440,
+          "end_frame": 2453
+        },
+        {
+          "word": "a",
+          "start": 81.76,
+          "end": 81.96,
+          "start_frame": 2453,
+          "end_frame": 2459
+        },
+        {
+          "word": "year",
+          "start": 81.96,
+          "end": 82.34,
+          "start_frame": 2459,
+          "end_frame": 2470
+        },
+        {
+          "word": "in",
+          "start": 82.34,
+          "end": 82.66,
+          "start_frame": 2470,
+          "end_frame": 2480
+        },
+        {
+          "word": "sheer",
+          "start": 82.66,
+          "end": 83.06,
+          "start_frame": 2480,
+          "end_frame": 2492
+        },
+        {
+          "word": "panic.",
+          "start": 83.06,
+          "end": 83.58,
+          "start_frame": 2492,
+          "end_frame": 2507
+        }
+      ]
+    },
+    {
+      "start": 83.58,
+      "end": 88.96,
+      "start_frame": 2507,
+      "end_frame": 2669,
+      "text": "Because on listing day, a stock has zero technical history, zero moving averages and zero price",
+      "words": [
+        {
+          "word": "Because",
+          "start": 83.58,
+          "end": 83.98,
+          "start_frame": 2507,
+          "end_frame": 2519
+        },
+        {
+          "word": "on",
+          "start": 83.98,
+          "end": 84.18,
+          "start_frame": 2519,
+          "end_frame": 2525
+        },
+        {
+          "word": "listing",
+          "start": 84.18,
+          "end": 84.44,
+          "start_frame": 2525,
+          "end_frame": 2533
+        },
+        {
+          "word": "day,",
+          "start": 84.44,
+          "end": 84.8,
+          "start_frame": 2533,
+          "end_frame": 2544
+        },
+        {
+          "word": "a",
+          "start": 84.88,
+          "end": 84.98,
+          "start_frame": 2546,
+          "end_frame": 2549
+        },
+        {
+          "word": "stock",
+          "start": 84.98,
+          "end": 85.18,
+          "start_frame": 2549,
+          "end_frame": 2555
+        },
+        {
+          "word": "has",
+          "start": 85.18,
+          "end": 85.52,
+          "start_frame": 2555,
+          "end_frame": 2566
+        },
+        {
+          "word": "zero",
+          "start": 85.52,
+          "end": 85.82,
+          "start_frame": 2566,
+          "end_frame": 2575
+        },
+        {
+          "word": "technical",
+          "start": 85.82,
+          "end": 86.16,
+          "start_frame": 2575,
+          "end_frame": 2585
+        },
+        {
+          "word": "history,",
+          "start": 86.16,
+          "end": 86.58,
+          "start_frame": 2585,
+          "end_frame": 2597
+        },
+        {
+          "word": "zero",
+          "start": 86.94,
+          "end": 87.14,
+          "start_frame": 2608,
+          "end_frame": 2614
+        },
+        {
+          "word": "moving",
+          "start": 87.14,
+          "end": 87.44,
+          "start_frame": 2614,
+          "end_frame": 2623
+        },
+        {
+          "word": "averages",
+          "start": 87.44,
+          "end": 87.76,
+          "start_frame": 2623,
+          "end_frame": 2633
+        },
+        {
+          "word": "and",
+          "start": 87.76,
+          "end": 88.16,
+          "start_frame": 2633,
+          "end_frame": 2645
+        },
+        {
+          "word": "zero",
+          "start": 88.16,
+          "end": 88.52,
+          "start_frame": 2645,
+          "end_frame": 2656
+        },
+        {
+          "word": "price",
+          "start": 88.52,
+          "end": 88.96,
+          "start_frame": 2656,
+          "end_frame": 2669
+        }
+      ]
+    },
+    {
+      "start": 88.96,
+      "end": 94.0,
+      "start_frame": 2669,
+      "end_frame": 2820,
+      "text": "discovery. Usually in IPO on the listing day, it is an emotional battle between investment bankers",
+      "words": [
+        {
+          "word": "discovery.",
+          "start": 88.96,
+          "end": 89.46,
+          "start_frame": 2669,
+          "end_frame": 2684
+        },
+        {
+          "word": "Usually",
+          "start": 89.64,
+          "end": 89.96,
+          "start_frame": 2689,
+          "end_frame": 2699
+        },
+        {
+          "word": "in",
+          "start": 89.96,
+          "end": 90.14,
+          "start_frame": 2699,
+          "end_frame": 2704
+        },
+        {
+          "word": "IPO",
+          "start": 90.14,
+          "end": 90.4,
+          "start_frame": 2704,
+          "end_frame": 2712
+        },
+        {
+          "word": "on",
+          "start": 90.4,
+          "end": 90.78,
+          "start_frame": 2712,
+          "end_frame": 2723
+        },
+        {
+          "word": "the",
+          "start": 90.78,
+          "end": 90.86,
+          "start_frame": 2723,
+          "end_frame": 2726
+        },
+        {
+          "word": "listing",
+          "start": 90.86,
+          "end": 91.06,
+          "start_frame": 2726,
+          "end_frame": 2732
+        },
+        {
+          "word": "day,",
+          "start": 91.06,
+          "end": 91.36,
+          "start_frame": 2732,
+          "end_frame": 2741
+        },
+        {
+          "word": "it",
+          "start": 91.54,
+          "end": 91.54,
+          "start_frame": 2746,
+          "end_frame": 2746
+        },
+        {
+          "word": "is",
+          "start": 91.54,
+          "end": 91.62,
+          "start_frame": 2746,
+          "end_frame": 2749
+        },
+        {
+          "word": "an",
+          "start": 91.62,
+          "end": 91.72,
+          "start_frame": 2749,
+          "end_frame": 2752
+        },
+        {
+          "word": "emotional",
+          "start": 91.72,
+          "end": 92.06,
+          "start_frame": 2752,
+          "end_frame": 2762
+        },
+        {
+          "word": "battle",
+          "start": 92.06,
+          "end": 92.52,
+          "start_frame": 2762,
+          "end_frame": 2776
+        },
+        {
+          "word": "between",
+          "start": 92.52,
+          "end": 92.84,
+          "start_frame": 2776,
+          "end_frame": 2785
+        },
+        {
+          "word": "investment",
+          "start": 92.84,
+          "end": 93.32,
+          "start_frame": 2785,
+          "end_frame": 2800
+        },
+        {
+          "word": "bankers",
+          "start": 93.32,
+          "end": 94.0,
+          "start_frame": 2800,
+          "end_frame": 2820
+        }
+      ]
+    },
+    {
+      "start": 94.0,
+      "end": 99.04,
+      "start_frame": 2820,
+      "end_frame": 2971,
+      "text": "and short term flippers who expect the gamble on listing game. I am completely comfortable",
+      "words": [
+        {
+          "word": "and",
+          "start": 94.0,
+          "end": 94.3,
+          "start_frame": 2820,
+          "end_frame": 2829
+        },
+        {
+          "word": "short",
+          "start": 94.3,
+          "end": 94.7,
+          "start_frame": 2829,
+          "end_frame": 2841
+        },
+        {
+          "word": "term",
+          "start": 94.7,
+          "end": 94.88,
+          "start_frame": 2841,
+          "end_frame": 2846
+        },
+        {
+          "word": "flippers",
+          "start": 94.88,
+          "end": 95.22,
+          "start_frame": 2846,
+          "end_frame": 2857
+        },
+        {
+          "word": "who",
+          "start": 95.22,
+          "end": 95.44,
+          "start_frame": 2857,
+          "end_frame": 2863
+        },
+        {
+          "word": "expect",
+          "start": 95.44,
+          "end": 95.82,
+          "start_frame": 2863,
+          "end_frame": 2875
+        },
+        {
+          "word": "the",
+          "start": 95.82,
+          "end": 96.1,
+          "start_frame": 2875,
+          "end_frame": 2883
+        },
+        {
+          "word": "gamble",
+          "start": 96.1,
+          "end": 96.88,
+          "start_frame": 2883,
+          "end_frame": 2906
+        },
+        {
+          "word": "on",
+          "start": 96.88,
+          "end": 97.18,
+          "start_frame": 2906,
+          "end_frame": 2915
+        },
+        {
+          "word": "listing",
+          "start": 97.18,
+          "end": 97.52,
+          "start_frame": 2915,
+          "end_frame": 2926
+        },
+        {
+          "word": "game.",
+          "start": 97.52,
+          "end": 97.82,
+          "start_frame": 2926,
+          "end_frame": 2935
+        },
+        {
+          "word": "I",
+          "start": 97.9,
+          "end": 98.02,
+          "start_frame": 2937,
+          "end_frame": 2941
+        },
+        {
+          "word": "am",
+          "start": 98.02,
+          "end": 98.06,
+          "start_frame": 2941,
+          "end_frame": 2942
+        },
+        {
+          "word": "completely",
+          "start": 98.06,
+          "end": 98.44,
+          "start_frame": 2942,
+          "end_frame": 2953
+        },
+        {
+          "word": "comfortable",
+          "start": 98.44,
+          "end": 99.04,
+          "start_frame": 2953,
+          "end_frame": 2971
+        }
+      ]
+    },
+    {
+      "start": 99.04,
+      "end": 104.04,
+      "start_frame": 2971,
+      "end_frame": 3121,
+      "text": "letting the great fight and battle and gamble that is going to happen on listing day. I am happy",
+      "words": [
+        {
+          "word": "letting",
+          "start": 99.04,
+          "end": 99.58,
+          "start_frame": 2971,
+          "end_frame": 2987
+        },
+        {
+          "word": "the",
+          "start": 99.58,
+          "end": 99.82,
+          "start_frame": 2987,
+          "end_frame": 2995
+        },
+        {
+          "word": "great",
+          "start": 99.82,
+          "end": 100.14,
+          "start_frame": 2995,
+          "end_frame": 3004
+        },
+        {
+          "word": "fight",
+          "start": 100.14,
+          "end": 100.56,
+          "start_frame": 3004,
+          "end_frame": 3017
+        },
+        {
+          "word": "and",
+          "start": 100.56,
+          "end": 100.9,
+          "start_frame": 3017,
+          "end_frame": 3027
+        },
+        {
+          "word": "battle",
+          "start": 100.9,
+          "end": 101.3,
+          "start_frame": 3027,
+          "end_frame": 3039
+        },
+        {
+          "word": "and",
+          "start": 101.3,
+          "end": 101.58,
+          "start_frame": 3039,
+          "end_frame": 3047
+        },
+        {
+          "word": "gamble",
+          "start": 101.58,
+          "end": 101.94,
+          "start_frame": 3047,
+          "end_frame": 3058
+        },
+        {
+          "word": "that",
+          "start": 101.94,
+          "end": 102.18,
+          "start_frame": 3058,
+          "end_frame": 3065
+        },
+        {
+          "word": "is",
+          "start": 102.18,
+          "end": 102.28,
+          "start_frame": 3065,
+          "end_frame": 3068
+        },
+        {
+          "word": "going",
+          "start": 102.28,
+          "end": 102.46,
+          "start_frame": 3068,
+          "end_frame": 3074
+        },
+        {
+          "word": "to",
+          "start": 102.46,
+          "end": 102.58,
+          "start_frame": 3074,
+          "end_frame": 3077
+        },
+        {
+          "word": "happen",
+          "start": 102.58,
+          "end": 102.8,
+          "start_frame": 3077,
+          "end_frame": 3084
+        },
+        {
+          "word": "on",
+          "start": 102.8,
+          "end": 102.94,
+          "start_frame": 3084,
+          "end_frame": 3088
+        },
+        {
+          "word": "listing",
+          "start": 102.94,
+          "end": 103.2,
+          "start_frame": 3088,
+          "end_frame": 3096
+        },
+        {
+          "word": "day.",
+          "start": 103.2,
+          "end": 103.52,
+          "start_frame": 3096,
+          "end_frame": 3106
+        },
+        {
+          "word": "I",
+          "start": 103.64,
+          "end": 103.74,
+          "start_frame": 3109,
+          "end_frame": 3112
+        },
+        {
+          "word": "am",
+          "start": 103.74,
+          "end": 103.78,
+          "start_frame": 3112,
+          "end_frame": 3113
+        },
+        {
+          "word": "happy",
+          "start": 103.78,
+          "end": 104.04,
+          "start_frame": 3113,
+          "end_frame": 3121
+        }
+      ]
+    },
+    {
+      "start": 104.04,
+      "end": 110.42,
+      "start_frame": 3121,
+      "end_frame": 3313,
+      "text": "to let the listing pop pass by, let the 200DMA come and let me see what are all the strategies",
+      "words": [
+        {
+          "word": "to",
+          "start": 104.04,
+          "end": 104.2,
+          "start_frame": 3121,
+          "end_frame": 3126
+        },
+        {
+          "word": "let",
+          "start": 104.2,
+          "end": 104.44,
+          "start_frame": 3126,
+          "end_frame": 3133
+        },
+        {
+          "word": "the",
+          "start": 104.44,
+          "end": 104.6,
+          "start_frame": 3133,
+          "end_frame": 3138
+        },
+        {
+          "word": "listing",
+          "start": 104.6,
+          "end": 104.82,
+          "start_frame": 3138,
+          "end_frame": 3145
+        },
+        {
+          "word": "pop",
+          "start": 104.82,
+          "end": 105.14,
+          "start_frame": 3145,
+          "end_frame": 3154
+        },
+        {
+          "word": "pass",
+          "start": 105.14,
+          "end": 105.6,
+          "start_frame": 3154,
+          "end_frame": 3168
+        },
+        {
+          "word": "by,",
+          "start": 105.6,
+          "end": 105.8,
+          "start_frame": 3168,
+          "end_frame": 3174
+        },
+        {
+          "word": "let",
+          "start": 106.2,
+          "end": 106.38,
+          "start_frame": 3186,
+          "end_frame": 3191
+        },
+        {
+          "word": "the",
+          "start": 106.38,
+          "end": 106.48,
+          "start_frame": 3191,
+          "end_frame": 3194
+        },
+        {
+          "word": "200DMA",
+          "start": 106.48,
+          "end": 107.1,
+          "start_frame": 3194,
+          "end_frame": 3213
+        },
+        {
+          "word": "come",
+          "start": 107.1,
+          "end": 107.9,
+          "start_frame": 3213,
+          "end_frame": 3237
+        },
+        {
+          "word": "and",
+          "start": 107.9,
+          "end": 108.5,
+          "start_frame": 3237,
+          "end_frame": 3255
+        },
+        {
+          "word": "let",
+          "start": 108.5,
+          "end": 108.9,
+          "start_frame": 3255,
+          "end_frame": 3267
+        },
+        {
+          "word": "me",
+          "start": 108.9,
+          "end": 109.02,
+          "start_frame": 3267,
+          "end_frame": 3271
+        },
+        {
+          "word": "see",
+          "start": 109.02,
+          "end": 109.24,
+          "start_frame": 3271,
+          "end_frame": 3277
+        },
+        {
+          "word": "what",
+          "start": 109.24,
+          "end": 109.72,
+          "start_frame": 3277,
+          "end_frame": 3292
+        },
+        {
+          "word": "are",
+          "start": 109.72,
+          "end": 109.82,
+          "start_frame": 3292,
+          "end_frame": 3295
+        },
+        {
+          "word": "all",
+          "start": 109.82,
+          "end": 109.94,
+          "start_frame": 3295,
+          "end_frame": 3298
+        },
+        {
+          "word": "the",
+          "start": 109.94,
+          "end": 110.04,
+          "start_frame": 3298,
+          "end_frame": 3301
+        },
+        {
+          "word": "strategies",
+          "start": 110.04,
+          "end": 110.42,
+          "start_frame": 3301,
+          "end_frame": 3313
+        }
+      ]
+    },
+    {
+      "start": 110.42,
+      "end": 114.74,
+      "start_frame": 3313,
+      "end_frame": 3442,
+      "text": "that can be applied over the next 12 months. It will give us again an opportunity, then I will",
+      "words": [
+        {
+          "word": "that",
+          "start": 110.42,
+          "end": 110.6,
+          "start_frame": 3313,
+          "end_frame": 3318
+        },
+        {
+          "word": "can",
+          "start": 110.6,
+          "end": 110.76,
+          "start_frame": 3318,
+          "end_frame": 3323
+        },
+        {
+          "word": "be",
+          "start": 110.76,
+          "end": 110.88,
+          "start_frame": 3323,
+          "end_frame": 3326
+        },
+        {
+          "word": "applied",
+          "start": 110.88,
+          "end": 111.26,
+          "start_frame": 3326,
+          "end_frame": 3338
+        },
+        {
+          "word": "over",
+          "start": 111.26,
+          "end": 111.66,
+          "start_frame": 3338,
+          "end_frame": 3350
+        },
+        {
+          "word": "the",
+          "start": 111.66,
+          "end": 111.72,
+          "start_frame": 3350,
+          "end_frame": 3352
+        },
+        {
+          "word": "next",
+          "start": 111.72,
+          "end": 111.86,
+          "start_frame": 3352,
+          "end_frame": 3356
+        },
+        {
+          "word": "12",
+          "start": 111.86,
+          "end": 112.08,
+          "start_frame": 3356,
+          "end_frame": 3362
+        },
+        {
+          "word": "months.",
+          "start": 112.08,
+          "end": 112.4,
+          "start_frame": 3362,
+          "end_frame": 3372
+        },
+        {
+          "word": "It",
+          "start": 112.64,
+          "end": 112.72,
+          "start_frame": 3379,
+          "end_frame": 3382
+        },
+        {
+          "word": "will",
+          "start": 112.72,
+          "end": 112.9,
+          "start_frame": 3382,
+          "end_frame": 3387
+        },
+        {
+          "word": "give",
+          "start": 112.9,
+          "end": 113.1,
+          "start_frame": 3387,
+          "end_frame": 3393
+        },
+        {
+          "word": "us",
+          "start": 113.1,
+          "end": 113.22,
+          "start_frame": 3393,
+          "end_frame": 3397
+        },
+        {
+          "word": "again",
+          "start": 113.22,
+          "end": 113.44,
+          "start_frame": 3397,
+          "end_frame": 3403
+        },
+        {
+          "word": "an",
+          "start": 113.44,
+          "end": 113.6,
+          "start_frame": 3403,
+          "end_frame": 3408
+        },
+        {
+          "word": "opportunity,",
+          "start": 113.6,
+          "end": 113.94,
+          "start_frame": 3408,
+          "end_frame": 3418
+        },
+        {
+          "word": "then",
+          "start": 114.32,
+          "end": 114.4,
+          "start_frame": 3430,
+          "end_frame": 3432
+        },
+        {
+          "word": "I",
+          "start": 114.4,
+          "end": 114.6,
+          "start_frame": 3432,
+          "end_frame": 3438
+        },
+        {
+          "word": "will",
+          "start": 114.6,
+          "end": 114.74,
+          "start_frame": 3438,
+          "end_frame": 3442
+        }
+      ]
+    },
+    {
+      "start": 114.74,
+      "end": 120.04,
+      "start_frame": 3442,
+      "end_frame": 3601,
+      "text": "enter when the strategy says yes, this is the time. I have learned in the market that I can always",
+      "words": [
+        {
+          "word": "enter",
+          "start": 114.74,
+          "end": 115.14,
+          "start_frame": 3442,
+          "end_frame": 3454
+        },
+        {
+          "word": "when",
+          "start": 115.14,
+          "end": 115.44,
+          "start_frame": 3454,
+          "end_frame": 3463
+        },
+        {
+          "word": "the",
+          "start": 115.44,
+          "end": 115.6,
+          "start_frame": 3463,
+          "end_frame": 3468
+        },
+        {
+          "word": "strategy",
+          "start": 115.6,
+          "end": 115.9,
+          "start_frame": 3468,
+          "end_frame": 3477
+        },
+        {
+          "word": "says",
+          "start": 115.9,
+          "end": 116.26,
+          "start_frame": 3477,
+          "end_frame": 3488
+        },
+        {
+          "word": "yes,",
+          "start": 116.26,
+          "end": 116.68,
+          "start_frame": 3488,
+          "end_frame": 3500
+        },
+        {
+          "word": "this",
+          "start": 117.0,
+          "end": 117.22,
+          "start_frame": 3510,
+          "end_frame": 3517
+        },
+        {
+          "word": "is",
+          "start": 117.22,
+          "end": 117.34,
+          "start_frame": 3517,
+          "end_frame": 3520
+        },
+        {
+          "word": "the",
+          "start": 117.34,
+          "end": 117.38,
+          "start_frame": 3520,
+          "end_frame": 3521
+        },
+        {
+          "word": "time.",
+          "start": 117.38,
+          "end": 117.64,
+          "start_frame": 3521,
+          "end_frame": 3529
+        },
+        {
+          "word": "I",
+          "start": 117.98,
+          "end": 118.08,
+          "start_frame": 3539,
+          "end_frame": 3542
+        },
+        {
+          "word": "have",
+          "start": 118.08,
+          "end": 118.18,
+          "start_frame": 3542,
+          "end_frame": 3545
+        },
+        {
+          "word": "learned",
+          "start": 118.18,
+          "end": 118.44,
+          "start_frame": 3545,
+          "end_frame": 3553
+        },
+        {
+          "word": "in",
+          "start": 118.44,
+          "end": 118.68,
+          "start_frame": 3553,
+          "end_frame": 3560
+        },
+        {
+          "word": "the",
+          "start": 118.68,
+          "end": 118.74,
+          "start_frame": 3560,
+          "end_frame": 3562
+        },
+        {
+          "word": "market",
+          "start": 118.74,
+          "end": 119.08,
+          "start_frame": 3562,
+          "end_frame": 3572
+        },
+        {
+          "word": "that",
+          "start": 119.08,
+          "end": 119.4,
+          "start_frame": 3572,
+          "end_frame": 3582
+        },
+        {
+          "word": "I",
+          "start": 119.4,
+          "end": 119.54,
+          "start_frame": 3582,
+          "end_frame": 3586
+        },
+        {
+          "word": "can",
+          "start": 119.54,
+          "end": 119.64,
+          "start_frame": 3586,
+          "end_frame": 3589
+        },
+        {
+          "word": "always",
+          "start": 119.64,
+          "end": 120.04,
+          "start_frame": 3589,
+          "end_frame": 3601
+        }
+      ]
+    },
+    {
+      "start": 120.04,
+      "end": 125.62,
+      "start_frame": 3601,
+      "end_frame": 3769,
+      "text": "afford to miss an opportunity, but I refuse to let greed compromise my discipline. If you found",
+      "words": [
+        {
+          "word": "afford",
+          "start": 120.04,
+          "end": 120.48,
+          "start_frame": 3601,
+          "end_frame": 3614
+        },
+        {
+          "word": "to",
+          "start": 120.48,
+          "end": 120.68,
+          "start_frame": 3614,
+          "end_frame": 3620
+        },
+        {
+          "word": "miss",
+          "start": 120.68,
+          "end": 120.88,
+          "start_frame": 3620,
+          "end_frame": 3626
+        },
+        {
+          "word": "an",
+          "start": 120.88,
+          "end": 120.98,
+          "start_frame": 3626,
+          "end_frame": 3629
+        },
+        {
+          "word": "opportunity,",
+          "start": 120.98,
+          "end": 121.52,
+          "start_frame": 3629,
+          "end_frame": 3646
+        },
+        {
+          "word": "but",
+          "start": 121.74,
+          "end": 121.88,
+          "start_frame": 3652,
+          "end_frame": 3656
+        },
+        {
+          "word": "I",
+          "start": 121.88,
+          "end": 122.08,
+          "start_frame": 3656,
+          "end_frame": 3662
+        },
+        {
+          "word": "refuse",
+          "start": 122.08,
+          "end": 122.44,
+          "start_frame": 3662,
+          "end_frame": 3673
+        },
+        {
+          "word": "to",
+          "start": 122.44,
+          "end": 122.84,
+          "start_frame": 3673,
+          "end_frame": 3685
+        },
+        {
+          "word": "let",
+          "start": 122.84,
+          "end": 123.24,
+          "start_frame": 3685,
+          "end_frame": 3697
+        },
+        {
+          "word": "greed",
+          "start": 123.24,
+          "end": 123.76,
+          "start_frame": 3697,
+          "end_frame": 3713
+        },
+        {
+          "word": "compromise",
+          "start": 123.76,
+          "end": 124.3,
+          "start_frame": 3713,
+          "end_frame": 3729
+        },
+        {
+          "word": "my",
+          "start": 124.3,
+          "end": 124.66,
+          "start_frame": 3729,
+          "end_frame": 3740
+        },
+        {
+          "word": "discipline.",
+          "start": 124.66,
+          "end": 125.0,
+          "start_frame": 3740,
+          "end_frame": 3750
+        },
+        {
+          "word": "If",
+          "start": 125.2,
+          "end": 125.26,
+          "start_frame": 3756,
+          "end_frame": 3758
+        },
+        {
+          "word": "you",
+          "start": 125.26,
+          "end": 125.34,
+          "start_frame": 3758,
+          "end_frame": 3760
+        },
+        {
+          "word": "found",
+          "start": 125.34,
+          "end": 125.62,
+          "start_frame": 3760,
+          "end_frame": 3769
+        }
+      ]
+    },
+    {
+      "start": 125.62,
+      "end": 130.64,
+      "start_frame": 3769,
+      "end_frame": 3919,
+      "text": "value in this deep dive, hit the subscribe button which is free of cost and share it to your friend",
+      "words": [
+        {
+          "word": "value",
+          "start": 125.62,
+          "end": 126.1,
+          "start_frame": 3769,
+          "end_frame": 3783
+        },
+        {
+          "word": "in",
+          "start": 126.1,
+          "end": 126.3,
+          "start_frame": 3783,
+          "end_frame": 3789
+        },
+        {
+          "word": "this",
+          "start": 126.3,
+          "end": 126.42,
+          "start_frame": 3789,
+          "end_frame": 3793
+        },
+        {
+          "word": "deep",
+          "start": 126.42,
+          "end": 126.68,
+          "start_frame": 3793,
+          "end_frame": 3800
+        },
+        {
+          "word": "dive,",
+          "start": 126.68,
+          "end": 126.9,
+          "start_frame": 3800,
+          "end_frame": 3807
+        },
+        {
+          "word": "hit",
+          "start": 127.14,
+          "end": 127.28,
+          "start_frame": 3814,
+          "end_frame": 3818
+        },
+        {
+          "word": "the",
+          "start": 127.28,
+          "end": 127.48,
+          "start_frame": 3818,
+          "end_frame": 3824
+        },
+        {
+          "word": "subscribe",
+          "start": 127.48,
+          "end": 127.74,
+          "start_frame": 3824,
+          "end_frame": 3832
+        },
+        {
+          "word": "button",
+          "start": 127.74,
+          "end": 128.1,
+          "start_frame": 3832,
+          "end_frame": 3843
+        },
+        {
+          "word": "which",
+          "start": 128.1,
+          "end": 128.34,
+          "start_frame": 3843,
+          "end_frame": 3850
+        },
+        {
+          "word": "is",
+          "start": 128.34,
+          "end": 128.46,
+          "start_frame": 3850,
+          "end_frame": 3854
+        },
+        {
+          "word": "free",
+          "start": 128.46,
+          "end": 128.66,
+          "start_frame": 3854,
+          "end_frame": 3860
+        },
+        {
+          "word": "of",
+          "start": 128.66,
+          "end": 128.8,
+          "start_frame": 3860,
+          "end_frame": 3864
+        },
+        {
+          "word": "cost",
+          "start": 128.8,
+          "end": 129.16,
+          "start_frame": 3864,
+          "end_frame": 3875
+        },
+        {
+          "word": "and",
+          "start": 129.16,
+          "end": 129.66,
+          "start_frame": 3875,
+          "end_frame": 3890
+        },
+        {
+          "word": "share",
+          "start": 129.66,
+          "end": 130.04,
+          "start_frame": 3890,
+          "end_frame": 3901
+        },
+        {
+          "word": "it",
+          "start": 130.04,
+          "end": 130.18,
+          "start_frame": 3901,
+          "end_frame": 3905
+        },
+        {
+          "word": "to",
+          "start": 130.18,
+          "end": 130.26,
+          "start_frame": 3905,
+          "end_frame": 3908
+        },
+        {
+          "word": "your",
+          "start": 130.26,
+          "end": 130.38,
+          "start_frame": 3908,
+          "end_frame": 3911
+        },
+        {
+          "word": "friend",
+          "start": 130.38,
+          "end": 130.64,
+          "start_frame": 3911,
+          "end_frame": 3919
+        }
+      ]
+    },
+    {
+      "start": 130.64,
+      "end": 135.42,
+      "start_frame": 3919,
+      "end_frame": 4063,
+      "text": "who is actually also investing with you, who is deciding on the GEO IPO and drop your question",
+      "words": [
+        {
+          "word": "who",
+          "start": 130.64,
+          "end": 131.02,
+          "start_frame": 3919,
+          "end_frame": 3931
+        },
+        {
+          "word": "is",
+          "start": 131.02,
+          "end": 131.16,
+          "start_frame": 3931,
+          "end_frame": 3935
+        },
+        {
+          "word": "actually",
+          "start": 131.16,
+          "end": 131.42,
+          "start_frame": 3935,
+          "end_frame": 3943
+        },
+        {
+          "word": "also",
+          "start": 131.42,
+          "end": 131.7,
+          "start_frame": 3943,
+          "end_frame": 3951
+        },
+        {
+          "word": "investing",
+          "start": 131.7,
+          "end": 132.1,
+          "start_frame": 3951,
+          "end_frame": 3963
+        },
+        {
+          "word": "with",
+          "start": 132.1,
+          "end": 132.4,
+          "start_frame": 3963,
+          "end_frame": 3972
+        },
+        {
+          "word": "you,",
+          "start": 132.4,
+          "end": 132.56,
+          "start_frame": 3972,
+          "end_frame": 3977
+        },
+        {
+          "word": "who",
+          "start": 132.66,
+          "end": 132.86,
+          "start_frame": 3980,
+          "end_frame": 3986
+        },
+        {
+          "word": "is",
+          "start": 132.86,
+          "end": 132.98,
+          "start_frame": 3986,
+          "end_frame": 3989
+        },
+        {
+          "word": "deciding",
+          "start": 132.98,
+          "end": 133.3,
+          "start_frame": 3989,
+          "end_frame": 3999
+        },
+        {
+          "word": "on",
+          "start": 133.3,
+          "end": 133.5,
+          "start_frame": 3999,
+          "end_frame": 4005
+        },
+        {
+          "word": "the",
+          "start": 133.5,
+          "end": 133.62,
+          "start_frame": 4005,
+          "end_frame": 4009
+        },
+        {
+          "word": "GEO",
+          "start": 133.62,
+          "end": 133.92,
+          "start_frame": 4009,
+          "end_frame": 4018
+        },
+        {
+          "word": "IPO",
+          "start": 133.92,
+          "end": 134.18,
+          "start_frame": 4018,
+          "end_frame": 4025
+        },
+        {
+          "word": "and",
+          "start": 134.18,
+          "end": 134.72,
+          "start_frame": 4025,
+          "end_frame": 4042
+        },
+        {
+          "word": "drop",
+          "start": 134.72,
+          "end": 134.98,
+          "start_frame": 4042,
+          "end_frame": 4049
+        },
+        {
+          "word": "your",
+          "start": 134.98,
+          "end": 135.14,
+          "start_frame": 4049,
+          "end_frame": 4054
+        },
+        {
+          "word": "question",
+          "start": 135.14,
+          "end": 135.42,
+          "start_frame": 4054,
+          "end_frame": 4063
+        }
+      ]
+    },
+    {
+      "start": 135.42,
+      "end": 139.72,
+      "start_frame": 4063,
+      "end_frame": 4192,
+      "text": "in the comments below. And as always, thanks for your time, thanks for your patience, happy investing.",
+      "words": [
+        {
+          "word": "in",
+          "start": 135.42,
+          "end": 135.6,
+          "start_frame": 4063,
+          "end_frame": 4068
+        },
+        {
+          "word": "the",
+          "start": 135.6,
+          "end": 135.66,
+          "start_frame": 4068,
+          "end_frame": 4070
+        },
+        {
+          "word": "comments",
+          "start": 135.66,
+          "end": 135.9,
+          "start_frame": 4070,
+          "end_frame": 4077
+        },
+        {
+          "word": "below.",
+          "start": 135.9,
+          "end": 136.24,
+          "start_frame": 4077,
+          "end_frame": 4087
+        },
+        {
+          "word": "And",
+          "start": 136.46,
+          "end": 136.54,
+          "start_frame": 4094,
+          "end_frame": 4096
+        },
+        {
+          "word": "as",
+          "start": 136.54,
+          "end": 136.84,
+          "start_frame": 4096,
+          "end_frame": 4105
+        },
+        {
+          "word": "always,",
+          "start": 136.84,
+          "end": 137.16,
+          "start_frame": 4105,
+          "end_frame": 4115
+        },
+        {
+          "word": "thanks",
+          "start": 137.4,
+          "end": 137.56,
+          "start_frame": 4122,
+          "end_frame": 4127
+        },
+        {
+          "word": "for",
+          "start": 137.56,
+          "end": 137.78,
+          "start_frame": 4127,
+          "end_frame": 4133
+        },
+        {
+          "word": "your",
+          "start": 137.78,
+          "end": 137.88,
+          "start_frame": 4133,
+          "end_frame": 4136
+        },
+        {
+          "word": "time,",
+          "start": 137.88,
+          "end": 138.1,
+          "start_frame": 4136,
+          "end_frame": 4143
+        },
+        {
+          "word": "thanks",
+          "start": 138.28,
+          "end": 138.42,
+          "start_frame": 4148,
+          "end_frame": 4153
+        },
+        {
+          "word": "for",
+          "start": 138.42,
+          "end": 138.6,
+          "start_frame": 4153,
+          "end_frame": 4158
+        },
+        {
+          "word": "your",
+          "start": 138.6,
+          "end": 138.7,
+          "start_frame": 4158,
+          "end_frame": 4161
+        },
+        {
+          "word": "patience,",
+          "start": 138.7,
+          "end": 139.04,
+          "start_frame": 4161,
+          "end_frame": 4171
+        },
+        {
+          "word": "happy",
+          "start": 139.26,
+          "end": 139.4,
+          "start_frame": 4178,
+          "end_frame": 4182
+        },
+        {
+          "word": "investing.",
+          "start": 139.4,
+          "end": 139.72,
+          "start_frame": 4182,
+          "end_frame": 4192
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.22,
+      "start_frame": 0,
+      "end_frame": 7
+    },
+    {
+      "word": "that",
+      "start": 0.22,
+      "end": 0.6,
+      "start_frame": 7,
+      "end_frame": 18
+    },
+    {
+      "word": "brings",
+      "start": 0.6,
+      "end": 0.98,
+      "start_frame": 18,
+      "end_frame": 29
+    },
+    {
+      "word": "us",
+      "start": 0.98,
+      "end": 1.32,
+      "start_frame": 29,
+      "end_frame": 40
+    },
+    {
+      "word": "to",
+      "start": 1.32,
+      "end": 1.56,
+      "start_frame": 40,
+      "end_frame": 47
+    },
+    {
+      "word": "the",
+      "start": 1.56,
+      "end": 1.66,
+      "start_frame": 47,
+      "end_frame": 50
+    },
+    {
+      "word": "final",
+      "start": 1.66,
+      "end": 1.96,
+      "start_frame": 50,
+      "end_frame": 59
+    },
+    {
+      "word": "verdict.",
+      "start": 1.96,
+      "end": 2.42,
+      "start_frame": 59,
+      "end_frame": 73
+    },
+    {
+      "word": "Will",
+      "start": 2.92,
+      "end": 3.12,
+      "start_frame": 88,
+      "end_frame": 94
+    },
+    {
+      "word": "I",
+      "start": 3.12,
+      "end": 3.22,
+      "start_frame": 94,
+      "end_frame": 97
+    },
+    {
+      "word": "personally",
+      "start": 3.22,
+      "end": 3.84,
+      "start_frame": 97,
+      "end_frame": 115
+    },
+    {
+      "word": "apply",
+      "start": 3.84,
+      "end": 4.44,
+      "start_frame": 115,
+      "end_frame": 133
+    },
+    {
+      "word": "for",
+      "start": 4.44,
+      "end": 4.68,
+      "start_frame": 133,
+      "end_frame": 140
+    },
+    {
+      "word": "Reliance",
+      "start": 4.68,
+      "end": 5.08,
+      "start_frame": 140,
+      "end_frame": 152
+    },
+    {
+      "word": "Geo",
+      "start": 5.08,
+      "end": 5.5,
+      "start_frame": 152,
+      "end_frame": 165
+    },
+    {
+      "word": "IPO?",
+      "start": 5.5,
+      "end": 5.76,
+      "start_frame": 165,
+      "end_frame": 173
+    },
+    {
+      "word": "The",
+      "start": 6.74,
+      "end": 6.86,
+      "start_frame": 202,
+      "end_frame": 206
+    },
+    {
+      "word": "answer",
+      "start": 6.86,
+      "end": 7.2,
+      "start_frame": 206,
+      "end_frame": 216
+    },
+    {
+      "word": "is",
+      "start": 7.2,
+      "end": 7.46,
+      "start_frame": 216,
+      "end_frame": 224
+    },
+    {
+      "word": "a",
+      "start": 7.46,
+      "end": 7.74,
+      "start_frame": 224,
+      "end_frame": 232
+    },
+    {
+      "word": "simple",
+      "start": 7.74,
+      "end": 8.04,
+      "start_frame": 232,
+      "end_frame": 241
+    },
+    {
+      "word": "no.",
+      "start": 8.04,
+      "end": 8.38,
+      "start_frame": 241,
+      "end_frame": 251
+    },
+    {
+      "word": "Let",
+      "start": 8.64,
+      "end": 8.72,
+      "start_frame": 259,
+      "end_frame": 262
+    },
+    {
+      "word": "me",
+      "start": 8.72,
+      "end": 8.84,
+      "start_frame": 262,
+      "end_frame": 265
+    },
+    {
+      "word": "be",
+      "start": 8.84,
+      "end": 8.96,
+      "start_frame": 265,
+      "end_frame": 269
+    },
+    {
+      "word": "100",
+      "start": 8.96,
+      "end": 9.18,
+      "start_frame": 269,
+      "end_frame": 275
+    },
+    {
+      "word": "%",
+      "start": 9.18,
+      "end": 9.42,
+      "start_frame": 275,
+      "end_frame": 283
+    },
+    {
+      "word": "clear",
+      "start": 9.42,
+      "end": 9.84,
+      "start_frame": 283,
+      "end_frame": 295
+    },
+    {
+      "word": "and",
+      "start": 9.84,
+      "end": 10.22,
+      "start_frame": 295,
+      "end_frame": 307
+    },
+    {
+      "word": "also",
+      "start": 10.22,
+      "end": 10.5,
+      "start_frame": 307,
+      "end_frame": 315
+    },
+    {
+      "word": "honest.",
+      "start": 10.5,
+      "end": 10.9,
+      "start_frame": 315,
+      "end_frame": 327
+    },
+    {
+      "word": "My",
+      "start": 11.4,
+      "end": 11.54,
+      "start_frame": 342,
+      "end_frame": 346
+    },
+    {
+      "word": "decision",
+      "start": 11.54,
+      "end": 11.84,
+      "start_frame": 346,
+      "end_frame": 355
+    },
+    {
+      "word": "not",
+      "start": 11.84,
+      "end": 12.18,
+      "start_frame": 355,
+      "end_frame": 365
+    },
+    {
+      "word": "to",
+      "start": 12.18,
+      "end": 12.38,
+      "start_frame": 365,
+      "end_frame": 371
+    },
+    {
+      "word": "apply",
+      "start": 12.38,
+      "end": 12.68,
+      "start_frame": 371,
+      "end_frame": 380
+    },
+    {
+      "word": "has",
+      "start": 12.68,
+      "end": 12.98,
+      "start_frame": 380,
+      "end_frame": 389
+    },
+    {
+      "word": "nothing",
+      "start": 12.98,
+      "end": 13.48,
+      "start_frame": 389,
+      "end_frame": 404
+    },
+    {
+      "word": "to",
+      "start": 13.48,
+      "end": 13.7,
+      "start_frame": 404,
+      "end_frame": 411
+    },
+    {
+      "word": "do",
+      "start": 13.7,
+      "end": 13.84,
+      "start_frame": 411,
+      "end_frame": 415
+    },
+    {
+      "word": "with",
+      "start": 13.84,
+      "end": 13.98,
+      "start_frame": 415,
+      "end_frame": 419
+    },
+    {
+      "word": "the",
+      "start": 13.98,
+      "end": 14.06,
+      "start_frame": 419,
+      "end_frame": 422
+    },
+    {
+      "word": "quality",
+      "start": 14.06,
+      "end": 14.48,
+      "start_frame": 422,
+      "end_frame": 434
+    },
+    {
+      "word": "of",
+      "start": 14.48,
+      "end": 14.78,
+      "start_frame": 434,
+      "end_frame": 443
+    },
+    {
+      "word": "Geo's",
+      "start": 14.78,
+      "end": 15.18,
+      "start_frame": 443,
+      "end_frame": 455
+    },
+    {
+      "word": "business.",
+      "start": 15.18,
+      "end": 15.5,
+      "start_frame": 455,
+      "end_frame": 465
+    },
+    {
+      "word": "Geo",
+      "start": 15.84,
+      "end": 16.26,
+      "start_frame": 475,
+      "end_frame": 488
+    },
+    {
+      "word": "is",
+      "start": 16.26,
+      "end": 16.42,
+      "start_frame": 488,
+      "end_frame": 493
+    },
+    {
+      "word": "arguably",
+      "start": 16.42,
+      "end": 16.96,
+      "start_frame": 493,
+      "end_frame": 509
+    },
+    {
+      "word": "the",
+      "start": 16.96,
+      "end": 17.18,
+      "start_frame": 509,
+      "end_frame": 515
+    },
+    {
+      "word": "most",
+      "start": 17.18,
+      "end": 17.52,
+      "start_frame": 515,
+      "end_frame": 526
+    },
+    {
+      "word": "dominant,",
+      "start": 17.52,
+      "end": 18.12,
+      "start_frame": 526,
+      "end_frame": 544
+    },
+    {
+      "word": "cash",
+      "start": 18.5,
+      "end": 18.78,
+      "start_frame": 555,
+      "end_frame": 563
+    },
+    {
+      "word": "rich",
+      "start": 18.78,
+      "end": 19.02,
+      "start_frame": 563,
+      "end_frame": 571
+    },
+    {
+      "word": "and",
+      "start": 19.02,
+      "end": 19.24,
+      "start_frame": 571,
+      "end_frame": 577
+    },
+    {
+      "word": "fairly",
+      "start": 19.24,
+      "end": 19.72,
+      "start_frame": 577,
+      "end_frame": 592
+    },
+    {
+      "word": "valued",
+      "start": 19.72,
+      "end": 20.32,
+      "start_frame": 592,
+      "end_frame": 610
+    },
+    {
+      "word": "mega",
+      "start": 20.32,
+      "end": 20.6,
+      "start_frame": 610,
+      "end_frame": 618
+    },
+    {
+      "word": "cap",
+      "start": 20.6,
+      "end": 21.02,
+      "start_frame": 618,
+      "end_frame": 631
+    },
+    {
+      "word": "asset",
+      "start": 21.02,
+      "end": 21.28,
+      "start_frame": 631,
+      "end_frame": 638
+    },
+    {
+      "word": "to",
+      "start": 21.28,
+      "end": 21.68,
+      "start_frame": 638,
+      "end_frame": 650
+    },
+    {
+      "word": "list",
+      "start": 21.68,
+      "end": 21.9,
+      "start_frame": 650,
+      "end_frame": 657
+    },
+    {
+      "word": "in",
+      "start": 21.9,
+      "end": 22.1,
+      "start_frame": 657,
+      "end_frame": 663
+    },
+    {
+      "word": "the",
+      "start": 22.1,
+      "end": 22.2,
+      "start_frame": 663,
+      "end_frame": 666
+    },
+    {
+      "word": "Indian",
+      "start": 22.2,
+      "end": 22.36,
+      "start_frame": 666,
+      "end_frame": 671
+    },
+    {
+      "word": "stock",
+      "start": 22.36,
+      "end": 22.58,
+      "start_frame": 671,
+      "end_frame": 677
+    },
+    {
+      "word": "market",
+      "start": 22.58,
+      "end": 22.98,
+      "start_frame": 677,
+      "end_frame": 689
+    },
+    {
+      "word": "in",
+      "start": 22.98,
+      "end": 23.2,
+      "start_frame": 689,
+      "end_frame": 696
+    },
+    {
+      "word": "last",
+      "start": 23.2,
+      "end": 23.48,
+      "start_frame": 696,
+      "end_frame": 704
+    },
+    {
+      "word": "decade.",
+      "start": 23.48,
+      "end": 23.82,
+      "start_frame": 704,
+      "end_frame": 715
+    },
+    {
+      "word": "If",
+      "start": 24.04,
+      "end": 24.28,
+      "start_frame": 721,
+      "end_frame": 728
+    },
+    {
+      "word": "you",
+      "start": 24.28,
+      "end": 24.58,
+      "start_frame": 728,
+      "end_frame": 737
+    },
+    {
+      "word": "are",
+      "start": 24.58,
+      "end": 24.68,
+      "start_frame": 737,
+      "end_frame": 740
+    },
+    {
+      "word": "an",
+      "start": 24.68,
+      "end": 24.8,
+      "start_frame": 740,
+      "end_frame": 744
+    },
+    {
+      "word": "IPO",
+      "start": 24.8,
+      "end": 25.0,
+      "start_frame": 744,
+      "end_frame": 750
+    },
+    {
+      "word": "investor",
+      "start": 25.0,
+      "end": 25.46,
+      "start_frame": 750,
+      "end_frame": 764
+    },
+    {
+      "word": "who",
+      "start": 25.46,
+      "end": 25.82,
+      "start_frame": 764,
+      "end_frame": 775
+    },
+    {
+      "word": "receives",
+      "start": 25.82,
+      "end": 26.2,
+      "start_frame": 775,
+      "end_frame": 786
+    },
+    {
+      "word": "allotment",
+      "start": 26.2,
+      "end": 26.92,
+      "start_frame": 786,
+      "end_frame": 808
+    },
+    {
+      "word": "through",
+      "start": 26.92,
+      "end": 27.3,
+      "start_frame": 808,
+      "end_frame": 819
+    },
+    {
+      "word": "regular",
+      "start": 27.3,
+      "end": 27.78,
+      "start_frame": 819,
+      "end_frame": 833
+    },
+    {
+      "word": "or",
+      "start": 27.78,
+      "end": 28.22,
+      "start_frame": 833,
+      "end_frame": 847
+    },
+    {
+      "word": "Reliance",
+      "start": 28.22,
+      "end": 28.8,
+      "start_frame": 847,
+      "end_frame": 864
+    },
+    {
+      "word": "shareholder",
+      "start": 28.8,
+      "end": 29.36,
+      "start_frame": 864,
+      "end_frame": 881
+    },
+    {
+      "word": "quota,",
+      "start": 29.36,
+      "end": 29.72,
+      "start_frame": 881,
+      "end_frame": 892
+    },
+    {
+      "word": "holding",
+      "start": 29.72,
+      "end": 30.5,
+      "start_frame": 892,
+      "end_frame": 915
+    },
+    {
+      "word": "this",
+      "start": 30.5,
+      "end": 30.76,
+      "start_frame": 915,
+      "end_frame": 923
+    },
+    {
+      "word": "company",
+      "start": 30.76,
+      "end": 31.16,
+      "start_frame": 923,
+      "end_frame": 935
+    },
+    {
+      "word": "for",
+      "start": 31.16,
+      "end": 31.6,
+      "start_frame": 935,
+      "end_frame": 948
+    },
+    {
+      "word": "next",
+      "start": 31.6,
+      "end": 31.82,
+      "start_frame": 948,
+      "end_frame": 955
+    },
+    {
+      "word": "5",
+      "start": 31.82,
+      "end": 32.14,
+      "start_frame": 955,
+      "end_frame": 964
+    },
+    {
+      "word": "-10",
+      "start": 32.14,
+      "end": 32.56,
+      "start_frame": 964,
+      "end_frame": 977
+    },
+    {
+      "word": "years",
+      "start": 32.56,
+      "end": 32.82,
+      "start_frame": 977,
+      "end_frame": 985
+    },
+    {
+      "word": "as",
+      "start": 32.82,
+      "end": 33.08,
+      "start_frame": 985,
+      "end_frame": 992
+    },
+    {
+      "word": "an",
+      "start": 33.08,
+      "end": 33.22,
+      "start_frame": 992,
+      "end_frame": 997
+    },
+    {
+      "word": "anchor",
+      "start": 33.22,
+      "end": 33.58,
+      "start_frame": 997,
+      "end_frame": 1007
+    },
+    {
+      "word": "compounding",
+      "start": 33.58,
+      "end": 34.28,
+      "start_frame": 1007,
+      "end_frame": 1028
+    },
+    {
+      "word": "asset",
+      "start": 34.28,
+      "end": 34.64,
+      "start_frame": 1028,
+      "end_frame": 1039
+    },
+    {
+      "word": "is",
+      "start": 34.64,
+      "end": 34.94,
+      "start_frame": 1039,
+      "end_frame": 1048
+    },
+    {
+      "word": "entirely",
+      "start": 34.94,
+      "end": 35.6,
+      "start_frame": 1048,
+      "end_frame": 1068
+    },
+    {
+      "word": "a",
+      "start": 35.6,
+      "end": 35.94,
+      "start_frame": 1068,
+      "end_frame": 1078
+    },
+    {
+      "word": "rational",
+      "start": 35.94,
+      "end": 36.18,
+      "start_frame": 1078,
+      "end_frame": 1085
+    },
+    {
+      "word": "choice.",
+      "start": 36.18,
+      "end": 36.72,
+      "start_frame": 1085,
+      "end_frame": 1102
+    },
+    {
+      "word": "However,",
+      "start": 36.94,
+      "end": 37.32,
+      "start_frame": 1108,
+      "end_frame": 1120
+    },
+    {
+      "word": "my",
+      "start": 37.74,
+      "end": 37.86,
+      "start_frame": 1132,
+      "end_frame": 1136
+    },
+    {
+      "word": "personal",
+      "start": 37.86,
+      "end": 38.2,
+      "start_frame": 1136,
+      "end_frame": 1146
+    },
+    {
+      "word": "wealth",
+      "start": 38.2,
+      "end": 38.42,
+      "start_frame": 1146,
+      "end_frame": 1153
+    },
+    {
+      "word": "building",
+      "start": 38.42,
+      "end": 38.7,
+      "start_frame": 1153,
+      "end_frame": 1161
+    },
+    {
+      "word": "framework",
+      "start": 38.7,
+      "end": 39.28,
+      "start_frame": 1161,
+      "end_frame": 1178
+    },
+    {
+      "word": "as",
+      "start": 39.28,
+      "end": 39.5,
+      "start_frame": 1178,
+      "end_frame": 1185
+    },
+    {
+      "word": "always",
+      "start": 39.5,
+      "end": 40.04,
+      "start_frame": 1185,
+      "end_frame": 1201
+    },
+    {
+      "word": "on",
+      "start": 40.04,
+      "end": 40.32,
+      "start_frame": 1201,
+      "end_frame": 1210
+    },
+    {
+      "word": "being",
+      "start": 40.32,
+      "end": 40.54,
+      "start_frame": 1210,
+      "end_frame": 1216
+    },
+    {
+      "word": "not",
+      "start": 40.54,
+      "end": 40.9,
+      "start_frame": 1216,
+      "end_frame": 1227
+    },
+    {
+      "word": "long",
+      "start": 40.9,
+      "end": 41.3,
+      "start_frame": 1227,
+      "end_frame": 1239
+    },
+    {
+      "word": "term,",
+      "start": 41.3,
+      "end": 41.48,
+      "start_frame": 1239,
+      "end_frame": 1244
+    },
+    {
+      "word": "it's",
+      "start": 41.7,
+      "end": 41.76,
+      "start_frame": 1251,
+      "end_frame": 1253
+    },
+    {
+      "word": "a",
+      "start": 41.76,
+      "end": 41.82,
+      "start_frame": 1253,
+      "end_frame": 1255
+    },
+    {
+      "word": "swing",
+      "start": 41.82,
+      "end": 42.02,
+      "start_frame": 1255,
+      "end_frame": 1261
+    },
+    {
+      "word": "trading",
+      "start": 42.02,
+      "end": 42.36,
+      "start_frame": 1261,
+      "end_frame": 1271
+    },
+    {
+      "word": "built",
+      "start": 42.36,
+      "end": 42.94,
+      "start_frame": 1271,
+      "end_frame": 1288
+    },
+    {
+      "word": "on",
+      "start": 42.94,
+      "end": 43.22,
+      "start_frame": 1288,
+      "end_frame": 1297
+    },
+    {
+      "word": "one",
+      "start": 43.22,
+      "end": 43.64,
+      "start_frame": 1297,
+      "end_frame": 1309
+    },
+    {
+      "word": "important",
+      "start": 43.64,
+      "end": 44.22,
+      "start_frame": 1309,
+      "end_frame": 1327
+    },
+    {
+      "word": "condition",
+      "start": 44.22,
+      "end": 44.78,
+      "start_frame": 1327,
+      "end_frame": 1343
+    },
+    {
+      "word": "which",
+      "start": 44.78,
+      "end": 45.0,
+      "start_frame": 1343,
+      "end_frame": 1350
+    },
+    {
+      "word": "is",
+      "start": 45.0,
+      "end": 45.12,
+      "start_frame": 1350,
+      "end_frame": 1354
+    },
+    {
+      "word": "called",
+      "start": 45.12,
+      "end": 45.4,
+      "start_frame": 1354,
+      "end_frame": 1362
+    },
+    {
+      "word": "200DMA.",
+      "start": 45.4,
+      "end": 46.34,
+      "start_frame": 1362,
+      "end_frame": 1390
+    },
+    {
+      "word": "Without",
+      "start": 46.48,
+      "end": 46.64,
+      "start_frame": 1394,
+      "end_frame": 1399
+    },
+    {
+      "word": "seeing",
+      "start": 46.64,
+      "end": 46.96,
+      "start_frame": 1399,
+      "end_frame": 1409
+    },
+    {
+      "word": "200DMA",
+      "start": 46.96,
+      "end": 47.9,
+      "start_frame": 1409,
+      "end_frame": 1437
+    },
+    {
+      "word": "on",
+      "start": 47.9,
+      "end": 48.16,
+      "start_frame": 1437,
+      "end_frame": 1445
+    },
+    {
+      "word": "the",
+      "start": 48.16,
+      "end": 48.28,
+      "start_frame": 1445,
+      "end_frame": 1448
+    },
+    {
+      "word": "chart,",
+      "start": 48.28,
+      "end": 48.6,
+      "start_frame": 1448,
+      "end_frame": 1458
+    },
+    {
+      "word": "I",
+      "start": 48.9,
+      "end": 49.0,
+      "start_frame": 1467,
+      "end_frame": 1470
+    },
+    {
+      "word": "will",
+      "start": 49.0,
+      "end": 49.14,
+      "start_frame": 1470,
+      "end_frame": 1474
+    },
+    {
+      "word": "never",
+      "start": 49.14,
+      "end": 49.4,
+      "start_frame": 1474,
+      "end_frame": 1482
+    },
+    {
+      "word": "take",
+      "start": 49.4,
+      "end": 49.6,
+      "start_frame": 1482,
+      "end_frame": 1488
+    },
+    {
+      "word": "a",
+      "start": 49.6,
+      "end": 49.7,
+      "start_frame": 1488,
+      "end_frame": 1491
+    },
+    {
+      "word": "decision.",
+      "start": 49.7,
+      "end": 49.96,
+      "start_frame": 1491,
+      "end_frame": 1499
+    },
+    {
+      "word": "Let",
+      "start": 50.14,
+      "end": 50.26,
+      "start_frame": 1504,
+      "end_frame": 1508
+    },
+    {
+      "word": "me",
+      "start": 50.26,
+      "end": 50.4,
+      "start_frame": 1508,
+      "end_frame": 1512
+    },
+    {
+      "word": "show",
+      "start": 50.4,
+      "end": 50.58,
+      "start_frame": 1512,
+      "end_frame": 1517
+    },
+    {
+      "word": "you",
+      "start": 50.58,
+      "end": 50.78,
+      "start_frame": 1517,
+      "end_frame": 1523
+    },
+    {
+      "word": "why",
+      "start": 50.78,
+      "end": 51.1,
+      "start_frame": 1523,
+      "end_frame": 1533
+    },
+    {
+      "word": "this",
+      "start": 51.1,
+      "end": 51.38,
+      "start_frame": 1533,
+      "end_frame": 1541
+    },
+    {
+      "word": "rule",
+      "start": 51.38,
+      "end": 51.68,
+      "start_frame": 1541,
+      "end_frame": 1550
+    },
+    {
+      "word": "exists",
+      "start": 51.68,
+      "end": 52.1,
+      "start_frame": 1550,
+      "end_frame": 1563
+    },
+    {
+      "word": "through",
+      "start": 52.1,
+      "end": 52.58,
+      "start_frame": 1563,
+      "end_frame": 1577
+    },
+    {
+      "word": "the",
+      "start": 52.58,
+      "end": 52.86,
+      "start_frame": 1577,
+      "end_frame": 1586
+    },
+    {
+      "word": "real",
+      "start": 52.86,
+      "end": 53.06,
+      "start_frame": 1586,
+      "end_frame": 1592
+    },
+    {
+      "word": "world",
+      "start": 53.06,
+      "end": 53.32,
+      "start_frame": 1592,
+      "end_frame": 1600
+    },
+    {
+      "word": "case",
+      "start": 53.32,
+      "end": 53.62,
+      "start_frame": 1600,
+      "end_frame": 1609
+    },
+    {
+      "word": "study",
+      "start": 53.62,
+      "end": 53.9,
+      "start_frame": 1609,
+      "end_frame": 1617
+    },
+    {
+      "word": "of",
+      "start": 53.9,
+      "end": 54.26,
+      "start_frame": 1617,
+      "end_frame": 1628
+    },
+    {
+      "word": "Zomato.",
+      "start": 54.26,
+      "end": 54.72,
+      "start_frame": 1628,
+      "end_frame": 1642
+    },
+    {
+      "word": "When",
+      "start": 55.0,
+      "end": 55.18,
+      "start_frame": 1650,
+      "end_frame": 1655
+    },
+    {
+      "word": "Zomato",
+      "start": 55.18,
+      "end": 55.64,
+      "start_frame": 1655,
+      "end_frame": 1669
+    },
+    {
+      "word": "launched",
+      "start": 55.64,
+      "end": 56.36,
+      "start_frame": 1669,
+      "end_frame": 1691
+    },
+    {
+      "word": "its",
+      "start": 56.36,
+      "end": 56.56,
+      "start_frame": 1691,
+      "end_frame": 1697
+    },
+    {
+      "word": "IPO",
+      "start": 56.56,
+      "end": 56.92,
+      "start_frame": 1697,
+      "end_frame": 1708
+    },
+    {
+      "word": "in",
+      "start": 56.92,
+      "end": 57.36,
+      "start_frame": 1708,
+      "end_frame": 1721
+    },
+    {
+      "word": "July",
+      "start": 57.36,
+      "end": 57.74,
+      "start_frame": 1721,
+      "end_frame": 1732
+    },
+    {
+      "word": "2021,",
+      "start": 57.74,
+      "end": 58.4,
+      "start_frame": 1732,
+      "end_frame": 1752
+    },
+    {
+      "word": "the",
+      "start": 58.4,
+      "end": 59.02,
+      "start_frame": 1752,
+      "end_frame": 1771
+    },
+    {
+      "word": "exact",
+      "start": 59.02,
+      "end": 59.4,
+      "start_frame": 1771,
+      "end_frame": 1782
+    },
+    {
+      "word": "same",
+      "start": 59.4,
+      "end": 59.74,
+      "start_frame": 1782,
+      "end_frame": 1792
+    },
+    {
+      "word": "media",
+      "start": 59.74,
+      "end": 60.18,
+      "start_frame": 1792,
+      "end_frame": 1805
+    },
+    {
+      "word": "frenzy",
+      "start": 60.18,
+      "end": 60.82,
+      "start_frame": 1805,
+      "end_frame": 1825
+    },
+    {
+      "word": "took",
+      "start": 60.82,
+      "end": 61.0,
+      "start_frame": 1825,
+      "end_frame": 1830
+    },
+    {
+      "word": "place,",
+      "start": 61.0,
+      "end": 61.42,
+      "start_frame": 1830,
+      "end_frame": 1843
+    },
+    {
+      "word": "the",
+      "start": 61.9,
+      "end": 61.92,
+      "start_frame": 1857,
+      "end_frame": 1858
+    },
+    {
+      "word": "stock",
+      "start": 61.92,
+      "end": 62.2,
+      "start_frame": 1858,
+      "end_frame": 1866
+    },
+    {
+      "word": "listed",
+      "start": 62.2,
+      "end": 62.54,
+      "start_frame": 1866,
+      "end_frame": 1876
+    },
+    {
+      "word": "at",
+      "start": 62.54,
+      "end": 62.76,
+      "start_frame": 1876,
+      "end_frame": 1883
+    },
+    {
+      "word": "115",
+      "start": 62.76,
+      "end": 63.18,
+      "start_frame": 1883,
+      "end_frame": 1895
+    },
+    {
+      "word": "and",
+      "start": 63.18,
+      "end": 63.8,
+      "start_frame": 1895,
+      "end_frame": 1914
+    },
+    {
+      "word": "shot",
+      "start": 63.8,
+      "end": 64.2,
+      "start_frame": 1914,
+      "end_frame": 1926
+    },
+    {
+      "word": "up",
+      "start": 64.2,
+      "end": 64.44,
+      "start_frame": 1926,
+      "end_frame": 1933
+    },
+    {
+      "word": "to",
+      "start": 64.44,
+      "end": 64.6,
+      "start_frame": 1933,
+      "end_frame": 1938
+    },
+    {
+      "word": "169,",
+      "start": 64.6,
+      "end": 65.34,
+      "start_frame": 1938,
+      "end_frame": 1960
+    },
+    {
+      "word": "millions",
+      "start": 65.64,
+      "end": 66.04,
+      "start_frame": 1969,
+      "end_frame": 1981
+    },
+    {
+      "word": "of",
+      "start": 66.04,
+      "end": 66.26,
+      "start_frame": 1981,
+      "end_frame": 1988
+    },
+    {
+      "word": "retail",
+      "start": 66.26,
+      "end": 66.44,
+      "start_frame": 1988,
+      "end_frame": 1993
+    },
+    {
+      "word": "investors",
+      "start": 66.44,
+      "end": 66.84,
+      "start_frame": 1993,
+      "end_frame": 2005
+    },
+    {
+      "word": "experienced",
+      "start": 66.84,
+      "end": 67.36,
+      "start_frame": 2005,
+      "end_frame": 2021
+    },
+    {
+      "word": "intense",
+      "start": 67.36,
+      "end": 68.06,
+      "start_frame": 2021,
+      "end_frame": 2042
+    },
+    {
+      "word": "FOMO",
+      "start": 68.06,
+      "end": 68.6,
+      "start_frame": 2042,
+      "end_frame": 2058
+    },
+    {
+      "word": "and",
+      "start": 68.6,
+      "end": 68.82,
+      "start_frame": 2058,
+      "end_frame": 2065
+    },
+    {
+      "word": "bought",
+      "start": 68.82,
+      "end": 69.08,
+      "start_frame": 2065,
+      "end_frame": 2072
+    },
+    {
+      "word": "at",
+      "start": 69.08,
+      "end": 69.32,
+      "start_frame": 2072,
+      "end_frame": 2080
+    },
+    {
+      "word": "the",
+      "start": 69.32,
+      "end": 69.42,
+      "start_frame": 2080,
+      "end_frame": 2083
+    },
+    {
+      "word": "top.",
+      "start": 69.42,
+      "end": 69.7,
+      "start_frame": 2083,
+      "end_frame": 2091
+    },
+    {
+      "word": "Over",
+      "start": 69.9,
+      "end": 70.04,
+      "start_frame": 2097,
+      "end_frame": 2101
+    },
+    {
+      "word": "the",
+      "start": 70.04,
+      "end": 70.14,
+      "start_frame": 2101,
+      "end_frame": 2104
+    },
+    {
+      "word": "next",
+      "start": 70.14,
+      "end": 70.32,
+      "start_frame": 2104,
+      "end_frame": 2110
+    },
+    {
+      "word": "12",
+      "start": 70.32,
+      "end": 70.56,
+      "start_frame": 2110,
+      "end_frame": 2117
+    },
+    {
+      "word": "months,",
+      "start": 70.56,
+      "end": 70.9,
+      "start_frame": 2117,
+      "end_frame": 2127
+    },
+    {
+      "word": "as",
+      "start": 71.24,
+      "end": 71.4,
+      "start_frame": 2137,
+      "end_frame": 2142
+    },
+    {
+      "word": "pre",
+      "start": 71.4,
+      "end": 71.7,
+      "start_frame": 2142,
+      "end_frame": 2151
+    },
+    {
+      "word": "-IPO",
+      "start": 71.7,
+      "end": 72.12,
+      "start_frame": 2151,
+      "end_frame": 2164
+    },
+    {
+      "word": "anchor",
+      "start": 72.12,
+      "end": 72.42,
+      "start_frame": 2164,
+      "end_frame": 2173
+    },
+    {
+      "word": "Loxin",
+      "start": 72.42,
+      "end": 73.02,
+      "start_frame": 2173,
+      "end_frame": 2191
+    },
+    {
+      "word": "expired,",
+      "start": 73.02,
+      "end": 73.52,
+      "start_frame": 2191,
+      "end_frame": 2206
+    },
+    {
+      "word": "the",
+      "start": 74.16,
+      "end": 74.2,
+      "start_frame": 2225,
+      "end_frame": 2226
+    },
+    {
+      "word": "stock",
+      "start": 74.2,
+      "end": 74.48,
+      "start_frame": 2226,
+      "end_frame": 2234
+    },
+    {
+      "word": "violently",
+      "start": 74.48,
+      "end": 75.02,
+      "start_frame": 2234,
+      "end_frame": 2251
+    },
+    {
+      "word": "crashed",
+      "start": 75.02,
+      "end": 75.54,
+      "start_frame": 2251,
+      "end_frame": 2266
+    },
+    {
+      "word": "76",
+      "start": 75.54,
+      "end": 76.24,
+      "start_frame": 2266,
+      "end_frame": 2287
+    },
+    {
+      "word": "%",
+      "start": 76.24,
+      "end": 76.66,
+      "start_frame": 2287,
+      "end_frame": 2300
+    },
+    {
+      "word": "hitting",
+      "start": 76.66,
+      "end": 77.28,
+      "start_frame": 2300,
+      "end_frame": 2318
+    },
+    {
+      "word": "a",
+      "start": 77.28,
+      "end": 77.48,
+      "start_frame": 2318,
+      "end_frame": 2324
+    },
+    {
+      "word": "devastating",
+      "start": 77.48,
+      "end": 77.98,
+      "start_frame": 2324,
+      "end_frame": 2339
+    },
+    {
+      "word": "low",
+      "start": 77.98,
+      "end": 78.4,
+      "start_frame": 2339,
+      "end_frame": 2352
+    },
+    {
+      "word": "of",
+      "start": 78.4,
+      "end": 78.62,
+      "start_frame": 2352,
+      "end_frame": 2359
+    },
+    {
+      "word": "Rs",
+      "start": 78.62,
+      "end": 78.74,
+      "start_frame": 2359,
+      "end_frame": 2362
+    },
+    {
+      "word": "40.",
+      "start": 78.74,
+      "end": 79.0,
+      "start_frame": 2362,
+      "end_frame": 2370
+    },
+    {
+      "word": "Investor",
+      "start": 79.62,
+      "end": 80.28,
+      "start_frame": 2389,
+      "end_frame": 2408
+    },
+    {
+      "word": "who",
+      "start": 80.28,
+      "end": 80.54,
+      "start_frame": 2408,
+      "end_frame": 2416
+    },
+    {
+      "word": "bought",
+      "start": 80.54,
+      "end": 80.78,
+      "start_frame": 2416,
+      "end_frame": 2423
+    },
+    {
+      "word": "at",
+      "start": 80.78,
+      "end": 80.92,
+      "start_frame": 2423,
+      "end_frame": 2428
+    },
+    {
+      "word": "the",
+      "start": 80.92,
+      "end": 81.04,
+      "start_frame": 2428,
+      "end_frame": 2431
+    },
+    {
+      "word": "hype",
+      "start": 81.04,
+      "end": 81.34,
+      "start_frame": 2431,
+      "end_frame": 2440
+    },
+    {
+      "word": "spent",
+      "start": 81.34,
+      "end": 81.76,
+      "start_frame": 2440,
+      "end_frame": 2453
+    },
+    {
+      "word": "a",
+      "start": 81.76,
+      "end": 81.96,
+      "start_frame": 2453,
+      "end_frame": 2459
+    },
+    {
+      "word": "year",
+      "start": 81.96,
+      "end": 82.34,
+      "start_frame": 2459,
+      "end_frame": 2470
+    },
+    {
+      "word": "in",
+      "start": 82.34,
+      "end": 82.66,
+      "start_frame": 2470,
+      "end_frame": 2480
+    },
+    {
+      "word": "sheer",
+      "start": 82.66,
+      "end": 83.06,
+      "start_frame": 2480,
+      "end_frame": 2492
+    },
+    {
+      "word": "panic.",
+      "start": 83.06,
+      "end": 83.58,
+      "start_frame": 2492,
+      "end_frame": 2507
+    },
+    {
+      "word": "Because",
+      "start": 83.58,
+      "end": 83.98,
+      "start_frame": 2507,
+      "end_frame": 2519
+    },
+    {
+      "word": "on",
+      "start": 83.98,
+      "end": 84.18,
+      "start_frame": 2519,
+      "end_frame": 2525
+    },
+    {
+      "word": "listing",
+      "start": 84.18,
+      "end": 84.44,
+      "start_frame": 2525,
+      "end_frame": 2533
+    },
+    {
+      "word": "day,",
+      "start": 84.44,
+      "end": 84.8,
+      "start_frame": 2533,
+      "end_frame": 2544
+    },
+    {
+      "word": "a",
+      "start": 84.88,
+      "end": 84.98,
+      "start_frame": 2546,
+      "end_frame": 2549
+    },
+    {
+      "word": "stock",
+      "start": 84.98,
+      "end": 85.18,
+      "start_frame": 2549,
+      "end_frame": 2555
+    },
+    {
+      "word": "has",
+      "start": 85.18,
+      "end": 85.52,
+      "start_frame": 2555,
+      "end_frame": 2566
+    },
+    {
+      "word": "zero",
+      "start": 85.52,
+      "end": 85.82,
+      "start_frame": 2566,
+      "end_frame": 2575
+    },
+    {
+      "word": "technical",
+      "start": 85.82,
+      "end": 86.16,
+      "start_frame": 2575,
+      "end_frame": 2585
+    },
+    {
+      "word": "history,",
+      "start": 86.16,
+      "end": 86.58,
+      "start_frame": 2585,
+      "end_frame": 2597
+    },
+    {
+      "word": "zero",
+      "start": 86.94,
+      "end": 87.14,
+      "start_frame": 2608,
+      "end_frame": 2614
+    },
+    {
+      "word": "moving",
+      "start": 87.14,
+      "end": 87.44,
+      "start_frame": 2614,
+      "end_frame": 2623
+    },
+    {
+      "word": "averages",
+      "start": 87.44,
+      "end": 87.76,
+      "start_frame": 2623,
+      "end_frame": 2633
+    },
+    {
+      "word": "and",
+      "start": 87.76,
+      "end": 88.16,
+      "start_frame": 2633,
+      "end_frame": 2645
+    },
+    {
+      "word": "zero",
+      "start": 88.16,
+      "end": 88.52,
+      "start_frame": 2645,
+      "end_frame": 2656
+    },
+    {
+      "word": "price",
+      "start": 88.52,
+      "end": 88.96,
+      "start_frame": 2656,
+      "end_frame": 2669
+    },
+    {
+      "word": "discovery.",
+      "start": 88.96,
+      "end": 89.46,
+      "start_frame": 2669,
+      "end_frame": 2684
+    },
+    {
+      "word": "Usually",
+      "start": 89.64,
+      "end": 89.96,
+      "start_frame": 2689,
+      "end_frame": 2699
+    },
+    {
+      "word": "in",
+      "start": 89.96,
+      "end": 90.14,
+      "start_frame": 2699,
+      "end_frame": 2704
+    },
+    {
+      "word": "IPO",
+      "start": 90.14,
+      "end": 90.4,
+      "start_frame": 2704,
+      "end_frame": 2712
+    },
+    {
+      "word": "on",
+      "start": 90.4,
+      "end": 90.78,
+      "start_frame": 2712,
+      "end_frame": 2723
+    },
+    {
+      "word": "the",
+      "start": 90.78,
+      "end": 90.86,
+      "start_frame": 2723,
+      "end_frame": 2726
+    },
+    {
+      "word": "listing",
+      "start": 90.86,
+      "end": 91.06,
+      "start_frame": 2726,
+      "end_frame": 2732
+    },
+    {
+      "word": "day,",
+      "start": 91.06,
+      "end": 91.36,
+      "start_frame": 2732,
+      "end_frame": 2741
+    },
+    {
+      "word": "it",
+      "start": 91.54,
+      "end": 91.54,
+      "start_frame": 2746,
+      "end_frame": 2746
+    },
+    {
+      "word": "is",
+      "start": 91.54,
+      "end": 91.62,
+      "start_frame": 2746,
+      "end_frame": 2749
+    },
+    {
+      "word": "an",
+      "start": 91.62,
+      "end": 91.72,
+      "start_frame": 2749,
+      "end_frame": 2752
+    },
+    {
+      "word": "emotional",
+      "start": 91.72,
+      "end": 92.06,
+      "start_frame": 2752,
+      "end_frame": 2762
+    },
+    {
+      "word": "battle",
+      "start": 92.06,
+      "end": 92.52,
+      "start_frame": 2762,
+      "end_frame": 2776
+    },
+    {
+      "word": "between",
+      "start": 92.52,
+      "end": 92.84,
+      "start_frame": 2776,
+      "end_frame": 2785
+    },
+    {
+      "word": "investment",
+      "start": 92.84,
+      "end": 93.32,
+      "start_frame": 2785,
+      "end_frame": 2800
+    },
+    {
+      "word": "bankers",
+      "start": 93.32,
+      "end": 94.0,
+      "start_frame": 2800,
+      "end_frame": 2820
+    },
+    {
+      "word": "and",
+      "start": 94.0,
+      "end": 94.3,
+      "start_frame": 2820,
+      "end_frame": 2829
+    },
+    {
+      "word": "short",
+      "start": 94.3,
+      "end": 94.7,
+      "start_frame": 2829,
+      "end_frame": 2841
+    },
+    {
+      "word": "term",
+      "start": 94.7,
+      "end": 94.88,
+      "start_frame": 2841,
+      "end_frame": 2846
+    },
+    {
+      "word": "flippers",
+      "start": 94.88,
+      "end": 95.22,
+      "start_frame": 2846,
+      "end_frame": 2857
+    },
+    {
+      "word": "who",
+      "start": 95.22,
+      "end": 95.44,
+      "start_frame": 2857,
+      "end_frame": 2863
+    },
+    {
+      "word": "expect",
+      "start": 95.44,
+      "end": 95.82,
+      "start_frame": 2863,
+      "end_frame": 2875
+    },
+    {
+      "word": "the",
+      "start": 95.82,
+      "end": 96.1,
+      "start_frame": 2875,
+      "end_frame": 2883
+    },
+    {
+      "word": "gamble",
+      "start": 96.1,
+      "end": 96.88,
+      "start_frame": 2883,
+      "end_frame": 2906
+    },
+    {
+      "word": "on",
+      "start": 96.88,
+      "end": 97.18,
+      "start_frame": 2906,
+      "end_frame": 2915
+    },
+    {
+      "word": "listing",
+      "start": 97.18,
+      "end": 97.52,
+      "start_frame": 2915,
+      "end_frame": 2926
+    },
+    {
+      "word": "game.",
+      "start": 97.52,
+      "end": 97.82,
+      "start_frame": 2926,
+      "end_frame": 2935
+    },
+    {
+      "word": "I",
+      "start": 97.9,
+      "end": 98.02,
+      "start_frame": 2937,
+      "end_frame": 2941
+    },
+    {
+      "word": "am",
+      "start": 98.02,
+      "end": 98.06,
+      "start_frame": 2941,
+      "end_frame": 2942
+    },
+    {
+      "word": "completely",
+      "start": 98.06,
+      "end": 98.44,
+      "start_frame": 2942,
+      "end_frame": 2953
+    },
+    {
+      "word": "comfortable",
+      "start": 98.44,
+      "end": 99.04,
+      "start_frame": 2953,
+      "end_frame": 2971
+    },
+    {
+      "word": "letting",
+      "start": 99.04,
+      "end": 99.58,
+      "start_frame": 2971,
+      "end_frame": 2987
+    },
+    {
+      "word": "the",
+      "start": 99.58,
+      "end": 99.82,
+      "start_frame": 2987,
+      "end_frame": 2995
+    },
+    {
+      "word": "great",
+      "start": 99.82,
+      "end": 100.14,
+      "start_frame": 2995,
+      "end_frame": 3004
+    },
+    {
+      "word": "fight",
+      "start": 100.14,
+      "end": 100.56,
+      "start_frame": 3004,
+      "end_frame": 3017
+    },
+    {
+      "word": "and",
+      "start": 100.56,
+      "end": 100.9,
+      "start_frame": 3017,
+      "end_frame": 3027
+    },
+    {
+      "word": "battle",
+      "start": 100.9,
+      "end": 101.3,
+      "start_frame": 3027,
+      "end_frame": 3039
+    },
+    {
+      "word": "and",
+      "start": 101.3,
+      "end": 101.58,
+      "start_frame": 3039,
+      "end_frame": 3047
+    },
+    {
+      "word": "gamble",
+      "start": 101.58,
+      "end": 101.94,
+      "start_frame": 3047,
+      "end_frame": 3058
+    },
+    {
+      "word": "that",
+      "start": 101.94,
+      "end": 102.18,
+      "start_frame": 3058,
+      "end_frame": 3065
+    },
+    {
+      "word": "is",
+      "start": 102.18,
+      "end": 102.28,
+      "start_frame": 3065,
+      "end_frame": 3068
+    },
+    {
+      "word": "going",
+      "start": 102.28,
+      "end": 102.46,
+      "start_frame": 3068,
+      "end_frame": 3074
+    },
+    {
+      "word": "to",
+      "start": 102.46,
+      "end": 102.58,
+      "start_frame": 3074,
+      "end_frame": 3077
+    },
+    {
+      "word": "happen",
+      "start": 102.58,
+      "end": 102.8,
+      "start_frame": 3077,
+      "end_frame": 3084
+    },
+    {
+      "word": "on",
+      "start": 102.8,
+      "end": 102.94,
+      "start_frame": 3084,
+      "end_frame": 3088
+    },
+    {
+      "word": "listing",
+      "start": 102.94,
+      "end": 103.2,
+      "start_frame": 3088,
+      "end_frame": 3096
+    },
+    {
+      "word": "day.",
+      "start": 103.2,
+      "end": 103.52,
+      "start_frame": 3096,
+      "end_frame": 3106
+    },
+    {
+      "word": "I",
+      "start": 103.64,
+      "end": 103.74,
+      "start_frame": 3109,
+      "end_frame": 3112
+    },
+    {
+      "word": "am",
+      "start": 103.74,
+      "end": 103.78,
+      "start_frame": 3112,
+      "end_frame": 3113
+    },
+    {
+      "word": "happy",
+      "start": 103.78,
+      "end": 104.04,
+      "start_frame": 3113,
+      "end_frame": 3121
+    },
+    {
+      "word": "to",
+      "start": 104.04,
+      "end": 104.2,
+      "start_frame": 3121,
+      "end_frame": 3126
+    },
+    {
+      "word": "let",
+      "start": 104.2,
+      "end": 104.44,
+      "start_frame": 3126,
+      "end_frame": 3133
+    },
+    {
+      "word": "the",
+      "start": 104.44,
+      "end": 104.6,
+      "start_frame": 3133,
+      "end_frame": 3138
+    },
+    {
+      "word": "listing",
+      "start": 104.6,
+      "end": 104.82,
+      "start_frame": 3138,
+      "end_frame": 3145
+    },
+    {
+      "word": "pop",
+      "start": 104.82,
+      "end": 105.14,
+      "start_frame": 3145,
+      "end_frame": 3154
+    },
+    {
+      "word": "pass",
+      "start": 105.14,
+      "end": 105.6,
+      "start_frame": 3154,
+      "end_frame": 3168
+    },
+    {
+      "word": "by,",
+      "start": 105.6,
+      "end": 105.8,
+      "start_frame": 3168,
+      "end_frame": 3174
+    },
+    {
+      "word": "let",
+      "start": 106.2,
+      "end": 106.38,
+      "start_frame": 3186,
+      "end_frame": 3191
+    },
+    {
+      "word": "the",
+      "start": 106.38,
+      "end": 106.48,
+      "start_frame": 3191,
+      "end_frame": 3194
+    },
+    {
+      "word": "200DMA",
+      "start": 106.48,
+      "end": 107.1,
+      "start_frame": 3194,
+      "end_frame": 3213
+    },
+    {
+      "word": "come",
+      "start": 107.1,
+      "end": 107.9,
+      "start_frame": 3213,
+      "end_frame": 3237
+    },
+    {
+      "word": "and",
+      "start": 107.9,
+      "end": 108.5,
+      "start_frame": 3237,
+      "end_frame": 3255
+    },
+    {
+      "word": "let",
+      "start": 108.5,
+      "end": 108.9,
+      "start_frame": 3255,
+      "end_frame": 3267
+    },
+    {
+      "word": "me",
+      "start": 108.9,
+      "end": 109.02,
+      "start_frame": 3267,
+      "end_frame": 3271
+    },
+    {
+      "word": "see",
+      "start": 109.02,
+      "end": 109.24,
+      "start_frame": 3271,
+      "end_frame": 3277
+    },
+    {
+      "word": "what",
+      "start": 109.24,
+      "end": 109.72,
+      "start_frame": 3277,
+      "end_frame": 3292
+    },
+    {
+      "word": "are",
+      "start": 109.72,
+      "end": 109.82,
+      "start_frame": 3292,
+      "end_frame": 3295
+    },
+    {
+      "word": "all",
+      "start": 109.82,
+      "end": 109.94,
+      "start_frame": 3295,
+      "end_frame": 3298
+    },
+    {
+      "word": "the",
+      "start": 109.94,
+      "end": 110.04,
+      "start_frame": 3298,
+      "end_frame": 3301
+    },
+    {
+      "word": "strategies",
+      "start": 110.04,
+      "end": 110.42,
+      "start_frame": 3301,
+      "end_frame": 3313
+    },
+    {
+      "word": "that",
+      "start": 110.42,
+      "end": 110.6,
+      "start_frame": 3313,
+      "end_frame": 3318
+    },
+    {
+      "word": "can",
+      "start": 110.6,
+      "end": 110.76,
+      "start_frame": 3318,
+      "end_frame": 3323
+    },
+    {
+      "word": "be",
+      "start": 110.76,
+      "end": 110.88,
+      "start_frame": 3323,
+      "end_frame": 3326
+    },
+    {
+      "word": "applied",
+      "start": 110.88,
+      "end": 111.26,
+      "start_frame": 3326,
+      "end_frame": 3338
+    },
+    {
+      "word": "over",
+      "start": 111.26,
+      "end": 111.66,
+      "start_frame": 3338,
+      "end_frame": 3350
+    },
+    {
+      "word": "the",
+      "start": 111.66,
+      "end": 111.72,
+      "start_frame": 3350,
+      "end_frame": 3352
+    },
+    {
+      "word": "next",
+      "start": 111.72,
+      "end": 111.86,
+      "start_frame": 3352,
+      "end_frame": 3356
+    },
+    {
+      "word": "12",
+      "start": 111.86,
+      "end": 112.08,
+      "start_frame": 3356,
+      "end_frame": 3362
+    },
+    {
+      "word": "months.",
+      "start": 112.08,
+      "end": 112.4,
+      "start_frame": 3362,
+      "end_frame": 3372
+    },
+    {
+      "word": "It",
+      "start": 112.64,
+      "end": 112.72,
+      "start_frame": 3379,
+      "end_frame": 3382
+    },
+    {
+      "word": "will",
+      "start": 112.72,
+      "end": 112.9,
+      "start_frame": 3382,
+      "end_frame": 3387
+    },
+    {
+      "word": "give",
+      "start": 112.9,
+      "end": 113.1,
+      "start_frame": 3387,
+      "end_frame": 3393
+    },
+    {
+      "word": "us",
+      "start": 113.1,
+      "end": 113.22,
+      "start_frame": 3393,
+      "end_frame": 3397
+    },
+    {
+      "word": "again",
+      "start": 113.22,
+      "end": 113.44,
+      "start_frame": 3397,
+      "end_frame": 3403
+    },
+    {
+      "word": "an",
+      "start": 113.44,
+      "end": 113.6,
+      "start_frame": 3403,
+      "end_frame": 3408
+    },
+    {
+      "word": "opportunity,",
+      "start": 113.6,
+      "end": 113.94,
+      "start_frame": 3408,
+      "end_frame": 3418
+    },
+    {
+      "word": "then",
+      "start": 114.32,
+      "end": 114.4,
+      "start_frame": 3430,
+      "end_frame": 3432
+    },
+    {
+      "word": "I",
+      "start": 114.4,
+      "end": 114.6,
+      "start_frame": 3432,
+      "end_frame": 3438
+    },
+    {
+      "word": "will",
+      "start": 114.6,
+      "end": 114.74,
+      "start_frame": 3438,
+      "end_frame": 3442
+    },
+    {
+      "word": "enter",
+      "start": 114.74,
+      "end": 115.14,
+      "start_frame": 3442,
+      "end_frame": 3454
+    },
+    {
+      "word": "when",
+      "start": 115.14,
+      "end": 115.44,
+      "start_frame": 3454,
+      "end_frame": 3463
+    },
+    {
+      "word": "the",
+      "start": 115.44,
+      "end": 115.6,
+      "start_frame": 3463,
+      "end_frame": 3468
+    },
+    {
+      "word": "strategy",
+      "start": 115.6,
+      "end": 115.9,
+      "start_frame": 3468,
+      "end_frame": 3477
+    },
+    {
+      "word": "says",
+      "start": 115.9,
+      "end": 116.26,
+      "start_frame": 3477,
+      "end_frame": 3488
+    },
+    {
+      "word": "yes,",
+      "start": 116.26,
+      "end": 116.68,
+      "start_frame": 3488,
+      "end_frame": 3500
+    },
+    {
+      "word": "this",
+      "start": 117.0,
+      "end": 117.22,
+      "start_frame": 3510,
+      "end_frame": 3517
+    },
+    {
+      "word": "is",
+      "start": 117.22,
+      "end": 117.34,
+      "start_frame": 3517,
+      "end_frame": 3520
+    },
+    {
+      "word": "the",
+      "start": 117.34,
+      "end": 117.38,
+      "start_frame": 3520,
+      "end_frame": 3521
+    },
+    {
+      "word": "time.",
+      "start": 117.38,
+      "end": 117.64,
+      "start_frame": 3521,
+      "end_frame": 3529
+    },
+    {
+      "word": "I",
+      "start": 117.98,
+      "end": 118.08,
+      "start_frame": 3539,
+      "end_frame": 3542
+    },
+    {
+      "word": "have",
+      "start": 118.08,
+      "end": 118.18,
+      "start_frame": 3542,
+      "end_frame": 3545
+    },
+    {
+      "word": "learned",
+      "start": 118.18,
+      "end": 118.44,
+      "start_frame": 3545,
+      "end_frame": 3553
+    },
+    {
+      "word": "in",
+      "start": 118.44,
+      "end": 118.68,
+      "start_frame": 3553,
+      "end_frame": 3560
+    },
+    {
+      "word": "the",
+      "start": 118.68,
+      "end": 118.74,
+      "start_frame": 3560,
+      "end_frame": 3562
+    },
+    {
+      "word": "market",
+      "start": 118.74,
+      "end": 119.08,
+      "start_frame": 3562,
+      "end_frame": 3572
+    },
+    {
+      "word": "that",
+      "start": 119.08,
+      "end": 119.4,
+      "start_frame": 3572,
+      "end_frame": 3582
+    },
+    {
+      "word": "I",
+      "start": 119.4,
+      "end": 119.54,
+      "start_frame": 3582,
+      "end_frame": 3586
+    },
+    {
+      "word": "can",
+      "start": 119.54,
+      "end": 119.64,
+      "start_frame": 3586,
+      "end_frame": 3589
+    },
+    {
+      "word": "always",
+      "start": 119.64,
+      "end": 120.04,
+      "start_frame": 3589,
+      "end_frame": 3601
+    },
+    {
+      "word": "afford",
+      "start": 120.04,
+      "end": 120.48,
+      "start_frame": 3601,
+      "end_frame": 3614
+    },
+    {
+      "word": "to",
+      "start": 120.48,
+      "end": 120.68,
+      "start_frame": 3614,
+      "end_frame": 3620
+    },
+    {
+      "word": "miss",
+      "start": 120.68,
+      "end": 120.88,
+      "start_frame": 3620,
+      "end_frame": 3626
+    },
+    {
+      "word": "an",
+      "start": 120.88,
+      "end": 120.98,
+      "start_frame": 3626,
+      "end_frame": 3629
+    },
+    {
+      "word": "opportunity,",
+      "start": 120.98,
+      "end": 121.52,
+      "start_frame": 3629,
+      "end_frame": 3646
+    },
+    {
+      "word": "but",
+      "start": 121.74,
+      "end": 121.88,
+      "start_frame": 3652,
+      "end_frame": 3656
+    },
+    {
+      "word": "I",
+      "start": 121.88,
+      "end": 122.08,
+      "start_frame": 3656,
+      "end_frame": 3662
+    },
+    {
+      "word": "refuse",
+      "start": 122.08,
+      "end": 122.44,
+      "start_frame": 3662,
+      "end_frame": 3673
+    },
+    {
+      "word": "to",
+      "start": 122.44,
+      "end": 122.84,
+      "start_frame": 3673,
+      "end_frame": 3685
+    },
+    {
+      "word": "let",
+      "start": 122.84,
+      "end": 123.24,
+      "start_frame": 3685,
+      "end_frame": 3697
+    },
+    {
+      "word": "greed",
+      "start": 123.24,
+      "end": 123.76,
+      "start_frame": 3697,
+      "end_frame": 3713
+    },
+    {
+      "word": "compromise",
+      "start": 123.76,
+      "end": 124.3,
+      "start_frame": 3713,
+      "end_frame": 3729
+    },
+    {
+      "word": "my",
+      "start": 124.3,
+      "end": 124.66,
+      "start_frame": 3729,
+      "end_frame": 3740
+    },
+    {
+      "word": "discipline.",
+      "start": 124.66,
+      "end": 125.0,
+      "start_frame": 3740,
+      "end_frame": 3750
+    },
+    {
+      "word": "If",
+      "start": 125.2,
+      "end": 125.26,
+      "start_frame": 3756,
+      "end_frame": 3758
+    },
+    {
+      "word": "you",
+      "start": 125.26,
+      "end": 125.34,
+      "start_frame": 3758,
+      "end_frame": 3760
+    },
+    {
+      "word": "found",
+      "start": 125.34,
+      "end": 125.62,
+      "start_frame": 3760,
+      "end_frame": 3769
+    },
+    {
+      "word": "value",
+      "start": 125.62,
+      "end": 126.1,
+      "start_frame": 3769,
+      "end_frame": 3783
+    },
+    {
+      "word": "in",
+      "start": 126.1,
+      "end": 126.3,
+      "start_frame": 3783,
+      "end_frame": 3789
+    },
+    {
+      "word": "this",
+      "start": 126.3,
+      "end": 126.42,
+      "start_frame": 3789,
+      "end_frame": 3793
+    },
+    {
+      "word": "deep",
+      "start": 126.42,
+      "end": 126.68,
+      "start_frame": 3793,
+      "end_frame": 3800
+    },
+    {
+      "word": "dive,",
+      "start": 126.68,
+      "end": 126.9,
+      "start_frame": 3800,
+      "end_frame": 3807
+    },
+    {
+      "word": "hit",
+      "start": 127.14,
+      "end": 127.28,
+      "start_frame": 3814,
+      "end_frame": 3818
+    },
+    {
+      "word": "the",
+      "start": 127.28,
+      "end": 127.48,
+      "start_frame": 3818,
+      "end_frame": 3824
+    },
+    {
+      "word": "subscribe",
+      "start": 127.48,
+      "end": 127.74,
+      "start_frame": 3824,
+      "end_frame": 3832
+    },
+    {
+      "word": "button",
+      "start": 127.74,
+      "end": 128.1,
+      "start_frame": 3832,
+      "end_frame": 3843
+    },
+    {
+      "word": "which",
+      "start": 128.1,
+      "end": 128.34,
+      "start_frame": 3843,
+      "end_frame": 3850
+    },
+    {
+      "word": "is",
+      "start": 128.34,
+      "end": 128.46,
+      "start_frame": 3850,
+      "end_frame": 3854
+    },
+    {
+      "word": "free",
+      "start": 128.46,
+      "end": 128.66,
+      "start_frame": 3854,
+      "end_frame": 3860
+    },
+    {
+      "word": "of",
+      "start": 128.66,
+      "end": 128.8,
+      "start_frame": 3860,
+      "end_frame": 3864
+    },
+    {
+      "word": "cost",
+      "start": 128.8,
+      "end": 129.16,
+      "start_frame": 3864,
+      "end_frame": 3875
+    },
+    {
+      "word": "and",
+      "start": 129.16,
+      "end": 129.66,
+      "start_frame": 3875,
+      "end_frame": 3890
+    },
+    {
+      "word": "share",
+      "start": 129.66,
+      "end": 130.04,
+      "start_frame": 3890,
+      "end_frame": 3901
+    },
+    {
+      "word": "it",
+      "start": 130.04,
+      "end": 130.18,
+      "start_frame": 3901,
+      "end_frame": 3905
+    },
+    {
+      "word": "to",
+      "start": 130.18,
+      "end": 130.26,
+      "start_frame": 3905,
+      "end_frame": 3908
+    },
+    {
+      "word": "your",
+      "start": 130.26,
+      "end": 130.38,
+      "start_frame": 3908,
+      "end_frame": 3911
+    },
+    {
+      "word": "friend",
+      "start": 130.38,
+      "end": 130.64,
+      "start_frame": 3911,
+      "end_frame": 3919
+    },
+    {
+      "word": "who",
+      "start": 130.64,
+      "end": 131.02,
+      "start_frame": 3919,
+      "end_frame": 3931
+    },
+    {
+      "word": "is",
+      "start": 131.02,
+      "end": 131.16,
+      "start_frame": 3931,
+      "end_frame": 3935
+    },
+    {
+      "word": "actually",
+      "start": 131.16,
+      "end": 131.42,
+      "start_frame": 3935,
+      "end_frame": 3943
+    },
+    {
+      "word": "also",
+      "start": 131.42,
+      "end": 131.7,
+      "start_frame": 3943,
+      "end_frame": 3951
+    },
+    {
+      "word": "investing",
+      "start": 131.7,
+      "end": 132.1,
+      "start_frame": 3951,
+      "end_frame": 3963
+    },
+    {
+      "word": "with",
+      "start": 132.1,
+      "end": 132.4,
+      "start_frame": 3963,
+      "end_frame": 3972
+    },
+    {
+      "word": "you,",
+      "start": 132.4,
+      "end": 132.56,
+      "start_frame": 3972,
+      "end_frame": 3977
+    },
+    {
+      "word": "who",
+      "start": 132.66,
+      "end": 132.86,
+      "start_frame": 3980,
+      "end_frame": 3986
+    },
+    {
+      "word": "is",
+      "start": 132.86,
+      "end": 132.98,
+      "start_frame": 3986,
+      "end_frame": 3989
+    },
+    {
+      "word": "deciding",
+      "start": 132.98,
+      "end": 133.3,
+      "start_frame": 3989,
+      "end_frame": 3999
+    },
+    {
+      "word": "on",
+      "start": 133.3,
+      "end": 133.5,
+      "start_frame": 3999,
+      "end_frame": 4005
+    },
+    {
+      "word": "the",
+      "start": 133.5,
+      "end": 133.62,
+      "start_frame": 4005,
+      "end_frame": 4009
+    },
+    {
+      "word": "GEO",
+      "start": 133.62,
+      "end": 133.92,
+      "start_frame": 4009,
+      "end_frame": 4018
+    },
+    {
+      "word": "IPO",
+      "start": 133.92,
+      "end": 134.18,
+      "start_frame": 4018,
+      "end_frame": 4025
+    },
+    {
+      "word": "and",
+      "start": 134.18,
+      "end": 134.72,
+      "start_frame": 4025,
+      "end_frame": 4042
+    },
+    {
+      "word": "drop",
+      "start": 134.72,
+      "end": 134.98,
+      "start_frame": 4042,
+      "end_frame": 4049
+    },
+    {
+      "word": "your",
+      "start": 134.98,
+      "end": 135.14,
+      "start_frame": 4049,
+      "end_frame": 4054
+    },
+    {
+      "word": "question",
+      "start": 135.14,
+      "end": 135.42,
+      "start_frame": 4054,
+      "end_frame": 4063
+    },
+    {
+      "word": "in",
+      "start": 135.42,
+      "end": 135.6,
+      "start_frame": 4063,
+      "end_frame": 4068
+    },
+    {
+      "word": "the",
+      "start": 135.6,
+      "end": 135.66,
+      "start_frame": 4068,
+      "end_frame": 4070
+    },
+    {
+      "word": "comments",
+      "start": 135.66,
+      "end": 135.9,
+      "start_frame": 4070,
+      "end_frame": 4077
+    },
+    {
+      "word": "below.",
+      "start": 135.9,
+      "end": 136.24,
+      "start_frame": 4077,
+      "end_frame": 4087
+    },
+    {
+      "word": "And",
+      "start": 136.46,
+      "end": 136.54,
+      "start_frame": 4094,
+      "end_frame": 4096
+    },
+    {
+      "word": "as",
+      "start": 136.54,
+      "end": 136.84,
+      "start_frame": 4096,
+      "end_frame": 4105
+    },
+    {
+      "word": "always,",
+      "start": 136.84,
+      "end": 137.16,
+      "start_frame": 4105,
+      "end_frame": 4115
+    },
+    {
+      "word": "thanks",
+      "start": 137.4,
+      "end": 137.56,
+      "start_frame": 4122,
+      "end_frame": 4127
+    },
+    {
+      "word": "for",
+      "start": 137.56,
+      "end": 137.78,
+      "start_frame": 4127,
+      "end_frame": 4133
+    },
+    {
+      "word": "your",
+      "start": 137.78,
+      "end": 137.88,
+      "start_frame": 4133,
+      "end_frame": 4136
+    },
+    {
+      "word": "time,",
+      "start": 137.88,
+      "end": 138.1,
+      "start_frame": 4136,
+      "end_frame": 4143
+    },
+    {
+      "word": "thanks",
+      "start": 138.28,
+      "end": 138.42,
+      "start_frame": 4148,
+      "end_frame": 4153
+    },
+    {
+      "word": "for",
+      "start": 138.42,
+      "end": 138.6,
+      "start_frame": 4153,
+      "end_frame": 4158
+    },
+    {
+      "word": "your",
+      "start": 138.6,
+      "end": 138.7,
+      "start_frame": 4158,
+      "end_frame": 4161
+    },
+    {
+      "word": "patience,",
+      "start": 138.7,
+      "end": 139.04,
+      "start_frame": 4161,
+      "end_frame": 4171
+    },
+    {
+      "word": "happy",
+      "start": 139.26,
+      "end": 139.4,
+      "start_frame": 4178,
+      "end_frame": 4182
+    },
+    {
+      "word": "investing.",
+      "start": 139.4,
+      "end": 139.72,
+      "start_frame": 4182,
+      "end_frame": 4192
+    }
+  ]
+}

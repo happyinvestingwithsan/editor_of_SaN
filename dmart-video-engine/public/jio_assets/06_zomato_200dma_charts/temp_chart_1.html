@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1180px;
+    height: 940px;
+    background-color: #131722;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #D1D4DC;
+    overflow: hidden;
+    position: relative;
+  }
+  .tv-header {
+    height: 52px;
+    background-color: #131722;
+    border-bottom: 1px solid #2A2E39;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    font-size: 13px;
+    gap: 12px;
+  }
+  .tv-ticker { font-weight: 800; font-size: 16px; color: #F0F3FA; display: flex; align-items: center; gap: 6px; }
+  .tv-badge { background: #2A2E39; color: #9CA3AF; font-size: 10px; padding: 2px 6px; border-radius: 4px; font-weight: 700; }
+  .tv-tf { color: #2962FF; font-weight: 700; font-size: 13px; }
+  .tv-ohlc { display: flex; gap: 10px; color: #787B86; font-size: 12px; margin-left: 12px; }
+  .val-up { color: #089981; font-weight: 600; }
+  .val-down { color: #F23645; font-weight: 600; }
+  
+  .tv-toolbar {
+    position: absolute; top: 52px; left: 0; bottom: 0; width: 48px;
+    border-right: 1px solid #2A2E39; display: flex; flex-direction: column;
+    align-items: center; padding-top: 14px; gap: 18px; color: #787B86;
+  }
+  .tv-main {
+    position: absolute; top: 52px; left: 48px; right: 80px; bottom: 36px;
+    overflow: hidden;
+  }
+  .tv-price-axis {
+    position: absolute; top: 52px; right: 0; bottom: 36px; width: 80px;
+    border-left: 1px solid #2A2E39; background: #131722; display: flex;
+    flex-direction: column; justify-content: space-between; padding: 24px 8px;
+    font-size: 12px; font-family: monospace; color: #787B86; text-align: right;
+  }
+  .tv-time-axis {
+    position: absolute; left: 48px; right: 80px; bottom: 0; height: 36px;
+    border-top: 1px solid #2A2E39; background: #131722; display: flex;
+    justify-content: space-between; align-items: center; padding: 0 40px;
+    font-size: 11px; color: #787B86;
+  }
+  .grid-h { position: absolute; left: 0; right: 0; border-bottom: 1px dashed rgba(42, 46, 57, 0.7); }
+  .grid-v { position: absolute; top: 0; bottom: 0; border-right: 1px dashed rgba(42, 46, 57, 0.7); }
+  .watermark {
+    position: absolute; top: 45%; left: 45%; transform: translate(-50%, -50%);
+    font-size: 90px; font-weight: 900; color: rgba(255, 255, 255, 0.03); letter-spacing: 4px; pointer-events: none;
+  }
+</style>
+</head>
+<body>
+  <div class="tv-header">
+    <div class="tv-ticker"><span>ZOMATO</span><span class="tv-badge">NSE</span></div>
+    <div class="tv-tf">1D</div>
+    <div style="color: #9CA3AF; font-weight: 600;">Daily Candlesticks</div>
+    <div class="tv-ohlc">
+      <span>O <span class="val-up">115.00</span></span>
+      <span>H <span class="val-up">169.00</span></span>
+      <span>L <span class="val-down">114.00</span></span>
+      <span>C <span class="val-up">169.00</span></span>
+      <span style="color: #089981; font-weight: 700; margin-left: 8px;">+54.00 (+46.96%)</span>
+    </div>
+  </div>
+  <div class="tv-toolbar">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/></svg>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="21" x2="21" y2="3"/></svg>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/></svg>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7V4h16v3M9 20h6M12 4v16"/></svg>
+  </div>
+  <div class="tv-main">
+    <div class="watermark">ZOMATO 1D</div>
+    <div class="grid-h" style="top: 10%;"></div>
+    <div class="grid-h" style="top: 30%;"></div>
+    <div class="grid-h" style="top: 50%;"></div>
+    <div class="grid-h" style="top: 70%;"></div>
+    <div class="grid-h" style="top: 90%;"></div>
+    
+    <div class="grid-v" style="left: 20%;"></div>
+    <div class="grid-v" style="left: 45%;"></div>
+    <div class="grid-v" style="left: 70%;"></div>
+    <div class="grid-v" style="left: 90%;"></div>
+
+    <svg width="1180" height="940" style="position: absolute; top: -52px; left: -48px;">
+      <line x1="88.0" y1="470.8" x2="88.0" y2="557.2" stroke="#089981" stroke-width="1.5" />
+<rect x="84.0" y="478.0" width="8" height="72.0" fill="#089981" />
+<line x1="106.0" y1="510.0" x2="106.0" y2="561.6" stroke="#089981" stroke-width="1.5" />
+<rect x="102.0" y="521.7" width="8" height="23.2" fill="#089981" />
+<line x1="124.0" y1="516.1" x2="124.0" y2="558.4" stroke="#F23645" stroke-width="1.5" />
+<rect x="120.0" y="521.7" width="8" height="29.4" fill="#F23645" />
+<line x1="142.0" y1="515.2" x2="142.0" y2="575.6" stroke="#089981" stroke-width="1.5" />
+<rect x="138.0" y="520.6" width="8" height="30.6" fill="#089981" />
+<line x1="160.0" y1="515.7" x2="160.0" y2="547.6" stroke="#F23645" stroke-width="1.5" />
+<rect x="156.0" y="520.6" width="8" height="24.8" fill="#F23645" />
+<line x1="178.0" y1="494.2" x2="178.0" y2="557.2" stroke="#089981" stroke-width="1.5" />
+<rect x="174.0" y="503.4" width="8" height="41.9" fill="#089981" />
+<line x1="196.0" y1="487.4" x2="196.0" y2="529.2" stroke="#F23645" stroke-width="1.5" />
+<rect x="192.0" y="503.4" width="8" height="15.6" fill="#F23645" />
+<line x1="214.0" y1="507.3" x2="214.0" y2="526.7" stroke="#089981" stroke-width="1.5" />
+<rect x="210.0" y="518.2" width="8" height="2.0" fill="#089981" />
+<line x1="232.0" y1="495.5" x2="232.0" y2="535.3" stroke="#089981" stroke-width="1.5" />
+<rect x="228.0" y="516.3" width="8" height="2.0" fill="#089981" />
+<line x1="250.0" y1="459.2" x2="250.0" y2="526.2" stroke="#089981" stroke-width="1.5" />
+<rect x="246.0" y="481.4" width="8" height="34.8" fill="#089981" />
+<line x1="268.0" y1="470.8" x2="268.0" y2="499.1" stroke="#F23645" stroke-width="1.5" />
+<rect x="264.0" y="481.4" width="8" height="7.5" fill="#F23645" />
+<line x1="286.0" y1="467.2" x2="286.0" y2="500.6" stroke="#089981" stroke-width="1.5" />
+<rect x="282.0" y="467.3" width="8" height="21.6" fill="#089981" />
+<line x1="304.0" y1="458.4" x2="304.0" y2="467.9" stroke="#089981" stroke-width="1.5" />
+<rect x="300.0" y="467.1" width="8" height="2.0" fill="#089981" />
+<line x1="322.0" y1="451.3" x2="322.0" y2="481.3" stroke="#089981" stroke-width="1.5" />
+<rect x="318.0" y="451.5" width="8" height="15.6" fill="#089981" />
+<line x1="340.0" y1="450.6" x2="340.0" y2="476.8" stroke="#F23645" stroke-width="1.5" />
+<rect x="336.0" y="451.5" width="8" height="20.7" fill="#F23645" />
+<line x1="358.0" y1="465.8" x2="358.0" y2="489.5" stroke="#089981" stroke-width="1.5" />
+<rect x="354.0" y="469.6" width="8" height="2.7" fill="#089981" />
+<line x1="376.0" y1="419.9" x2="376.0" y2="486.0" stroke="#089981" stroke-width="1.5" />
+<rect x="372.0" y="429.1" width="8" height="40.5" fill="#089981" />
+<line x1="394.0" y1="416.5" x2="394.0" y2="456.8" stroke="#F23645" stroke-width="1.5" />
+<rect x="390.0" y="429.1" width="8" height="5.6" fill="#F23645" />
+<line x1="412.0" y1="412.8" x2="412.0" y2="453.2" stroke="#F23645" stroke-width="1.5" />
+<rect x="408.0" y="434.7" width="8" height="2.0" fill="#F23645" />
+<line x1="430.0" y1="409.8" x2="430.0" y2="437.9" stroke="#089981" stroke-width="1.5" />
+<rect x="426.0" y="409.9" width="8" height="25.9" fill="#089981" />
+<line x1="448.0" y1="401.2" x2="448.0" y2="459.4" stroke="#F23645" stroke-width="1.5" />
+<rect x="444.0" y="409.9" width="8" height="25.6" fill="#F23645" />
+<line x1="466.0" y1="364.7" x2="466.0" y2="438.6" stroke="#089981" stroke-width="1.5" />
+<rect x="462.0" y="385.8" width="8" height="49.7" fill="#089981" />
+<line x1="484.0" y1="366.3" x2="484.0" y2="407.6" stroke="#F23645" stroke-width="1.5" />
+<rect x="480.0" y="385.8" width="8" height="2.0" fill="#F23645" />
+<line x1="502.0" y1="372.0" x2="502.0" y2="391.7" stroke="#089981" stroke-width="1.5" />
+<rect x="498.0" y="375.6" width="8" height="11.6" fill="#089981" />
+<line x1="520.0" y1="349.7" x2="520.0" y2="398.1" stroke="#089981" stroke-width="1.5" />
+<rect x="516.0" y="368.3" width="8" height="7.3" fill="#089981" />
+<line x1="538.0" y1="345.9" x2="538.0" y2="382.0" stroke="#F23645" stroke-width="1.5" />
+<rect x="534.0" y="368.3" width="8" height="10.2" fill="#F23645" />
+<line x1="556.0" y1="323.2" x2="556.0" y2="387.0" stroke="#089981" stroke-width="1.5" />
+<rect x="552.0" y="345.5" width="8" height="33.0" fill="#089981" />
+<line x1="574.0" y1="331.6" x2="574.0" y2="400.4" stroke="#F23645" stroke-width="1.5" />
+<rect x="570.0" y="345.5" width="8" height="37.5" fill="#F23645" />
+<line x1="592.0" y1="360.0" x2="592.0" y2="390.0" stroke="#089981" stroke-width="1.5" />
+<rect x="588.0" y="361.4" width="8" height="21.6" fill="#089981" />
+<line x1="610.0" y1="327.9" x2="610.0" y2="385.1" stroke="#089981" stroke-width="1.5" />
+<rect x="606.0" y="330.2" width="8" height="31.2" fill="#089981" />
+<line x1="628.0" y1="325.1" x2="628.0" y2="354.7" stroke="#F23645" stroke-width="1.5" />
+<rect x="624.0" y="330.2" width="8" height="21.6" fill="#F23645" />
+<line x1="646.0" y1="285.0" x2="646.0" y2="359.9" stroke="#089981" stroke-width="1.5" />
+<rect x="642.0" y="307.7" width="8" height="44.2" fill="#089981" />
+<line x1="664.0" y1="291.2" x2="664.0" y2="367.3" stroke="#F23645" stroke-width="1.5" />
+<rect x="660.0" y="307.7" width="8" height="37.3" fill="#F23645" />
+<line x1="682.0" y1="325.8" x2="682.0" y2="366.5" stroke="#089981" stroke-width="1.5" />
+<rect x="678.0" y="341.8" width="8" height="3.2" fill="#089981" />
+<line x1="700.0" y1="297.5" x2="700.0" y2="362.0" stroke="#089981" stroke-width="1.5" />
+<rect x="696.0" y="311.9" width="8" height="29.9" fill="#089981" />
+<line x1="718.0" y1="305.0" x2="718.0" y2="332.2" stroke="#F23645" stroke-width="1.5" />
+<rect x="714.0" y="311.9" width="8" height="3.7" fill="#F23645" />
+<line x1="736.0" y1="278.9" x2="736.0" y2="324.0" stroke="#089981" stroke-width="1.5" />
+<rect x="732.0" y="292.4" width="8" height="23.2" fill="#089981" />
+<line x1="754.0" y1="258.3" x2="754.0" y2="309.5" stroke="#089981" stroke-width="1.5" />
+<rect x="750.0" y="265.6" width="8" height="26.8" fill="#089981" />
+<line x1="772.0" y1="250.2" x2="772.0" y2="266.9" stroke="#089981" stroke-width="1.5" />
+<rect x="768.0" y="260.3" width="8" height="5.3" fill="#089981" />
+<line x1="790.0" y1="258.6" x2="790.0" y2="290.5" stroke="#F23645" stroke-width="1.5" />
+<rect x="786.0" y="260.3" width="8" height="26.5" fill="#F23645" />
+<line x1="808.0" y1="275.8" x2="808.0" y2="296.1" stroke="#089981" stroke-width="1.5" />
+<rect x="804.0" y="284.4" width="8" height="2.4" fill="#089981" />
+<line x1="826.0" y1="243.7" x2="826.0" y2="301.5" stroke="#089981" stroke-width="1.5" />
+<rect x="822.0" y="260.5" width="8" height="23.9" fill="#089981" />
+<line x1="844.0" y1="231.7" x2="844.0" y2="277.2" stroke="#089981" stroke-width="1.5" />
+<rect x="840.0" y="240.9" width="8" height="19.6" fill="#089981" />
+<line x1="862.0" y1="237.2" x2="862.0" y2="254.7" stroke="#089981" stroke-width="1.5" />
+<rect x="858.0" y="240.4" width="8" height="2.0" fill="#089981" />
+<line x1="880.0" y1="223.4" x2="880.0" y2="263.1" stroke="#F23645" stroke-width="1.5" />
+<rect x="876.0" y="240.4" width="8" height="4.2" fill="#F23645" />
+<line x1="898.0" y1="230.0" x2="898.0" y2="256.0" stroke="#089981" stroke-width="1.5" />
+<rect x="894.0" y="241.0" width="8" height="3.6" fill="#089981" />
+<line x1="916.0" y1="229.7" x2="916.0" y2="242.3" stroke="#089981" stroke-width="1.5" />
+<rect x="912.0" y="230.7" width="8" height="10.3" fill="#089981" />
+<line x1="934.0" y1="169.4" x2="934.0" y2="241.7" stroke="#089981" stroke-width="1.5" />
+<rect x="930.0" y="188.1" width="8" height="42.6" fill="#089981" />
+<line x1="952.0" y1="181.3" x2="952.0" y2="214.9" stroke="#F23645" stroke-width="1.5" />
+<rect x="948.0" y="188.1" width="8" height="8.9" fill="#F23645" />
+<line x1="970.0" y1="155.7" x2="970.0" y2="208.7" stroke="#089981" stroke-width="1.5" />
+<rect x="966.0" y="175.2" width="8" height="21.8" fill="#089981" />
+<line x1="988.0" y1="142.8" x2="988.0" y2="176.6" stroke="#089981" stroke-width="1.5" />
+<rect x="984.0" y="166.0" width="8" height="9.2" fill="#089981" />
+<line x1="1006.0" y1="154.6" x2="1006.0" y2="194.2" stroke="#F23645" stroke-width="1.5" />
+<rect x="1002.0" y="166.0" width="8" height="21.3" fill="#F23645" />
+<line x1="1024.0" y1="165.8" x2="1024.0" y2="206.1" stroke="#089981" stroke-width="1.5" />
+<rect x="1020.0" y="169.4" width="8" height="17.9" fill="#089981" />
+<line x1="1042.0" y1="148.2" x2="1042.0" y2="186.9" stroke="#089981" stroke-width="1.5" />
+<rect x="1038.0" y="149.7" width="8" height="19.7" fill="#089981" />
+<line x1="1060.0" y1="157.6" x2="1060.0" y2="197.2" stroke="#089981" stroke-width="1.5" />
+<rect x="1056.0" y="161.2" width="8" height="28.8" fill="#089981" />
+    </svg>
+  </div>
+  <div class="tv-price-axis">
+    <span style="color: #089981; font-weight: 700;">169.00</span>
+    <span>155.00</span>
+    <span>140.00</span>
+    <span>125.00</span>
+    <span style="color: #38BDF8; font-weight: 700;">115.00</span>
+    <span>100.00</span>
+    <span>85.00</span>
+    <span style="color: #9CA3AF;">76.00</span>
+  </div>
+  <div class="tv-time-axis">
+    <span style="font-weight: 700; color: #38BDF8;">23 Jul 2021 (Listed ₹115)</span>
+    <span>Aug 2021</span>
+    <span>Sep 2021</span>
+    <span>Oct 2021</span>
+    <span style="font-weight: 700; color: #089981;">Nov 2021 (Peak ₹169)</span>
+  </div>
+</body>
+</html>

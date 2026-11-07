@@ -1,0 +1,46 @@
+{
+  "channels_analyzed": [
+    "https://www.youtube.com/@INDmoney/shorts",
+    "https://www.youtube.com/@Groww/shorts"
+  ],
+  "sample_size": 96,
+  "key_findings": {
+    "hook_duration_sec": "1.0 - 2.5",
+    "dominant_topics": [
+      "IPO Reviews (Apply or Avoid, GMP, Order Book analysis)",
+      "Stock Drawdowns & Crashes (Why did X drop 20-50%, Opportunity vs Trap)",
+      "Sector Breakouts & Consolidation (AI, Defence, Energy, IT)",
+      "Compounding & Wealth Formulas (SIP vs Lumpsum, PE Ratios, 80% ROE anomalies)",
+      "Regulatory / Market Updates (SEBI circulars, RBI repo rate, IRDAI rules)"
+    ],
+    "visual_devices": [
+      "2.5D Animated Newspaper headlines with translucent yellow highlighter wipe",
+      "Dynamic SVG area/line charts with glowing gradient underfill and leading pulse tracker",
+      "Floating stock ticker badges with live price and green/red percentage pill",
+      "Rubber-stamped verdicts ('APPLY', 'AVOID', 'BUY', 'TRAP')",
+      "Kinetic word-by-word synced captions with color pop and spring bounce",
+      "Split-screen 'VS Battle' comparison cards with green checks and red crosses"
+    ]
+  },
+  "top_indmoney_shorts": [
+    { "id": "4xMBhCVfD6I", "title": "Jio IPO 2026: ₹30,213 Crore IPO! Should You Invest?", "hook_angle": "Mega IPO Dilemma" },
+    { "id": "jmYHmTuxCrE", "title": "Jio IPO vs Airtel: Where Should You Invest?", "hook_angle": "VS Battle" },
+    { "id": "e1xZ6pqL4yM", "title": "SEBI New CAS Rules 2026: What Changed for Investors?", "hook_angle": "Regulatory Alert" },
+    { "id": "raoNs4rYSDk", "title": "YES BANK -18%: what investors need to know…", "hook_angle": "Drawdown Panic Breakdown" },
+    { "id": "vJc_gZwjJGo", "title": "Tonbo Imaging IPO, Defence sector player: Why investors are excited", "hook_angle": "Sector Hype Check" },
+    { "id": "_nXVmDBCtEA", "title": "DMart Share: Sales Up 18%, But Should Investors Worry?", "hook_angle": "Contrarian Risk Warning" },
+    { "id": "hIHdLVnj4-A", "title": "HD Fire Protect IPO Apply Or Avoid? We Read RHP So You Don't Have To!", "hook_angle": "Document Evidence / Authority" },
+    { "id": "ZHe0Wvt_b6Q", "title": "Hexaware Shares Rally 12%+! Anthropic AI Deal a GAME CHANGER?", "hook_angle": "Catalyst / News Break" },
+    { "id": "LiTgpiH0iTg", "title": "Reliance Share Price Falls 26%: Is RIL Stock Cheap Now?", "hook_angle": "Value Hunt / Bluechip Fall" }
+  ],
+  "top_groww_shorts": [
+    { "id": "iz5T2wO1GiE", "title": "A 10x PE Stock That Reported 100% Profit Growth", "hook_angle": "Valuation Anomaly" },
+    { "id": "1Dtxdoo6j80", "title": "3 breakout stocks after long consolidation", "hook_angle": "Actionable Stock Screen" },
+    { "id": "u8VYpyFK86Q", "title": "Cyient DLM crashed 15% : Opportunity or trap?", "hook_angle": "Binary Choice Dilemma" },
+    { "id": "5KF8srY5ccM", "title": "DMart Is Down 43% — But Is It Still Expensive?", "hook_angle": "Contrarian Valuation" },
+    { "id": "dDQKuROXz90", "title": "Why is Colgate down 55% despite 80% ROE?", "hook_angle": "Paradox / Financial Curiosity" },
+    { "id": "bbl5CUWwKi0", "title": "FIIs Are Buying This 63% Down Market Leader", "hook_angle": "Smart Money Following" },
+    { "id": "a0XtJ601nBM", "title": "Why Buy & Hold Doesn’t Always Work: 5 Famous Stocks Explained", "hook_angle": "Myth-busting Principle" },
+    { "id": "DeadYxqP_vs", "title": "Tata Sons IPO: These 10 Stocks Could Benefit?", "hook_angle": "Derivative Beneficiary Play" }
+  ]
+}
